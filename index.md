@@ -2,8 +2,6 @@
 layout: with-twitter
 ---
 
-![RSE logo](img/logo.png)
-
 
 # Nordic Research Software Engineer Group
 
