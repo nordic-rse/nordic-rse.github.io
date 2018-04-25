@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Joining NORDIC RSE
 Joining the RSE Community is easy – just sign up to our
 [mailing list](https://mailman-mail5.webfaction.com/listinfo/nordicrse-discuss).
