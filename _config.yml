@@ -7,3 +7,6 @@ description: >
     awareness for the scientific recognition of research software.
 
 theme: minima
+
+plugins:
+  - jekyll-redirect-from
