@@ -41,7 +41,7 @@ The slack maintainer will will action your request on his next working day.
 
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 
-- K. Thor Wikfeldt, Nordic e-Infrastructure Collaboration and PDC Center for High-Performance Computing, Stockholm 
+- K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm 
 
 We will be happy to have more people joining the core team!
 
