@@ -31,4 +31,19 @@ The slack maintainer will will action your request on his next working day.
 - Use [mailing list](https://mailman-mail5.webfaction.com/listinfo/nordicrse-discuss) (subject to moderation).
 
 ### Contact the organisers
-Email <contact@nordic-rse.org> to get in contact with the NORDIC organisers.
+
+####Members of core team:
+- Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
+
+- Anne Fouilloux, IT Group Department of Geosciences, University of Oslo
+
+- Radek Lonka, RSE at Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
+
+- Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
+
+- K. Thor Wikfeldt, Nordic e-Infrastructure Collaboration and PDC Center for High-Performance Computing, Stockholm 
+
+We will be happy to have more people joining the core team!
+
+
+Email <contact@nordic-rse.org> to get in contact with the NORDIC RSE organisers.
