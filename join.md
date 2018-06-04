@@ -32,7 +32,7 @@ The slack maintainer will will action your request on his next working day.
 
 ### Contact the organisers
 
-####Members of core team:
+#### Members of core team:
 - Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
 
 - Anne Fouilloux, IT Group Department of Geosciences, University of Oslo
