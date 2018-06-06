@@ -24,7 +24,7 @@ involved with the dynamic and friendly Research Software Engineering community:
 #### Join the discussion
 - Take part in discussion in the [NORDIC Slack Group](https://ukrse.slack.com/messages/C2E3187PG).
 To join, please send your name, email, organisation and job title to <contact@nordic-rse.org>
-The slack maintainer will will action your request on his next working day.
+The slack maintainer will action your request on his next working day.
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
 
 #### Announce something to the whole community
