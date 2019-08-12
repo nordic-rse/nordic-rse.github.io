@@ -43,7 +43,7 @@ The slack maintainer will action your request on his next working day.
 
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm 
 
-- Jarno Rantaharju, RSE at Swansea Academy of Advanced Computing, Swansea University, UK
+- Jarno Rantaharju, Researcher at the University of Helsinki
 
 We will be happy to have more people joining the core team!
 
