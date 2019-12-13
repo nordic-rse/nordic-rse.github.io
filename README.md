@@ -1,1 +1,1 @@
-The source code behind http://nordic-rse.org.
+The source code behind https://nordic-rse.org.
