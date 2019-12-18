@@ -10,7 +10,7 @@ software from Nordic universities, research institutes, companies and other
 organizations to share knowledge, to organize meetings, and raise awareness for
 the scientific recognition of research software. This initiative is following
 the international network of other RSE groups at [UK](https://rse.ac.uk),
-[Germany](https://de-rse.org), [Netherlands](https://nl-rse.org/), and
+[Germany](https://de-rse.org), [Netherlands](https://nl-rse.org/), [United States](https://us-rse.org), and
 other countries.
 
 
