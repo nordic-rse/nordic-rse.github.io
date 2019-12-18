@@ -25,7 +25,7 @@ other countries.
   corners of the research world. The more members that we have, the easier it
   will be to raise awareness of the importance of software in research, and the
   vital role RSEs play in creating this software.
-- Find great reading material at [UK RSE](http://www.rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
+- Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
 
 ## What is a Research Software Engineer?
@@ -69,4 +69,4 @@ questions, you are doing the work of a Research Software Engineer:
   through software?
 
 Content of this page is derived from text originally provided courtesy of the
-[UK Research Software Engineer Association](http://rse.ac.uk).
+[UK Research Software Engineer Association](https://rse.ac.uk).
