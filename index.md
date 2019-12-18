@@ -9,8 +9,8 @@ We bring together the community of people writing and contributing to research
 software from Nordic universities, research institutes, companies and other
 organizations to share knowledge, to organize meetings, and raise awareness for
 the scientific recognition of research software. This initiative is following
-the international network of other RSE groups at [UK](http://rse.ac.uk),
-[Germany](http://www.de-rse.org/de), [Netherlands](http://nl-rse.org/), and
+the international network of other RSE groups at [UK](https://rse.ac.uk),
+[Germany](https://de-rse.org), [Netherlands](https://nl-rse.org/), and
 other countries.
 
 
