@@ -10,10 +10,11 @@ Please save these dates. For more precise dates and a precise venue, please see 
 (open call for venue).
 
 
-### Open call for a conference venue
+### Bring the first Nordic RSE conference in your city!
 
-We will very soon send out an open call for a conference venue to host the first
-Nordic-RSE conference. We will share more details here soon.
+We haven’t decided on the location yet and if you would like to bring the first
+Nordic-RSE conference to your city, register your interest through the
+[venue bid](https://forms.gle/cvUvV2KwgWda61Zy8).
 
 
 ### How to subscribe for updates about the conference
