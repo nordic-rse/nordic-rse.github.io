@@ -17,14 +17,7 @@ other countries.
 ### Want to know more?
 
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
-- Join us by subscribing to the [mailing list](https://mailman-mail5.webfaction.com/listinfo/nordicrse-discuss).
-  By joining the community, you will
-  stay in touch with RSEs in the Norway and you can send and receive
-  announcements of events organized by and for RSEs. You will also be informed
-  about our work and will have the chance to contact people like you from all
-  corners of the research world. The more members that we have, the easier it
-  will be to raise awareness of the importance of software in research, and the
-  vital role RSEs play in creating this software.
+- Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
 
