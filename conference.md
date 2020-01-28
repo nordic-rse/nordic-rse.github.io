@@ -14,7 +14,7 @@ Please save these dates. For more precise dates and a precise venue, please see 
 
 We haven’t decided on the location yet and if you would like to bring the first
 Nordic-RSE conference to your city, register your interest through the
-[venue bid](https://forms.gle/cvUvV2KwgWda61Zy8).
+[venue bid](https://indico.neic.no/event/119/surveys/28).
 
 
 ### How to subscribe for updates about the conference
