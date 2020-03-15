@@ -15,8 +15,8 @@ institutes, and in academic departments or in university IT organisations.
 
 If you are organized in such a group please contact us.
 
+
 ## List of RSE groups
 
 * [IEDL](https://iedl.no) - Industrial Ecology Digital Lab at NTNU Trondheim, Norway
 * [NTNU Trondheim RSE Community](http://rse.org.ntnu.no/), Norway
-

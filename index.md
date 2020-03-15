@@ -2,7 +2,6 @@
 layout: with-twitter
 ---
 
-
 # Nordic Research Software Engineer Group
 
 We bring together the community of people writing and contributing to research
