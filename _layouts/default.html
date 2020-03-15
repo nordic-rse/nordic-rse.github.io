@@ -4,19 +4,17 @@
   {% include head.html %}
 
   <body>
-    {% include navbar.html %}
+    <div class="container">
+      {% include navbar.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            {{ content }}
-          </div>
+      <div class="row top-buffer">
+        <div class="col-md-12">
+          {{ content }}
         </div>
       </div>
-      {% include footer.html %}
-    </main>
 
+      {% include footer.html %}
+    </div>
   </body>
 
 </html>
