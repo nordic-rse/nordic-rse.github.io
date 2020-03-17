@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /conference/
 ---
 
 # The first Nordic-RSE conference will take place **October 21-22, 2020, in Stockholm**.
@@ -22,3 +23,10 @@ To reach the conference organizers, please contact
 ### Program committee
 
 We are in the process of setting up a program committee.
+
+
+### Sponsors
+
+We will announce confirmed sponsors soon.
+
+For a call for sponsors and sponsor packages please see our [sponsorship page](/conference/sponsorship/).
