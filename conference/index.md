@@ -32,7 +32,19 @@ To reach the conference organizers, please write to
 
 ### Program committee
 
-We are in the process of setting up a program committee.
+- Anne Claire Fouilloux
+- Emiliano Molinaro
+- Jarno Rantaharju
+- Kjartan Thor Wikfeldt
+- Radek Lonka
+- Radovan Bast
+- Richard Darst
+- Jeremy Cohen
+- Stephan Druskat
+- Carlos Martinez Ortiz
+- Anna Krystalli
+- Diana Iusan
+- William Usher
 
 You can reach the program committee via
 [nordic-rse-pc@neic.no](nordic-rse-pc@neic.no).
