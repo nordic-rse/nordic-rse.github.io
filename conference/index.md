@@ -14,9 +14,19 @@ you about important dates for the Nordic-RSE 2020 conference (registration
 deadlines and dates for presentation and workshop proposals).
 
 
-### How to reach conference organizers
+### Organizing committee
 
-To reach the conference organizers, please contact
+- Anne Claire Fouilloux
+- Emiliano Molinaro
+- Ilja Livenson
+- Jarno Rantaharju
+- Kjartan Thor Wikfeldt
+- Naoe Tatara
+- Radek Lonka
+- Radovan Bast
+- Richard Darst
+
+To reach the conference organizers, please write to
 [nordic-rse-organizers@neic.no](nordic-rse-organizers@neic.no).
 
 
