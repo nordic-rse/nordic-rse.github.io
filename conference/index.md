@@ -34,6 +34,9 @@ To reach the conference organizers, please write to
 
 We are in the process of setting up a program committee.
 
+You can reach the program committee via
+[nordic-rse-pc@neic.no](nordic-rse-pc@neic.no).
+
 
 ### Sponsors
 
