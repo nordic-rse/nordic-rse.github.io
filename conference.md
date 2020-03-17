@@ -2,19 +2,7 @@
 layout: default
 ---
 
-# Nordic-RSE conference 2020
-
-We plan to hold the first Nordic-RSE conference in the **week October 19-23, 2020**.
-This will be a two-day conference, either Tuesday-Wednesday or Wednesday-Thursday.
-Please save these dates. For more precise dates and a precise venue, please see below
-(open call for venue).
-
-
-### Bring the first Nordic RSE conference in your city!
-
-We haven’t decided on the location yet and if you would like to bring the first
-Nordic-RSE conference to your city, register your interest through the
-[venue bid](https://indico.neic.no/event/119/surveys/28).
+# The first Nordic-RSE conference will take place **October 21-22, 2020, in Stockholm**.
 
 
 ### How to subscribe for updates about the conference
