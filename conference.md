@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Nordic-RSE conference 2020
+# Nordic-RSE conference 2020
 
 We plan to hold the first Nordic-RSE conference in the **week October 19-23, 2020**.
 This will be a two-day conference, either Tuesday-Wednesday or Wednesday-Thursday.

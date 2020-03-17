@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Joining Nordic-RSE
+# Joining Nordic-RSE
 
 We will soon make it possible to join a list and to list all members and to
 plot members on a map with links to Twitter, GitHub/GitLab, personal websites,
@@ -23,9 +23,7 @@ Engineering community and influence the decisions that affect us.
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
 
 
-### Contact the organisers
-
-#### Members of core team:
+### Members of core team
 
 - Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
 - Anne Fouilloux, IT Group Department of Geosciences, University of Oslo
