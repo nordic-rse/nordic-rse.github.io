@@ -21,15 +21,15 @@ deadlines and dates for presentation and workshop proposals).
 
 ### Organizing committee
 
-- Anne Claire Fouilloux
-- Emiliano Molinaro
-- Ilja Livenson
-- Jarno Rantaharju
-- Kjartan Thor Wikfeldt
-- Naoe Tatara
-- Radek Lonka
 - Radovan Bast
 - Richard Darst
+- Anne Claire Fouilloux
+- Ilja Livenson
+- Radek Lonka
+- Emiliano Molinaro
+- Jarno Rantaharju
+- Naoe Tatara
+- Kjartan Thor Wikfeldt
 
 To reach the conference organizers, please write to
 [nordic-rse-organizers@neic.no](nordic-rse-organizers@neic.no).
@@ -37,20 +37,20 @@ To reach the conference organizers, please write to
 
 ### Program committee
 
-- Adéla Sobotkova
-- Anne Claire Fouilloux
-- Emiliano Molinaro
-- Jarno Rantaharju
-- Kjartan Thor Wikfeldt
-- Radek Lonka
 - Radovan Bast
-- Richard Darst
 - Jeremy Cohen
+- Richard Darst
 - Stephan Druskat
-- Carlos Martinez Ortiz
-- Anna Krystalli
+- Anne Claire Fouilloux
 - Diana Iusan
+- Anna Krystalli
+- Radek Lonka
+- Emiliano Molinaro
+- Carlos Martinez Ortiz
+- Jarno Rantaharju
+- Adéla Sobotkova
 - William Usher
+- Kjartan Thor Wikfeldt
 
 You can reach the program committee via
 [nordic-rse-pc@neic.no](nordic-rse-pc@neic.no).
