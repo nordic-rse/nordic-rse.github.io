@@ -48,7 +48,7 @@ To reach the conference organizers, please write to
 - Emiliano Molinaro
 - Carlos Martinez Ortiz
 - Jarno Rantaharju
-- Adéla Sobotkova
+- Adéla Sobotková
 - William Usher
 - Kjartan Thor Wikfeldt
 
