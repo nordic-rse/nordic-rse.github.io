@@ -26,14 +26,9 @@ by helping us keep registration fees low through their financial support.
 
 ### Sponsor packages
 
-##### Platinum: 10000 EUR
+##### Gold: 10000 EUR
 
-Details to be announced.
-
-
-##### Gold: 7500 EUR
-
-Details to be announced.
+- Up to negotiation.
 
 
 ##### Silver: 5000 EUR
