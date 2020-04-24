@@ -37,6 +37,7 @@ To reach the conference organizers, please write to
 
 ### Program committee
 
+- Adéla Sobotkova
 - Anne Claire Fouilloux
 - Emiliano Molinaro
 - Jarno Rantaharju
