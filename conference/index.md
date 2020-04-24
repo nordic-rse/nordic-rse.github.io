@@ -3,7 +3,12 @@ layout: default
 permalink: /conference/
 ---
 
-# The first Nordic-RSE conference will take place **October 21-22, 2020, in Stockholm**.
+# The first Nordic-RSE conference will take place **December 1-2, 2020, in Stockholm**.
+
+Initially we have planned for October 21-22, 2020, but due to uncertainties
+around the COVID-19 situation we decided to move the conference to December,
+still Stockholm.  We will of course continue monitoring the situation in the
+coming months.
 
 
 ### How to subscribe for updates about the conference
