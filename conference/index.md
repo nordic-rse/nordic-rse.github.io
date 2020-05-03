@@ -44,7 +44,6 @@ To reach the conference organizers, please write to
 - Anne Claire Fouilloux
 - Diana Iusan
 - Anna Krystalli
-- Radek Lonka
 - Emiliano Molinaro
 - Carlos Martinez Ortiz
 - Jarno Rantaharju
