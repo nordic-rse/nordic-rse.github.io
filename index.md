@@ -45,6 +45,11 @@ know how the world works. The Research Software Engineer works with researchers
 to gain an understanding of the problems they face, and then develops,
 maintains and extends software to provide the answers.
 
+In 2018 we conducted a survey to learn more about people working in
+RSE-related roles in the Nordics. It was disseminated widely via
+national mailing lists and we received results from all Nordic
+countries.  Results and analysis from the survey can be found in [this
+repository](https://github.com/nordic-rse/RSE_intro_survey).
 
 ### Are you a research software engineer?
 
@@ -62,3 +67,4 @@ questions, you are doing the work of a Research Software Engineer:
 
 Content of this page is derived from text originally provided courtesy of the
 [UK Research Software Engineer Association](https://rse.ac.uk).
+
