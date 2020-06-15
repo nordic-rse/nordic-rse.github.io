@@ -31,6 +31,7 @@ Engineering community and influence the decisions that affect us.
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
 - Jarno Rantaharju, Researcher at the University of Helsinki
+- Richard Darst, Aalto Scientific Computing, Aalto University, Helsinki
 
 We will be happy to have more people joining the core team!
 
