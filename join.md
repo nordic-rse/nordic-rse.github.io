@@ -17,7 +17,8 @@ Engineering community and influence the decisions that affect us.
 
 ### Join the discussion
 
-- Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (nordic-rse stream).
+- Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream - join
+  by clicking gear icon by the steams list on the left side).
   This is a public chat and everybody is welcome to join. This is the place where we discuss RSE events in the Nordics
   and you are most welcome to open new "topic" threads, ask questions, and network.
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
