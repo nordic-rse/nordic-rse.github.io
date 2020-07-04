@@ -15,7 +15,7 @@ see below. Everyone with an interest in the topic is warmly welcome to join :)
 
 ### Chat
 
-Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (nordic-rse stream).
+Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (Join the #finland and possibly #nordic-rse streams using the gear icon by the steams list on the left side).
 This is a public chat and everybody is welcome to join. This is the place where we discuss RSE events in the Nordics
 and you are most welcome to open new "topic" threads, ask questions, and network. Here you can also find a finland stream.
 
@@ -29,4 +29,3 @@ Language: according to participants preferences (mostly English)
 Host: Jarno Rantaharju (Dept. of Physics, University of Helsinki)
 
 To participate, xxx
-
