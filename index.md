@@ -1,5 +1,6 @@
 ---
 layout: with-twitter
+permalink: /
 ---
 
 # Nordic research software engineers
