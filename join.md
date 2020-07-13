@@ -27,12 +27,12 @@ Engineering community and influence the decisions that affect us.
 ### Members of core team
 
 - Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
+- Richard Darst, Aalto Scientific Computing, Aalto University, Helsinki
 - Anne Fouilloux, IT Group Department of Geosciences, University of Oslo
 - Radek Lonka, RSE at Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
+- Jarno Rantaharju, Researcher at the University of Helsinki
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
-- Jarno Rantaharju, Researcher at the University of Helsinki
-- Richard Darst, Aalto Scientific Computing, Aalto University, Helsinki
 
 We will be happy to have more people joining the core team!
 
