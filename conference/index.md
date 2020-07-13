@@ -19,40 +19,10 @@ you about important dates for the Nordic-RSE 2020 conference (registration
 deadlines and dates for presentation and workshop proposals).
 
 
-### Organizing committee
+### Organizing and program committees
 
-- Radovan Bast
-- Richard Darst
-- Anne Claire Fouilloux
-- Ilja Livenson
-- Radek Lonka
-- Emiliano Molinaro
-- Jarno Rantaharju
-- Naoe Tatara
-- Kjartan Thor Wikfeldt
-
-To reach the conference organizers, please write to
-[nordic-rse-organizers@neic.no](nordic-rse-organizers@neic.no).
-
-
-### Program committee
-
-- Radovan Bast
-- Jeremy Cohen
-- Richard Darst
-- Stephan Druskat
-- Anne Claire Fouilloux
-- Diana Iusan
-- Anna Krystalli
-- Emiliano Molinaro
-- Carlos Martinez Ortiz
-- Jarno Rantaharju
-- Adéla Sobotková
-- William Usher
-- Kjartan Thor Wikfeldt
-
-You can reach the program committee via
-[nordic-rse-pc@neic.no](nordic-rse-pc@neic.no).
+This event is prepared by a group of enthusiastic [committee members](/conference/committees/).
+We very much appreciate their help and input.
 
 
 ### Sponsors
