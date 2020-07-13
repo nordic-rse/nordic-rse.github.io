@@ -27,3 +27,8 @@ If you are organized in such a group please contact us.
 ### Community map
 
 * Please add yourself or your group [here](/map/)
+
+
+### International RSE Groups
+
+- <https://rse.ac.uk/community/international-rse-groups/>
