@@ -3,7 +3,7 @@ layout: default
 permalink: /finland/
 ---
 
-## RSE activities in Finland
+# RSE activities in Finland
 
 The RSE Finland group is an active segment of Nordics-RSE.  Members come from
 all corners of the Finnish scientific landscape and we are trying to help
@@ -14,9 +14,10 @@ To discuss matters concerning upcoming workshops in Finland, and also to get to
 know each other better, we organize a **weekly virtual coffee break**, see
 below. Everyone with an interest in the topic is warmly welcome to join :)
 
+
 ## Join the discussions
 
-### Chat
+#### Chat
 
 Discuss with other RSEs on the [CodeRefinery
 chat](https://coderefinery.zulipchat.com) (Join the #finland and possibly
@@ -26,7 +27,8 @@ we discuss RSE events in the Nordics and you are most welcome to open new
 "topic" threads, ask questions, and network. Here you can also find a finland
 stream.
 
-### Weekly virtual coffee break
+
+#### Weekly virtual coffee break
 
 The RSE Finland group invites all interested in research software engineering
 to the weekly online coffee break at **10 o'clock every Thursday**.  The coffee
