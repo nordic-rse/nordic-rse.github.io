@@ -2,17 +2,13 @@
 layout: default
 ---
 
-# Joining Nordic-RSE
-
-We will soon make it possible to join a list and to list all members and to
-plot members on a map with links to Twitter, GitHub/GitLab, personal websites,
-and projects.
+# Join us!
 
 By joining the community, you will stay informed about our work
 and will have the chance to contact people like you from all
 corners of the research world. The more members that we have,
-the easier it will be to prove the impact of the Research Software
-Engineering community and influence the decisions that affect us.
+the easier it will be to prove the impact of the research software
+engineering community and influence the decisions that affect us.
 
 
 ### Join the discussion
