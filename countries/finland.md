@@ -8,7 +8,7 @@ The RSE Finland group is an active segment of Nordics-RSE.
 Members come from all corners of the Finnish scientific landscape and we are trying to help Researchers and others developing software
  for research by offering workshops and a platform for information exchange in Finland.
 
-To discuss matters concerning upcoming workshops in Finland, and also to get to know each other better, we organize a **weekly virtual coffee break**, 
+To discuss matters concerning upcoming workshops in Finland, and also to get to know each other better, we organize a **weekly virtual coffee break**,
 see below. Everyone with an interest in the topic is warmly welcome to join :)
 
 ## Join the discussions
