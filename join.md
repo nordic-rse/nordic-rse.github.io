@@ -34,6 +34,5 @@ Engineering community and influence the decisions that affect us.
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
 
-We will be happy to have more people joining the core team!
-
-Email <contact@nordic-rse.org> to get in contact with the NORDIC RSE organisers.
+We will be happy to have more people joining the core team!  You can get in
+contact with us on the CodeRefinery chat (#nordic-rse stream).
