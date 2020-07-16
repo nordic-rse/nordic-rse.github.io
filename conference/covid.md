@@ -10,7 +10,8 @@ participants who travel to the event.
 
 We will be closely monitoring the COVID-19 situation in Sweden and other
 countries so that we can decide whether this event can take place in person
-December 1-2, 2020.
+December 1-2, 2020. We will not just consider if we *are allowed to* host
+this conference, but if it is *responsible* to host it.
 
 Below we share our timeline to decide whether this event can take place.
 
