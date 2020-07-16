@@ -30,4 +30,4 @@ have questions or suggestions about this aspect.
 
 - All registrants will be notified by email
 - We will reimburse registration payments
-- We will postpone the event to 2021 (at this point we are not planning an online substitute)
+- We will postpone the event to 2021 (at this point we are not planning an online substitute, but our online community-building, including smaller meetings, will continue regardless)
