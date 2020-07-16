@@ -31,7 +31,9 @@ When planning this conference we have the following "personas" in mind:
       - Learn about best software practices in their domain
 - **PIs/administrators who can improve their institution's research quality**
     - Their goals:
-      - Learn how to organize their research staff to do research better
+      - Learn how RSEs can complement their existing staff
+      - Learn how to nurture a collaborative, educational computational culture
+      -  Improve the quality and efficiency of their research
     - Their interests:
       - Learn about best practices in other groups and institutions
       - Come back prepared to improve their own group/institution
