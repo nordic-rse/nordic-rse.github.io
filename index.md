@@ -30,37 +30,28 @@ States](https://us-rse.org), and other countries.
 
 A growing number of people in academia combine expertise in programming with an
 intricate understanding of research. Although this combination of skills is
-extremely valuable, RSEs often lack a formal place in the academic system.
-This means there is no easy way to recognize their contribution, to reward
-them, or to represent their views. Without a name, it is difficult for people
-to rally around a cause, so the term Research Software Engineer was created. We
-are now working to raise awareness of the role and bring the community
-together.
+extremely valuable, RSEs often lack a formal place in the academic
+system: they produce less papers than a researcher, their code is less
+formal than a software developers', and career recognition is
+correspondingly low.  The term "Research Software Engineer" to attempt
+to recognize and promote these people, and the [advantages to being a
+RSE are similar to being a
+researcher](https://www.software.ac.uk/blog/2013-08-23-ten-reasons-be-research-software-engineer).
+A RSE will almost always closely work within researcher.
 
-Some research software engineers start as researchers who spend time
-developing software to progress their research. Because they enjoy this work
-and have invested in developing specialist skills, they continue to focus on
-software and its use in research. Others start off from a more conventional
-software-development background and are drawn to research by the challenge of
-using software to further research.
+There are two typical types of RSEs:
+* Researchers who tend more towards the tech side, and not primarily
+  interested in jobs which depend on numbers of publications.
+* Software developers who like the challenge and freedom of the
+  research environment.
 
-The [attraction of being a research software
-engineer](https://www.software.ac.uk/blog/2013-08-23-ten-reasons-be-research-software-engineer)
-is similar to that of being a researcher: the role attracts people who want to
-know how the world works. Research software engineers work with researchers
-to gain an understanding of the problems they face, and then develop,
-maintain and extend software to provide the answers.
-
-In 2018 we conducted a survey to learn more about people working in
-RSE-related roles in the Nordics. It was disseminated widely via
-national mailing lists and we received results from all Nordic
-countries. Results and analysis from the survey can be found in [this
-repository](https://github.com/nordic-rse/RSE_intro_survey).
+You can read more about RSEs demographics in the Nordics in [our 2018
+survey](https://github.com/nordic-rse/RSE_intro_survey).
 
 
 ### Are you a research software engineer?
 
-Regardless of your formal job title, if you answer yes to many of the following
+Most research software engineers don't have that as their job title.  If you answer yes to many of the following
 questions, you are doing the work of a research software engineer:
 
 - Are you employed to develop software for research?
