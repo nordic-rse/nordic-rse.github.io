@@ -4,7 +4,7 @@ layout: default
 
 # COVID-19 decision timeline
 
-We in the [organizing committee](/conference/committees/) are and will be very
+We in the [organizing committee](/conference/team/) are and will be very
 careful about minimizing health risk for all participants and those affected by
 participants who travel to the event.
 
