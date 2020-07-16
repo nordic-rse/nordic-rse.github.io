@@ -49,6 +49,17 @@ You can read more about RSEs demographics in the Nordics in [our 2018
 survey](https://github.com/nordic-rse/RSE_intro_survey).
 
 
+### What do we do?
+
+We are still just beginning - if you have ideas for activities we
+should organize, get in touch.
+
+* Provide a community and professional development network for RSEs
+* Organize Nordic-RSE conference every two years
+* Periodic community chats
+* Assistance in starting RSE groups
+
+
 ### Are you a research software engineer?
 
 Most research software engineers don't have that as their job title.  If you answer yes to many of the following
