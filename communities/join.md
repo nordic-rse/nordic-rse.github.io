@@ -10,17 +10,34 @@ corners of the research world. The more members that we have,
 the easier it will be to prove the impact of the research software
 engineering community and influence the decisions that affect us.
 
-
-### Join the discussion
-
-- Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream - join
-  by clicking gear icon by the steams list on the left side).
-  This is a public chat and everybody is welcome to join. This is the place where we discuss RSE events in the Nordics
-  and you are most welcome to open new "topic" threads, ask questions, and network.
-- Follow us on [Twitter](https://twitter.com/nordic_rse).
+We are currently very informally organized.  If you want to do
+something in our name, propose it on chat and plan it openly.  (We
+would be happy to have someone lead some sort of periodic
+talks/discussions, for example).
 
 
-### Members of core team
+### Nordic-RSE chat
+
+Our primary discussion is via the [CodeRefinery
+chat](https://coderefinery.zulipchat.com) (#nordic-rse stream - join
+by clicking gear icon by the steams list on the left side).  This is a
+joint community of CodeRefinery (teaching), NordicHPC
+(infrastructure), and Nordic-RSE (usage).
+
+This is a public chat and everybody is welcome to join. Here, we
+discuss RSE activities Nordics and you are most welcome to open new
+"topic" threads, ask questions, and network.
+
+### Follow us
+
+- Follow us on [Twitter (nordic_rse)](https://twitter.com/nordic_rse).
+- We will add an announcement email list soon.
+
+
+### Active public members
+
+The following people are active members, and can provide more
+information about our activities.
 
 - Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
 - Richard Darst, Aalto Scientific Computing, Aalto University, Helsinki
@@ -30,5 +47,6 @@ engineering community and influence the decisions that affect us.
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
 
-We will be happy to have more people joining the core team!  You can get in
-contact with us on the CodeRefinery chat (#nordic-rse stream).
+If you want to be listed here, please send a pull request.  You can
+get in contact with us on the CodeRefinery chat (#nordic-rse stream,
+see above).
