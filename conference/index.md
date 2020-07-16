@@ -11,6 +11,31 @@ still Stockholm.  We will of course continue monitoring the situation in the
 coming months.
 
 
+## Why attending the conference and why getting involved?
+
+When planning this conference we have the following "personas" in mind:
+
+- **People who spend a significant portion of their time programming**
+    - These are "classic" RSEs
+    - Their goals:
+      - Get recognized for their work
+    - Their interests:
+      - Best practices
+      - Future career possibilities
+      - Collaboration opportunities
+- **People with research focus who spend one or two hours per week programming**
+    - Their goals:
+      - More efficient research
+    - Their interests:
+      - Solve immediate problems
+      - Learn about their domain
+- **PIs/administrators who can improve their institution's research quality**
+    - Their goals:
+      - Learn how to organize their research staff to do research better
+    - Their interests:
+      - Learn about lessons learned from other groups and institutions
+
+
 ### How to subscribe for updates about the conference
 
 You can [subscribe here](https://neic.no/mailman/listinfo/nordic-rse-announcements) for updates about the conference.
