@@ -5,13 +5,18 @@ permalink: /
 
 # Nordic research software engineers
 
-We bring together the community of people writing and contributing to research
-software from Nordic universities, research institutes, companies and other
-organizations to share knowledge, to organize meetings, and raise awareness for
-the scientific recognition of research software. This initiative is following
-the international network of other RSE groups at [UK](https://rse.ac.uk),
-[Germany](https://de-rse.org), [Netherlands](https://nl-rse.org/), [United States](https://us-rse.org), and
-other countries.
+A **research software engineer** is someone involved in research, but
+more focused on the computational skills than publications.
+**Nordic-RSE** is the network of these people in the Nordics.  We
+currently focus on building a network of RSEs and highlighting their
+importance in academic.  For RSEs or people who might want to be one,
+we offer opportunities for professional development and career
+advancement.
+
+We are modeled on similar international networks in the
+[UK](https://rse.ac.uk), [Germany](https://de-rse.org),
+[Netherlands](https://nl-rse.org/), [United
+States](https://us-rse.org), and other countries.
 
 
 ### Want to know more?
