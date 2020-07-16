@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Nordic-RSE conference committees
+# Nordic-RSE conference team
 
 
 ### Organizing committee

@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /finland/
 ---
 
 # RSE activities in Finland

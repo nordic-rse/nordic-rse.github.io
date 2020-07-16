@@ -49,7 +49,7 @@ deadlines and dates for presentation and workshop proposals).
 
 ### Organizing and program committees
 
-This event is prepared by a group of enthusiastic [committee members](/conference/committees/).
+This event is prepared by a group of enthusiastic [committee members](/conference/team/).
 We very much appreciate their help and input.
 
 
