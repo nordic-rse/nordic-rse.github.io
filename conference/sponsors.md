@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /conference/sponsorship/
+permalink: /conference/sponsors/
 ---
 
 # Call for sponsors

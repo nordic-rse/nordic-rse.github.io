@@ -54,4 +54,4 @@ We very much appreciate their help and input.
 
 We will announce confirmed sponsors soon.
 
-For a call for sponsors and sponsor packages please see our [sponsorship page](/conference/sponsorship/).
+For a call for sponsors and sponsor packages please see our [sponsorship page](/conference/sponsors/).
