@@ -28,7 +28,7 @@ When planning this conference we have the following "personas" in mind:
       - More efficient research
     - Their interests:
       - Solve immediate problems
-      - Learn about their domain
+      - Learn about best software practices in their domain
 - **PIs/administrators who can improve their institution's research quality**
     - Their goals:
       - Learn how to organize their research staff to do research better
