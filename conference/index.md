@@ -33,7 +33,8 @@ When planning this conference we have the following "personas" in mind:
     - Their goals:
       - Learn how to organize their research staff to do research better
     - Their interests:
-      - Learn about lessons learned from other groups and institutions
+      - Learn about best practices in other groups and institutions
+      - Come back prepared to improve their own group/institution
 
 
 ### How to subscribe for updates about the conference
