@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /conference/committees/
 ---
 
 # Nordic-RSE conference committees
