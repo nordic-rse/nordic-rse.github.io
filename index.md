@@ -62,6 +62,7 @@ questions, you are doing the work of a research software engineer:
 - Do you lack the metrics needed to progress your academic career, like papers
   and conference presentations, despite having made a significant contribution
   through software?
+- Are you unsure what your next career step should be?
 
 Content of this page is derived from text originally provided courtesy of the
 [UK Research Software Engineer Association](https://rse.ac.uk).
