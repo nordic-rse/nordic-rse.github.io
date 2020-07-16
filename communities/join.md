@@ -32,6 +32,7 @@ discuss RSE activities Nordics and you are most welcome to open new
 
 - Follow us on [Twitter (nordic_rse)](https://twitter.com/nordic_rse).
 - We will add an announcement email list soon.
+- Add yourself to the [RSE map](/map/).
 
 
 ### Active public members
