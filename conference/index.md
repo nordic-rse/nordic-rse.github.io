@@ -73,6 +73,16 @@ When planning this conference we have the following "personas" in mind:
 </table>
 
 
+### What will the program be like?
+
+We plan 3 plenary talks ("What is an RSE?", community building and values, and
+research and/or industry perspective), a panel group session where national and regional RSE
+groups present and can answer questions, lightning talks, shorter contributed
+talks, as well as workshops about tools, training, community building, career
+development, and more. For more details, please see the [tentative schedule
+page](/conference/schedule/).
+
+
 ### How to subscribe for updates about the conference
 
 You can [subscribe here](https://neic.no/mailman/listinfo/nordic-rse-announcements) for updates about the conference.
