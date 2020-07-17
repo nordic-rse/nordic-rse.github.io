@@ -42,8 +42,11 @@ A RSE will almost always closely work within researcher.
 There are two typical types of RSEs:
 * Researchers who tend more towards the tech side, and not primarily
   interested in jobs which depend on numbers of publications.
-* Software developers who like the challenge and freedom of the
-  research environment.
+  Typically titled "postdoc", "graduate student", "staff scientist",
+  or some such.
+* Tech staff/software developers who like the challenge and freedom of the
+  research environment.  Typically titled "Application specialist", "IT
+  support", "laboratory manager", "programmer", "senior engineer", or some such.
 
 You can read more about RSEs demographics in the Nordics in [our 2018
 survey](https://github.com/nordic-rse/RSE_intro_survey).
