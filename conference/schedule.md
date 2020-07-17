@@ -52,7 +52,7 @@ layout: default
     </tr>
     <tr>
       <td>15:30 - 17:00</td>
-      <td>Workshops / parallel Sessions (2 larger, 3 smaller)</td>
+      <td>Workshops / parallel sessions (2 larger, 3 smaller)</td>
     </tr>
     <tr>
       <td>19:00 - ?</td>
