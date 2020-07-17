@@ -15,28 +15,42 @@ coming months.
 
 When planning this conference we have the following "personas" in mind:
 
-- **People who spend a significant portion of their time programming**
-    - These are "classic" RSEs
-    - Their goals:
-      - Get recognized for their work
-    - Their interests:
-      - Best practices
-      - Future career possibilities
-      - Collaboration opportunities
-- **People with research focus who spend one or two hours per week programming**
-    - Their goals:
-      - More efficient research
-    - Their interests:
-      - Solve immediate problems
-      - Learn about best software practices in their domain
-- **PIs/administrators who can improve their institution's research quality**
-    - Their goals:
-      - Learn how RSEs can complement their existing staff
-      - Learn how to nurture a collaborative, educational computational culture
-      -  Improve the quality and efficiency of their research
-    - Their interests:
-      - Learn about best practices in other groups and institutions
-      - Come back prepared to improve their own group/institution
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Persona</th>
+      <th scope="col">Their goals</th>
+      <th scope="col">Their interests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">People who spend a significant portion
+                      of their time programming
+                      (these are "classic" RSEs)</th>
+      <td>- Get recognized for their work</td>
+      <td>- Best practices <br>
+          - Future career possibilities <br>
+          - Collaboration opportunities</td>
+    </tr>
+    <tr>
+      <th scope="row">People with research focus who spend
+                      one or two hours per week programming</th>
+      <td>- More efficient research</td>
+      <td>- Solve immediate problems <br>
+          - Learn about best software practices in their domain</td>
+    </tr>
+    <tr>
+      <th scope="row">PIs/administrators who can improve
+                      their institution's research quality</th>
+      <td>- Learn how RSEs can complement their existing staff <br>
+          - Learn how to nurture a collaborative, educational computational culture <br>
+          - Improve the quality and efficiency of their research</td>
+      <td>- Learn about best practices in other groups and institutions <br>
+          - Come back prepared to improve their own group/institution</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### How to subscribe for updates about the conference
