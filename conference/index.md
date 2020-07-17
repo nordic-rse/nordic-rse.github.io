@@ -13,13 +13,13 @@ coming months.
 
 ## Venue
 
-The venue is the **student union building "Nymble"** in Drottning Kristinas väg 15,
+The venue is the **student union building "Nymble"** at Drottning Kristinas väg 15,
 Stockholm. This venue has sufficient capacity for 200 people, one large room
 and several smaller rooms.  It is located on KTH campus, offers good open
 informal areas for mingling during coffee breaks, not a "sterile" conference
 venue but has an atmosphere.
 
-- [Location on OpenStreetMap](https://www.openstreetmap.org/#map=19/59.34737/18.07111)
+- [Location on OpenStreetMap](https://www.openstreetmap.org/?mlat=59.34727&mlon=18.07057#map=19/59.34727/18.07057)
 - [Map of rooms](https://ths.kth.se/en/general/nymble-osqvik/maps)
 - [Homepage of the student union](https://ths.kth.se/en/general/nymble-osqvik)
 
