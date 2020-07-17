@@ -45,7 +45,7 @@ have questions or suggestions about this aspect.
       <td>Call for talks and workshops opens</td>
     </tr>
     <tr>
-      <th scope="row">2020-09-01</th>
+      <td>2020-09-01</td>
       <td>We publish an update here whether we are still "go" for an in-person event</td>
     </tr>
     <tr>
@@ -57,15 +57,15 @@ have questions or suggestions about this aspect.
       <td>Call for talks and workshops closes</td>
     </tr>
     <tr>
-      <th scope="row">2020-10-01</th>
+      <td>2020-10-01</td>
       <td>We publish a second update whether we plan an in-person event</td>
     </tr>
     <tr>
-      <th scope="row">2020-10-15</th>
+      <td>2020-10-15</td>
       <td>Organizing committee decides about continue or postpone</td>
     </tr>
     <tr>
-      <th scope="row">2020-10-15</th>
+      <td>2020-10-15</td>
       <td>Notification of acceptance of abstracts</td>
     </tr>
     <tr>
@@ -77,11 +77,11 @@ have questions or suggestions about this aspect.
       <td>Registration closes</td>
     </tr>
     <tr>
-      <th scope="row">2020-10-31</th>
+      <td>2020-10-31</td>
       <td>Final go/no-go (last possible decision to postpone the conference without venue costs for us)</td>
     </tr>
     <tr>
-      <th scope="row">2020-12-01</th>
+      <td>2020-12-01</td>
       <td>Conference opens</td>
     </tr>
   </tbody>
