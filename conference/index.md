@@ -11,14 +11,14 @@ still Stockholm.  We will of course continue monitoring the situation in the
 coming months.
 
 
-## Schedule
+### Schedule
 
 We start Tuesday, December 1, 9:15 (registration starts 8:30)
 and close Wednesday, December 2, 16:45. For more details, please see the
 [tentative schedule page](/conference/schedule/).
 
 
-## Venue
+### Venue
 
 The venue is the **student union building "Nymble"** at Drottning Kristinas väg 15,
 Stockholm. This venue has sufficient capacity for 200 people, one large room
@@ -31,7 +31,7 @@ venue but has an atmosphere.
 - [Homepage of the student union](https://ths.kth.se/en/general/nymble-osqvik)
 
 
-## Why attending the conference and why getting involved?
+### Why attending the conference and why getting involved?
 
 When planning this conference we have the following "personas" in mind:
 
