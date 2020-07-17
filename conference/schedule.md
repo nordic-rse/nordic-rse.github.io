@@ -88,7 +88,7 @@ layout: default
     </tr>
     <tr>
       <td>13:30 - 15:00</td>
-      <td>Workshops / parallel Sessions (2 larger, 3 smaller)</td>
+      <td>Workshops / parallel sessions (2 larger, 3 smaller)</td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
