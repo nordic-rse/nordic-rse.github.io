@@ -11,6 +11,13 @@ still Stockholm.  We will of course continue monitoring the situation in the
 coming months.
 
 
+## Schedule
+
+We start Tuesday, December 1, 9:15 (registration starts 8:30)
+and close Wednesday, December 2, 16:45. For more details, please see the
+[tentative schedule page](/conference/schedule/).
+
+
 ## Venue
 
 The venue is the **student union building "Nymble"** at Drottning Kristinas väg 15,
