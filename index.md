@@ -46,7 +46,7 @@ There are two typical types of RSEs:
   or some such.
 * Tech staff/software developers who like the challenge and freedom of the
   research environment.  Typically titled "Application specialist", "IT
-  support", "laboratory manager", "programmer", or some such.
+  support", "laboratory manager", "programmer", "senior engineer", or some such.
 
 You can read more about RSEs demographics in the Nordics in [our 2018
 survey](https://github.com/nordic-rse/RSE_intro_survey).
