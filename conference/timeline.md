@@ -40,20 +40,20 @@ have questions or suggestions about this aspect.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th scope="row">2020-07-27</th>
+    <tr class="table-primary">
+      <td>2020-07-27</td>
       <td>Call for talks and workshops opens</td>
     </tr>
     <tr>
       <td>2020-09-01</td>
       <td>We publish an update here whether we are still "go" for an in-person event</td>
     </tr>
-    <tr>
-      <th scope="row">2020-09-01</th>
+    <tr class="table-primary">
+      <td>2020-09-01</td>
       <td>Registration opens</td>
     </tr>
-    <tr>
-      <th scope="row">2020-09-15</th>
+    <tr class="table-primary">
+      <td>2020-09-15</td>
       <td>Call for talks and workshops closes</td>
     </tr>
     <tr>
@@ -68,12 +68,12 @@ have questions or suggestions about this aspect.
       <td>2020-10-15</td>
       <td>Notification of acceptance of abstracts</td>
     </tr>
-    <tr>
-      <th scope="row">2020-10-15</th>
+    <tr class="table-primary">
+      <td>2020-10-15</td>
       <td>Early-bird registration closes</td>
     </tr>
-    <tr>
-      <th scope="row">2020-10-31</th>
+    <tr class="table-primary">
+      <td>2020-10-31</td>
       <td>Registration closes</td>
     </tr>
     <tr>
