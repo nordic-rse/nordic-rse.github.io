@@ -2,15 +2,18 @@
 layout: default
 ---
 
-# RSE community in Nordic countries
+# RSE groups in Nordic countries
 
 Research software engineering groups provide a home for research programmers
 who collaborate with researchers on multiple research projects.
+Typically, a group of RSEs contract out their work to different people
+who need it, but we are also interested in groups with significant
+internal RSE work.
 
-With the goal create a network of RSEs across Nordic countries we are
-interested in listing RSE groups, teams, and local research organizations
-communities.  They may be based in universities or in national labs or research
-institutes, and in academic departments or in university IT organisations.
+To create a Nordic network of RSEs, we are
+interested in listing RSE groups, teams, and local communities.  They
+may be based in (for example) universities, national labs, research
+institutes, academic departments, or university IT organisations.
 
 If you are organized in such a group please contact us.
 
@@ -23,10 +26,9 @@ If you are organized in such a group please contact us.
 * [RSE Finland](/communities/finland/)
 
 
-
 ### Community map
 
-* Please add yourself or your group [here](/map/)
+* Please add yourself or your group [here](/map/).
 
 
 ### International RSE Groups
