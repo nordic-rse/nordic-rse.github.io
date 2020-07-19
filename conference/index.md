@@ -58,7 +58,8 @@ When planning this conference we have the following "personas" in mind:
     </tr>
     <tr>
       <th scope="row">PIs/administrators who can improve
-                      their institution's research quality</th>
+                      their group's/institution's research quality
+					  (or those who need to pitch to them)</th>
       <td>- Learn how RSEs can complement their existing staff <br>
           - Learn how to nurture a collaborative, educational computational culture <br>
           - Improve the quality and efficiency of their research</td>
