@@ -31,7 +31,9 @@ States](https://us-rse.org), and other countries.
 A growing number of people in academia **combine expertise in programming with an
 intricate understanding of research**. Although this combination of skills is
 extremely valuable, RSEs often lack a formal place in the academic
-system: they may produce less papers than a researcher, their code is less
+system: they may produce fewer first-author papers than a researcher,
+and they may contribute to many papers and not appear in them!
+Their code is less
 formal than a software developers', and career recognition is
 correspondingly low.  The term "Research Software Engineer" is an attempt
 to recognize and promote these people, and the [advantages to being a
