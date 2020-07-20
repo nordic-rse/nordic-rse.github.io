@@ -9,7 +9,7 @@ A **research software engineer** is someone involved in research, but
 more focused on the computational skills than publications.
 **Nordic-RSE** is the network of these people in the Nordics.  We
 currently focus on building a network of RSEs and highlighting their
-importance in academic.  For RSEs or people who might want to be one,
+importance in the academic system.  For RSEs or people who might want to be one,
 we offer opportunities for professional development and career
 advancement.
 
@@ -28,16 +28,19 @@ States](https://us-rse.org), and other countries.
 
 ### What is a research software engineer?
 
-A growing number of people in academia combine expertise in programming with an
-intricate understanding of research. Although this combination of skills is
+A growing number of people in academia **combine expertise in programming with an
+intricate understanding of research**. Although this combination of skills is
 extremely valuable, RSEs often lack a formal place in the academic
-system: they produce less papers than a researcher, their code is less
+system: they may produce fewer first-author papers than a researcher,
+and they may contribute to many papers and not appear as a
+author beyond a minor acknowledgement, if that!
+Their code is less
 formal than a software developers', and career recognition is
-correspondingly low.  The term "Research Software Engineer" to attempt
+correspondingly low.  The term "Research Software Engineer" is an attempt
 to recognize and promote these people, and the [advantages to being a
 RSE are similar to being a
 researcher](https://www.software.ac.uk/blog/2013-08-23-ten-reasons-be-research-software-engineer).
-A RSE will almost always closely work within researcher.
+RSEs will almost always closely work with researchers.
 
 There are two typical types of RSEs:
 * Researchers who tend more towards the tech side, and not primarily
@@ -45,7 +48,7 @@ There are two typical types of RSEs:
   Typically titled "postdoc", "graduate student", "staff scientist",
   or some such.
 * Tech staff/software developers who like the challenge and freedom of the
-  research environment.  Typically titled "Application specialist", "IT
+  research environment.  Typically titled "application specialist", "IT
   support", "laboratory manager", "programmer", "senior engineer", or some such.
 
 You can read more about RSEs demographics in the Nordics in [our 2018
@@ -54,13 +57,13 @@ survey](https://github.com/nordic-rse/RSE_intro_survey).
 
 ### What do we do?
 
-We are still just beginning - if you have ideas for activities we
-should organize, get in touch.
-
 * Provide a community and professional development network for RSEs
 * Organize Nordic-RSE conference every two years
 * Periodic community chats
 * Assistance in starting RSE groups
+
+We are still just beginning - if you have ideas for activities we
+should organize, get in touch.
 
 
 ### Are you a research software engineer?
