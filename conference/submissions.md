@@ -18,7 +18,31 @@ conference but urge you not to make any travel bookings that are non-refundable
 at this stage ([COVID-19 decision timeline](/conference/timeline/)).
 
 
-### Types of proposals
+### Call for proposals
+
+Are you interested in research software and computational science? Do you
+prioritize the sustainability and reproducibility of research outputs? Do you
+build software to support research? Do you work as part of a team alongside
+people who build research software? Maybe you already have an official role as
+a Research Software Engineer (RSE) within your organisation or perhaps you are
+a researcher or academic? 
+
+Whatever your interest or involvement in the world of research software, the
+1st Nordic RSE Conference, which takes place on the 1st-2nd December 2020 in
+Stockholm, Sweden has something to offer you. Why not consider submitting an
+abstract for a presentation, poster or mini-workshop session to Nordic-RSE
+2020?
+
+In common with the many regional and national research software engineering
+workshops and conferences that have started to take place in recent years,
+Nordic RSE will be different to regular academic conferences. 
+
+We are a friendly, diverse and welcoming community of technical and research
+professionals and the conference will provide attendees with a great
+opportunity to meet and network with peers, learn new skills and participate in
+a range of seminar and discussion sessions. Whether you’re a regular conference
+attendee or have never been to a conference before, Nordic-RSE 2020 has
+something to offer you.
 
 We welcome any type of proposal for this conference.  This is the
 first Nordic-RSE meeting, so we especially welcome a variety of event
