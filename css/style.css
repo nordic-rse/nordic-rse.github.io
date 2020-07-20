@@ -38,3 +38,13 @@ p {
     display: inline-block;
     float:none;
 }
+
+blockquote {
+  border-left: .25em solid #dfe2e5;
+  color: #808080;
+  padding: 0 1em;
+}
+
+blockquote p {
+  color: #808080;
+}
