@@ -4,6 +4,22 @@ layout: default
 
 # Submit a proposal
 
+
+### COVID-19 statement
+
+The organisers hope to be able to proceed with running
+the Nordic-RSE conference, as planned, in Stockholm on December 1-2.
+However, with the ongoing COVID-19 situation, we are aware that this relies on
+there being a continuing improvement in the situation over the coming months.
+It is also likely that social distancing measures will have some effect on our
+plans for the conference and full details will be advised nearer to the
+conference. We encourage you to go ahead with making a submission to the
+conference but urge you not to make any travel bookings that are non-refundable
+at this stage ([COVID-19 decision timeline](/conference/timeline/)).
+
+
+### Types of proposals
+
 We welcome any type of proposal for this conference.  This is the
 first Nordic-RSE meeting, so we especially welcome a variety of event
 types which promote engagement and community building, and are target
