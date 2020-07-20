@@ -63,15 +63,19 @@ We don't have pre-determined tracks, but we propose that the following
 themes would be interesting to attendees.  Also, consider the types of
 attendees we expect on the [front page](/conference/).
 
-- Tools and training for computational researchers and RSEs.  Stuff
-  that people should learn.  It doesn't have to be solely directed at
-  people who consider themselves RSEs.
-- How to run a RSE group.  How to hire RSEs.
-- RSE career tracks in the Nordics.
-- Information to funders and administrators to support RSE programs.
-- Community impact and engagement.
-- Teaching and training.
-- Infrastructure.
+- Research software case studies - challenges, successes and lessons learned
+- Best practices in developing research software
+- Tools and training for computational researchers and RSEs
+  (stuff that people should learn, it doesn't have to be solely directed at
+  people who consider themselves RSEs)
+- How to run a RSE group, how to hire RSEs
+- Research software communities in the Nordic region
+- RSE career tracks in the Nordics
+- Information to funders and administrators to support RSE programs
+- Community impact and engagement
+- Developing and delivering technical training materials
+- Infrastructure
+- Deploying and managing continuous integration/deployment (CI/CD) environments
 
 Please don't feel limited to classic lectures - we will consider any
 kind of event, such as discussions, networking sessions, hackthons,
