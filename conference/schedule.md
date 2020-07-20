@@ -9,7 +9,7 @@ layout: default
     We are still working on refining the schedule so this is not final but we
     thought it would be useful to share what we have so far.
   We will adapt to any interesting ideas that are proposed, so please
-  discuss with us or submit your interesting ideas as events. 
+  discuss with us or submit your interesting ideas as events.
   </p>
 </div>
 
