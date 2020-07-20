@@ -5,19 +5,6 @@ layout: default
 # Submit a proposal
 
 
-### COVID-19 statement
-
-The organisers hope to be able to proceed with running
-the Nordic-RSE conference, as planned, in Stockholm on December 1-2.
-However, with the ongoing COVID-19 situation, we are aware that this relies on
-there being a continuing improvement in the situation over the coming months.
-It is also likely that social distancing measures will have some effect on our
-plans for the conference and full details will be advised nearer to the
-conference. We encourage you to go ahead with making a submission to the
-conference but urge you not to make any travel bookings that are non-refundable
-at this stage ([COVID-19 decision timeline](/conference/timeline/)).
-
-
 ### Call for proposals
 
 Are you interested in research software and computational science? Do you
@@ -43,6 +30,19 @@ opportunity to meet and network with peers, learn new skills and participate in
 a range of seminar and discussion sessions. Whether you’re a regular conference
 attendee or have never been to a conference before, Nordic-RSE 2020 has
 something to offer you.
+
+
+### COVID-19 statement
+
+The organisers hope to be able to proceed with running
+the Nordic-RSE conference, as planned, in Stockholm on December 1-2.
+However, with the ongoing COVID-19 situation, we are aware that this relies on
+there being a continuing improvement in the situation over the coming months.
+It is also likely that social distancing measures will have some effect on our
+plans for the conference and full details will be advised nearer to the
+conference. We encourage you to go ahead with making a submission to the
+conference but urge you not to make any travel bookings that are non-refundable
+at this stage ([COVID-19 decision timeline](/conference/timeline/)).
 
 
 ### Proposal types
