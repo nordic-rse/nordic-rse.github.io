@@ -39,11 +39,14 @@ would be glad to have hybrid online/in person events proposed).
 
 ### Timeline and process
 
-Submission opens at the end of July and is planned to close on
-September 9.  Submissions should consist of ~150 word abstract for
-shorter talks, and ~250 words for longer talks.  There will be a
-review round, and notifications of acceptance will be sent in
-mid-October (see [the full timeline](/conference/timeline/)).
+- Abstract submission deadline: **Tuesday 15th September 2020**
+- Decisions sent to abstract authors: **Friday 15th October 2020**
+- Conference: **1st-2nd December 2020**
+
+Here you can browse [the full timeline](/conference/timeline/).
+
+Submissions should consist of ~150 word abstract for
+shorter talks, and ~250 words for longer talks.
 
 The submissions will be reviewed by the [program committee](/conference/team/).
 The identities of submitters will not be revealed to the reviewers during
