@@ -20,13 +20,14 @@ talks/discussions, for example).
 
 Our primary discussion is via the [CodeRefinery
 chat](https://coderefinery.zulipchat.com) (#nordic-rse stream - join
-by clicking gear icon by the steams list on the left side).  This is a
+by clicking gear icon by the steams list on the left side on that chat).  This is a
 joint community of CodeRefinery (teaching), NordicHPC
 (infrastructure), and Nordic-RSE (usage).
 
-This is a public chat and everybody is welcome to join. Here, we
+This is a public chat and everybody is welcome to join. In this chat we
 discuss RSE activities Nordics and you are most welcome to open new
 "topic" threads, ask questions, and network.
+
 
 ### Follow us
 
