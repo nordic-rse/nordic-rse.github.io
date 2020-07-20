@@ -54,7 +54,12 @@ review, but also the identities of reviewers are not revealed. The person or
 persons who anonymize the identities of submitters and reviewers will not take
 part in the review itself.
 
-TODO: how to submit.
+<div class="alert alert-dismissible alert-warning">
+  <p>
+    We will document here how to submit but it will be through an Indico web
+    form.
+  </p>
+</div>
 
 
 ### Themes
