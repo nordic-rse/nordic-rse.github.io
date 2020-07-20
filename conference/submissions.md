@@ -61,22 +61,23 @@ online can't serve the same purpose of building a new community (but
 would be glad to have hybrid online/in person events proposed).
 
 
-### Timeline and process
+### Timeline
 
 - Abstract submission deadline: **Tuesday 15th September 2020**
-- Decisions sent to abstract authors: **Friday 15th October 2020**
+- Decisions sent to abstract authors: **Thursday 15th October 2020**
 - Conference: **1st-2nd December 2020**
 
 Here you can browse [the full timeline](/conference/timeline/).
 
+
+### Abstract submission and review
+
+By submitting an abstract to the workshop you'll have the opportunity to get
+constructive feedback on your submission from up to three experienced
+[program committee](/conference/team/) members who are all RSEs or academics/researchers.
+
 Submissions should consist of ~150 word abstract for
 shorter talks, and ~250 words for longer talks.
-
-The submissions will be reviewed by the [program committee](/conference/team/).
-The identities of submitters will not be revealed to the reviewers during
-review, but also the identities of reviewers are not revealed. The person or
-persons who anonymize the identities of submitters and reviewers will not take
-part in the review itself.
 
 <div class="alert alert-dismissible alert-warning">
   <p>
@@ -84,6 +85,16 @@ part in the review itself.
     form.
   </p>
 </div>
+
+The deadline for abstract submissions is **Tuesday 15th September 2020**.
+
+Abstract/proposal author details will be removed and each abstract will be
+assigned a unique ID before being passed to reviewers. You are advised to try
+and remove identifying information from your abstract, where practical, to help
+ensure, as far as possible, the anonymity of the review process.
+
+The planned date for returning acceptance decisions and reviews to authors is:
+Thursday 15th October.
 
 
 ### Themes
