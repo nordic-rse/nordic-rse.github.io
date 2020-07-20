@@ -25,9 +25,15 @@ would be glad to have hybrid online/in person events proposed).
 
 Submission opens at the end of July and is planned to close on
 September 9.  Submissions should consist of ~150 word abstract for
-shorter talks, and ~250 words for longer talks.  There will be an anonymized
+shorter talks, and ~250 words for longer talks.  There will be a
 review round, and notifications of acceptance will be sent in
-mid-October.  See [the full timeline](/conference/timeline/)
+mid-October (see [the full timeline](/conference/timeline/)).
+
+The submissions will be reviewed by the [program committee](/conference/team/).
+The identities of submitters will not be revealed to the reviewers during
+review, but also the identities of reviewers are not revealed. The person or
+persons who anonymize the identities of submitters and reviewers will not take
+part in the review itself.
 
 TODO: how to submit.
 
