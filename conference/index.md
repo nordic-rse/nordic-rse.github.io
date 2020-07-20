@@ -8,7 +8,7 @@ permalink: /conference/
 Initially we have planned for October 21-22, 2020, but due to uncertainties
 around the COVID-19 situation we decided to move the conference to December,
 still Stockholm.  We will of course continue monitoring the situation in the
-coming months.
+coming months ([COVID-19 decision timeline](/conference/timeline/)).
 
 
 ### Schedule
@@ -21,10 +21,11 @@ and close Wednesday, December 2, 16:45. For more details, please see the
 ### Venue
 
 The venue is the **student union building "Nymble"** at Drottning Kristinas väg 15,
-Stockholm. This venue has sufficient capacity for 200 people, one large room
+Stockholm ([location on OpenStreetMap](https://www.openstreetmap.org/?mlat=59.34727&mlon=18.07057#map=19/59.34727/18.07057)).
+This venue has sufficient capacity for 200 people, one large room
 and several smaller rooms.  It is located on KTH campus, offers good open
-informal areas for mingling during coffee breaks, not a "sterile" conference
-venue but has an atmosphere. [Location on OpenStreetMap](https://www.openstreetmap.org/?mlat=59.34727&mlon=18.07057#map=19/59.34727/18.07057)
+informal areas for mingling during coffee breaks. This is not a "sterile" conference
+venue but has an atmosphere.
 
 
 ### Why attending the conference and why getting involved?
@@ -97,5 +98,4 @@ We very much appreciate their help and input.
 ### Sponsors
 
 We will announce confirmed sponsors soon.
-
 For a call for sponsors and sponsor packages please see our [sponsorship page](/conference/sponsors/).

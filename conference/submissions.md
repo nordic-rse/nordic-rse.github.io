@@ -9,7 +9,8 @@ first Nordic-RSE meeting, so we especially welcome a variety of event
 types which promote engagement and community building, and are target
 to people who don't already identify as RSEs.
 
-Our venue is the KTH Student Union, and will have lots of places for
+Our venue is the KTH Student Union ([more details about the venue](/conference/practical/#venue)),
+and will have lots of places for
 informal discussions or close interactions.  But not *too* close,
 since COVID-19 isn't going away.
 
@@ -23,8 +24,8 @@ would be glad to have hybrid online/in person events proposed).
 ### Timeline and process
 
 Submission opens at the end of July and is planned to close on
-9.september.  Submissions should consist of ~150 word abstract for
-shorter talks, and ~250 words for longer talks.  There will be a
+September 9.  Submissions should consist of ~150 word abstract for
+shorter talks, and ~250 words for longer talks.  There will be an anonymized
 review round, and notifications of acceptance will be sent in
 mid-October.  See [the full timeline](/conference/timeline/)
 
