@@ -149,6 +149,7 @@ themes would be interesting to attendees.  Also, consider the types of
 attendees we expect on the [front page](/conference/).
 
 - Research software case studies - challenges, successes and lessons learned
+- "Meta-research" on research software
 - Best practices in developing research software
 - Tools and training for computational researchers and RSEs
   (stuff that people should learn, it doesn't have to be solely directed at
