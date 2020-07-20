@@ -44,7 +44,11 @@ a range of seminar and discussion sessions. Whether you’re a regular conferenc
 attendee or have never been to a conference before, Nordic-RSE 2020 has
 something to offer you.
 
-We welcome any type of proposal for this conference.  This is the
+
+### Proposal types
+
+We welcome any type of proposal for this conference but our forms will be structured
+for five categories (see below). This is the
 first Nordic-RSE meeting, so we especially welcome a variety of event
 types which promote engagement and community building, and are target
 to people who don't already identify as RSEs.
@@ -59,6 +63,47 @@ and this is not required if you don't feel comfortable or it isn't
 suitable.  However, we are still aiming for an in-person event, since
 online can't serve the same purpose of building a new community (but
 would be glad to have hybrid online/in person events proposed).
+
+**Lightning talk**: Lightning talks are presentations that are limited to a maximum
+of 5 minutes and no more than 5 slides including any title slide. They provide
+a great opportunity to give a high-level overview of a project, a piece of
+technical work or to highlight a tool or process that you feel will be of
+interest to the community.
+
+**Regular talk**: Regular talks are 20 minute talks followed by 5 minutes for
+questions. A regular talk provides the opportunity to go into more detail in
+presenting your work, a technical idea or an example of using a software tool
+or library. There is also the opportunity to get feedback through questions
+from the audience.
+
+**Poster**: Posters will be on display around the venue for the duration of the
+conference and attendees will have the opportunity to look at them during
+coffee and lunch breaks. Every poster presenter will also be invited to give a
+3-minute lightning talk to offer an overview of the topic and content of their
+poster.
+
+**Mini-workshop**: There will be space in the workshop schedule for a small number
+of mini-workshops. These sessions will be assigned a 90-minute slot and will
+take place in breakout groups of 15 to 30 participants. The individual or team
+running a mini-workshop will have the opportunity to structure the 90-minute
+slot as they wish, including, for example, a combination of short talks and
+discussion, panel discussions, tutorials, etc.
+
+**Repro-hacks**: Propose a research paper and try to reproduce the results. There
+is no better way to learn what is needed for reproducible research, and what
+you might be missing, than to pick a paper and try to recreate it. At the
+workshop we will work in small groups on individual publications and see how
+far we get.
+
+
+Please don't feel limited to classic lectures - we will consider any
+kind of event, such as discussions, networking sessions, hackathons,
+workshops, art exhibits, games, contests, etc.  Our primary categories
+to fill, though, are **plenary**, **talk/workshop**, **lightning
+talk**, **poster or exhibit**.  Plenaries are 30-45 minutes,
+talks/workshops sessions are up to 1.5 hours in a session (but could
+span multiple sessions).  See [the tentative
+schedule](/conference/schedule/) for how you might fit in.
 
 
 ### Timeline
@@ -116,15 +161,6 @@ attendees we expect on the [front page](/conference/).
 - Developing and delivering technical training materials
 - Infrastructure
 - Deploying and managing continuous integration/deployment (CI/CD) environments
-
-Please don't feel limited to classic lectures - we will consider any
-kind of event, such as discussions, networking sessions, hackthons,
-workshops, art exhibits, games, contests, etc.  Our primary categories
-to fill, though, are **plenary**, **talk/workshop**, **lightning
-talk**, **poster or exhibit**.  Plenaries are 30-45 minutes,
-talks/workshops sessions are up to 1.5 hours in a session (but could
-span multiple sessions).  See [the tentative
-schedule](/conference/schedule/) for how you might fit in.
 
 We don't plan for satellites, but if you know someone who can reserve
 space in Stockholm, we can try to coordinate.
