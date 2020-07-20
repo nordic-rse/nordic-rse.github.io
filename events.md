@@ -9,11 +9,12 @@ layout: default
 - [First Nordic-RSE conference, December 1-2, 2020, in Stockholm](/conference/)
 - [Finnish RSE chat, Thursdays at 10:00](/communities/finland/)
 
-### Past
+#### Past
 
 - [CodeRefinery hackathon, Stockholm, 6-7 November
   2019](https://coderefinery.org/events/2019-11-06-stockholm/) - Not
   exactly Nordic-RSE but similar people, before Nordic-RSE took off.
+
 
 ## Other events
 
