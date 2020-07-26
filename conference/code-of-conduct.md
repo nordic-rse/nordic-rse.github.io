@@ -56,7 +56,7 @@ immediately.
 
 Be careful in the words that you choose. Remember that words can be offensive
 to those around you. Offensive jokes are not acceptable at the Nordic-RSE
-conference.  Workshop. Excessive swearing is not appropriate at this event.
+conference. Excessive swearing is not appropriate at this event.
 
 If a participant engages in behaviour that violates this code of conduct, the
 workshop organisers may take any action they deem appropriate, including
