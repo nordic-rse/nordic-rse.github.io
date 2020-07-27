@@ -62,38 +62,38 @@ workshops sessions are up to 1.5 hours in a session (but could
 span multiple sessions).  See [the tentative
 schedule](/conference/schedule/) for how you might fit in.
 
-**Lightning talk**: Lightning talks are presentations that are limited to a maximum
-of 5 minutes and no more than 5 slides including any title slide. They provide
-a great opportunity to give a high-level overview of a project, a piece of
-technical work or to highlight a tool or process that you feel will be of
-interest to the community.
+* **Lightning talk**: Lightning talks are presentations that are limited to a maximum
+  of 5 minutes and no more than 5 slides including any title slide. They provide
+  a great opportunity to give a high-level overview of a project, a piece of
+  technical work or to highlight a tool or process that you feel will be of
+  interest to the community.
 
-**Regular talk**: Regular talks are 20 minute talks followed by 5 minutes for
-questions. A regular talk provides the opportunity to go into more detail in
-presenting your work, a technical idea or an example of using a software tool
-or library. There is also the opportunity to get feedback through questions
-from the audience.
+* **Regular talk**: Regular talks are 20 minute talks followed by 5 minutes for
+  questions. A regular talk provides the opportunity to go into more detail in
+  presenting your work, a technical idea or an example of using a software tool
+  or library. There is also the opportunity to get feedback through questions
+  from the audience.
 
-**Poster/ exhibit/ media display**: Posters will be on display around the venue for the duration of the
-conference and attendees will have the opportunity to look at them during
-coffee and lunch breaks. Every poster presenter will also be invited to give a
-3-minute lightning talk to offer an overview of the topic and content of their
-poster. You are welcome to submit an "exhibit" or media display and go beyond
-the traditional poster format: this can be to show a demo on a TV screen or a
-laptop.
+* **Poster/ exhibit/ media display**: Posters will be on display around the venue for the duration of the
+  conference and attendees will have the opportunity to look at them during
+  coffee and lunch breaks. Every poster presenter will also be invited to give a
+  3-minute lightning talk to offer an overview of the topic and content of their
+  poster. You are welcome to submit an "exhibit" or media display and go beyond
+  the traditional poster format: this can be to show a demo on a TV screen or a
+  laptop.
 
-**Mini-workshop**: There will be space in the workshop schedule for a small number
-of mini-workshops. These sessions will be assigned a 90-minute slot and will
-take place in breakout groups of 15 to 30 participants. The individual or team
-running a mini-workshop will have the opportunity to structure the 90-minute
-slot as they wish, including, for example, a combination of short talks and
-discussion, panel discussions, tutorials, etc.
+* **Mini-workshop**: There will be space in the workshop schedule for a small number
+  of mini-workshops. These sessions will be assigned a 90-minute slot and will
+  take place in breakout groups of 15 to 30 participants. The individual or team
+  running a mini-workshop will have the opportunity to structure the 90-minute
+  slot as they wish, including, for example, a combination of short talks and
+  discussion, panel discussions, tutorials, etc.
 
-**Repro-hacks**: Propose a research paper and try to reproduce the results. There
-is no better way to learn what is needed for reproducible research, and what
-you might be missing, than to pick a paper and try to recreate it. At the
-workshop we will work in small groups on individual publications and see how
-far we get.
+* **Repro-hacks**: Propose a research paper and try to reproduce the results. There
+  is no better way to learn what is needed for reproducible research, and what
+  you might be missing, than to pick a paper and try to recreate it. At the
+  workshop we will work in small groups on individual publications and see how
+  far we get.
 
 Our venue is the KTH Student Union ([more details about the venue](/conference/practical/#venue)),
 and will have lots of places for
