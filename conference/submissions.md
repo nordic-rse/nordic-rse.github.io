@@ -73,11 +73,13 @@ presenting your work, a technical idea or an example of using a software tool
 or library. There is also the opportunity to get feedback through questions
 from the audience.
 
-**Poster**: Posters will be on display around the venue for the duration of the
+**Poster/ exhibit/ media display**: Posters will be on display around the venue for the duration of the
 conference and attendees will have the opportunity to look at them during
 coffee and lunch breaks. Every poster presenter will also be invited to give a
 3-minute lightning talk to offer an overview of the topic and content of their
-poster.
+poster. You are welcome to submit an "exhibit" or media display and go beyond
+the traditional poster format: this can be to show a demo on a TV screen or a
+laptop.
 
 **Mini-workshop**: There will be space in the workshop schedule for a small number
 of mini-workshops. These sessions will be assigned a 90-minute slot and will
