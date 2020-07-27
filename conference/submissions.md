@@ -57,7 +57,8 @@ kind of event, such as discussions, networking sessions, hackathons,
 workshops, art exhibits, games, contests, etc.  Our primary categories
 to fill, though, are **plenary**, **talk/workshop**, **lightning
 talk**, **poster or exhibit**.  Plenaries are 30-45 minutes,
-talks/workshops sessions are up to 1.5 hours in a session (but could
+regular talks are 20 minutes,
+workshops sessions are up to 1.5 hours in a session (but could
 span multiple sessions).  See [the tentative
 schedule](/conference/schedule/) for how you might fit in.
 
