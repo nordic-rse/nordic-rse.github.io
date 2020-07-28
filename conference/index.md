@@ -11,6 +11,16 @@ still Stockholm.  We will of course continue monitoring the situation in the
 coming months ([COVID-19 decision timeline](/conference/timeline/)).
 
 
+### Call for proposals
+
+This is the first Nordic-RSE meeting, so we especially welcome a variety of
+event types which promote engagement and community building, and are target to
+people who don't already identify as RSEs.
+
+Please see the [submissions page](/conference/submissions/) for more information. Call closes
+September 15.
+
+
 ### Schedule
 
 We start Tuesday, December 1, 9:15 (registration starts 8:30)
