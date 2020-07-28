@@ -5,6 +5,11 @@ layout: default
 # Submit a proposal
 
 
+<a class="btn btn-primary btn-lg"
+   href="https://indico.neic.no/event/146/"
+   role="button">Take me to the proposal submission form</a>
+
+
 ### Call for proposals
 
 Are you interested in research software and computational science? Do you
@@ -124,13 +129,6 @@ constructive feedback on your submission from up to three experienced
 
 Submissions should consist of ~150 word abstract for
 shorter talks, and ~250 words for longer talks.
-
-<div class="alert alert-dismissible alert-warning">
-  <p>
-    We will document here how to submit but it will be through an Indico web
-    form.
-  </p>
-</div>
 
 The deadline for abstract submissions is **Tuesday 15th September 2020**.
 
