@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+  {{ content }}
+
+  <div style="height: 20px"></div>
+
+  <h2>Nordic-RSE events</h2>
+  <ul class="post-list">
+    {% assign events = site.nordic-events | reverse %}
+    {% for post in events limit:10 %}
+      <li>
+
+        <div class="blog-post">
+
+        <div class="post-content">
+
+        <h4>
+          <a class="post-link" href="{{ post.url  | relative_url }}">{{ post.title | escape }}</a>
+        </h4>
+
+        {% if post.content contains '<!--break-->' %}
+            {{ post.content | split:'<!--break-->' | first }}
+            <a href="{{ post.url }}">Read more</a>
+        {% else %}
+            {{ post.content }}
+        {% endif %}
+
+        </div>
+        </div>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>RSE hours</h2>
+   <ul>
+       <li><a href="/communities/finland#weekly-virtual-coffee-break">Weekly virtual coffee break - Thursdays at 10:00 (Helsinki time)</a></li>
+   </ul>
+
+  <h2>Other events</h2>
+  <ul class="post-list">
+    {% assign events = site.other-events | reverse %}
+    {% for post in events limit:10 %}
+      <li>
+
+        <div class="blog-post">
+
+        <div class="post-content">
+
+        <h4>
+          <a class="post-link" href="{{ post.full_url }}">{{ post.title | escape }}</a>
+        </h4>
+          {{ post.content }}
+        </div>
+        </div>
+
+      </li>
+    {% endfor %}
+  </ul>
