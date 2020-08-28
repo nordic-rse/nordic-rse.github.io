@@ -3,13 +3,17 @@ layout: default
 permalink: /conference/
 ---
 
-# The first Nordic-RSE conference will take place **December 1-2, 2020, in Stockholm**.
+# The first Nordic-RSE conference has been postponed to May 2021
 
-Initially we have planned for October 21-22, 2020, but due to uncertainties
-around the COVID-19 situation we decided to move the conference to December,
-still Stockholm.  We will of course continue monitoring the situation in the
-coming months ([COVID-19 decision timeline](/conference/timeline/)).
 
+Initially we have planned for October 21-22, 2020 and our attempt to move the conference to December 2021 
+did not seem realistic enough due to uncertainties around the COVID-19 situation.
+**The conference is not cancelled but postponed to May 2021, still in Stockholm.**
+
+We will of course continue monitoring the situation and inform you in due time.
+In the meantime, we will organize online [events](/events/).
+
+<!--
 
 ### Call for proposals
 
@@ -109,3 +113,4 @@ We very much appreciate their help and input.
 
 We will announce confirmed sponsors soon.
 For a call for sponsors and sponsor packages please see our [sponsorship page](/conference/sponsors/).
+-->

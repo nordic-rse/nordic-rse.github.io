@@ -19,3 +19,10 @@ defaults:
       type: "pages"
     values:
       permalink: /:path/:basename/
+
+# Collections
+collections:
+  other-events:
+    output: true
+  nordic-events:
+    output: true

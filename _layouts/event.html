@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+      <div class="row top-buffer">
+        <header class="post-header">
+          {% if page.image %}
+            <img src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" class="post-header-img" style="height: 600px">
+          {% endif %}
+        </header>
+        <div class="col-md-12">
+          {{ content }}
+        </div>
+      </div>
+
