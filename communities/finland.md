@@ -33,7 +33,7 @@ break is an informal meeting, open for everyone to discuss with and listen to
 others interested in research software engineering.  We currently have
 no pre-decided topics, but never run out of things to say.
 
-Language: according to participants preferences (mostly English)
+Language: English
 
 Host: Jarno Rantaharju (Dept. of Physics, University of Helsinki)
 
