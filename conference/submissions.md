@@ -164,3 +164,12 @@ attendees we expect on the [front page](/conference/).
 
 We don't plan for satellites, but if you know someone who can reserve
 space in Stockholm, we can try to coordinate.
+
+
+### Examples / requested talks
+
+We would be happy to see a variety of events of these types:
+
+* Intro to a new tool (20 min)
+* Workshop going into depth about a tool (1.5 hour)
+* Strategies for working work closely with researchers
