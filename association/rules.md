@@ -9,18 +9,13 @@ This will enable the Nordic RSE Group, together with CodeRefinery and Nordic HPC
 legal presence, simplify organizing events and enable collecting money to develop research
 software in various ways.
 
-An association allows different kinds of memberships. We may decide to
- * have all member so the Nordic RSE group be members
- * that only active members in the three projects should be members
- * and may additionally include supporting members with a different membership fee.
-
 We plan to register the association in Finland, since we have some experience with running
 associations there. For this reason the official statutes of the association must be in Swedish
 or Finnish. The english version below is a translation of the actual Swedish statutes below.
 
-In short, the association's affairs are handled by an executive board that is annually selected by its
-members. The board must use it's power to further the purpose of the association, which is the develop
-research software engineering in academia and to improve software development skills among researchers.
+In short, the association's affairs are handled by an executive board that is annually selected
+by its members. The board must use it's power to further the purpose of the association, which
+we need to define in statute 2 below.
 
 
 # Statutes of the Association in English
