@@ -29,9 +29,9 @@ we need to define in statute 2 below.
     and to improve software development skills among researchers.
 
     The association fulfills its purpose by
-    1. developing networks between research software engineers through the Nordic RSE Workshop and other events
-    2. running workshops in software engineering skills and professional development 
-    3. recognizing significant contributions to open source research software and teaching materials
+    developing networks between research software engineers through the Nordic RSE Workshop and other events
+    running workshops in software engineering skills and professional development 
+    recognizing significant contributions to open source research software and teaching materials
 
 3. Membership and membership fee
     The board decides whether an annual membership fee is collected and the size of the fee.
