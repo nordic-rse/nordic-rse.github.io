@@ -25,13 +25,13 @@ we need to define in statute 2 below.
     and it is domiciled in Helsinki, Finland.
 
 2. Purpose and forms of activity
-    The purpose of the association is to develop research software engineering in academia
+    The purpose of the association is to support research software engineering in academia
     and to improve software development skills among researchers.
 
     The association fulfills its purpose by
-    developing networks between research software engineers through the Nordic RSE Workshop and other events,
-    running workshops in software engineering skills and professional development and
-    recognizing significant contributions to open source research software and teaching materials
+    * developing networks between research software engineers through the Nordic RSE Workshop and other events
+    * running workshops in software engineering skills and professional development
+    * recognizing significant contributions to open source research software and teaching materials
 
 3. Membership and membership fee
     The board decides whether an annual membership fee is collected and the size of the fee.
