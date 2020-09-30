@@ -7,7 +7,7 @@ layout: default
 # Statutes of the Association in English
 
 1. Name and domicile of the association
-    The name of the association is the Nordic Research Software and Computing Association
+    The name of the association is the Nordic Research Software Engineers Group 
     and it is domiciled in Helsinki, Finland.
 
 2. Purpose and forms of activity
@@ -52,6 +52,7 @@ layout: default
     the association must be mentioned in the letter of invitation.
     If the association is dissolved, the association's assets are used to promote the association's purpose in a way
     determined by an association meeting.
+
 
 
 # Föreningens Stadgar
