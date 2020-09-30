@@ -3,6 +3,7 @@ layout: default
 ---
 
 
+
 # Statutes of the Association in English
 
 1. Name and domicile of the association
