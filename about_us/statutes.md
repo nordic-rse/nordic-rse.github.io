@@ -2,21 +2,6 @@
 layout: default
 ---
 
-# Nordic Research Software and Computing Association
-
-We plan to register and association, the Nordic Research Software and Computing Association.
-This will enable the Nordic RSE Group, together with CodeRefinery and Nordic HPC, to have a
-legal presence, simplify organizing events and enable collecting money to develop research
-software in various ways.
-
-We plan to register the association in Finland, since we have some experience with running
-associations there. For this reason the official statutes of the association must be in Swedish
-or Finnish. The english version below is a translation of the actual Swedish statutes below.
-
-In short, the association's affairs are handled by an executive board that is annually selected
-by its members. The board must use it's power to further the purpose of the association, which
-we need to define in statute 2 below.
-
 
 # Statutes of the Association in English
 
