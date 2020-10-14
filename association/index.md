@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About Nordic-RSE"
+permalink: /association/
 ---
 
 # About Nordic-RSE
