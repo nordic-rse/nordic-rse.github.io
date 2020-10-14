@@ -10,10 +10,6 @@ title: "Membership"
  * We do not track users on the website. The website is hosted by GitHub Pages (their privacy statement).
  * We do not use any cookies on the website.
 
- * We store the contact data of authors and co-authors. And the contact information of the presenting authors will be made public on GitHub and on this website (this is, however, also stated separately in the Indico submission form).
- * Each presentation will get a dedicated site on our webpage including the abstract and the contact details of the corresponding author. If the author requests to be removed, the event page and all associated commits will be removed.
- * For published recordings which are assigned a DOI we can modify/remove the author metadata, but we cannot remove the abstract or the DOI.
-
 
 **Event registration**
  * Your registration information will be used to give you information about the event. 
