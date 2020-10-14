@@ -21,6 +21,7 @@ connection details.
 
 #### Program ####
 
+
 All times are in Central European Time.
 
 Monday, November 30th:
@@ -92,3 +93,4 @@ Examples of types of events that can be proposed:
 * Other
 
   Do you have something in mind that does not fit easily into these categories? Suggest any other contributions here.
+
