@@ -3,6 +3,7 @@ layout: event
 title: "Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020"
 image: '/img/samantha-borges-EeS69TTPQ18-unsplash.jpg'
 date: 2020-08-28
+redirect_from: /nordic-events/2020-12-01-get-together/
 ---
 
 
