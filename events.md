@@ -1,9 +1,25 @@
 ---
-layout: event-list
-title: Events
+layout: default
 ---
-
 
 # News and Events
 
 Do not miss our upcoming events!
+
+
+## Nordic-RSE events
+
+- [Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020](/events/2020-online-get-together/)
+- [First Nordic-RSE Conference, May 27-29, 2021](/conference/)
+
+
+## RSE hours
+
+- [Weekly virtual coffee break - Thursdays at 10:00 (Helsinki time)](/communities/finland#weekly-virtual-coffee-break)
+
+
+## Other events
+
+- [2nd Intl. RSE Leaders Workshop 2020, Sep 15-16 and 30, 2020](https://researchsoftware.org/2020-workshop.html)
+- [International Series of Online Research Software Events](https://sorse.github.io/)
+- [CodeRefinery hackathon, Stockholm, Nov 6-7 2019](https://coderefinery.org/events/2019-11-06-stockholm/)

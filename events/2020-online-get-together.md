@@ -1,27 +1,25 @@
 ---
-layout: event
-title: "Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020"
-image: '/img/samantha-borges-EeS69TTPQ18-unsplash.jpg'
-date: 2020-08-28
+layout: default
 redirect_from: /nordic-events/2020-12-01-get-together/
 ---
 
+# Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020
+
+<img src="/img/samantha-borges-EeS69TTPQ18-unsplash.jpg" style="height: 600px">
 
 Our main Nordic-RSE conference has been postponed due to COVID-19 situation but you are all invited to our first
 online **Get together** event.  We plan on an afternoon keynote
 session on Nov 30th, followed by days of talks on Dec 1-2 (mornings
 for workshops and talks, afternoons for discussions).
 
-<!--break-->
 
-#### Registration ####
+### Registration
 
 There will be a lightweight registration form to get
 connection details.
 
 
-#### Program ####
-
+### Program
 
 All times are in Central European Time.
 
@@ -51,7 +49,8 @@ Wednesday, 2 December:
 * 12:30 **Discussion sessions**
 * 15:00 Close
 
-#### Proposal submissions ####
+
+### Proposal submissions
 
 There will be a lightweight abstract
 submission system, if you would like to submit events.
@@ -94,4 +93,3 @@ Examples of types of events that can be proposed:
 * Other
 
   Do you have something in mind that does not fit easily into these categories? Suggest any other contributions here.
-
