@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Membership"
+title: "Privacy notice"
 ---
 
 # Privacy Policy
@@ -25,4 +25,3 @@ title: "Membership"
 **Author information**
  * We store contact information of authors and co-authors of submitted contributions. The contact information of presenting authors will be made public on GitHub and on this website.
  * The contributions will be removed at the request of an author or a co-author.
-
