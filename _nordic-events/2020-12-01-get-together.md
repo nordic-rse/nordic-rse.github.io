@@ -16,6 +16,7 @@ for workshops and talks, afternoons for discussions).
 **Registration:** There will be a lightweight registration form to get
 connection details.
 
+
 **Program:**
 
 All times are in Central European Time.
@@ -23,8 +24,8 @@ All times are in Central European Time.
 Monday, November 30th:
 
 * 14:00 **Introduction to Nordic-RSE**
-* 14:10 **Keynote**
-* 14:40 **Keynote**
+* 14:10 **Keynote**: Alys Brett (Title TBA)
+* 14:40 **Keynote**: CodeRefinery (Title TBA)
 * 15:10 **About the get-together and future of Nordic-RSE**
 
 Tuesday, 1 December:
@@ -53,7 +54,7 @@ collaboratively discuss your idea.
 
 Types of events that can be proposed:
 
-* Talks: standard lectures.
+* Talks: standard lectures with a question session.
 * Discussions or panels: proposer pitches a topic and leads discussion
   in it.
 * Workshops about a certain topic
