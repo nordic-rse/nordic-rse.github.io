@@ -24,8 +24,7 @@ p {
   margin-top: 10px;
 }
 
-.top-buffer { margin-top: 35px; }
-.top-buffer-more { margin-top: 70px; }
+.top-buffer { margin-top: 100px; }
 
 .navbar-nav {
     float:none;
