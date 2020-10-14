@@ -13,11 +13,14 @@ for workshops and talks, afternoons for discussions).
 
 <!--break-->
 
-**Registration:** There will be a lightweight registration form to get
+#### Registration ####
+
+There will be a lightweight registration form to get
 connection details.
 
 
-**Program:**
+#### Program ####
+
 
 All times are in Central European Time.
 
@@ -27,6 +30,7 @@ Monday, November 30th:
 * 14:10 **Keynote**: Alys Brett (Title TBA)
 * 14:40 **Keynote**: CodeRefinery (Title TBA)
 * 15:10 **About the get-together and future of Nordic-RSE**
+* 15:30 Close
 
 Tuesday, 1 December:
 
@@ -35,6 +39,7 @@ Tuesday, 1 December:
 * 10:30 **Talks/workshops/events** (TBA)
 * 11:30 Lunch break
 * 12:30 **Discussion sessions**
+* 15:00 Close
 
 Wednesday, 2 December:
 
@@ -43,23 +48,49 @@ Wednesday, 2 December:
 * 10:30 **Talks/workshops/events** (TBA)
 * 11:30 Lunch/freeform conversation
 * 12:30 **Discussion sessions**
+* 15:00 Close
 
+#### Proposal submissions ####
 
-**Proposal submissions:** There will be a lightweight abstract
-submission system, if you would like to submit events.  Alternatively,
-you can submit an issue to the [nordic-rse.github.io github
-organization](https://github.com/nordic-rse/nordic-rse.github.io) and
-collaboratively discuss your idea.
+There will be a lightweight abstract
+submission system, if you would like to submit events.
 
+Examples of types of events that can be proposed:
 
-Types of events that can be proposed:
+* Lightning talks: (2 minutes)
 
-* Talks: standard lectures with a question session.
-* Discussions or panels: proposer pitches a topic and leads discussion
-  in it.
-* Workshops about a certain topic
-* Discussion workshops, collaborative workshop where a group
-  discusses, takes notes, and the result is a speed blog - topics
-  would be pitched in advance.
-* Reprohacks
-* Teaching us a tool
+  Lightning talks are presentations that are limited to a maximum of 2 minutes and no more than 2 slides including
+  any title slide. They allow you to introduce your group or give a high-level overview of a project.
+
+* Talks: (20 minutes)
+
+  A regular talk provides the opportunity to go into more detail in presenting your work, a technical idea
+  or an example of using a software tool or library. There is also the opportunity to get feedback through
+  questions from the audience. The talk it self should be at most 20 minutes and 10 minute will be reserved for
+  question and discussion after the talk.
+
+* Reprohacks (120 minutes with break)
+
+  Propose a research paper and try to reproduce the results. There is no better way to learn what
+  is needed for reproducible research, and what you might be missing, than to pick a paper and try
+  to recreate it. At the workshop we will work in small groups on individual publications and see how far we get.
+
+* Crash Course (60 minutes)
+
+  Run a teaching workshop introducing a useful tool or an interesting theoretical topic. This could
+  be a combination of demonstrations, short talks, discussion, panel sessions and so on. 
+
+* Discussions or panels (60 minutes)
+
+  Propose a topic of conversation to develop an idea or seek experiences and opinions.
+  The submitter should chair the conversation to keep it productive.
+
+* Collaborative blog post (60 minutes)
+
+  A more formal discussion that produces a blog post as an end result.
+  Topics would be pitched in advance.
+
+* Other
+
+  Do you have something in mind that does not fit easily into these categories? Suggest any other contributions here.
+
