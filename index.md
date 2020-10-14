@@ -55,7 +55,7 @@ You can read more about RSEs demographics in the Nordics in [our 2018
 survey](https://github.com/nordic-rse/RSE_intro_survey).
 
 
-### What do we do?
+### Who we are
 
 This is the website of the (unregistered) **Nordic Research Software
 Engineers** association.  We do or want to do the following:
