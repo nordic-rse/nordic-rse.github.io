@@ -51,8 +51,8 @@ Wednesday, 2 December:
 
 ### Proposal submissions
 
-There will be a lightweight abstract
-submission system, if you would like to submit events.
+[Abstract submission form](https://indico.neic.no/event/146/)
+is open. Submission deadline: 9th November 2020, 23:59 CET.
 
 Examples of types of events that can be proposed:
 
