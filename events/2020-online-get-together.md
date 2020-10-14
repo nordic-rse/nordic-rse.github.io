@@ -15,8 +15,7 @@ for workshops and talks, afternoons for discussions).
 
 ### Registration
 
-There will be a lightweight registration form to get
-connection details.
+You can register [here](https://indico.neic.no/event/146/).
 
 
 ### Program
