@@ -5,7 +5,7 @@ redirect_from: /nordic-events/2020-12-01-get-together/
 
 # Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020
 
-<img src="/img/samantha-borges-EeS69TTPQ18-unsplash.jpg" style="height: 600px">
+<img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width: 900px">
 
 Our main Nordic-RSE conference has been postponed due to COVID-19 situation but you are all invited to our first
 online **Get together** event.  We plan on an afternoon keynote
