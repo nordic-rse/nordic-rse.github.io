@@ -19,10 +19,10 @@ We are modeled on similar international networks in the
 States](https://us-rse.org), and other countries.
 
 ### Upcoming 
-<img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width:95%">
+<a href="/events/2020-online-get-together/"><img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width:95%"></a>
 
 
-Do you want to know more about Nordic-RSE activies and mission? Do you want to present to others some of the tools you've been creating, and problems you've been solving? Please join us in our get together online event on 30.November – 2.December 2020. More info, registration and submission forms, list of speakers, and schedule for the three days [at the event webpage](https://nordic-rse.org/events/2020-online-get-together/). 
+Do you want to know more about Nordic-RSE activies and mission? Do you want to present to others some of the tools you've been creating, and problems you've been solving? Please join us in our get together online event on 30.November – 2.December 2020. More info, registration and submission forms, list of speakers, and schedule for the three days [at the event webpage](/events/2020-online-get-together/). 
 
 
 ### Want to know more?
