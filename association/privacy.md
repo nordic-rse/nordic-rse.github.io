@@ -3,7 +3,7 @@ layout: default
 title: "Privacy notice"
 ---
 
-# Privacy Policy
+# Privacy notice
 
 
 **Website**
