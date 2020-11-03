@@ -36,6 +36,14 @@ discuss RSE activities Nordics and you are most welcome to open new
 - Add yourself to the [RSE map](/map/).
 
 
+### Bi-weekly meetings
+
+We meet every other week to discuss the development of Nordic RSE and
+plan upcoming events. The meeting is on even numbered weeks on Wednesdays
+at 9:00 CET. Follow the #nordic-rse stream on the [CodeRefinery
+chat](https://coderefinery.zulipchat.com) for the Zoom link.
+
+
 ### Active public members
 
 The following people are active members, and can provide more

@@ -13,6 +13,11 @@ Do not miss our upcoming events!
 - [First Nordic-RSE Conference, May 27-29, 2021](/conference/)
 
 
+## Biweekly meeting
+
+- [Biweekly Nordic RSE meeting - Wednesdays at 9:00 (CET) on even numbered weeks](/communities/join/#bi-weekly-meetings)
+
+
 ## RSE hours
 
 - [Weekly virtual coffee break - Thursdays at 10:00 (Helsinki time)](/communities/finland#weekly-virtual-coffee-break)
