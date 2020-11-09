@@ -7,10 +7,18 @@ redirect_from: /nordic-events/2020-12-01-get-together/
 
 <img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width: 900px">
 
+Are you more interested in the software and technology in research than
+making as many papers as possible? Do you wish you could share your
+interest with others who feel the same as you? You aren't alone, and
+the name for this feeling is being interested in [Research Software
+Engineering](https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0)
+(RSE), and this conference is dedicated to it.
+
 Our main Nordic-RSE conference has been postponed due to COVID-19 situation but you are all invited to our first
 online **Get together** event.  We plan on an afternoon keynote
 session on Nov 30th, followed by days of talks on Dec 1-2 (mornings
-for workshops and talks, afternoons for discussions).
+for workshops and talks, afternoons for discussions). Topics include
+both the experience of being a RSE and tech tools useful for research.
 
 
 ### Registration
