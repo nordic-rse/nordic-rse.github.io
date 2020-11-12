@@ -59,8 +59,11 @@ Wednesday, 2 December:
 
 ### Proposal submissions
 
-[Abstract submission form](https://indico.neic.no/event/146/)
-is open. Submission deadline: 16th November 2020, 23:59 CET.
+[Abstract submission form](https://indico.neic.no/event/146/) is
+open. Submission deadline: 16th November 2020, 23:59 CET (but
+proposals will continue to be accept on a rolling, best-effort basis
+after this - we encourage you to submit as soon as you can,
+even if not perfect).
 
 You can also submit an idea for a contribution to our
 [Proposal incubator](https://github.com/nordic-rse/meetups/issues)
