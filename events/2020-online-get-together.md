@@ -93,7 +93,7 @@ Examples of types of events that can be proposed:
 * Crash Course (60 minutes)
 
   Run a teaching workshop introducing a useful tool or an interesting theoretical topic. This could
-  be a combination of demonstrations, short talks, discussion, panel sessions and so on. 
+  be a combination of demonstrations, short talks, discussion, panel sessions and so on.
 
 * Discussions or panels (60 minutes)
 
