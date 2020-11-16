@@ -30,31 +30,165 @@ You can register [here](https://indico.neic.no/event/146/).
 
 All times are in Central European Time.
 
-Monday, November 30th:
 
-* 14:00 **Introduction to Nordic-RSE**: Jarno Rantaharju
-* 14:10 **Keynote**: Alys Brett - *Research Software Engineering: the growth of a movement*
-* 14:40 **Keynote**: Richard Darst - *RSE: supporting software or supporting equality?"
-* 15:10 **About the get-together and future of Nordic-RSE**
-* 15:30 Close
+#### Monday, November 30th
 
-Tuesday, 1 December:
+<table class="table">
+  <tbody>
+    <tr class="table-info">
+      <td style="width: 10%">14:00</td>
+      <td>Introduction to Nordic-RSE: Jarno Rantaharju</td>
+    </tr>
+    <tr class="table-primary">
+      <td>14:10</td>
+      <td>Keynote: Alys Brett - <i>Research Software Engineering: the growth of a movement</i></td>
+    </tr>
+    <tr class="table-primary">
+      <td>14:40</td>
+      <td>Keynote: Richard Darst - <i>RSE: supporting software or supporting equality?</i></td>
+    </tr>
+    <tr class="table-info">
+      <td>15:10</td>
+      <td>About the get-together and future of Nordic-RSE</td>
+    </tr>
+    <tr>
+      <td>15:30</td>
+      <td>Close</td>
+    </tr>
+  </tbody>
+</table>
 
-* 9:00 **Lightning talks**
-* 10:00 Coffee/freeform conversation
-* 10:30 **Talks/workshops/events** (TBA)
-* 11:30 Lunch break
-* 12:30 **Discussion sessions**
-* 15:00 Close
 
-Wednesday, 2 December:
+#### Tuesday, December 1st
 
-* 9:00 **Panel session**
-* 10:00 Coffee/freeform conversation
-* 10:30 **Talks/workshops/events** (TBA)
-* 11:30 Lunch/freeform conversation
-* 12:30 **Discussion sessions**
-* 15:00 Close
+<table class="table">
+  <tbody>
+    <tr>
+      <td style="width: 10%">9:00</td>
+      <td>Welcome and Introduction to day’s schedule</td>
+    </tr>
+    <tr class="table-info">
+      <td>9:05</td>
+      <td>Lightning talks: Introducing groups (each 5 mins, slides are optional, max 3 slides)</td>
+    </tr>
+    <tr>
+      <td>10:00</td>
+      <td>Morning break/ free-form conversation</td>
+    </tr>
+    <tr class="table-info">
+      <td>10:30</td>
+      <td>
+	    Talks
+	    <ul>
+	      <li>TBA</li>
+	      <li>TBA</li>
+	    </ul>
+	  </td>
+    </tr>
+    <tr class="table-warning">
+      <td>11:00</td>
+      <td>Discussions based on the talks (participants can move between breakout rooms)</td>
+    </tr>
+    <tr>
+      <td>11:30</td>
+      <td>Lunch break/ free-form conversation</td>
+    </tr>
+    <tr class="table-warning">
+      <td>12:30</td>
+      <td>
+	    Discussion sessions/ workshops
+	    <ul>
+	      <li>TBA</li>
+	      <li>TBA</li>
+	    </ul>
+	  </td>
+    </tr>
+    <tr>
+      <td>13:30</td>
+      <td>Afternoon break/ free-form conversation</td>
+    </tr>
+    <tr class="table-warning">
+      <td>12:30</td>
+      <td>
+	    Discussion sessions/ workshops
+	    <ul>
+	      <li>TBA</li>
+	      <li>TBA</li>
+	    </ul>
+	  </td>
+    </tr>
+    <tr>
+      <td>15:00</td>
+      <td>Close</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Wednesday, December 2nd
+
+<table class="table">
+  <tbody>
+    <tr>
+      <td style="width: 10%">9:00</td>
+      <td>Welcome and Introduction to day’s schedule</td>
+    </tr>
+    <tr class="table-info">
+      <td>9:05</td>
+      <td>Panel discussion: <i>How I became an RSE - RSE careers and future opportunities</i></td>
+    </tr>
+    <tr>
+      <td>10:00</td>
+      <td>Morning break/ free-form conversation</td>
+    </tr>
+    <tr class="table-info">
+      <td>10:30</td>
+      <td>
+	    Talks
+	    <ul>
+	      <li>TBA</li>
+	      <li>TBA</li>
+	    </ul>
+	  </td>
+    </tr>
+    <tr class="table-warning">
+      <td>11:05</td>
+      <td>Discussions based on the talks (participants can move between breakout rooms)</td>
+    </tr>
+    <tr>
+      <td>11:30</td>
+      <td>Lunch break/ free-form conversation</td>
+    </tr>
+    <tr class="table-warning">
+      <td>12:30</td>
+      <td>
+	    Discussion sessions/ workshops
+	    <ul>
+	      <li>TBA</li>
+	      <li>TBA</li>
+	    </ul>
+	  </td>
+    </tr>
+    <tr>
+      <td>13:30</td>
+      <td>Afternoon break/ free-form conversation</td>
+    </tr>
+    <tr class="table-warning">
+      <td>12:30</td>
+      <td>
+	    Discussion sessions/ workshops
+	    <ul>
+	      <li>TBA</li>
+	      <li>TBA</li>
+	    </ul>
+	  </td>
+    </tr>
+    <tr>
+      <td>15:00</td>
+      <td>Close</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Proposal submissions
