@@ -32,7 +32,7 @@ All times are in Central European Time.
 
 Monday, November 30th:
 
-* 14:00 **Introduction to Nordic-RSE**
+* 14:00 **Introduction to Nordic-RSE**: Jarno Rantaharju
 * 14:10 **Keynote**: Alys Brett (Title TBA)
 * 14:40 **Keynote**: CodeRefinery (Title TBA)
 * 15:10 **About the get-together and future of Nordic-RSE**
