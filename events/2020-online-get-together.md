@@ -34,7 +34,7 @@ Monday, November 30th:
 
 * 14:00 **Introduction to Nordic-RSE**
 * 14:10 **Keynote**: Alys Brett (Title TBA)
-* 14:40 **Keynote**: CodeRefinery (Title TBA)
+* 14:40 **Keynote**: Richard Darst - *RSE program design for equality"
 * 15:10 **About the get-together and future of Nordic-RSE**
 * 15:30 Close
 
