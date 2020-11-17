@@ -24,6 +24,7 @@ both the experience of being a RSE and tech tools useful for research.
 ### Registration
 
 You can register [here](https://indico.neic.no/event/146/).
+Please register before 12:00 on 30.november.
 
 
 ### Program
