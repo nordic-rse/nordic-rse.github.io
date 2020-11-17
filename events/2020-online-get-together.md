@@ -41,7 +41,7 @@ All times are in Central European Time.
     </tr>
     <tr class="table-primary">
       <td>14:10</td>
-      <td>Keynote: Alys Brett - <i>Research Software Engineering: the growth of a movement</i></td>
+      <td><a href="rse-growth-of-a-movement/">Keynote: Alys Brett - <i>Research Software Engineering: the growth of a movement</a></i></td>
     </tr>
     <tr class="table-primary">
       <td>14:40</td>
