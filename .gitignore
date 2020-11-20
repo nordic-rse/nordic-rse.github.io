@@ -1,4 +1,3 @@
-.sass-cache/
-_site/
-.jekyll-cache/
-Gemfile.lock
+venv/
+public/
+static/processed_images/
