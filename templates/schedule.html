@@ -1,0 +1,103 @@
+{% import "macros.html" as macros %}
+
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="col-md-12">
+
+    <h1>Nordic-RSE get-together online event, Nov 30 - Dec 2, 2020</h1>
+
+    <img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width: 900px">
+
+    <p>
+      Are you more interested in the software and technology in research than
+      making as many papers as possible? Do you wish you could share your
+      interest with others who feel the same as you? You aren't alone, and
+      the name for this feeling is being interested in
+      <a href="https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0">Research Software Engineering</a>
+      (RSE), and this conference is dedicated to it.
+    </p>
+
+    <p>
+      Our main Nordic-RSE conference has been postponed due to COVID-19 situation but you are all invited to our first
+      online <b>get-together</b> event.  We plan on an afternoon keynote
+      session on Nov 30th, followed by days of talks on Dec 1-2 (mornings
+      for workshops and talks, afternoons for discussions). Topics include
+      both the experience of being a RSE and tech tools useful for research.
+    </p>
+
+    <h2>Program</h2>
+    <p>All times are in Central European Time</p>
+
+    <h3>Monday, November 30th</h3>
+    <table class="table">
+      <tbody>
+        {{ macros::row(time="14:00", session="1.1", color="info") }}
+        {{ macros::row(time="14:10", session="1.2", color="primary", annotation="Keynote") }}
+        {{ macros::row(time="14:40", session="1.3", color="primary", annotation="Keynote") }}
+        {{ macros::row(time="15:10", session="1.4", color="info") }}
+        {{ macros::row_freeform(time="15:30", title="Close", color="light") }}
+      </tbody>
+    </table>
+
+    <h3>Tuesday, December 1st</h3>
+    <table class="table">
+      <tbody>
+        {{ macros::row_freeform(time="9:00", title="Welcome and Introduction to day’s schedule", color="light") }}
+        {{ macros::row_list(time="9:05",
+                            session="2.1",
+                            title="Lightning talks: Introducing groups (each 5 mins, slides are optional, max 3 slides)",
+                            color="info") }}
+        {{ macros::row_freeform(time="10:00", title="Morning break/ free-form conversation", color="light") }}
+        {{ macros::row_list(time="10:30",
+                            session="2.2",
+                            title="Talks",
+                            color="info") }}
+        {{ macros::row_freeform(time="11:00",
+                                title="Discussions based on the talks (participants can move between breakout rooms)",
+                                color="warning") }}
+        {{ macros::row_freeform(time="11:30", title="Lunch break/ free-form conversation", color="light") }}
+        {{ macros::row_list(time="12:30",
+                            session="2.3",
+                            title="Discussion sessions/workshops/events",
+                            color="warning") }}
+        {{ macros::row_freeform(time="13:30", title="Afternoon break/ free-form conversation", color="light") }}
+        {{ macros::row_list(time="14:00",
+                            session="2.4",
+                            title="Discussion sessions/workshops/events",
+                            color="warning") }}
+        {{ macros::row_freeform(time="15:00", title="Close", color="light") }}
+      </tbody>
+    </table>
+
+    <h3>Wednesday, December 2nd</h3>
+    <table class="table">
+      <tbody>
+        {{ macros::row_freeform(time="9:00", title="Welcome and Introduction to day’s schedule", color="light") }}
+        {{ macros::row(time="9:05", session="3.1", color="info") }}
+        {{ macros::row_freeform(time="10:00", title="Morning break/ free-form conversation", color="light") }}
+        {{ macros::row_list(time="10:30",
+                            session="3.2",
+                            title="Talks",
+                            color="info") }}
+        {{ macros::row_freeform(time="11:05",
+                                title="Discussions based on the talks (participants can move between breakout rooms)",
+                                color="warning") }}
+        {{ macros::row_freeform(time="11:30", title="Lunch break/ free-form conversation", color="light") }}
+        {{ macros::row_list(time="12:30",
+                            session="3.3",
+                            title="Discussion sessions/workshops/events",
+                            color="warning") }}
+        {{ macros::row_freeform(time="13:30", title="Afternoon break/ free-form conversation", color="light") }}
+        {{ macros::row_list(time="14:00",
+                            session="3.4",
+                            title="Discussion sessions/workshops/events",
+                            color="warning") }}
+        {{ macros::row_freeform(time="15:00", title="Closing statements", color="info") }}
+        {{ macros::row_freeform(time="15:15", title="Close", color="light") }}
+      </tbody>
+    </table>
+
+    {{ section.content | safe }}
+  </div>
+{% endblock content %}
