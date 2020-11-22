@@ -1,7 +1,6 @@
----
-layout: default
-title: "Privacy notice"
----
++++
+title = "Privacy notice"
++++
 
 # Privacy notice
 
