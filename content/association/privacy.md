@@ -77,16 +77,18 @@ Nordic RSE keeps a record of its members.
   agreement, you will not be registered.
 
 
-### Presenters
+### Presenters and authors
 
 * By submitting a request to present at an event event, your
   information is processed for the purposes of organizing the event.
-* The information processed is the information requested at submission
-  time.
+* The information processed is the information provided at submission
+  time, for example, title, abstract, any material you provide, and
+  information about the presenter (name, affiliation, possible contact
+  information - depending on what is provided).
 * Once an event is accepted, the information related to your event
-  becomes public and no longer subject to privacy protection.  This
-  (and exact information) is explicitly confirmed before publication,
-  though.
+  is published and no longer subject to privacy protection.  This
+  (and exact information which will be published) is explicitly
+  confirmed before publication, though.
 * The legal basis of processing this information is performance of a
   contract.  The contract is a request to present at an event and may
   be ended at any time prior to publication of data.  Should you not
