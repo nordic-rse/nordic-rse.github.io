@@ -1,0 +1,52 @@
+{% macro row_freeform(time, title, color) %}
+  <tr class="table-{{ color }}">
+    <td style="width: 10%">
+      {{ time }}
+    </td>
+    <td>
+      {{ title }}
+    </td>
+  </tr>
+{% endmacro row_freeform %}
+
+{% macro row(time, session, color, annotation="") %}
+  <tr class="table-{{ color }}">
+    <td style="width: 10%">
+      {{ time }}
+    </td>
+    <td>
+      {% if annotation != "" %}
+        {{ annotation }}:
+      {% endif %}
+      {% set contributions = get_section(path="events/2020-online-get-together/_index.md") %}
+      {% for contribution in contributions.pages %}
+        {% if contribution.extra.session == session %}
+          <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
+          ({{ contribution.extra.authors }})
+        {% endif %}
+      {% endfor %}
+    </td>
+  </tr>
+{% endmacro row %}
+
+{% macro row_list(time, session, title, color) %}
+  <tr class="table-{{ color }}">
+    <td style="width: 10%">
+      {{ time }}
+    </td>
+    <td>
+      {{ title }}
+      {% set contributions = get_section(path="events/2020-online-get-together/_index.md") %}
+      <ul>
+        {% for contribution in contributions.pages %}
+          {% if contribution.extra.session == session %}
+            <li>
+              <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
+              ({{ contribution.extra.authors }})
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </td>
+  </tr>
+{% endmacro row_list %}

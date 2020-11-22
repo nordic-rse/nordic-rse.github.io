@@ -1,6 +1,8 @@
 The source code behind https://nordic-rse.org.
 
-Locally previewing the pages:
+You can preview the site locally using
+[Zola](https://www.getzola.org/documentation/getting-started/overview/):
+
 ```
-$ bundle exec jekyll serve
+$ zola serve
 ```
