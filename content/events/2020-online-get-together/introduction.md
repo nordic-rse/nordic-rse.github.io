@@ -1,9 +1,9 @@
 +++
-title = "Introduction to Nordic-RSE"
+title = "Introduction"
 template = "session.html"
 [extra]
 authors = "Jarno Rantaharju"
 session = "1.1"
 +++
 
-Abstract/notes will be shared here.
+Welcome and introduction to the event and Nordic RSE.
