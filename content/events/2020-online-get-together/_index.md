@@ -1,5 +1,7 @@
 +++
+title = "Nordic-RSE online get-together 2020"
 template = "schedule.html"
+description = "Nordic RSE – Research Software Engineers in the nordics – Online get together event 30.Nov–02.Dec #NordicRSE2020"
 +++
 
 ### Proposal submissions
