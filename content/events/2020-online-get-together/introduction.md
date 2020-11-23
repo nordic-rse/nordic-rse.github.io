@@ -1,5 +1,5 @@
 +++
-title = "Introduction to Nordic-RSE"
+title = "Introduction"
 template = "session.html"
 [extra]
 authors = "Jarno Rantaharju"
