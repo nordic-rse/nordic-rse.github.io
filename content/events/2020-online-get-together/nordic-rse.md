@@ -1,5 +1,5 @@
 +++
-title = "What do you expect from Nordic RSE (part 1)"
+title = "What do you expect from Nordic RSE?"
 template = "session.html"
 [extra]
 authors = "Jarno Rantaharju"
@@ -19,9 +19,8 @@ For inspiration, you can check out the websites of other RSE associations:
  - UK: [society-rse.org](http://society-rse.org)
  - USA: [us-rse.org](http://us-rse.org)
 
-
 The purpose of this discussion is to solicit input from prospective members
-of the nordic RSE group.
+of the Nordic RSE group.
 
  a) What kind of activities they think would be useful?
   - Advocating for X (value of good software, ...)
@@ -39,10 +38,3 @@ Questions / discussion prods:
  - Would you join the Nordic RSE organization? Are you a member?
  - Why would you join as a member?
  - If you have joined other professional associations, what have they done for you?
-
-
-
-
-
-
-
