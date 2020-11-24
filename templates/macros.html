@@ -20,9 +20,11 @@
       {% endif %}
       {% set contributions = get_section(path="events/2020-online-get-together/_index.md") %}
       {% for contribution in contributions.pages %}
+        {% if contribution.extra.session %}
         {% if contribution.extra.session == session %}
           <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
           ({{ contribution.extra.authors }})
+        {% endif %}
         {% endif %}
       {% endfor %}
     </td>
@@ -39,11 +41,13 @@
       {% set contributions = get_section(path="events/2020-online-get-together/_index.md") %}
       <ul>
         {% for contribution in contributions.pages %}
+          {% if contribution.extra.session %}
           {% if contribution.extra.session == session %}
             <li>
               <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
               ({{ contribution.extra.authors }})
             </li>
+          {% endif %}
           {% endif %}
         {% endfor %}
       </ul>
