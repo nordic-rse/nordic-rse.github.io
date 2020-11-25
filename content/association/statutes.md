@@ -1,4 +1,5 @@
 +++
+title = "Statutes"
 +++
 
 
@@ -74,6 +75,5 @@
 
 
 # Föreningens Stadgar
-
 
 
