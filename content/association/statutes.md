@@ -56,7 +56,7 @@ title = "Statutes"
 7. Association meetings
     The association's annual meeting is held annually on a day determined by the board in March-July. At the
     annual meeting, a decision is made on approving the financial statements and granting discharge from liability
-    to the board and other responsible parties, the chairman of the board and other members are elected and in
+    to the board and other responsible parties, the chair of the board and other members are elected and in
     addition one or two auditors and their deputies. 
 
     The board shall convene the association's annual meeting and any additional meetings it may deem necessary
@@ -75,4 +75,3 @@ title = "Statutes"
 
 
 # Föreningens Stadgar
-
