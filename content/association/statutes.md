@@ -42,7 +42,7 @@ title = "Statutes"
     The board decides whether an annual membership fee is collected and the size of the fee.
 
 4. Board
-    The association's affairs are handled by the board, which has a chairman and 3-8 other regular members,
+    The association's affairs are handled by the board, which has a chair and 3-8 other regular members,
     as well as 0-8 deputies, all of whom are appointed at the annual meeting. The term of office of the Board
     is the time between the annual meetings.
 
