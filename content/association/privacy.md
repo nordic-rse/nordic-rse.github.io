@@ -26,7 +26,7 @@ Nordic RSE keeps a record of its members.
   be passed to others (besides other members, see below) without
   separate agreement.
 * The information processed is the information requested when
-  submitting a membership application, in particular name, job title,
+  submitting a membership application, in particular name,
   affiliation, contact information, municipality of residence
   (required by Finnish Associations Act) and other professional
   information you may wish to provide.
