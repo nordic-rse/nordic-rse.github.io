@@ -30,9 +30,11 @@ Nordic RSE keeps a record of its members.
   affiliation, contact information, municipality of residence
   (required by Finnish Associations Act) and other professional
   information you may wish to provide.
-* The Finnish Associations Act requires that the membership list is
-  public to all members.  Since membership is broad and in practice
-  anyone may join, all basic membership data should be considered
+* Membership information is stored in Google Docs.
+* The Finnish Associations Act requires that names and places of residence
+  of members are public to all members.
+  Since membership is broad and in practice
+  anyone may join, this information should be considered
   *public*.
 * Membership data is explicitly collected upon becoming a member and
   may be occasionally updated.
