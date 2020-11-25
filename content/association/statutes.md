@@ -47,7 +47,7 @@ title = "Statutes"
     is the time between the annual meetings.
 
 5. Signing the name of the association
-    The name of the association is signed by the chairman of the board, vice chairman, secretary or treasurer,
+    The name of the association is signed by the chair of the board, vice chair, secretary or treasurer,
     separately.
 
 6. Accounting period
@@ -75,5 +75,4 @@ title = "Statutes"
 
 
 # Föreningens Stadgar
-
 
