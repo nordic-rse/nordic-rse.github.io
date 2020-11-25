@@ -1,4 +1,5 @@
 +++
+title = "Association"
 +++
 
 > Note:
@@ -31,4 +32,3 @@ The board of the association will decide annually if a membership fee is collect
 # Statutes
 
 The statutes of the association can be found [here](/association/statutes).
-
