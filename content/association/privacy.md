@@ -38,8 +38,7 @@ Nordic RSE keeps a record of its members.
   *public*.
 * Membership data is explicitly collected upon becoming a member and
   may be occasionally updated.
-* Your information is actively stored for as long as you are a member,
-  but *membership history is kept permanently.*
+* Your information is actively stored for as long as you are a member.
 * Legal basis of processing information is performance of a contract.
   The contract is a membership agreement and may be ended at any time.
   Should you not wish to enter into a membership agreement, you will
