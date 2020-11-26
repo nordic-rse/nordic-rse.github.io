@@ -26,18 +26,19 @@ Nordic RSE keeps a record of its members.
   be passed to others (besides other members, see below) without
   separate agreement.
 * The information processed is the information requested when
-  submitting a membership application, in particular name, job title,
+  submitting a membership application, in particular name,
   affiliation, contact information, municipality of residence
   (required by Finnish Associations Act) and other professional
   information you may wish to provide.
-* The Finnish Associations Act requires that the membership list is
-  public to all members.  Since membership is broad and in practice
-  anyone may join, all basic membership data should be considered
+* Membership information is stored in Google Docs.
+* The Finnish Associations Act requires that names and places of residence
+  of members are public to all members.
+  Since membership is broad and in practice
+  anyone may join, this information should be considered
   *public*.
 * Membership data is explicitly collected upon becoming a member and
   may be occasionally updated.
-* Your information is actively stored for as long as you are a member,
-  but *membership history is kept permanently.*
+* Your information is actively stored for as long as you are a member.
 * Legal basis of processing information is performance of a contract.
   The contract is a membership agreement and may be ended at any time.
   Should you not wish to enter into a membership agreement, you will
