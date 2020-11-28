@@ -6,7 +6,19 @@ authors = "moderated by Samantha Wittke"
 session = "3.1"
 +++
 
+Panelists:
+- Gudrun Lotze
+- Patric Holmvall
+- Keijo Heljako
+- Ella Bingham
+- Konstantin Stadler
+- Peter Schmidt
+- Jeremy Cohen
+
+
 Topics:
-- How did you become an RSE?
 - What is your story?
-- Career paths
+- RSE careers
+- RSE and academia
+- ... 
+
