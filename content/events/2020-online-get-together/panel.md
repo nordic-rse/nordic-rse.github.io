@@ -1,5 +1,5 @@
 +++
-title = "Panel discussion: How I became an RSE - RSE careers and future opportunities"
+title = "Panel discussion: RSE careers and their position in academia"
 template = "session.html"
 [extra]
 authors = "moderated by Samantha Wittke"
