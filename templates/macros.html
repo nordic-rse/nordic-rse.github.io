@@ -31,13 +31,16 @@
   </tr>
 {% endmacro row %}
 
-{% macro row_list(time, session, title, color) %}
+{% macro row_list(time, session, title, chair="", color) %}
   <tr class="table-{{ color }}">
     <td style="width: 10%">
       {{ time }}
     </td>
     <td>
       {{ title }}
+      {% if chair %}
+        (<i>Chairing this session: {{ chair }}</i>)
+      {% endif %}
       {% set contributions = get_section(path="events/2020-online-get-together/_index.md") %}
       <ul>
         {% for contribution in contributions.pages %}
