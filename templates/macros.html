@@ -1,7 +1,7 @@
 {% macro row_freeform(time, title, color) %}
   <tr class="table-{{ color }}">
     <td style="width: 10%">
-      {{ time }}
+      {{ time }} (CET)
     </td>
     <td>
       {{ title }}
@@ -12,7 +12,7 @@
 {% macro row(time, session, color, annotation="") %}
   <tr class="table-{{ color }}">
     <td style="width: 10%">
-      {{ time }}
+      {{ time }} (CET)
     </td>
     <td>
       {% if annotation != "" %}
@@ -40,7 +40,7 @@
 {% macro row_list(time, session, title, chair="", color) %}
   <tr class="table-{{ color }}">
     <td style="width: 10%">
-      {{ time }}
+      {{ time }} (CET)
     </td>
     <td>
       {{ title }}
