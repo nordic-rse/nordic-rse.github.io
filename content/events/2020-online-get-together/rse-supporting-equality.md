@@ -17,6 +17,8 @@ this to the services which can be provided by RSEs, and present a
 vision for addressing this by developing our own skills and promoting
 RSE services to our institutions.
 
+[Slides](https://docs.google.com/presentation/d/1r-hFpfhGaC3dcZAfFSEqrx3-dCa_fBsBJwp-KLi7e4Y)
+
 ---
 
 #### Questions and comments
