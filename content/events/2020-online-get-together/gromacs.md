@@ -1,5 +1,5 @@
 +++
-title = "The evolution of software practice in GROMACS"
+title = "Helping build a developer community though good software practice"
 template = "session.html"
 [extra]
 authors = "Mark Abraham"
