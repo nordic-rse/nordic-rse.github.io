@@ -32,6 +32,7 @@ RSE services to our institutions.
   - [name=speaker] Yes, that's correct.  We can't make the same outcome, but hopefully people have the same opportunity, without implicit prerequisites that some people don't have.
 
 - What is your take on implications of cultural differences on the topic of "supporting equality of opportunity". for example, many of your ideas seem to be easier to apply in a collectivist society as opposed to an individualist society which probably most of the Nordic could be categorized as.
+  - [name=speaker] This is not my speciality, but I think most of the points I make come about because we are very individualist and assume that everyone can make their own way.  That breaks down when not everyone has the network to do that.  Perhaps you could even say, those who think they succeed as individualists often happen to have these implicit networks that make that possible, yet doesn't get recognized.
 
 - So true! I learned so much when sitting down with a RSE or with a software engineer in their offices. We had really good sessions. The software engineer did not have a background in physics, I did not have a background in computer science. But I think we made a pretty good team learning from each other. No chance to do this in the open space where I had my office.
   - Indeed. Learned so much by somebody telling/showing me: "hey look at this cool thing I found out"
