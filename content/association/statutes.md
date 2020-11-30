@@ -65,7 +65,7 @@ title = "Statutes"
 
     Remote participation in the meetings is arranged without request. The meetings are held in English.
 
-9. Amendment of statutes and dissolution of the association
+8. Amendment of statutes and dissolution of the association
     Decisions on amendments to the statutes of the association and on the dissolution of the association shall be made
     at the association's meeting with a three quarters (3/4) majority vote. The vote on amending the statutes or dissolving 
     the association must be mentioned in the letter of invitation.
