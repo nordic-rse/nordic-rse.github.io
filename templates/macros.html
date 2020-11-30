@@ -24,6 +24,12 @@
         {% if contribution.extra.session == session %}
           <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
           ({{ contribution.extra.authors }})
+          <input type='checkbox' style='display: none' id="{{ contribution.title }}" checked>
+            <label for="{{ contribution.title }}">Show abstract</label>
+            <div>
+              {{ contribution.content | safe }}
+            </div>
+          </input>
         {% endif %}
         {% endif %}
       {% endfor %}
@@ -49,6 +55,12 @@
             <li>
               <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
               ({{ contribution.extra.authors }})
+              <input type='checkbox' style='display: none' id="{{ contribution.title }}" checked>
+                <label for="{{ contribution.title }}">Show abstract</label>
+                <div>
+                  {{ contribution.content | safe }}
+                </div>
+              </input>
             </li>
           {% endif %}
           {% endif %}
