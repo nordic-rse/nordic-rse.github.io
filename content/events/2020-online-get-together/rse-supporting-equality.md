@@ -52,7 +52,7 @@ RSE services to our institutions.
     - Only if it makes a difference to the RSE. Hopefully he has no pressure to publish. Maybe the RSE team/program should be attributed.
     - I strongly think that if code is fundamental to the results, i.e. if you're modelling some physical process, the author should be credited. After all, that person is contributing to the quality of the results.
     - I argue he/she should be included!
-    - [name=speaker] When you realize there can be separate software authorship from paper authorship, there is more flexibility to do the right thing in each case.  Is the RSE doing creative work about the science or the software?
+    - [name=speaker] When you realize there can be separate software authorship from paper authorship, there is more flexibility to do the right thing in each case.  Is the RSE doing creative work about the science or the software? Is the software the science?
         - [name=w] This is a good point, maybe the [CFF](https://citation-file-format.github.io/) initiative can help with that.
 - I think some universities are still in the awkward situation that they do not acknowledge the importance of RSE. Would be good to find ways to highlight such importance with the help of the RSE network.
   - There are various sources of material about this online, and was proposed to be a topic of this event or the conference next year.  Hopefully someone can link it here
