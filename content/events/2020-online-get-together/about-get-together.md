@@ -14,6 +14,8 @@ session = "1.4"
 - Meetup organizers
 - Agenda highlights
 
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcqXRXcRVvV-ZKmhzZS_xR3K72nN-vSYSy41mEzwDb15aaSCBG7BbljfiC-YZoste4VGdqyZVVjDbS/pub?start=false&loop=false&delayms=10000)
+
 ---
 
 #### Questions and comments
