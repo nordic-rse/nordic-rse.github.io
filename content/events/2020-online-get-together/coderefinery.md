@@ -15,3 +15,5 @@ engineering.
 I will highlight how we transitioned from in-person workshops to online
 training and the team effort which made it possible to scale the workshops to
 almost 100 participants per event.
+
+Slides: <https://bit.ly/coderefinery-nordic-rse-2020>
