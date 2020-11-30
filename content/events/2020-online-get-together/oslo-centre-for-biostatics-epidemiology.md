@@ -14,6 +14,6 @@ In this lightning talk, I share a bit of my experience as the first (and current
 
 # Some links for the curious
 
-- Our Home Page: https://www.med.uio.no/imb/english/research/centres/ocbe/
-- Our public GitHub page: https://github.com/ocbe-uio/
+- Our Home Page: <https://www.med.uio.no/imb/english/research/centres/ocbe/>
+- Our public GitHub page: <https://github.com/ocbe-uio/>
 - Our Twitter account: [@OCBE_UniOslo](https://twitter.com/OCBE_UniOslo)
