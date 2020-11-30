@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Andrew Williams"
 session = "3.2"
+duration = "15 min"
 +++
 
 Ericsson has a long history in the telecommunications industry dating back more

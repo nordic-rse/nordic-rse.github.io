@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Tobias Busch"
 session = "2.2"
+duration = "15 min"
 +++
 
 Writing an R package has helped me leave my comfort zone and level up my R

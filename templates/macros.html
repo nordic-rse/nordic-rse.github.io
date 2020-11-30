@@ -54,6 +54,9 @@
           {% if contribution.extra.session == session %}
             <li>
               <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
+              {% if contribution.extra.duration %}
+                ({{ contribution.extra.duration }})
+              {% endif %}
               ({{ contribution.extra.authors }})
               <input type='checkbox' style='display: none' id="{{ contribution.title }}" checked>
                 <label for="{{ contribution.title }}">Show abstract</label>

@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Ole Saastad"
 session = "2.2"
+duration = "10 min"
 +++
 
 The just released PRACE - Best Practice Guide for Modern processors (ARM
