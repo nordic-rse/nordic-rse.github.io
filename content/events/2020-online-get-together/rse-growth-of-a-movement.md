@@ -17,6 +17,8 @@ UK of building recognition for the RSE role and developing groups, career
 structures and communities, and reflect on where we are now with this
 international movement.
 
+Slides: <https://doi.org/10.5281/zenodo.4298589>
+
 ---
 
 #### Questions and comments
