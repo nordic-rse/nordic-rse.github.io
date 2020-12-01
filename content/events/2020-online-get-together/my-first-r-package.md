@@ -16,3 +16,6 @@ adhering to best practices. I will talk about the things I have learned while
 writing my first R package, why I think writing a package should be a rite of
 passage for any aspiring research software engineer, and why R is a great tool
 for this.
+
+- Slides: <https://github.com/Teebusch/presentations>
+- Direct download link to PDF: <https://github.com/Teebusch/presentations/raw/main/My-First-R-Package.pdf>
