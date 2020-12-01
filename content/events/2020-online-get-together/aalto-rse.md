@@ -7,4 +7,7 @@ session = "2.1"
 duration = "5 min"
 +++
 
-Abstract/notes will be shared here.
+Introducing the Aalto RSE group and program.
+ * Exists inside Aalto Scientific Computing
+ * Supported by deparments, basic service
+ * Expected to grow with longer term projects
