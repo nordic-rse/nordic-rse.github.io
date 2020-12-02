@@ -14,3 +14,7 @@ research code, and discussion.
 
 In this show which we will stream during the Nordic RSE get-together, we will
 have a look at the [Rust programming language](https://www.rust-lang.org/).
+
+This can only be joined via Twitch, not breakout rooms.  Join at
+<https://www.twitch.tv/RSHour>.  Questions can be asked via a HackMD
+link at that page, no account necessary.
