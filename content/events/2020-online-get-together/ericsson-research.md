@@ -18,3 +18,5 @@ This talk illustrates the inspiration that Ericsson Research Cloud Systems and
 Platforms (CSP) is taking from the Research Software Engineering community and
 provides an introduction to one concept for a distributed application runtime
 that we are working on.
+
+Slides: <https://github.com/nordic-rse/meetups/blob/main/2020/ericsson-distributed.pdf>
