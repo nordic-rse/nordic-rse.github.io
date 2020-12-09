@@ -14,7 +14,8 @@ Do not miss our upcoming events!
 
 ## Biweekly meeting
 
-- [Biweekly Nordic RSE meeting - Wednesdays at 9:00 (CET) on even numbered weeks](/communities/join/#bi-weekly-meetings)
+
+- [Biweekly Nordic RSE meeting](/communities/join/#bi-weekly-meetings)
 
 
 ## RSE hours
