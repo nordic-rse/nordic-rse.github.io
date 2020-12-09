@@ -18,11 +18,16 @@ States](https://us-rse.org), and other countries.
 
 To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).
 
+
+
+
 ### Upcoming
 
-<a href="/events/2020-online-get-together/"><img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width:95%"></a>
-
-Do you want to know more about Nordic-RSE activies and mission? Do you want to present to others some of the tools you've been creating, and problems you've been solving? Please join us in our get together online event on 30.November – 2.December 2020. More info, registration and submission forms, list of speakers, and schedule for the three days [at the event webpage](/events/2020-online-get-together/).
+The [Nordic-RSE conference will (hopefully) be held 27-28 May 2021 in
+Stockholm](/conference/).  Of course, this is subject to the global
+situation at that time.  The conference will be modeled on other
+global RSE conferences (for example, see the schedule of [RSEConUK
+2019](https://rseconuk2019.sched.com/)).
 
 
 ### Want to know more?
@@ -30,6 +35,8 @@ Do you want to know more about Nordic-RSE activies and mission? Do you want to p
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
+
+<a href="/events/2020-online-get-together/"><img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width:95%"></a>
 
 
 ### What is a research software engineer?
