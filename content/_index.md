@@ -36,6 +36,8 @@ global RSE conferences (for example, see the schedule of [RSEConUK
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
+<a href="/events/2020-online-get-together/"><img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width:95%"></a>
+
 
 ### What is a research software engineer?
 
