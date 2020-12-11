@@ -14,30 +14,13 @@ Interesting questions that are closely related to my title:
 - How can the studying programs at the universities speed up and keep track of the “standard” developments in the business? For instance: in 2020 everybody doing some kind of development should be aware of version control and testing.
 
 
+Slides: <https://drive.google.com/file/d/1lnveZ3flvTixgIDv2kwKDIhL0saXFE1b/view?usp=sharing>
+
 ---
 
 #### Questions and comments
 
 
-How it is measured:
-
-University:
-* Teaching
-* Citations
-* Impact
-
-Researcher:
-* Creativity
-* Publications
-* Funding
-
-Research:
-* Innovative
-* ..
-* ..
-
-What is good code?
--> see slides for full content :)
 
 Follow-up questions: 
 - Does it make sense to move in this direction?
