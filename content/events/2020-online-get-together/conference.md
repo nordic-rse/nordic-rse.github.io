@@ -1,5 +1,5 @@
 +++
-title = "Collecting ideas/suggestions for Nordic RSE conference in May "
+title = "Collecting ideas/suggestions for Nordic RSE conference in May"
 template = "session.html"
 [extra]
 authors = ""
