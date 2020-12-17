@@ -26,6 +26,8 @@ suggest ideas or just listen.
 
 ### Weekly virtual coffee break
 
+**There is no virtual coffee break on December 24th**
+
 The RSE Finland group invites all interested in research software engineering
 to the weekly online coffee break at **10:00** (Europe/Helsinki) **every Thursday**.  The coffee
 break is an informal meeting, open for everyone to discuss with and listen to
