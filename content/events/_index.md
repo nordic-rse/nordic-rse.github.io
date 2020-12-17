@@ -21,6 +21,7 @@ Do not miss our upcoming events!
 ## RSE hours
 
 - [Weekly virtual coffee break - Thursdays at 10:00 (Helsinki time)](/communities/finland#weekly-virtual-coffee-break)
+**There is no virtual coffee break on December 24th**
 
 
 ## Other events
