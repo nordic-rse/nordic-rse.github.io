@@ -19,5 +19,5 @@ This can only be joined via Twitch, not breakout rooms.  Join at
 <https://www.twitch.tv/RSHour>.  Questions can be asked via a HackMD
 link at that page, no account necessary.
 
-* Final video: https://youtu.be/20e0cGBPe70
-* Session: https://researchsoftwarehour.github.io/sessions/rsh-017/
+* Final video: <https://youtu.be/20e0cGBPe70>
+* Session: <https://researchsoftwarehour.github.io/sessions/rsh-017/>
