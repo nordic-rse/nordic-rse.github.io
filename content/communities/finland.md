@@ -39,4 +39,4 @@ Language: English
 Host: Jarno Rantaharju (Dept. of Physics, University of Helsinki)
 
 To participate, join our
-Zoom chat: <https://helsinki.zoom.us/j/61411443393?pwd=MTlFeFNIWlZMMis0OHhBQVk5N1BYUT09> .
+Zoom chat: <https://aalto.zoom.us/j/62426845282> (Zoom ID 624 2684 5282).
