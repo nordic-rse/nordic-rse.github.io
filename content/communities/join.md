@@ -38,12 +38,14 @@ discuss RSE activities Nordics and you are most welcome to open new
 ### Biweekly meetings
 
 We meet every other week to discuss the development of Nordic RSE and
-plan upcoming events. We will decide on a new time for the meetings
-in spring 2021 on the #nordic-rse stream on the [CodeRefinery
-chat](https://coderefinery.zulipchat.com).
+plan upcoming events. The meeting is on each odd week on Monday at 10 CET (11 EET).
+Follow chat or agendas (see below) for exact dates.
 
-<!-- Follow the #nordic-rse stream on the [CodeRefinery
-chat](https://coderefinery.zulipchat.com) for the Zoom link. -->
+The agendas of previous and upcoming meeting are kept on
+[Google Drive](https://drive.google.com/drive/folders/1C8KBAkV4wAUb8c5OAhgYctB71A692NvB).
+
+Follow the #nordic-rse stream on the [CodeRefinery
+chat](https://coderefinery.zulipchat.com) or see the agenda for the Zoom link.
 
 
 ### Active public members
