@@ -20,7 +20,7 @@ Do not miss our upcoming events!
 
 ## RSE hours
 
-- [Weekly virtual coffee break - Thursdays at 9 CET (10EET)](/communities/finland#weekly-virtual-coffee-break)
+- [Weekly virtual coffee break - Thursdays at 9 CET (10 EET)](/communities/finland#weekly-virtual-coffee-break)
 
 
 ## Other events
