@@ -1,9 +1,21 @@
-name: Build website
+# General zola build workflow.
+# prerequisites:
+# - zola writes output to public/
+# - variables below set correctly
+#
+# Note: it is a general limitation of gh-actions can not make the very
+# first deploy to gh-pages.  It will seem to work, but not appear on
+# the CDN to be online.  You need to go to settings and set the
+# gh-pages branch, then future deploys will work.  See
+#  https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-first-deployment-with-github_token
+
+name: Build/deploy website
 
 env:
   ZOLA_VERSION: "0.13.0"
   MAIN_BRANCH: "main"
   TARGET_BRANCH: "gh-pages"
+  #CNAME: xxx   # or make a CNAME in the root
 
 on:
   push:
@@ -25,20 +37,42 @@ jobs:
         wget -O - \
            "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
         | sudo tar xzf - -C /usr/local/bin
+    - name: debugging info
+      run: |
+        zola --version
     - name: Generate HTML
       run: zola build
+    # Add CNAME, either (first one used)
+    # - file in the root
+    # - the environment variable set above
+    - name: add CNAME
+      run: |
+        if [ -f CNAME ] ; then
+            mv CNAME public/
+            exit 0
+        fi
+        if [ -n ${{ env.CNAME }} ] ; then
+            echo -n ${{ env.CNAME }} > public/CNAME
+        fi
     - name: Commit and push to target branch
-      if: github.ref == 'refs/heads/{{ env.MAIN_BRANCH }}'
-      run: |-
-        git config --global user.email "workflow-bot@example.com"
-        git config --global user.name "workflow-bot"
-        git checkout --orphan $TARGET_BRANCH
-        git rm --cached -r .
-        test -f CNAME && mv CNAME public/
-        mv public ..
-        rm -rf *
-        mv ../public/* .
-        touch .nojekyll
-        git add .
-        git commit -m "generated using zola build"
-        git push --set-upstream origin $TARGET_BRANCH --force
+      if: github.ref == 'refs/heads/${{ env.MAIN_BRANCH }}'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        force_orphan: true
+    #- name: Commit and push to target branch
+    #  if: github.ref == 'refs/heads/{{ env.MAIN_BRANCH }}'
+    #  run: |-
+    #    git config --global user.email "workflow-bot@example.com"
+    #    git config --global user.name "workflow-bot"
+    #    git checkout --orphan $TARGET_BRANCH
+    #    git rm --cached -r .
+    #    test -f CNAME && mv CNAME public/
+    #    mv public ..
+    #    rm -rf *
+    #    mv ../public/* .
+    #    touch .nojekyll
+    #    git add .
+    #    git commit -m "generated using zola build"
+    #    git push --set-upstream origin $TARGET_BRANCH --force
