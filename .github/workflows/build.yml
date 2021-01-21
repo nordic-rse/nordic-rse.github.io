@@ -15,6 +15,7 @@ env:
   ZOLA_VERSION: "0.13.0"
   MAIN_BRANCH: "main"
   TARGET_BRANCH: "gh-pages"
+  #DEPLOY_ORGANIZATION: ""
   #CNAME: xxx   # or make a CNAME in the root
 
 on:
@@ -40,6 +41,7 @@ jobs:
     - name: debugging info
       run: |
         zola --version
+        echo github.ref: ${{ github.ref }}
     - name: Generate HTML
       run: zola build
     # Add CNAME, either (first one used)
@@ -54,8 +56,8 @@ jobs:
         if [ -n ${{ env.CNAME }} ] ; then
             echo -n ${{ env.CNAME }} > public/CNAME
         fi
-    - name: Commit and push to target branch
-      if: github.ref == 'refs/heads/${{ env.MAIN_BRANCH }}'
+    - name: Deploy to gh-pages
+      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/${{ env.MAIN_BRANCH }}' }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
