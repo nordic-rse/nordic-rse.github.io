@@ -42,7 +42,7 @@ plan upcoming events. The meeting is on each odd week on Monday at 10 CET (11 EE
 Follow chat or agendas (see below) for exact dates.
 
 The agendas of previous and upcoming meeting are kept on
-[Google Drive](https://drive.google.com/drive/folders/1C8KBAkV4wAUb8c5OAhgYctB71A692NvB).
+[HackMD](https://hackmd.io/@nordic-rse/biweekly).
 
 Follow the #nordic-rse stream on the [CodeRefinery
 chat](https://coderefinery.zulipchat.com) or see the agenda for the Zoom link.
