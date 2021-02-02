@@ -1,16 +1,12 @@
 +++
 +++
 
-# The first Nordic-RSE conference has been postponed to May 2021
+# The first Nordic-RSE conference has been canceled
 
 
-Initially we have planned for October 21-22, 2020 and our attempt to move the conference to December 2020
+Initially we have planned for October 21-22, 2020 and our attempt to move the conference to May 2021
 did not seem realistic enough due to uncertainties around the COVID-19 situation.
-**The conference is not cancelled but postponed to 27-28 May 2021, still in
-Stockholm.**  Instead, we are hosting an [online meetup Nov 30 - Dec
-2](/events/2020-online-get-together/) to introduce Nordic-RSE
-and have some RSE-related talks and workshops.
-
+**The conference is cancelled**. 
 
 <!--
 
