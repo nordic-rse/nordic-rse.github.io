@@ -38,6 +38,10 @@ p {
     float:none;
 }
 
+.nav-collink {
+        color: #822361;
+}
+
 blockquote {
   border-left: .25em solid #dfe2e5;
   color: #808080;
