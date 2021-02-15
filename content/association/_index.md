@@ -9,6 +9,13 @@ title = "Association"
 > develop these statutes or the association you can join us in the
 > [Biweekly Nordic RSE meeting](/communities/join/#bi-weekly-meetings).
 > 
+> Our suggestion at the moment is to register the association in Finland, since we know the relevant laws.
+> This is not necessarily an informed decision and we would welcome input about the possibility of registering
+> in a different Nordic country.
+>
+> It should be possible for members, board members and the chair to not be citizens of the registration country.
+> Other than that, the registration process should be as straightforward as possible.
+>
 
 # The Asociation
 
