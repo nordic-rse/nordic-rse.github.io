@@ -24,3 +24,37 @@ Discuss infrastructure and management problems,
 Summarize potential solutions.
 We look to meet everyone, who feels they have the same problem in their area of research.
 
+
+#### Questions and comments
+
+Stats: 1/2 are "senior" staff, 1/4 are PhD fellows, 1/4 are others
+
+###### Problems:
+* Individual publication pressure
+  * Publications are KPI
+  * "Software won't give you a PhD"
+  * Individual work is expected
+  * This leads to people using their limited time towards personal research rather than developing tools and collaborating
+  * "Cultural inertia" among peers and leadership doesn't help
+* No clear future career and role model
+  * No good role models, no understanding of how to transition from MSc/PhD to an "RSE"
+  * No clear expectations how much freedom to do research an RSE should have - is RSE a researcher or employee?
+* No resources and training
+  * There is not enough knowledge resources and training
+  * And different backgrounds need different training
+
+###### Solutions needed:
+* Promotion of team work (both RSE + "scientists" for more papers and RSE + RSE for day-to-day working and learning)
+  * "In industry you may go to other people who would complement your skills"
+* Adoption and enforcement of industry's technical solutions for co-developing (VCS, etc.) to enable the co-developing itself
+  * Technical debt is addressed in product startups because the quality of thier product matters - doesn't quality of research matter too?
+* Allocation of time for teaching and knowledge transfer
+  * Remember "bus factor" - how many RSEs need to leave the group for its research to fall apart?
+
+But no one makes these solutions!
+
+###### Actionable steps - what we could do as the RSE society?
+
+* Public advocacy campaing towards funders - they should fund RSE projects and put pressure on leadership!
+* Advocacy campaing towards leadership - they will benefit the most because good RSE practices are beneficial in a long run, over 2-4 years
+* More educational materials within the community
