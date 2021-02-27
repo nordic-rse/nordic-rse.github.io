@@ -19,15 +19,11 @@ States](https://us-rse.org), and other countries.
 To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).
 
 
+### Biweekly meeting
 
+We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on each odd week on Monday at 10 CET (11 EET). Follow chat or agendas (see below) for exact dates.
 
-### Upcoming
-
-The [Nordic-RSE conference will (hopefully) be held 27-28 May 2021 in
-Stockholm](/conference/).  Of course, this is subject to the global
-situation at that time.  The conference will be modeled on other
-global RSE conferences (for example, see the schedule of [RSEConUK
-2019](https://rseconuk2019.sched.com/)).
+The agendas of previous and upcoming meeting are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
 
 
 ### Want to know more?
@@ -35,8 +31,6 @@ global RSE conferences (for example, see the schedule of [RSEConUK
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
-
-<a href="/events/2020-online-get-together/"><img src="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_GetTogetherNovDec2020_TwitterCard.png" style="width:95%"></a>
 
 
 ### What is a research software engineer?
@@ -54,15 +48,6 @@ to recognize and promote these people, and the [advantages to being a
 RSE are similar to being a
 researcher](https://www.software.ac.uk/blog/2013-08-23-ten-reasons-be-research-software-engineer).
 RSEs will almost always closely work with researchers.
-
-There are two typical types of RSEs:
-* Researchers who tend more towards the tech side, and not primarily
-  interested in jobs which depend on numbers of publications.
-  Typically titled "postdoc", "graduate student", "staff scientist",
-  or some such.
-* Tech staff/software developers who like the challenge and freedom of the
-  research environment.  Typically titled "application specialist", "IT
-  support", "laboratory manager", "programmer", "senior engineer", or some such.
 
 You can read more about RSEs demographics in the Nordics in [our 2018
 survey](https://github.com/nordic-rse/RSE_intro_survey).
@@ -103,12 +88,11 @@ questions, you are doing the work of a research software engineer:
 - Are you employed to develop software for research?
 - Are you spending more time developing software than conducting research?
 - Are you employed as a postdoctoral researcher, even though you predominantly work on software development?
-- Are you the person who does computers in your research group?
+- Are you the person who write research software in your research group?
 - Are you sometimes not named on research papers despite playing a fundamental part in developing the software used to create them?
 - Do you lack the metrics needed to progress your academic career, like papers
   and conference presentations, despite having made a significant contribution
   through software?
-- Are you unsure what your next career step should be?
 
 Content of this page is derived from text originally provided courtesy of the
 [UK Research Software Engineer Association](https://rse.ac.uk).
