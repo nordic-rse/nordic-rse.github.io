@@ -21,7 +21,7 @@ To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).
 
 ### Biweekly meeting
 
-We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on each odd week on Monday at 10 CET (11 EET). Follow chat or agendas (see below) for exact dates.
+We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on each odd week on Wednesday at 16 CET (17 EET). Follow chat or agendas (see below) for exact dates.
 
 The agendas of previous and upcoming meeting are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
 

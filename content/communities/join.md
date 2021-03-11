@@ -38,7 +38,7 @@ discuss RSE activities Nordics and you are most welcome to open new
 ### Biweekly meetings
 
 We meet every other week to discuss the development of Nordic RSE and
-plan upcoming events. The meeting is on each odd week on Monday at 10 CET (11 EET).
+plan upcoming events. The meeting is on each odd week on Wednesday at 16 CET (17 EET).
 Follow chat or agendas (see below) for exact dates.
 
 The agendas of previous and upcoming meeting are kept on
