@@ -8,8 +8,9 @@ Do not miss our upcoming events!
 
 ## Nordic-RSE events
 
+- [Nordic-RSE Uncoference, June 29 - 30, 2021](/events/2021-online-unconference/)
 - [Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020](/events/2020-online-get-together/)
-- [First Nordic-RSE Conference, May 27-29, 2021](/conference/)
+<!-- - [First Nordic-RSE Conference, May 27-29, 2021](/conference/) -->
 
 
 ## Biweekly meeting
