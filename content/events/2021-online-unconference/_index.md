@@ -5,8 +5,9 @@ description = "Nordic RSE – Research Software Engineers in the nordics – Unc
 
 # Nordic RSE Unconference 2021
 
-## Dates: June 29-30, 13-16 CET (3 + 3 hours)
+We are planning an online unconference on June 29–30. The program will consist of your contributions and we encourage you to submit a quick abstract for a discussion topic, talk, demonstration or any other type of program you would like to run.
 
+## Dates: June 29-30, 13-16 CET (3 + 3 hours)
 
 ## Format and goal and scope
 
