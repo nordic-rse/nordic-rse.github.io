@@ -5,7 +5,7 @@ description = "Nordic RSE – Research Software Engineers in the nordics – Unc
 
 # Nordic RSE Unconference 2021
 
-We are planning an online unconference on June 29–30. The program will consist of your contributions and we encourage you to submit a quick abstract for a discussion topic, talk, demonstration or any other type of program you would like to run.
+We are planning an online unconference on June 29–30. The program will consist of your contributions and we encourage you to submit a short abstract for a discussion topic, talk, demonstration or any other type of program you would like to run.
 
 ## Dates: June 29-30, 13-16 CET (3 + 3 hours)
 
@@ -22,7 +22,8 @@ who are or identify as RSEs but anybody interested in the interface of research 
 
 ## What contributions we welcome
 
-In principle we welcome any contributions which respect the Code of Conduct and in principle of any length. We will try to arrange a program based on your input.
+In principle we welcome any contributions which respect the [Code of Conduct](/events/2021-online-unconference/code_of_conduct)
+and in principle of any length. We will try to arrange a program based on your input.
 
 Here are some examples of possible contributions:
 - Discussion topics
@@ -40,7 +41,7 @@ Here are some examples of possible contributions:
   -->
 - But you can also pitch an idea at the event but the earlier we know the easier scheduling for us
 - There is no formal review process but we provide support giving feedback on issues.
-- Contributions should not violate CoC: "All participants, speakers, organizers, and volunteers at this event are required to conform to the following code of conduct."
+- Contributions should not violate [Code of Conduct](/events/2021-online-unconference/code_of_conduct)
 
 
 ## Tentative format
