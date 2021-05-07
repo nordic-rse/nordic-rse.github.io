@@ -50,13 +50,15 @@ Here are some examples of possible contributions:
   - 13:00 : Pitch topics + Unconference session
   - 14:20 : Break and free discussion
   - 14:40 : Unconference session
-  - 16:00 : Official end (we don't close the meeting, though)
+  - 16:00 : Social time
+  - 18:00 : Close
 
 - Day 2
   - 13:00 : Pitch topics + Unconference session
   - 14:20 : Break and free discussion
   - 14:40 : Unconference session
-  - 16:00 : Official end (We'll need to close the meeting at some point)
+  - 16:00 : Social time
+  - 18:00 : Close
 
 
 ## What we will provide
