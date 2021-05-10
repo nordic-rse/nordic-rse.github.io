@@ -26,35 +26,37 @@ In principle we welcome any contributions which respect the [Code of Conduct](/e
 and in principle of any length. We will try to arrange a program based on your input.
 
 Here are some examples of possible contributions:
-- Discussion topics
+- Discussion topics (about software, the research software community, or anything related to RSEs)
 - Demonstrations (tools you like, software you wrote)
 - Quick workshops or reprohacks (only 3 hours in a day)
-- Talks
+- Talks 
 - Workshops and lessons: teach us something new
 - Can also be something unfinished and almost working where you would like to get feedback on
 
 ## How to contribute ideas
 
-- You can submit a short abstract as a [GitHub issue](https://github.com/nordic-rse/nordic-rse.github.io/issues/new).
+- Come to the meeting and pitch your discussion idea, talk or workshop.
+- Get support and feedback on your idea before the event by submitting
+  it to as a [GitHub issue](https://github.com/nordic-rse/nordic-rse.github.io/issues/new).
   <!-- - You can also email us at ... Note that your name and abstract will be published.
   What is our email?
   -->
-- But you can also pitch an idea at the event but the earlier we know the easier scheduling for us
-- There is no formal review process but we provide support giving feedback on issues.
 - Contributions should not violate [Code of Conduct](/events/2021-online-unconference/code_of_conduct)
 
 
 ## Tentative format
 
 - Day 1
-  - 13:00 : Pitch topics + Unconference session
+  - 13:00 : Pitch topics
+  - 13:10 : Unconference session
   - 14:20 : Break and free discussion
   - 14:40 : Unconference session
   - 16:00 : Social time
   - 18:00 : Close
 
 - Day 2
-  - 13:00 : Pitch topics + Unconference session
+  - 13:00 : Pitch topics
+  - 13:10 : Unconference session
   - 14:20 : Break and free discussion
   - 14:40 : Unconference session
   - 16:00 : Social time
@@ -64,7 +66,7 @@ Here are some examples of possible contributions:
 ## What we will provide
 
 - Code of conduct
-- Rooms Zoom?
+- Zoom (with breakout rooms for unconference sessions)
 - HackMD pages
 - Streaming and recording (opt-in)
 - Website (this one)
