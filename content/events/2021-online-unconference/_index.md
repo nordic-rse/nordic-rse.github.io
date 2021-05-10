@@ -49,7 +49,7 @@ Here are some examples of possible contributions:
 - Day 1
   - 13:00 : Pitch topics
   - 13:10 : Unconference session
-  - 14:20 : Break and free discussion
+  - 14:20 : Break
   - 14:40 : Unconference session
   - 16:00 : Social time
   - 18:00 : Close
@@ -57,7 +57,7 @@ Here are some examples of possible contributions:
 - Day 2
   - 13:00 : Pitch topics
   - 13:10 : Unconference session
-  - 14:20 : Break and free discussion
+  - 14:20 : Break
   - 14:40 : Unconference session
   - 16:00 : Social time
   - 18:00 : Close
