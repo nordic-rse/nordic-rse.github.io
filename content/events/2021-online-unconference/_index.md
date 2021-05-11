@@ -17,7 +17,7 @@ In the unconference format we encourage participants to shape the program and
 we will provide support and infrastructure for that.
 
 This event is not only limited to the Nordics and not only limited to participants
-who are or identify as RSEs but anybody interested in the interface of research and software and data is welcome.
+who are or identify as RSEs, but anybody interested in the interface of research, software and data is welcome.
 
 
 ## What contributions we welcome
