@@ -70,3 +70,4 @@ Here are some examples of possible contributions:
 - HackMD pages
 - Streaming and recording (opt-in)
 - Website (this one)
+- Continuing conversation on our [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse) before, during and after the event.
