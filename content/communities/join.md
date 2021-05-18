@@ -38,8 +38,8 @@ discuss RSE activities Nordics and you are most welcome to open new
 ### Biweekly meetings
 
 We meet every other week to discuss the development of Nordic RSE and
-plan upcoming events. The meeting is on each odd week on Wednesday at 16 CET (17 EET).
-Follow chat or agendas (see below) for exact dates.
+plan upcoming events. The meeting is on each odd week.
+Follow the [calendar](/events/#calendar), chat or agenda (see below) for exact dates and times.
 
 The agendas of previous and upcoming meeting are kept on
 [HackMD](https://hackmd.io/@nordic-rse/biweekly).
@@ -60,6 +60,7 @@ information about our activities.
 - Jarno Rantaharju, Researcher at the University of Helsinki
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
+- Patric Holmvall, RSE/Postdoc at the Department for Physics and Astronomy, Uppsala University, Uppsala
 
 If you want to be listed here, please send a pull request.  You can
 get in contact with us on the CodeRefinery chat (#nordic-rse stream,
