@@ -26,26 +26,29 @@ who are or identify as RSEs, but anybody interested in the interface of research
 
 ## What contributions we welcome
 
-In principle we welcome any contributions which respect the [Code of Conduct](./code-of-conduct)
-and in principle of any length. We will try to arrange a program based on your input.
+We welcome *any kind of contribution* which respects the [Code of Conduct](./code-of-conduct). 
+We will try to arrange a program based on your input.
 
 Here are some examples of possible contributions:
-- Discussion topics (about software, the research software community, or anything related to RSEs)
-- Demonstrations (tools you like, software you wrote)
-- Quick workshops or [ReproHacks](https://reprohack.github.io/reprohack-hq/) (only 3 hours in a day)
-- Talks 
-- Workshops and lessons: teach us something new
-- Can also be something unfinished and almost working where you would like to get feedback on
+- *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
+- *Demonstrations:* show us some tools or softwares that you like
+- *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (only 3 hours in a day)
+- *Talks*: teach us something new 
+- *On going projects*: share with others something unfinished and almost working where you would like to get feedback on
+- *Something else*: something you would like to share with others that does not fit any of the previuous points? We are looking forward to hearing about it!
 
 
 ## How to contribute ideas
 
-- Come to the meeting and pitch your discussion idea, talk or workshop.
-- Get support and feedback on your idea before the event by submitting
-  it to as a [GitHub issue](https://github.com/nordic-rse/nordic-rse.github.io/issues/new).
-- You can also email us at <nordic-rse-organizers@neic.no>.
-- Note that we will publish name and abstracts of contributions.
-- Contributions should not violate [Code of Conduct](./code-of-conduct).
+
+- Would like to participate but don't really know how? Chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), we will figure out something together.
+- Once you have an idea for your contribution, open a [GitHub issue](https://github.com/nordic-rse/nordic-rse.github.io/issues/new) using **THIS TEMPLATE**. Note that you don't need a fully polished proposal at this step, you will still receive plenty of feedback and support on github. 
+- You can also email us at <nordic-rse-organizers@neic.no>. In this case, please follow the **SAME TEMPLATE**.
+- For organisation purposes, we kindly ask you to submit your idea **by XX.06.2021**. 
+- If you miss the deadline, you are still welcome to join the unconference and add you idea on hackmd. **AND THEN WHAT?**
+- Any kind of contribution is welcomed, however please bear in mind that 
+   - we will publish name and abstracts of contributions.
+   - contributions should not violate the [Code of Conduct](./code-of-conduct).
 
 
 ## Tentative format
