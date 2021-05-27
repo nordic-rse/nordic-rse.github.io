@@ -42,9 +42,10 @@ Here are some examples of possible contributions:
 
 
 - Would like to participate but don't really know how? Chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), we will figure out something together.
-- Once you have an idea for your contribution, open a [GitHub issue](https://github.com/nordic-rse/nordic-rse.github.io/issues/new) using **THIS TEMPLATE**. Note that you don't need a fully polished proposal at this step, you will still receive plenty of feedback and support on github. 
-- You can also email us at <nordic-rse-organizers@neic.no>. In this case, please follow the **SAME TEMPLATE**.
-- For organisation purposes, we kindly ask you to submit your idea **by XX.06.2021**. 
+- Once you have an idea for your contribution, open a github issue [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new/choose), use the *Unconference contribution* template. 
+- You can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md)
+- Note that you don't need to submit a fully polished proposal, you can update your idea until the unconference and you will receive all the feedback and support that you need.
+- For organisation purposes, we kindly ask you to submit your idea by June 28th 2021. 
 - If you miss the deadline, you are still welcome to join the unconference and add you idea on hackmd. **AND THEN WHAT?**
 - Any kind of contribution is welcomed, however please bear in mind that 
    - we will publish name and abstracts of contributions.
