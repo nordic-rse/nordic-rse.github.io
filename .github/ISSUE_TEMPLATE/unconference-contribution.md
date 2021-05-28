@@ -15,6 +15,7 @@ assignees: ''
 - [ ] Discussion (up to 80 minutes)
 - [ ] Demonstration (up to 80 minutes)
 - [ ] Workshop (up to 80 minutes)
+- [ ] Something else (up to 80 minutes)
 
 ### Do you need help?
 - [ ] I would like someone to help me plan the contribution
