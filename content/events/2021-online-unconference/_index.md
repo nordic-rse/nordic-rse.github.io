@@ -46,7 +46,7 @@ Here are some examples of possible contributions:
 - You can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md)
 - Note that you don't need to submit a fully polished proposal, you can update your idea until the unconference and you will receive all the feedback and support that you need.
 - For organisation purposes, we kindly ask you to submit your idea by June 28th 2021. 
-- If you miss the deadline, you are still welcome to join the unconference and add you idea on hackmd. **AND THEN WHAT?**
+- If you miss the deadline, you are still welcome to join the unconference. You will have the chance to add your contribution live during the event.
 - Any kind of contribution is welcomed, however please bear in mind that 
    - we will publish name and abstracts of contributions.
    - contributions should not violate the [Code of Conduct](./code-of-conduct).
