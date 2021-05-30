@@ -34,22 +34,21 @@ Here are some examples of possible contributions:
 - *Demonstrations:* show us some tools or software that you like
 - *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (only 3 hours in a day)
 - *Talks*: teach us something new 
-- *On going projects*: share with others something unfinished and almost working where you would like to get feedback on
+- *On-going projects*: share with others something unfinished and almost working where you would like to get feedback on
 - *Something else*: something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
 
 
 ## How to contribute ideas
-
 
 - Would like to participate but don't really know how? Chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), we will figure out something together.
 - Once you have an idea for your contribution, open a github issue [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new/choose), use the *Unconference contribution* template. 
 - You can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md)
 - Note that you don't need to submit a fully polished proposal, you can update your idea until the unconference and you will receive all the feedback and support that you need.
 - For organisation purposes, we kindly ask you to submit your idea by June 28th 2021. 
-- If you miss the deadline, you are still welcome to join the unconference. You will have the chance to add your contribution live during the event.
+- If you miss the deadline, you are still welcome to join the unconference. You will have the chance to add your contribution live during the event. But the earlier we know, the easier it is for us to schedule the contributions.
 - Any kind of contribution is welcomed, however please bear in mind that 
    - we will publish name and abstracts of contributions.
-   - contributions should not violate the [Code of Conduct](./code-of-conduct).
+   - contributions have to respect the [Code of Conduct](./code-of-conduct).
 
 
 ## Tentative format
