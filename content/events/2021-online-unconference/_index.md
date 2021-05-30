@@ -37,7 +37,7 @@ Here are some examples of possible contributions:
 - *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (only 3 hours in a day)
 - *Talks*: teach us something new
 - *On-going projects*: share with others something unfinished and almost working where you would like to get feedback on
-- *Something else*: something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
+- *Something else*: is there something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
 
 
 ## How to contribute ideas
