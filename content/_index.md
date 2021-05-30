@@ -16,12 +16,13 @@ We are modeled on similar international networks in the
 [Netherlands](https://nl-rse.org/), [United
 States](https://us-rse.org), and other countries.
 
-To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).
+**To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).**
 
 
 ### Unconference
 
 We are planning an [online unconference](/events/2021-online-unconference) on June 29–30. The program will consist of your contributions and we encourage you to submit a short abstract for a discussion topic, talk, demonstration or any other type of program you would like to run.
+
 
 ### Biweekly meeting
 
