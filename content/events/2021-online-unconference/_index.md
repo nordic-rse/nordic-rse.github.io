@@ -31,11 +31,11 @@ We will try to arrange a program based on your input.
 
 Here are some examples of possible contributions:
 - *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
-- *Demonstrations:* show us some tools or softwares that you like
+- *Demonstrations:* show us some tools or software that you like
 - *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (only 3 hours in a day)
 - *Talks*: teach us something new 
 - *On going projects*: share with others something unfinished and almost working where you would like to get feedback on
-- *Something else*: something you would like to share with others that does not fit any of the previuous points? We are looking forward to hearing about it!
+- *Something else*: something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
 
 
 ## How to contribute ideas
