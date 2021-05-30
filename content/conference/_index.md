@@ -3,10 +3,12 @@
 
 # The first Nordic-RSE conference has been canceled
 
-
 Initially we have planned for October 21-22, 2020 and our attempt to move the conference to May 2021
 did not seem realistic enough due to uncertainties around the COVID-19 situation.
 **The conference is cancelled**. 
+
+To keep up the momentum, we plan an [online unconference June 29-30,
+2021](/events/2021-online-unconference/). Please join us there!
 
 <!--
 
