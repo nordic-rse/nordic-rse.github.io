@@ -7,6 +7,8 @@ description = "Nordic RSE – Research Software Engineers in the nordics – Unc
 
 ## Dates: June 29-30, 13-16 CET (3 + 3 hours with optional social time)
 
+#### [Click here to register](https://indico.neic.no/event/158/)
+
 We are planning an online unconference on June 29–30. The program will consist
 of **your contributions** and we encourage you to submit a short abstract for a
 discussion topic, talk, demonstration, or any other type of program you would
