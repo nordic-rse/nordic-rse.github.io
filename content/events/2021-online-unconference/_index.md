@@ -13,7 +13,7 @@ The program will consist mainly of **your contributions** and we encourage you t
 discussion topic, talk, demonstration, or any other type of program you would
 like to run beforehand (instructions below). But we will also collect on-site suggestions for contributions. No need to plan ahead! 
 
-To kick off the event on 29th we also have invited a few interesting talks. Stay tuned for updates!
+To kick off the event on 29th we also have invited some speakers. Stay tuned for updates!
 
 ## Format and scope
 
