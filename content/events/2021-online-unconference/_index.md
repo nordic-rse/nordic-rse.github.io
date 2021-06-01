@@ -17,7 +17,7 @@ To kick off the event on 29th we also have invited a few interesting talks. Stay
 
 ## Format and scope
 
-We would like this event to be an informal space for exchanging ideas and experiences, learning something new and networking with people of the same interest group. You do not have to be a Research Software Engineer or a Researcher or a Software Engineer nor do you have to be in or be related to the Nordics. Everyone is welcome and encouraged to participate and shape the event to what you would like it to be!
+We would like this event to be an informal space for exchanging ideas and experiences, learning something new and networking with people of the same interest group. You do not have to be a Research Software Engineer or a Researcher or a Software Engineer nor do you have to be in or be related to the Nordics. Everyone interested in RSE activities is welcome and encouraged to participate and shape the event to what you would like it to be!
 
 The nordicRSE team will provide support and infrastructure and give a short overview of the nordicRSE activities.
 
@@ -42,7 +42,7 @@ Ready to submit your idea? - Please use the [unconference contribution issue tem
 
 You may also come and chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), where we can figure out contributions together.
 
-Uncomfortable with github issues? - you can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md) as much as possible.
+You can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md) as much as possible.
 
 If you want to be part of the published program, we kindly ask you to **submit your idea by June 28th 2021** via any of the above mentioned channels.
 And remember, no stress, if you cannot submit anything before the event, you will still have the chance to add your contribution live during the event. But the earlier we know, the easier it is for us to schedule the contributions.
@@ -53,7 +53,7 @@ By submitting a contribution you agree
 
 ## Tentative schedule
 
-We will publish submitted contributions here weekyly as soon as they are confirmed.
+We will publish submitted contributions here as soon as they are confirmed.
 
 - June 29 (all times in CEST)
   - 13:00 : Welcome and introduction
