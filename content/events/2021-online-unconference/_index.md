@@ -62,7 +62,7 @@ We will publish submitted contributions here as soon as they are confirmed.
   - 13:50 : Break
   - 14:00 : Invited talk III
   - 14:20 : Invited talk IIII
-  - 14:40 : Q&A and nordicRSE
+  - 14:40 : Q&A and Nordic-RSE
   - 15:00 : Break
   - 15:10 : Introduction to the unconference format
   - 15:15 : Unconference session (possibly parallel)
