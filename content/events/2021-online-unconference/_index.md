@@ -56,19 +56,25 @@ By submitting a contribution you agree
 We will publish submitted contributions here as soon as they are confirmed.
 
 - June 29 (all times in CEST)
-  - 13:00 : Welcome and introduction
-  - 13:10 : Invited talks and NordicRSE
-  - 14:20 : Break
-  - 14:40 : Unconference session
+  - 13:00 : Welcome 
+  - 13:10 : Invited talk I
+  - 13:30 : Invited talk II
+  - 13:50 : Break
+  - 14:00 : Invited talk III
+  - 14:20 : Invited talk IIII
+  - 14:40 : Q&A and nordicRSE
+  - 15:00 : Break
+  - 15:10 : Introduction to the unconference format
+  - 15:15 : Unconference session (possibly parallel)
   - 16:00 : Close
   - Zoom remains open for Social time until ~18:00
  
 
 - June 30 (all times in CEST)
   - 13:00 : Introduction to the day and last minute contributions
-  - 13:10 : Unconference session
+  - 13:10 : Unconference session (possibly parallel)
   - 14:20 : Break
-  - 14:40 : Unconference session
+  - 14:40 : Unconference session (possibly parallel)
   - 16:00 : Close
   - Zoom remains open for Social time until ~18:00
 
