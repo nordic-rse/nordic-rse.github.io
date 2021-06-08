@@ -11,11 +11,12 @@ assignees: ''
 
 ### It is a:
 - [ ] Short talk (10 minutes including discussion)
-- [ ] Longer talk (30 minutes including discussion)
-- [ ] Discussion (up to 80 minutes)
-- [ ] Demonstration (up to 80 minutes)
-- [ ] Workshop (up to 80 minutes)
-- [ ] Something else (up to 80 minutes)
+- [ ] Longer talk (20 minutes including discussion)
+- [ ] Discussion (up to 70 minutes)
+- [ ] Demonstration (up to 70 minutes)
+- [ ] Workshop (up to 70 minutes)
+- [ ] ReproHack (up to 70 minutes)
+- [ ] Something else (up to 70 minutes)
 
 ### Do you need help?
 - [ ] I would like someone to help me plan the contribution
