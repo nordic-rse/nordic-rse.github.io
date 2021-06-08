@@ -3,9 +3,9 @@ title = "Nordic-RSE online unconference"
 description = "Nordic RSE – Research Software Engineers in the nordics – Unconference 29–30.June #NordiRSEunconf"
 +++
 
-# Nordic RSE Unconference 2021, June 29-30
+# Nordic RSE Unconference 2021
 
-## Dates: June 29-30, 13-16 CET (3 + 3 hours with optional social time)
+## June 29-30, 13-16 CET (3 + 3 hours with optional social time)
 
 #### [Click here to register](https://indico.neic.no/event/158/)
 
@@ -15,11 +15,12 @@ like to run beforehand (instructions below). But we will also collect on-site su
 
 To kick off the event on 29th we also have invited some speakers. Stay tuned for updates!
 
+
 ## Format and scope
 
-We would like this event to be an informal space for exchanging ideas and experiences, learning something new and networking with people of the same interest group. You do not have to be a Research Software Engineer or a Researcher or a Software Engineer nor do you have to be in or be related to the Nordics. Everyone interested in RSE activities is welcome and encouraged to participate and shape the event to what you would like it to be!
+We would like this event to be an informal space for exchanging ideas and experiences, learning something new, and networking with people of the same interest group. You do not have to be a Research Software Engineer or a Researcher or a Software Engineer nor do you have to be in or be related to the Nordics. Everyone interested in RSE activities is welcome and encouraged to participate and shape the event to what you would like it to be!
 
-The nordicRSE team will provide support and infrastructure and give a short overview of the nordicRSE activities.
+The Nordic-RSE team will provide support and infrastructure and give a short overview of the Nordic-RSE activities.
 
 
 ## Contributing
@@ -47,9 +48,9 @@ You can also email us at <nordic-rse-organizers@neic.no>. In this case, please t
 If you want to be part of the published program, we kindly ask you to **submit your idea by June 28th 2021** via any of the above mentioned channels.
 And remember, no stress, if you cannot submit anything before the event, you will still have the chance to add your contribution live during the event. But the earlier we know, the easier it is for us to schedule the contributions.
 
-By submitting a contribution you agree 
-   - that your name and abstract of the contribution will be published in our program and that
-   - your contribution respects the [Code of Conduct](./code-of-conduct).
+By submitting a contribution you agree that:
+   - your name and abstract of the contribution will be published in our program
+   - your contribution respects the [Code of Conduct](./code-of-conduct)
 
 ## Tentative schedule
 
@@ -68,7 +69,6 @@ We will publish submitted contributions here as soon as they are confirmed.
   - 15:15 : Unconference session (possibly parallel)
   - 16:00 : Close
   - Zoom remains open for Social time until ~18:00
- 
 
 - June 30 (all times in CEST)
   - 13:00 : Introduction to the day and last minute contributions
@@ -79,7 +79,7 @@ We will publish submitted contributions here as soon as they are confirmed.
   - Zoom remains open for Social time until ~18:00
 
 
-## NordicRSE provides
+## Nordic-RSE provides
 
 - [Code of Conduct](./code-of-conduct/)
 - Zoom (with breakout rooms for unconference sessions)
@@ -87,5 +87,3 @@ We will publish submitted contributions here as soon as they are confirmed.
 - Streaming and recording (opt-in)
 - Continuing conversation on our [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse)
   before, during, and after the event
-  
- 
