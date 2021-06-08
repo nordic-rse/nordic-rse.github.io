@@ -21,7 +21,7 @@ assignees: ''
 ### Do you need help?
 - [ ] I would like someone to help me plan the contribution
 
-### Would you be comfortable if your event was live-streamed/recorded?
+### Would you be comfortable if your event was recorded?
 - [ ] Yes
 - [ ] No
 
