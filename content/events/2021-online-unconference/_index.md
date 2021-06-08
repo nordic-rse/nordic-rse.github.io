@@ -38,7 +38,7 @@ Here are some examples to spark ideas:
 - *On-going projects*: share with others something unfinished and almost working that you would like to get feedback on
 - *Something else*: is there something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
 
-Ready to submit your idea? - Please use the [unconference contribution issue template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md) to let us know. It does not have to be polished yet, but so that the community gets the idea. We can polish it together if you want to :)
+Ready to submit your idea? - Please use the [unconference contribution issue template](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?template=unconference-contribution.md&title=Unconference+event) to let us know. It does not have to be polished yet, but so that the community gets the idea. We can polish it together if you want to :)
 
 You may also come and chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), where we can figure out contributions together.
 
