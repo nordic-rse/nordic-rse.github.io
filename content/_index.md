@@ -21,7 +21,7 @@ States](https://us-rse.org), and other countries.
 
 ### Unconference
 
-We are planning an [online unconference](/events/2021-online-unconference) on June 29–30. The program will consist of your contributions and we encourage you to submit a short abstract for a discussion topic, talk, demonstration or any other type of program you would like to run.
+We are planning an [online unconference](/events/2021-online-unconference) on June 29–30. The program will consist of your contributions and **we encourage you to submit a short abstract** for a discussion topic, talk, demonstration or any other type of program you would like to run.
 
 
 ### Biweekly meeting
