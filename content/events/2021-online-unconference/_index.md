@@ -26,10 +26,10 @@ The Nordic-RSE team will provide support and infrastructure and give a short ove
 ## Contributing
 
 As an informal event, we welcome *any kind of contribution* which respects the [Code of Conduct](./code-of-conduct).
-If you have an idea you would like to discuss for the event, we encourage you to submit an issue to [this repository](https://github.com/nordic-rse/nordic-rse.github.io) to discuss with the community and secure a place in the program. 
+If you have an idea you would like to discuss for the event, we encourage you to submit an issue [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?template=unconference-contribution.md&title=Unconference+event) to discuss with the community and secure a place in the program. 
 No idea yet? - No problem, we will also accept last minute contributions during the event. 
 
-Please also have a look at our [time slot suggestions](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md).
+Please also have a look at our [time slot suggestions](https://github.com/nordic-rse/conference-contributions/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md).
 
 Here are some examples to spark ideas:
 - *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
@@ -39,11 +39,11 @@ Here are some examples to spark ideas:
 - *On-going projects*: share with others something unfinished and almost working that you would like to get feedback on
 - *Something else*: is there something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
 
-Ready to submit your idea? - Please use the [unconference contribution issue template](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?template=unconference-contribution.md&title=Unconference+event) to let us know. It does not have to be polished yet, but so that the community gets the idea. We can polish it together if you want to :)
+Ready to submit your idea? - Please use the [unconference contribution issue template](https://github.com/nordic-rse/conference-contributions/issues/new?template=unconference-contribution.md&title=Unconference+event) to let us know. It does not have to be polished yet, but so that the community gets the idea. We can polish it together if you want to :)
 
 You may also come and chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), where we can figure out contributions together.
 
-You can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/nordic-rse.github.io/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md) as much as possible.
+You can also email us at <nordic-rse-organizers@neic.no>. In this case, please try to follow [this template](https://github.com/nordic-rse/conference-contributions/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md) as much as possible.
 
 If you want to be part of the published program, we kindly ask you to **submit your idea by June 28th 2021** via any of the above mentioned channels.
 And remember, no stress, if you cannot submit anything before the event, you will still have the chance to add your contribution live during the event. But the earlier we know, the easier it is for us to schedule the contributions.
