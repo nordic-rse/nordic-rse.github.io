@@ -88,3 +88,23 @@ We will publish submitted contributions here as soon as they are confirmed.
 - Streaming and recording (opt-in)
 - Continuing conversation on our [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse)
   before, during, and after the event
+ 
+## Share the event
+
+Do you want to share the event with your colleagues/friends? Here are a few texts that you can reuse, feel also free to modify them as you like
+
+### Short teaser
+Nordic-RSE invites everyone interested in "Research Software Engineering" activities to join & shape the agenda of the Nordic-RSE unconference (lightweight get-together) on June 29-30. See [https://nordic-rse.org/events/2021-online-unconference/](https://nordic-rse.org/events/2021-online-unconference/) for more details
+
+### Longer teaser
+
+* Are you developing software or tools that are driven by research/engineering in either academia or industry?
+* Need to network, share knowledge and experiences with your peers? 
+* Maybe you have heard of something called research software engineers and you would like to know more? 
+   
+Nordic-RSE invites everyone interested in such topics to join our online unconference (lightweight get-together) on June 29 and 30, where we let the participants shape the agenda ("birds of a feather"). To kick off the event, we also have four invited speakers, including:
+* [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing) _"Julia for research software engineers"_, 
+* [Athanasia Monica](https://drmowinckels.io/about/) (University of Oslo) _"Developing and distributing in-house R-packages"_, 
+* [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum Technology) _"Keep your code alive - lessons from the QuTiP project"_.
+
+Next, the floor is yours! Come sharing your work and/or listening what others have been doing. Submit proposals and find out more at: [https://nordic-rse.org/events/2021-online-unconference/](https://nordic-rse.org/events/2021-online-unconference/)
