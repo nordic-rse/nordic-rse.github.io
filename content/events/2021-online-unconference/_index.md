@@ -75,6 +75,7 @@ We will publish submitted contributions here as soon as they are confirmed.
   - 13:10 : Unconference session (possibly parallel)
   - 14:20 : Break
   - 14:40 : Unconference session (possibly parallel)
+  - 15:50 : Conclusion and follow-up
   - 16:00 : Close
   - Zoom remains open for Social time until ~18:00
 
