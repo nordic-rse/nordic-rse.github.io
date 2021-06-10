@@ -1,13 +1,12 @@
 +++
-title = "Nordic-RSE online unconference"
+title = "Nordic-RSE online unconference 2021"
 description = "Nordic RSE – Research Software Engineers in the nordics – Unconference 29–30.June #NordiRSEunconf"
+template = "section-with-toc.html"
+[extra]
+subtitle = "June 29-30, 13-16 CET (3 + 3 hours with optional social time)"
 +++
 
-# Nordic RSE Unconference 2021
-
-## June 29-30, 13-16 CET (3 + 3 hours with optional social time)
-
-#### [Click here to register](https://indico.neic.no/event/158/)
+<a class="btn btn-success" href="https://indico.neic.no/event/158/" data-mode="1" target="_blank">Click here to register</a>
 
 The program will consist mainly of **your contributions** and we encourage you to submit a short abstract for a
 discussion topic, talk, demonstration, or any other type of program you would

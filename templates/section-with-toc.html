@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="col-md-9">
+    <h1>{{ section.title }}</h1>
+    <h2>{{ section.extra.subtitle }}</h1>
+  </div>
+  <div class="col-md-3">
+    {% if section.toc %}
+      <ul>
+      {% for h1 in section.toc %}
+        <li>
+          <a href="{{h1.permalink | safe}}">{{ h1.title }}</a>
+          {% if h1.children %}
+            <ul>
+              {% for h2 in h1.children %}
+                <li>
+                  <a href="{{h2.permalink | safe}}">{{ h2.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+
+  <div class="col-md-12">
+    {{ section.content | safe }}
+  </div>
+{% endblock content %}
