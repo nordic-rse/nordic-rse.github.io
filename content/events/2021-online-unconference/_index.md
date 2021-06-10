@@ -55,28 +55,42 @@ By submitting a contribution you agree that:
 
 We will publish submitted contributions here as soon as they are confirmed.
 
-- June 29 (all times in CEST)
-  - 13:00 : Welcome
-  - 13:10 : Invited talk I
-  - 13:30 : Invited talk II
-  - 13:50 : Break
-  - 14:00 : Invited talk III
-  - 14:20 : Invited talk IIII
-  - 14:40 : Q&A and Nordic-RSE
-  - 15:00 : Break
-  - 15:10 : Introduction to the unconference format
-  - 15:15 : Unconference session (possibly parallel)
-  - 16:00 : Close
-  - Zoom remains open for Social time until ~18:00
+#### June 29
 
-- June 30 (all times in CEST)
-  - 13:00 : Introduction to the day and last minute contributions
-  - 13:10 : Unconference session (possibly parallel)
-  - 14:20 : Break
-  - 14:40 : Unconference session (possibly parallel)
-  - 15:50 : Conclusion and follow-up
-  - 16:00 : Close
-  - Zoom remains open for Social time until ~18:00
+(all times in CEST)
+
+- 13:00 : Welcome
+- 13:10 : Invited talks
+  - 13:10 : [Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo)
+            _"Developing and distributing in-house R-packages"_
+            ([abstract](./in-house-r-packages/))
+  - 13:30 : [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum Technology)
+            _"Keep your code alive - lessons from the QuTiP project"_
+            ([abstract](./keep-your-code-alive/))
+  - 13:50 : Break
+  - 14:00 : [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing)
+            _"Julia for research software engineers"_
+            ([abstract](./julia-for-rse/))
+  - 14:20 : TBA
+- 14:40 : Q&A and Nordic-RSE
+- 15:00 : Break
+- 15:10 : Introduction to the unconference format
+- 15:15 : Unconference session (possibly parallel)
+- 16:00 : Close
+- Zoom remains open for Social time until ~18:00
+
+
+#### June 30
+
+(all times in CEST)
+
+- 13:00 : Introduction to the day and last minute contributions
+- 13:10 : Unconference session (possibly parallel)
+- 14:20 : Break
+- 14:40 : Unconference session (possibly parallel)
+- 15:50 : Conclusion and follow-up
+- 16:00 : Close
+- Zoom remains open for Social time until ~18:00
 
 
 ## Nordic-RSE provides
