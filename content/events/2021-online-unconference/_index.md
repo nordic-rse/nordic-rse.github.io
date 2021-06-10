@@ -11,7 +11,7 @@ description = "Nordic RSE – Research Software Engineers in the nordics – Unc
 
 The program will consist mainly of **your contributions** and we encourage you to submit a short abstract for a
 discussion topic, talk, demonstration, or any other type of program you would
-like to run beforehand (instructions below). But we will also collect on-site suggestions for contributions. No need to plan ahead! 
+like to run beforehand (instructions below). But we will also collect on-site suggestions for contributions. No need to plan ahead!
 
 To kick off the event on 29th we also have invited some speakers. Stay tuned for updates!
 
@@ -26,8 +26,8 @@ The Nordic-RSE team will provide support and infrastructure and give a short ove
 ## Contributing
 
 As an informal event, we welcome *any kind of contribution* which respects the [Code of Conduct](./code-of-conduct).
-If you have an idea you would like to discuss for the event, we encourage you to submit an issue [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?template=unconference-contribution.md&title=Unconference+event) to discuss with the community and secure a place in the program. 
-No idea yet? - No problem, we will also accept last minute contributions during the event. 
+If you have an idea you would like to discuss for the event, we encourage you to submit an issue [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?template=unconference-contribution.md&title=Unconference+event) to discuss with the community and secure a place in the program.
+No idea yet? - No problem, we will also accept last minute contributions during the event.
 
 Please also have a look at our [time slot suggestions](https://github.com/nordic-rse/conference-contributions/blob/main/.github/ISSUE_TEMPLATE/unconference-contribution.md).
 
@@ -57,7 +57,7 @@ By submitting a contribution you agree that:
 We will publish submitted contributions here as soon as they are confirmed.
 
 - June 29 (all times in CEST)
-  - 13:00 : Welcome 
+  - 13:00 : Welcome
   - 13:10 : Invited talk I
   - 13:30 : Invited talk II
   - 13:50 : Break
@@ -88,23 +88,40 @@ We will publish submitted contributions here as soon as they are confirmed.
 - Streaming and recording (opt-in)
 - Continuing conversation on our [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse)
   before, during, and after the event
- 
+
+
 ## Share the event
 
-Do you want to share the event with your colleagues/friends? Here are a few texts that you can reuse, feel also free to modify them as you like
+Do you want to share the event with your colleagues/friends? Here are a few
+texts that you can reuse, feel also free to modify them as you like.
+
 
 ### Short teaser
-Nordic-RSE invites everyone interested in "Research Software Engineering" activities to join & shape the agenda of the Nordic-RSE unconference (lightweight get-together) on June 29-30. See [https://nordic-rse.org/events/2021-online-unconference/](https://nordic-rse.org/events/2021-online-unconference/) for more details
+
+Nordic-RSE invites everyone interested in "Research Software Engineering"
+activities to join & shape the agenda of the Nordic-RSE unconference
+(lightweight get-together) on June 29-30. See
+[https://nordic-rse.org/events/2021-online-unconference/](https://nordic-rse.org/events/2021-online-unconference/)
+for more details.
+
 
 ### Longer teaser
 
 * Are you developing software or tools that are driven by research/engineering in either academia or industry?
-* Need to network, share knowledge and experiences with your peers? 
-* Maybe you have heard of something called research software engineers and you would like to know more? 
-   
-Nordic-RSE invites everyone interested in such topics to join our online unconference (lightweight get-together) on June 29 and 30, where we let the participants shape the agenda ("birds of a feather"). To kick off the event, we also have four invited speakers, including:
-* [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing) _"Julia for research software engineers"_, 
-* [Athanasia Monica](https://drmowinckels.io/about/) (University of Oslo) _"Developing and distributing in-house R-packages"_, 
-* [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum Technology) _"Keep your code alive - lessons from the QuTiP project"_.
+* Need to network, share knowledge and experiences with your peers?
+* Maybe you have heard of something called research software engineers and you would like to know more?
 
-Next, the floor is yours! Come sharing your work and/or listening what others have been doing. Submit proposals and find out more at: [https://nordic-rse.org/events/2021-online-unconference/](https://nordic-rse.org/events/2021-online-unconference/)
+Nordic-RSE invites everyone interested in such topics to join our online
+unconference (lightweight get-together) on June 29 and 30, where we let the
+participants shape the agenda ("birds of a feather"). To kick off the event, we
+also have four invited speakers, including:
+* [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing)
+  _"Julia for research software engineers"_,
+* [Athanasia Monica](https://drmowinckels.io/about/) (University of Oslo)
+  _"Developing and distributing in-house R-packages"_,
+* [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum
+  Technology) _"Keep your code alive - lessons from the QuTiP project"_.
+
+Next, the floor is yours! Come sharing your work and/or listening what others
+have been doing. Submit proposals and find out more at:
+[https://nordic-rse.org/events/2021-online-unconference/](https://nordic-rse.org/events/2021-online-unconference/)
