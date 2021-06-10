@@ -116,7 +116,7 @@ participants shape the agenda ("birds of a feather"). To kick off the event, we
 also have four invited speakers, including:
 * [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing)
   _"Julia for research software engineers"_,
-* [Athanasia Monica](https://drmowinckels.io/about/) (University of Oslo)
+* [Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo)
   _"Developing and distributing in-house R-packages"_,
 * [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum
   Technology) _"Keep your code alive - lessons from the QuTiP project"_.
