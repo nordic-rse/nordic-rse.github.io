@@ -8,6 +8,8 @@ subtitle = "June 29-30, 13-16 CET (3 + 3 hours with optional social time)"
 
 <a class="btn btn-success" href="https://indico.neic.no/event/158/" data-mode="1" target="_blank">Click here to register</a>
 
+Are you developing software or tools that are driven by research/engineering in either academia or industry? Need to network, share knowledge and experiences with your peers? Nordic-RSE invites everyone interested to join and shape the agenda of our lightweight get-together.
+
 The program will consist mainly of **your contributions** and we encourage you to submit a short abstract for a
 discussion topic, talk, demonstration, or any other type of program you would
 like to run beforehand (instructions below). But we will also collect on-site suggestions for contributions. No need to plan ahead!
