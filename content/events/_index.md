@@ -19,6 +19,8 @@ Do not miss our upcoming events!
 - [Biweekly Nordic RSE meeting](/communities/join/#bi-weekly-meetings)
 
 
+## [Nordic-RSE seminar series](/events/seminar-series)
+
 ## RSE hours
 
 - [Weekly virtual coffee break - Thursdays at 9 CET (10 EET)](/communities/finland#weekly-virtual-coffee-break)
