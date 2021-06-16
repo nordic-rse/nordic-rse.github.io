@@ -26,6 +26,10 @@ The Nordic-RSE team will provide support and infrastructure and give a short ove
 
 ## Contributing
 
+You can contribute not only with sessions you would like to present or lead but
+also by **requesting what session you would like to happen** and **helping others organizing their sessions**.
+You can do this by commenting [here](https://github.com/nordic-rse/conference-contributions/issues).
+
 As an informal event, we welcome *any kind of contribution* which respects the [Code of Conduct](./code-of-conduct).
 If you have an idea you would like to discuss for the event, we encourage you to submit an issue [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?template=unconference-contribution.md&title=Unconference+event) to discuss with the community and secure a place in the program.
 No idea yet? - No problem, we will also accept last minute contributions during the event.
