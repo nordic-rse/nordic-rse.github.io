@@ -1,6 +1,6 @@
 +++
-title = "Nordic-RSE seminar series"
-description = "Nordic RSE – Research Software Engineers in the nordics – seminar series"
+title = "Research Software Seminar Series"
+description = "Nordic RSE – Research Software Engineers in the nordics - Research Software Seminar Series"
 template = "section-with-toc.html"
 [extra]
 subtitle = ""
@@ -10,7 +10,9 @@ Are you developing software or tools that are driven by research/engineering in 
 
 Do you need to network, share knowledge and experiences with your peers? 
 
-Then you came to the right page: Nordic-RSE invites everyone interested to participate in Nordic-RSE seminars:
+Then you came to the right page: Nordic-RSE invites everyone interested to participate in Research Software Seminar Series:
+
+## Timing
 
 The series will start out as a **monthly event in August 2021**. The time for each seminar will be set by the speaker. We are inviting everyone to suggest topics and/or speakers for this series (link coming soon).
 

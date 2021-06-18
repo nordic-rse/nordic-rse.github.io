@@ -19,7 +19,7 @@ Do not miss our upcoming events!
 - [Biweekly Nordic RSE meeting](/communities/join/#bi-weekly-meetings)
 
 
-## [Nordic-RSE seminar series](/events/seminar-series)
+## [Research Software Seminar Series](/events/seminar-series)
 
 ## RSE hours
 
