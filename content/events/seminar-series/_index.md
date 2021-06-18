@@ -16,6 +16,10 @@ The series will start out as a **monthly event in August 2021**. The time for ea
 
 To kick off the event some of our members will introduce you to their work at Nordic universities.
 
+## Format
+
+As an example, events can be 60 (40+20 discussion) or 30 (15+15 discussion) minutes.  Events could be talks, demos, discussion, debates, and so on.  Events are hosted with HackMD for public anynchronous discussion.  We will provide mentoring for speakers.
+
 We would like this series to be an informal space also for exchanging ideas and experiences, learning something new, and networking with people of the same interest group. You do not have to be a Research Software Engineer or a Researcher or a Software Engineer nor do you have to be in or be related to the Nordics. Everyone interested in RSE activities is welcome and encouraged to participate!
 
 The Nordic-RSE team will provide support and infrastructure.
@@ -30,7 +34,6 @@ Stay tuned!
 ## Past seminars
 
 We will publish past seminar topics and their recordings here as soon as they are available.
-
 
 
 
