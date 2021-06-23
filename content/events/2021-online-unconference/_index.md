@@ -65,8 +65,8 @@ We will publish submitted contributions here as soon as they are confirmed.
 
 (all times in CEST)
 
-- 13:00 : Welcome
-- 13:10 : Invited talks
+- 13:00 : Welcome (Samantha Wittke)
+- 13:10 : Invited talks (Chair: Samantha Wittke)
   - 13:10 : [Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo)
             _"Developing and distributing in-house R-packages"_
             ([abstract](./in-house-r-packages/))
@@ -77,10 +77,13 @@ We will publish submitted contributions here as soon as they are confirmed.
   - 14:00 : [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing)
             _"Julia for research software engineers"_
             ([abstract](./julia-for-rse/))
-  - 14:20 : TBA
-- 14:40 : Q&A and Nordic-RSE
+  - 14:20 : [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
+            _"Myths and misconceptions about Research Software development in Academia"_
+            ([abstract](./rse-myths-and-misconceptions/))
+  - 14:40 : Q&A
+- 14:50 : Introduction to Nordic-RSE (Patric Holmvall)
 - 15:00 : Break
-- 15:10 : Introduction to the unconference format
+- 15:10 : Introduction to the unconference format (Richard Darst)
 - 15:15 : Unconference session (possibly parallel)
 - 16:00 : Close
 - Zoom remains open for Social time until ~18:00
@@ -90,7 +93,7 @@ We will publish submitted contributions here as soon as they are confirmed.
 
 (all times in CEST)
 
-- 13:00 : Introduction to the day and last minute contributions
+- 13:00 : Introduction to the day and last minute contributions (Jarno Rantaharju)
 - 13:10 : Unconference session (possibly parallel)
 - 14:20 : Break
 - 14:40 : Unconference session (possibly parallel)
@@ -140,6 +143,8 @@ also have four invited speakers, including:
   _"Developing and distributing in-house R-packages"_,
 * [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum
   Technology) _"Keep your code alive - lessons from the QuTiP project"_.
+* [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
+  _"Myths and misconceptions about Research Software development in Academia"_.
 
 Next, the floor is yours! Come sharing your work and/or listening what others
 have been doing. Submit proposals and find out more at:
