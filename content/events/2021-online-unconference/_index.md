@@ -65,26 +65,25 @@ We will publish submitted contributions here as soon as they are confirmed.
 
 (all times in CEST)
 
-- 13:00 : Welcome (Samantha Wittke)
-- 13:10 : Invited talks (Chair: Samantha Wittke)
-  - 13:10 : [Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo)
-            _"Developing and distributing in-house R-packages"_
-            ([abstract](./in-house-r-packages/))
-  - 13:30 : [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum Technology)
+- 13:00 : Welcome and introduction to the unconference format: HackMD, proposing sessions, scheduling (Richard Darst and Samantha Wittke)
+- 13:15 : Invited talks (Chair: Samantha Wittke)
+  - 13:15 : [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum Technology)
             _"Keep your code alive - lessons from the QuTiP project"_
             ([abstract](./keep-your-code-alive/))
-  - 13:50 : Break
-  - 14:00 : [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing)
+  - 13:35 : [Kristoffer Carlsson](https://github.com/KristofferC/) (JuliaComputing)
             _"Julia for research software engineers"_
             ([abstract](./julia-for-rse/))
-  - 14:20 : [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
+  - 13:55 : Break
+  - 14:05 : [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
             _"Myths and misconceptions about research software development in academia"_
             ([abstract](./rse-myths-and-misconceptions/))
-  - 14:40 : Q&A
-- 14:50 : Introduction to Nordic-RSE (Patric Holmvall)
-- 15:00 : Break
-- 15:10 : Introduction to the unconference format (Richard Darst)
-- 15:15 : Unconference session (possibly parallel)
+  - 14:25 : Q&A
+  - ~~[Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo) _"Developing and distributing in-house R-packages"_ ([abstract](./in-house-r-packages/))~~
+    *(due to unforseen circumstances, this talk will not be presented during this event and we will try to reschedule at a later stage as a regular RSE seminar)*
+- 14:40 : Introduction to Nordic-RSE (Patric Holmvall)
+- 14:50 : Unconference scheduling (Richard Darst)
+- 15:05 : Break
+- 15:15 : Unconference session 1 (chair: Richard Darst)
 - 16:00 : Close
 - Zoom remains open for Social time until ~18:00
 
@@ -93,11 +92,11 @@ We will publish submitted contributions here as soon as they are confirmed.
 
 (all times in CEST)
 
-- 13:00 : Introduction to the day and last minute contributions (Jarno Rantaharju)
-- 13:10 : Unconference session (possibly parallel)
+- 13:00 : Introduction to the day and unconference scheduling (Jarno Rantaharju)
+- 13:10 : Unconference session 2 (chair: Jarno Rantaharju)
 - 14:20 : Break
-- 14:40 : Unconference session (possibly parallel)
-- 15:50 : Conclusion and follow-up
+- 14:40 : Unconference session 3 (chair: Jarno Rantaharju)
+- 15:50 : Conclusion and follow-up (Patric Holmvall)
 - 16:00 : Close
 - Zoom remains open for Social time until ~18:00
 
