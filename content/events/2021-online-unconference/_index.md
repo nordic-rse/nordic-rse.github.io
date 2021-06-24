@@ -82,7 +82,7 @@ We will publish submitted contributions here as soon as they are confirmed.
   - ~~[Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo) _"Developing and distributing in-house R-packages"_ ([abstract](./in-house-r-packages/))~~
     *(due to unforseen circumstances, this talk will not be presented during this event and we will try to reschedule at a later stage as a regular RSE seminar)*
 - 14:40 : Introduction to Nordic-RSE (Patric Holmvall)
-- 14:50 : Introduction to the unconference format (Richard Darst)
+- 14:50 : Unconference scheduling (Richard Darst)
 - 15:05 : Break
 - 15:15 : Unconference session 1 (chair: Richard Darst)
 - 16:00 : Close
