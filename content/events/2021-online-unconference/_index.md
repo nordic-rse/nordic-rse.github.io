@@ -110,6 +110,16 @@ We will publish submitted contributions here as soon as they are confirmed.
 - Continuing conversation on our [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse)
   before, during, and after the event
 
+## The team behind the scenes of this event
+
+- Radovan Bast
+- Richard Darst
+- Luca Ferranti
+- Anne Fouilloux
+- Patric Holmvall
+- Jarno Rantaharju
+- Naoe Tatara
+- Samantha Wittke
 
 ## Share the event
 
