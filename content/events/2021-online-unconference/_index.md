@@ -65,8 +65,7 @@ We will publish submitted contributions here as soon as they are confirmed.
 
 (all times in CEST)
 
-- 13:00 : Welcome (Samantha Wittke)
-- 13:10 : Intro to the unconference format: HackMD, proposing sessions, scheduling (Richard Darst)
+- 13:00 : Welcome and Intro to the unconference format: HackMD, proposing sessions, scheduling (Richard Darst and Samantha Wittke)
 - 13:15 : Invited talks (Chair: Samantha Wittke)
   - 13:15 : [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum Technology)
             _"Keep your code alive - lessons from the QuTiP project"_
