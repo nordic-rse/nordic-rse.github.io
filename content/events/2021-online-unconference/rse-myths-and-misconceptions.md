@@ -1,7 +1,7 @@
 +++
 +++
 
-# Myths and misconceptions about Research Software development in Academia
+# Myths and misconceptions about research software development in academia
 
 [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
 

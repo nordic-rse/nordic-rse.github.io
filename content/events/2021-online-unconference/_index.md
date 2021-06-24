@@ -78,7 +78,7 @@ We will publish submitted contributions here as soon as they are confirmed.
             _"Julia for research software engineers"_
             ([abstract](./julia-for-rse/))
   - 14:20 : [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
-            _"Myths and misconceptions about Research Software development in Academia"_
+            _"Myths and misconceptions about research software development in academia"_
             ([abstract](./rse-myths-and-misconceptions/))
   - 14:40 : Q&A
 - 14:50 : Introduction to Nordic-RSE (Patric Holmvall)
@@ -144,7 +144,7 @@ also have four invited speakers, including:
 * [Shahnawaz Ahmed](http://sahmed.in/) (Wallenberg Centre for Quantum
   Technology) _"Keep your code alive - lessons from the QuTiP project"_.
 * [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
-  _"Myths and misconceptions about Research Software development in Academia"_.
+  _"Myths and misconceptions about research software development in academia"_.
 
 Next, the floor is yours! Come sharing your work and/or listening what others
 have been doing. Submit proposals and find out more at:
