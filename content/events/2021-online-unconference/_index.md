@@ -74,13 +74,13 @@ We will publish submitted contributions here as soon as they are confirmed.
             _"Julia for research software engineers"_
             ([abstract](./julia-for-rse/))
   - 13:55 : Break
-  - 14:05 : [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
-            _"Myths and misconceptions about research software development in academia"_
-            ([abstract](./rse-myths-and-misconceptions/))
-  - 14:25 : Q&A
+  - 14:05 : Q&A
   - ~~[Athanasia Monika Mowinckel](https://drmowinckels.io/about/) (University of Oslo) _"Developing and distributing in-house R-packages"_ ([abstract](./in-house-r-packages/))~~
-    *(due to unforseen circumstances, this talk will not be presented during this event and we will try to reschedule at a later stage as a regular RSE seminar)*
-- 14:40 : Introduction to Nordic-RSE (Patric Holmvall)
+  *(due to unforseen circumstances, this talk will not be presented during this event and we will try to reschedule at a later stage as a regular RSE seminar)*
+- 14:20 : Introduction to Nordic-RSE (Patric Holmvall)
+- 14:30 : [Anne Fouilloux](https://github.com/annefou) (Nordic-RSE)
+          _"Myths and misconceptions about research software development in academia"_
+          ([abstract](./rse-myths-and-misconceptions/))
 - 14:50 : Unconference scheduling (Richard Darst)
 - 15:05 : Break
 - 15:15 : Unconference session 1 (chair: Richard Darst)
