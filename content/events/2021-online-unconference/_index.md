@@ -57,9 +57,8 @@ By submitting a contribution you agree that:
    - your name and abstract of the contribution will be published in our program
    - your contribution respects the [Code of Conduct](./code-of-conduct)
 
-## Tentative schedule
 
-We will publish submitted contributions here as soon as they are confirmed.
+## Schedule
 
 #### June 29
 
@@ -83,7 +82,7 @@ We will publish submitted contributions here as soon as they are confirmed.
           ([abstract](./rse-myths-and-misconceptions/))
 - 14:50 : Unconference scheduling (Richard Darst)
 - 15:05 : Break
-- 15:15 : Unconference session 1 (chair: Richard Darst)
+- 15:15 : Unconference session 1 (chair: Richard Darst): Further details and updates in the attendee HackMD.
 - 16:00 : Close
 - Zoom remains open for Social time until ~18:00
 
@@ -93,9 +92,9 @@ We will publish submitted contributions here as soon as they are confirmed.
 (all times in CEST)
 
 - 13:00 : Introduction to the day and unconference scheduling (Jarno Rantaharju)
-- 13:10 : Unconference session 2 (chair: Jarno Rantaharju)
+- 13:10 : Unconference session 2 (chair: Jarno Rantaharju): Further details and updates in the attendee HackMD.
 - 14:20 : Break
-- 14:40 : Unconference session 3 (chair: Jarno Rantaharju)
+- 14:40 : Unconference session 3 (chair: Jarno Rantaharju): Further details and updates in the attendee HackMD.
 - 15:50 : Conclusion and follow-up (Patric Holmvall)
 - 16:00 : Close
 - Zoom remains open for Social time until ~18:00
