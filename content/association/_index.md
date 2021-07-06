@@ -17,7 +17,7 @@ title = "Association"
 > Other than that, the registration process should be as straightforward as possible.
 >
 
-# The Asociation
+# The Association
 
 The Nordic RSE group is planning to register in Finland as the Research Software Engineers Ry.
 Registering as an association comes with certain legal benefits, such as the ability to
@@ -25,12 +25,12 @@ sign contracts and own assets.
 Registering an association will also create a clear membership and governing
 procedures.
 
-The association is governed by an annual assembly of it's members, which is held
-mainly online, and it's day to day activities are take care of by a board.
+The association is governed by an annual assembly of its members, which is held
+mainly online, and its day to day activities are taken care of by a board.
 
 # Membership
 
-While purpose of the association is to support research software engineering and
+While the purpose of the association is to support research software engineering and
 scientific computing, anyone can join as a member. The only requirement is that you
 wish scientific software was more valued, better implemented, more open and FAIR.
 
