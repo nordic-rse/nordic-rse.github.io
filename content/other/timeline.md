@@ -23,7 +23,7 @@
 
 ### August
 
-- The first event in the Nordic RSE seminar series.
+- The first event in the Nordic RSE [seminar series](https://nordic-rse.org/events/seminar-series/).
 - Add some useful links to the website, including:
   - Hands-on Scientific Computing.
   - The Aalto RSE career structure.
