@@ -5,7 +5,7 @@
 
 > Note:
 >
-> This is a rough plan of what our activities this in Fall 2021, to be updated
+> This is a rough plan of our activities in Fall 2021, to be updated
 > for the Spring in December. Please let us know if you can suggest things to
 > add here. The best way to do this is by creating an issue at
 > https://github.com/nordic-rse/NordicRSE-organization/issues.
@@ -53,4 +53,3 @@
 ### December
 
 - Conference or online meetup
-
