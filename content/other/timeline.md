@@ -31,7 +31,7 @@
 
 ### September
 
-- Create a how to page for starting an RSE group.
+- Create a how-to page for starting an RSE group.
 - Start surveying and contacting RSE-like groups in Nordic Universities.
 
 - 2.9 at 14:00 - 16:00 CEST, 15:00 - 17:00 EEST: First Nordic RSE annual meeting ([public calendar](https://calendar.google.com/calendar/embed?src=8li6hjcjm95g76pgte1p5pi05c%40group.calendar.google.com&ctz=Europe%2FStockholm), [public iCal feed](https://calendar.google.com/calendar/ical/8li6hjcjm95g76pgte1p5pi05c%40group.calendar.google.com/public/basic.ics))
