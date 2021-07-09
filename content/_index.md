@@ -19,16 +19,12 @@ States](https://us-rse.org), and other countries.
 **To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).**
 
 
-### Unconference
-
-We are planning an [online unconference](/events/2021-online-unconference) on June 29–30. The program will consist of your contributions and **we encourage you to submit a short abstract** for a discussion topic, talk, demonstration or any other type of program you would like to run.
-
-
 ### Biweekly meeting
 
 We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on each odd week. Follow the [calendar](/events/#calendar), [chat](https://coderefinery.zulipchat.com) or agenda (see below) for exact dates and times, as well as connection details.
 
 The agendas of previous and upcoming meeting are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
+
 
 ### Want to know more?
 
