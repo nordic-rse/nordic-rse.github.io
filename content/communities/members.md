@@ -14,6 +14,7 @@ information about our activities.
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
 - Patric Holmvall, RSE/Postdoc at the Department for Physics and Astronomy, Uppsala University, Uppsala
+- Luca Ferranti, PhD student, University of Vaasa, Vaasa
 
 If you want to be listed here, please send a pull request.  You can
 get in contact with us on the CodeRefinery chat (#nordic-rse stream,
