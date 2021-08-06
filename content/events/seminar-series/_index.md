@@ -31,16 +31,16 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 
 ### Package development in Julia
-- Speaker: [Luca Ferranti](https://lucaferranti.github.io), University of Vaasa
+- Speaker: [Luca Ferranti](https://lucaferranti.github.io), University of Vaasa, Finland.
 - **18.08.2021 at 13:00-16:00 CEST** [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-08-18/13:00)
 
-Julia is constantly gaining popularity both in academia and industry and it is thus an appealing tool for research software engineers. This session will be a hands-on tutorial, which will cover the typical package development workflow in Julia. Topics covered include
-  - Creating a package from scratches
+[Julia](https://julialang.org/) is constantly gaining popularity both in academia and industry and it is thus an appealing programming language for research software engineers. This session will be a hands-on tutorial, which will cover the typical package development workflow in Julia. Topics covered include
+  - Creating a package from scratch
   - Contributing to existing packages
   - Tools to test and debug your packages
   - Tools to document your packages
 
-Moreover, I will share tips and tricks that have helped me making my workflow more efficient and hopefully will help you too.
+Moreover, Luca will share tips and tricks that have helped him making his workflow more efficient and hopefully will help you too.
 The workshop will involve a lot of live coding and you are encouraged to follow along, check the setup instructions here. LINK COMING SOON.
 
 ## Past seminars
