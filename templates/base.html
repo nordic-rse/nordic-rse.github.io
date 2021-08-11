@@ -57,22 +57,31 @@
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <!-- Community -->
+
+            <!-- about us-->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                About
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/members/">Governance</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/local/">Code of Conduct</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/finland/">Contact</a>
+              </div>
+            </li>
+
+            <!-- Community -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="{{ config.base_url | safe }}/communities/members/"" id="navbarDropdownMenuLink"
              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Communities
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/members/">Members</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/local/">Local communities</a>
-                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/finland/">Finland</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/finland/">Coffee break</a>
               </div>
-            </li>
-
-            <!-- seminar series -->
-            <li class="nav-item">
-              <a class="nav-link" href="{{ config.base_url | safe }}/events/seminar-series">Seminar Series</a>
             </li>
 
             <!-- Events -->
@@ -82,27 +91,27 @@
                 Events
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="{{ config.base_url | safe }}/#biweekly-meeting">Biweekly meeting</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/#biweekly-meeting">Seminar series</a>
               <!--  <a class="dropdown-item" href="https://researchsoftwarehour.github.io/">Research Software Hours</a>-->
-                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/finland#weekly-virtual-coffee-break">Coffee break</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/finland#weekly-virtual-coffee-break">Meeting</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/events/#past-events ">Past events</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/events/#past-events ">Conference</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/events/#past-events ">Calendar</a>
               </div>
             </li>
-            <!-- About Map -->
-            <li class="nav-item">
-              <a class="nav-link" target="_blank" href="https://nordic-rse.org/map/">Map</a>
-            </li>
-            <!-- About Media -->
-            <li class="nav-item">
-              <a class="nav-link" href="{{ config.base_url | safe }}/media/">Media</a>
-            </li>
+
             <!-- Blog -->
             <li class="nav-item">
-              <a class="nav-link" href="{{ config.base_url | safe }}/blog/">Blog</a>
+              <a class="nav-link" href="{{ config.base_url | safe }}/media/">Blog</a>
             </li>
-            <!-- About SORSE -->
+            <!-- Resources -->
             <li class="nav-item">
-              <a class="nav-collink" target="_blank" href="https://sorse.github.io/">SORSE</a>
+              <a class="nav-link" href="{{ config.base_url | safe }}/blog/">Resources</a>
+            </li>
+
+            <!-- Join us -->
+            <li class="nav-item">
+              <a class="nav-link" href="{{ config.base_url | safe }}/blog/">Join us</a>
             </li>
           </ul>
         </div>
