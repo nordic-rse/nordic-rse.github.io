@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {{ section.content | safe }}
+
+  <div class="col-md-12">
+    <ul>
+      {% for post in section.pages %}
+        <li>
+          <a class="header" href="{{ post.permalink | safe }}">{{ post.title }}</a>
+          <p>{{ post.extra.author }} ({{ post.date| date(format="%B %d, %Y") }})</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+{% endblock content %}
