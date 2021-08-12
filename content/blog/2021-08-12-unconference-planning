@@ -1,0 +1,77 @@
++++
+title="How we do an unconference"
+[extra]
+author="Richard Darst"
++++
+
+# How we do an unconference
+
+## What is an unconference?
+
+- Conference: pre-planned by an "elite" program committee
+- Conference: large amount of preparation, often minimum threshold to contribute
+- Unconference: provide tools for participants to drive the program more dynamically than usual.
+- https://en.wikipedia.org/wiki/Unconference
+
+
+## Why are we doing an unconference?
+
+- Easier for us!
+- More dynamic, especially for a small group.
+- We want real ideas and discussions.  Advance planning by a program committee doesn't match that too well because it biases towards planned events.
+- This isn't a "pure" unconference
+  - We have some pre-scheduling
+  - But we will try to make it dynamic as well
+
+
+
+## Preparation
+
+- Attendees can suggest sessions or ideas or even *requests for sessions* in advance
+  - Attendees can vote on what they would like to see
+  - ... and help other attendees develop their sessions, or join up to co-present
+- Organizers try to highlight a few sessions and produce an initial schedule.
+- All session proposals are copied into the unconference HackMD before the event
+
+
+## During the event
+
+- Attend sessions and discuss
+- When you get an idea for something else to discuss or present, propose it!
+  - Mention it where relevant: HackMD discussion of the current session
+  - In the main unconference HackMD, in the "Proposed sessions" section.
+- Vote up sessions you would like to attend with "+1" in the HackMD right after the session proposal.
+- Organizers will try to keep track of this and periodically announce upcoming events and breakout room assignments
+  - But you can also always follow the HackMD for the latest status.
+  - Or you can grab a breakout room at any time.  HackMD can be used to try to attract people to it.
+
+
+Think of this as "stick notes on a wall", which is used in in-person unconferences.  A sticky note is a proposal, people add notes and occassionally they get arranged into sessions, like this: ![Unconference sticky notes on a wall](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unconference_proposals_at_Google_Summer_of_Code_Mentor_Summit_2019.jpg/800px-Unconference_proposals_at_Google_Summer_of_Code_Mentor_Summit_2019.jpg)
+Image via Wikipedia:Unconference.
+
+
+## For sessions
+- Realize that there are a wide variety of people attending and try to spend some time making sure everyone has a chance to talk
+- Keep good HackMD notes, since not everyone who is interested can attend each session.  You might even get some contributors who are in another session but watching your HackMD.
+
+
+## Notes
+
+- In other unconferences, these sessions may be directly scheduled into slots.
+  - Here, proposals can be added at any moment but organizers try to keep things organized.
+- We don't have a limit on number of breakout rooms (well, 50), but we want to have enough people at each session.
+- Anarchy vs democracy vs authororitarianism
+  - Perhaps an ideal world is where everything comes from attendees
+  - But we think that we need some organizers benevolently guiding the program to make it work well, for example a few pre-planned sessions.
+  - Perhaps we need less of this once we become more comfortable with the format.
+
+
+## To-do
+- [ ] The schedule on the website says to look at HackMD for the latest assignments, etc.
+- [ ] "check-in" sessions in main room added to schedule for use with summaries and announcing upcoming sessions.
+- [ ] Main HackMD has sections for "Current schedule" and "Proposed sessions"
+- [ ] Proposals transferred from issues into HackMD (linked to issues for ideas)
+- [ ] Session chair knows what to do during the "check-in" sessions
+
+
+
