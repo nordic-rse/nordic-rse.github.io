@@ -18,6 +18,9 @@ Do not miss our upcoming events!
 
 - [Weekly virtual coffee break - Thursdays at 9 CET (10 EET)](/communities/finland#weekly-virtual-coffee-break)
 
+## International RSE day October 14th
+
+We are in the process of organizing a nordic event as part of the international RSE day to celebrate RSEs and RSE work. More information coming soon.
 
 ## Past Events
 
