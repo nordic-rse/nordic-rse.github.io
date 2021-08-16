@@ -5,8 +5,8 @@ author="Nordic-RSE"
 +++
 
 # Unconference 2021
-
-On June 29th + 30th 2021 the Nordic RSE community met online for an unconference. Three speakers were invited beforehand to talk about their interesting work, 
+After our plans to meet the community in person in beautiful KTH in Stockholm were prevented by the world situation, we did not want to not meet the community this year, but at the same time were also busy with other work. In order to keep organizational hassle low, but still give the community a place to meet, learn and discuss we decided for the unconference/birds of a feather format. In that way the community could decide on the topics of interest and create an event to their liking.
+The event was held on June 29th + 30th 2021 afternoons. Three speakers were invited beforehand to talk about their interesting work, 
 the rest of the event was free for the community to fill.
 * Shahnawaz Ahmed from the Wallenberg Centre for Quantum Technology talked about the journey of his Quantum Toolbox in Python (QuTiP) from small research project 
 to open source project developed by a community from all around the world.
@@ -16,4 +16,6 @@ as an RSE.
 The event had 69 registrations from 7 countries (FI,NO,SE,DK,UK,DE,NL). 
 Topics ranged from broad (Introduction to Julia, What is R/S/E?, ...) to specific ( Funding for software projects, Development frameworks, Software paper publishing,...) 
 with lots of Q&A and discussions. You can find schedule and notes [here](https://nordic-rse.org/events/2021-online-unconference/#schedule) and stay tuned 
-for blogposts and recordings of the invited talks coming in the near future.
+for more blogposts (https://nordic-rse.org/blog/) and recordings of the invited talks coming in the near future.
+Since this was the first event of this format, we learned a lot in the process. We definitely want to organize this kind of event again, but will try to bring a bit more order into the submission and decision of talks and discussions.
+
