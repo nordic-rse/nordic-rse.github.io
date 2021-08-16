@@ -70,7 +70,7 @@ statistics to demonstrate use and visibility as mentioned above. For some
 languages, download statistics can easily be obtained by package managers (e.g.
 conda/pip for python):
 - [Pip Download badge for git](https://img.shields.io/pypi/dm/numpy?label=downloads%20%7C%20pip&logo=PyPI)
-- [Conda download badge for git](https://img.shields.io/conda/dn/conda-forge/numpy?label=downloads%20%7C%20conda&logo=Conda-Forge
+- [Conda download badge for git](https://img.shields.io/conda/dn/conda-forge/numpy?label=downloads%20%7C%20conda&logo=Conda-Forge)
 
 We would need to check to what extend these are available for other languages.
 Another important thing to remember is to make citing software easy by putting
