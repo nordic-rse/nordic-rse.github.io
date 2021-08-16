@@ -5,7 +5,7 @@ author="Nordic-RSE"
 +++
 
 # Unconference 2021
-After our plans to meet the community in person in beautiful KTH in Stockholm were prevented by the world situation, we did not want to not meet the community this year, but at the same time were also busy with other work. In order to keep organizational hassle low, but still give the community a place to meet, learn and discuss we decided for the unconference/birds of a feather format. In that way the community could decide on the topics of interest and create an event to their liking.
+Although the world situation prevented our plans to meet the community in person in Stockholm and we were all busy with other works, we did not want to give up meeting the community this year. Thus we decided for the unconference/birds of a feather format to keep organizational hassle low, but still give the community a place to meet, learn, and discuss. In that way, the community could decide on the topics of interest and create an event to their liking.
 The event was held on June 29th + 30th 2021 afternoons. Three speakers were invited beforehand to talk about their interesting work, 
 the rest of the event was free for the community to fill.
 * Shahnawaz Ahmed from the Wallenberg Centre for Quantum Technology talked about the journey of his Quantum Toolbox in Python (QuTiP) from small research project 
