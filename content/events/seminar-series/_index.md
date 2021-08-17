@@ -32,7 +32,8 @@ We will publish upcoming seminar topics and abstracts here as soon as they are c
 
 ### Package development in Julia
 - Speaker: [Luca Ferranti](https://lucaferranti.github.io), University of Vaasa, Finland.
-- **18.08.2021 at 13:00-16:00 CEST** [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-08-18/13:00). Zoom link coming soon!
+- **18.08.2021 at 13:00-16:00 CEST** [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-08-18/13:00).
+- Connection details: <https://hackmd.io/@nordic-rse/package-development-julia>
 
 [Julia](https://julialang.org/) is constantly gaining popularity both in academia and industry and it is thus an appealing programming language for research software engineers. This session will be a hands-on tutorial, which will cover the typical package development workflow in Julia. Topics covered include
   - Creating a package from scratch
@@ -41,7 +42,7 @@ We will publish upcoming seminar topics and abstracts here as soon as they are c
   - Tools to document your packages
 
 Moreover, Luca will share tips and tricks that have helped him making his workflow more efficient and hopefully will help you too.
-The workshop will involve a lot of live coding and you are encouraged to follow along, check the setup instructions here. LINK COMING SOON.
+The workshop will involve a lot of live coding and you are encouraged to follow along, check the setup instructions [here](https://hackmd.io/@nordic-rse/package-development-julia).
 
 ## Past seminars
 
