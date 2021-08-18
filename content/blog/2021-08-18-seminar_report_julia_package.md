@@ -1,4 +1,4 @@
-+++ 
++++
 title = "Seminar report: Package Development in Julia"
 
 [extra]
