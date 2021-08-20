@@ -16,9 +16,6 @@
 - Naoe Tatara
 - Kjartan Thor Wikfeldt
 
-To reach the conference organizers, please write to
-[nordic-rse-organizers@neic.no](nordic-rse-organizers@neic.no).
-
 
 ### Program committee
 

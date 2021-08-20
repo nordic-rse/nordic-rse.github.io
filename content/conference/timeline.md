@@ -18,7 +18,7 @@ December 1-2, 2020. We will not just consider if we *are allowed to* host
 this conference, but if it is *responsible* to host it.
 
 Below we share our timeline to decide whether this event can take place.
-Do not hesitate to [contact us](mailto:nordic-rse-organizers@neic.no) if you
+Do not hesitate to contact us if you
 have questions or suggestions about this aspect.
 
 
