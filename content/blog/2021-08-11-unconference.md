@@ -18,4 +18,5 @@ Topics ranged from broad (Introduction to Julia, What is R/S/E?, ...) to specifi
 with lots of Q&A and discussions. You can find schedule and notes [here](https://nordic-rse.org/events/2021-online-unconference/#schedule) and stay tuned 
 for more blogposts (https://nordic-rse.org/blog/) and recordings of the invited talks coming in the near future.
 Since this was the first event of this format, we learned a lot in the process. We definitely want to organize this kind of event again, but will try to bring a bit more order into the submission and decision of talks and discussions.
+Another suggestion we got was to encourage last minute contributions by having more own contributions since it is easier to add the tenth suggestion to a list of nine suggestions rather than adding the first.
 
