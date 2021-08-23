@@ -4,7 +4,51 @@ title="How we do an unconference"
 author="Richard Darst"
 +++
 
-# How we do an unconference
+# How we did our unconference
+
+In June 2021, Nordic-RSE put on an
+"[unconference](https://en.wikipedia.org/wiki/Unconference)" event,
+which basically means a more dynamic and attendee-driven event, rather
+than fully organized by a closed program committee.  We didn't really
+make it a "pure" unconference, since we did a little bit of planning
+and inviting in advance.  Still, most of the program was decided
+during the event itself, based on the participant's suggestions and
+voting.
+
+Our basic strategy for the unconference part was to start with a
+Github issue tracker: people could suggest ideas there, already in
+advance.  Everyone (not just the program committee) could comment,
+help improve, and join forces to present.  During the event itself, we
+could get a few more proposals, and use HackMD to get comments and
+vote on what we wanted.  We did have one person responsible for
+scheduling each day (benelovent dictator to get things done sooner).
+
+Overall, the concept worked well enough.  Being the first time we
+tried this, the largest problems were getting a shared understanding
+of how it would work and get people to submit things.  It did achieve
+the main goal of reducing the workload on the organizers to plan and
+schedule everything in advance, with limited information.  We could
+have had more submissions, but it is very possible that this is
+expected for a new conference done right before and during summer
+holidays.
+
+In the future, we should have increased emphasis on encouraging people
+to submit with a low threshold, since a public processes biases
+towards people who already have great confidence.  This may be better
+already by default the next time, but also some sort of mentoring
+program could be helpful.  We should make sure that we have a clear
+outreach approach to explain the format.
+
+For future reference, our "planning notes" are included below.  Feel
+free to use and try to improve!  Please let us know how it goes and
+suggestions for improvements You can also read our notes (instead of
+slides) used during the event itself:
+
+- [Intro to the unconference format](https://hackmd.io/LM2cZlVyTZWaJ9JjOXb6tw?view#Intro-to-the-unconference-format)
+- [Unconference scheduling](https://hackmd.io/LM2cZlVyTZWaJ9JjOXb6tw?view#Unconference-scheduling)
+
+
+
 
 ## What is an unconference?
 
