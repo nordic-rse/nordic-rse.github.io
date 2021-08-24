@@ -30,6 +30,15 @@ The Nordic-RSE team will provide support and infrastructure.
 
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 
+### Combining Rust and Python: Why and How?
+- Speaker: [Radovan Bast](https://bast.fr/) UiT The Arctic University of Norway
+- **14.09.2021 at 13:00-14:00 CEST** [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-09-14/13:00)
+- Connection details: <https://hackmd.io/@nordic-rse/rust_python>
+
+## Past seminars
+
+We will publish past seminar topics and their recordings here as soon as they are available.
+
 ### Package development in Julia
 - Speaker: [Luca Ferranti](https://lucaferranti.github.io), University of Vaasa, Finland.
 - **18.08.2021 at 13:00-16:00 CEST** [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-08-18/13:00).
@@ -44,9 +53,7 @@ We will publish upcoming seminar topics and abstracts here as soon as they are c
 Moreover, Luca will share tips and tricks that have helped him making his workflow more efficient and hopefully will help you too.
 The workshop will involve a lot of live coding and you are encouraged to follow along, check the setup instructions [here](https://hackmd.io/@nordic-rse/package-development-julia).
 
-## Past seminars
-
-We will publish past seminar topics and their recordings here as soon as they are available.
-
+* [Blogpost](https://nordic-rse.org/blog/seminar-report-julia-package/)
+* Recording: coming soon to [our YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ)
 
 
