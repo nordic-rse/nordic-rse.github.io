@@ -16,6 +16,7 @@
 (please list others that you know of and like)
 
 - Research Software Engineer Stories: <http://us-rse.org/rse-stories/>
+- Code for Thought: <https://codeforthought.buzzsprout.com/>
 
 
 ### Streams
