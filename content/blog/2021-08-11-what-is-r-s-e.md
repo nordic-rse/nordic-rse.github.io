@@ -69,3 +69,13 @@ might also include watching over the product long-term.
 something but it might start falling apart after a few years, might not be
 modifiable, might not use best practices for reproducibility and distribution -
 basically, the problems in science that RSEs are made to solve.
+
+### Summary
+
+If you wanted a definition of "Research Software Engineer", we don't
+have it - but right now, that is probably an impossible task.
+However, we do hope it has made you think about what it means to you,
+and appreciate the diversity of the community.
+
+If you want to discuss more, why not join the [Nordic-RSE community
+chat](https://nordic-rse.org/) and discuss more?
