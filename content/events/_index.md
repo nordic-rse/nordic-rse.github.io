@@ -12,7 +12,7 @@ Do not miss our upcoming events!
 ## Research Software Seminar Series
 
 - Full schedule [here](/events/seminar-series)
-- Next talk **Wednesday 18 August 2021 at 13:00 CEST**
+- Next talk **Tuesday 14 September 2021 at 13:00 CEST**
 
 ## RSE hours
 
