@@ -18,7 +18,7 @@ Registering an association will also create a clear membership and governing
 procedures.
 
 The association is governed by an annual assembly of it's members, which is held
-mainly online, and it's day to day activities are taken care of by a board.
+mainly online, and its day to day activities are taken care of by a board.
 
 # Membership
 
