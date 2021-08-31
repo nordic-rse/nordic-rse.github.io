@@ -51,3 +51,38 @@ blockquote {
 blockquote p {
   color: #808080;
 }
+
+.teaser-container {
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
+  background-color: #702552;
+  color: #FFFFFF;
+  align-items: baseline;
+  justify-content: space-around;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.teaser-child {
+      flex-basis: 30%;
+  }
+
+.teaser-child p {
+  color: #FFFFFF !important;
+}
+.teaser-title {
+    flex-basis: 100%;
+}
+
+@media (max-width: 64rem) {
+  .teaser-child {
+    flex-basis: 48%;
+  }
+}
+
+@media (max-width: 48rem) {
+  .teaser-child {
+    flex-basis: 90%;
+  }
+}
