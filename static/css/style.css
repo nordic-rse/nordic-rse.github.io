@@ -71,6 +71,11 @@ blockquote p {
 .teaser-child p {
   color: #FFFFFF !important;
 }
+
+.teaser-child a {
+  color: #FFFFFF !important;
+  text-decoration: none;
+}
 .teaser-title {
     flex-basis: 100%;
 }
