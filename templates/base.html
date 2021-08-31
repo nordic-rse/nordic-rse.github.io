@@ -36,6 +36,9 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
     <link href="{{ config.base_url | safe }}/css/style.css" rel="stylesheet">
+
+    {% block extracss %}
+    {% endblock extracss %}
   </head>
 
   <body>
@@ -78,6 +81,7 @@
                 Communities
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/map/">Map</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/members/">Members</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/local/">Local communities</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/communities/finland/#weekly-virtual-coffee-break">Coffee break</a>
@@ -144,6 +148,9 @@
         </div>
       </footer>
     </div>
+
+    {% block extrajs %}
+    {% endblock extrajs %}
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
             integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"

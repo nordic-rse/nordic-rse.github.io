@@ -27,7 +27,7 @@ If you are organized in such a group please contact us.
 
 ### Community map
 
-* Please add yourself or your group [here](/map/).
+* Please add yourself or your group [here](/communities/map/).
 
 
 ### International RSE Groups
