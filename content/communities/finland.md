@@ -17,4 +17,4 @@ Host: Jarno Rantaharju (Aalto University)
 To participate, join our
 Zoom chat: <https://aalto.zoom.us/j/62426845282> (Zoom ID 624 2684 5282).
 
-![coffee break picture](img/coffebreakpicture.jpg)
+<img src="/communities/coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
