@@ -64,6 +64,10 @@ of the association may take any action they deem appropriate, including
 warning the offender or may revoking their membership without refund of the
 membership fee.
 
+If the offender is a member of the board, they will be excluded from any board
+meetings discussing their conduct. In addition to the above, the offender may
+be removed from the board.
+
 If a participant at a Nordic-RSE event violates this code of conduct,
 organisers may take any action they deem appropriate, including
 warning the offender or expulsion from the workshop with no refund.
