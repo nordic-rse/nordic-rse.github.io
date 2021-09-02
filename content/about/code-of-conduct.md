@@ -41,7 +41,7 @@ Members violating these rules may have their membership revoked by the board.
 Participants to events violating these rules may be asked to leave without a
 refund at the sole discretion of the conference organisers.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Thank you for making the Nordic RSE welcoming and friendly event for all.
 
 
 ### Clarifications
