@@ -3,10 +3,7 @@
 function add_icon(service, account) {
     var href = (service == 'email') ? `mailto:${account}` : `https://${service}.com/${account}`;
     return `<a id="img-link" href="${href}" target="_blank">
-              <img id="img-link"
-                   src="https://raw.githubusercontent.com/nordic-rse/map/gh-pages/icons/${service}.png"
-                   alt="${service} account logo"
-                   width="18" height="18">
+                <i class="fa fa-${service} fa-lg" aria-hidden="true"></i>
             </a>`;
 }
 
