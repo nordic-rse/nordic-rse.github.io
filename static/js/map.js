@@ -1,7 +1,18 @@
 'use strict';
 
-function add_icon(service, account) {
-    var href = (service == 'email') ? `mailto:${account}` : `https://${service}.com/${account}`;
+function add_icon(service, account, instance) {
+    if (service === 'email') {
+        var href = `mailto:${account}`
+    } else if (service === 'mastodon') {
+        var href = `https://${instance}/@${account}`;
+    } else if (service === 'gitlab') {
+        var href = `https://${instance != undefined ? instance : 'gitlab.com'}/${account}`;
+    } else if (service === 'gitea') {
+        var href = `https://${instance}/${account}`;
+    } else {
+        var href = `https://${service}.com/${account}`;
+    }
+
     return `<a id="img-link" href="${href}" target="_blank">
                 <i class="fa fa-${service} fa-lg" aria-hidden="true"></i>
             </a>`;
@@ -22,16 +33,23 @@ function popup_text(person_or_group) {
     }
 
     if (person_or_group.gitlab != undefined) {
-        s += add_icon('gitlab', person_or_group.gitlab);
+        s += add_icon('gitlab', person_or_group.gitlab, person_or_group.gitlab_instance);
+    }
+
+    if (person_or_group.gitea != undefined) {
+        s += add_icon('gitea', person_or_group.gitea, person_or_group.gitea_instance);
     }
 
     if (person_or_group.twitter != undefined) {
         s += add_icon('twitter', person_or_group.twitter);
     }
 
-    // email icon by Icon Island licensed under CC BY 3.0
     if (person_or_group.email != undefined) {
         s += add_icon('email', person_or_group.email);
+    }
+
+    if (person_or_group.mastodon != undefined) {
+        s += add_icon('mastodon', person_or_group.mastodon, person_or_group.mastodon_instance);
     }
 
     return s;
