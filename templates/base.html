@@ -15,10 +15,9 @@
       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
       crossorigin="anonymous">
 
-    <!-- twitter -->
+    <!-- twitter card description -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if page.title %}{{page.title}} - {% elif section.title %}{{ section.title }} - {% endif %}{{ config.title }}">
-    <meta name="twitter:image" content="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_TwitterCard.png">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elif section.description%}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
     <meta name="twitter:site" content="@nordic_rse" />
     <meta name="twitter:creator" content="@nordic_rse" />
@@ -28,6 +27,9 @@
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elif section.description%}{{ section.description }}{% else %}{{ config.description }}{% endif %}" />
     <meta property="og:url" content="https://nordic-rse.org/" />
     <meta property="og:site_name" content="{{ config.title }}" />
+
+    <!-- social media image -->
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_TwitterCard.png">
     <meta property="og:image" content="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NordicRSE_TwitterCard.png" />
     <meta property="og:image:width" content="876" />
     <meta property="og:image:height" content="458" />
