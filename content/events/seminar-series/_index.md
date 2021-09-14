@@ -1,7 +1,7 @@
 +++
 title = "Research Software Seminar Series"
 description = "Nordic RSE – Research Software Engineers in the Nordics - Research Software Seminar Series"
-template = "section-with-toc.html"
+template = "seminar-series.html"
 [extra]
 subtitle = ""
 +++
