@@ -1,10 +1,43 @@
 {% extends "base.html" %}
 
 {% block content %}
+
+<div class="teaser-container">
+  <div class="teaser-title">
+      <h2>Nordic-RSE in a nutshell</h2>
+  </div>
+  <div class="teaser-child">
+      <h3>Who we are</h3>
+      <p>Non-profit organisation to bring together everyone interested in Research Software Engineer activities</p>
+  </div>
+  <div class="teaser-child">
+      <h3><a href="{{ config.base_url | safe }}/events/">Events</a></h3>
+      <p>We have seminars and conferences for you to network and develop your software skills.</p>
+  </div>
+  <div class="teaser-child">
+      <h3><a href="{{ config.base_url | safe }}/other/tmp-aalto-success/">Success stories</a></h3>
+      <p>Learn how your organisation can benefit from an RSE group</p>
+  </div>
+  <div class="teaser-child">
+      <h3><a href="{{ config.base_url | safe }}/association/contact/">Get involved</a></h3>
+      <p>Learn how you can help us</p>
+  </div>
+
+  <div class="teaser-child">
+      <h3><a href="{{ config.base_url | safe }}/association/sponsor/">Become a sponsor</a></h3>
+      <p>Support us doing a better job</p>
+  </div>
+
+  <div class="teaser-child">
+      <h3><a href="{{ config.base_url | safe }}/blog/">Blog</a></h3>
+      <p>Read what we have been up to</p>
+  </div>
+</div>
+
   <div class="col-md-8">
     {{ section.content | safe }}
   </div>
-  <div class="col-md-4">
+  <div class="col-md-4" style="padding-top: 4rem;">
     <a class="twitter-timeline" data-height="1500" href="https://twitter.com/nordic_rse">Tweets by nordic_rse</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
