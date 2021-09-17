@@ -7,8 +7,8 @@ Initially we have planned for October 21-22, 2020 and our attempt to move the co
 did not seem realistic enough due to uncertainties around the COVID-19 situation.
 **The conference is cancelled**. 
 
-To keep up the momentum, we plan an [online unconference June 29-30,
-2021](/events/2021-online-unconference/). Please join us there!
+To keep up the momentum, we held an [online unconference June 29-30,
+2021](/events/2021-online-unconference/). You can find recordings of the invited talks on our [Youtube channel Playlist](https://www.youtube.com/watch?v=aQw7FaRN7Zo&list=PLftRaVXG5xM7XZSZDEfYmGJwWwWCIrn97) 
 
 <!--
 
