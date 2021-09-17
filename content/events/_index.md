@@ -1,12 +1,8 @@
 +++
 +++
 
-# Events and meetings
-## Biweekly meeting
+# Events
 
-We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on each odd week. Follow the [calendar](/events/#calendar), [chat](https://coderefinery.zulipchat.com) or agenda (see below) for exact dates and times, as well as connection details.
-
-The agendas of previous and upcoming meeting are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
 
 ## Research Software Seminar Series
 
