@@ -7,7 +7,7 @@ We meet virtually for the following occasions:
 
 ## Virtual coffee break - weekly
 
-[RSE Finland invites](/communities/finland/)
+[RSE Finland invites](/communities/finland/#weekly-virtual-coffee-break)
 
 ## Community discussions - biweekly 
 
