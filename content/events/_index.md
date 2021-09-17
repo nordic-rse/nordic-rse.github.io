@@ -1,12 +1,11 @@
 +++
 +++
 
-# Events
+# Upcoming Events
 
 ## Research Software Seminar Series
 
 - Full schedule [here](/events/seminar-series)
-- Next talk **Tuesday 14 September 2021 at 13:00 CEST**
 
 ## SeptembRSE
 
