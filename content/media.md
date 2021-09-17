@@ -1,8 +1,7 @@
 +++
 +++
 
-# Media: articles, podcasts, streams
-
+# Resources
 
 ### Articles about Nordic-RSE
 
@@ -24,3 +23,8 @@
 (please list others that you know of and like)
 
 - Research Software Hour: <https://researchsoftwarehour.github.io/>
+
+
+### Youtube
+
+You can now find recordings of the Nordic-RSE unconference 2021 and our Research Software Seminar Series on our [Youtube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ).
