@@ -6,7 +6,7 @@
 The following people are active members, and can provide more
 information about our activities.
 
-- Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
+- Radovan Bast (<radovan.bast@uit.no>), High Performance Computing Group, UiT The Arctic University of Norway
 - Richard Darst, Aalto Scientific Computing, Aalto University, Helsinki
 - Anne Fouilloux, IT Group Department of Geosciences, University of Oslo
 - Radek Lonka, RSE at Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
@@ -17,6 +17,4 @@ information about our activities.
 - Luca Ferranti, PhD student, University of Vaasa, Vaasa
 - Samantha Wittke, PhD student, Aalto University and Finnish Geospatial Research Institute, Helsinki
 
-If you want to be listed here, please send a pull request.  You can
-get in contact with us on the CodeRefinery chat (#nordic-rse stream,
-see above).
+If you want to be listed here, please send a pull request.
