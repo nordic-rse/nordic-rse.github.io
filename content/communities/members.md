@@ -17,6 +17,4 @@ information about our activities.
 - Luca Ferranti, PhD student, University of Vaasa, Vaasa
 - Samantha Wittke, PhD student, Aalto University and Finnish Geospatial Research Institute, Helsinki
 
-If you want to be listed here, please send a pull request.  You can
-get in contact with us on the CodeRefinery chat (#nordic-rse stream,
-see above).
+If you want to be listed here, please send a pull request.
