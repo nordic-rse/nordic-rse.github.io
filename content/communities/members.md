@@ -14,7 +14,7 @@ information about our activities.
 - Konstantin Stadler, Manager and Lead Researcher of the Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
 - Patric Holmvall, RSE/Postdoc at the Department for Physics and Astronomy, Uppsala University, Uppsala
-- Luca Ferranti, PhD student, University of Vaasa, Vaasa
+- Luca Ferranti (<luca.ferranti@uwasa.fi>), PhD student, University of Vaasa, Vaasa
 - Samantha Wittke, PhD student, Aalto University and Finnish Geospatial Research Institute, Helsinki
 
 If you want to be listed here, please send a pull request.
