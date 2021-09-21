@@ -14,3 +14,5 @@ also join our [mailing list](https://forms.gle/qCVVRGXPi3Hq7inW6).
 Finally, do not forget to follow us on
 [Twitter](https://twitter.com/nordic_rse?lang=fi) and
 [YouTube](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ).
+
+To contact us via email, please see [this page](/communities/members/).
