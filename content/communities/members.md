@@ -6,7 +6,7 @@
 The following people are active members, and can provide more
 information about our activities.
 
-- Radovan Bast, High Performance Computing Group, UiT The Arctic University of Norway
+- Radovan Bast (<radovan.bast@uit.no>), High Performance Computing Group, UiT The Arctic University of Norway
 - Richard Darst, Aalto Scientific Computing, Aalto University, Helsinki
 - Anne Fouilloux, IT Group Department of Geosciences, University of Oslo
 - Radek Lonka, RSE at Digital Laboratory, Industrial Ecology Programme, NTNU Trondheim
