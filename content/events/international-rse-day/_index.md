@@ -16,7 +16,7 @@ The Nordic-RSE association is contributing to the International RSE day with an 
 
 (all times in CEST)
 
-- All day, at anytime come and say hello in [https://coderefinery.zulipchat.com](https://coderefinery.zulipchat.com) in our [nordic-rse/international RSE day Oct 14 stream](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse/topic/international.20RSE.20day.20Oct.2014). We do not have any registration form for this event but we would like to encourage our community to come along in zulip to say hello! Once your 1 minute video about yourself is ready, share it in this stream too!
+- All day, at anytime come and say hello in [https://coderefinery.zulipchat.com](https://coderefinery.zulipchat.com) in our [nordic-rse/international RSE day Oct 14 stream](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse/topic/international.20RSE.20day.20Oct.2014). We do not have any registration form for this event but we would like to encourage our community to come along in zulip to say hello! 
 - 09:00 Introduce yourself (2 hours come along helpdesk session)
   The goal of this session is to provide support to prepare a 1 min video about yourself:
      - your name, institution, RSE project you are working on e.g. what software are you contributing to (language, topic and whatever you can say in less than 1 minute!)
