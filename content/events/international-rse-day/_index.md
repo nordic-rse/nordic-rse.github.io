@@ -27,7 +27,9 @@ The Nordic-RSE association is contributing to the International RSE day with an 
 
 - 11:00 Lunch break 
 - 13:00 TIL ('Today I Learned')  session
-     - We have many topics covered in zulip. The idea is to write blogs/documents them on the Nordic-RSE website.
+     - This session is all about sharing the small things that we learn now and then, that others may also find useful.
+     - You can find a growing collection of TIL on our Zulip #help/TIL channel that can serve as inspiration. 
+     - The idea for this afternoon is to write blogs/documents about them to share them with the community via the Nordic-RSE website.
 - 15:00 Wrap up and thank you to everyone!
 
 ## Nordic-RSE provides
