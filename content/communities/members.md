@@ -15,6 +15,6 @@ information about our activities.
 - K. Thor Wikfeldt, PDC Center for High-Performance Computing, KTH, Stockholm
 - Patric Holmvall, RSE/Postdoc at the Department for Physics and Astronomy, Uppsala University, Uppsala
 - Luca Ferranti (<luca.ferranti@uwasa.fi>), PhD student, University of Vaasa, Vaasa
-- Samantha Wittke, PhD student, Aalto University and Finnish Geospatial Research Institute, Helsinki
+- Samantha Wittke (<samantha.wittke@aalto.fi>), Geoinformatics specialist, CSC, PhD student, Aalto University, Finland
 
 If you want to be listed here, please send a pull request.
