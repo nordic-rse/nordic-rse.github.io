@@ -16,7 +16,7 @@ invites everyone interested to participate in Research Software Seminar Series:
 
 The series will start out as a **monthly event in August 2021**. The time for
 each seminar will be set by the speaker. We are inviting everyone to suggest
-topics and/or speakers for this series (link coming soon).
+topics and/or speakers for this series [here](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
 To kick off the event some of our members will introduce you to their work at
 Nordic universities.
@@ -43,13 +43,7 @@ The Nordic-RSE team will provide support and infrastructure.
 ## Upcoming seminars
 
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
-
-
-#### 2021-09-14: Combining Rust and Python: Why and How?
-
-- Speaker: [Radovan Bast](https://bast.fr/), UiT The Arctic University of Norway
-- 2021-09-14, 13-14 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-09-14/13:00)
-- Connection details: <https://hackmd.io/@nordic-rse/rust-python>
+You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
 ---
 
@@ -57,12 +51,21 @@ We will publish upcoming seminar topics and abstracts here as soon as they are c
 
 We will publish past seminar topics and their recordings here as soon as they are available.
 
+#### September 2021: Combining Rust and Python: Why and How?
 
-#### 2021-08-18: Package development in Julia
+- Speaker: [Radovan Bast](https://bast.fr/), UiT The Arctic University of Norway
+- 2021-09-14, 13-14 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-09-14/13:00)
+- HackMD notes: <https://hackmd.io/@nordic-rse/rust-python>
+
+* Blogpost: coming soon
+* Recording: coming soon to [our YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ)
+
+
+#### August 2021: Package development in Julia
 
 - Speaker: [Luca Ferranti](https://lucaferranti.github.io), University of Vaasa, Finland.
 - 2021-08-18, 13-16 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-08-18/13:00).
-- Connection details: <https://hackmd.io/@nordic-rse/package-development-julia>
+- HackMD notes: <https://hackmd.io/@nordic-rse/package-development-julia>
 
 [Julia](https://julialang.org/) is constantly gaining popularity both in academia and industry and it is thus an appealing programming language for research software engineers. This session will be a hands-on tutorial, which will cover the typical package development workflow in Julia. Topics covered include
   - Creating a package from scratch
@@ -74,4 +77,4 @@ Moreover, Luca will share tips and tricks that have helped him making his workfl
 The workshop will involve a lot of live coding and you are encouraged to follow along, check the setup instructions [here](https://hackmd.io/@nordic-rse/package-development-julia).
 
 * [Blogpost](https://nordic-rse.org/blog/seminar-report-julia-package/)
-* Recording: coming soon to [our YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ)
+* [Recording](https://www.youtube.com/watch?v=oHsLmaHSHd8)
