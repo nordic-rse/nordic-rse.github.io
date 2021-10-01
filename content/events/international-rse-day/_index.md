@@ -8,7 +8,7 @@ subtitle = "October 14, 9-15 CEST / 14:00 - 16:00 EEST"
 
 [The International RSE Day](http://researchsoftware.org/council/intl-rse-day.html) is to celebrate Research Software Engineers around the world and raise awareness for the increasingly relevant discipline of Research Software Engineering.
 
-The Nordic-RSE association is contributing to the International RSE day and we have prepared for you an exciting program!
+The Nordic-RSE association is contributing to the International RSE day with an exciting program around community building and raising awareness for RSEs!
 
 ## Schedule
 
