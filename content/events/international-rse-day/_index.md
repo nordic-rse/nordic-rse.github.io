@@ -26,7 +26,7 @@ The Nordic-RSE association is contributing to the International RSE day with an 
      Nordic-RSE staff will provide helpdesk so they can support you to prepare the video but of course, feel free to skip this session and send us directly the link to your 1 minute video!
 
 - 11:00 Lunch break 
-- 13:00 TIL session
+- 13:00 TIL ('Today I Learned')  session
      - We have many topics covered in zulip. The idea is to write blogs/documents them on the Nordic-RSE website.
 - 15:00 Wrap up and thank you to everyone!
 
