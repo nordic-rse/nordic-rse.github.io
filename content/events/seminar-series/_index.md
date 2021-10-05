@@ -45,6 +45,13 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+October: TBA
+
+November: Blurring the lines: Singularity containerisation of SLURM orchestrators
+- Speaker: Frankie Robertson
+- 2021-11-23, 13-15 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-09-14/13:00)
+- Connection details: Coming soon
+
 ---
 
 ## Past seminars
