@@ -49,7 +49,7 @@ October: TBA
 
 November: Blurring the lines: Singularity containerisation of SLURM orchestrators
 - Speaker: Frankie Robertson
-- 2021-11-23, 13-15 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-09-14/13:00)
+- 2021-11-23, 13-15 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-11-23/13:00)
 - Connection details: Coming soon
 
 ---
