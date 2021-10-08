@@ -3,7 +3,7 @@ title = "International RSE day in the Nordics"
 description = "Nordic RSE – Research Software Engineers in the nordics – International RSE day #NordiRSEday"
 template = "section-with-toc.html"
 [extra]
-subtitle = "October 14, 9-15 CEST / 14:00 - 16:00 EEST"
+subtitle = "October 14, 9-15 CEST / 10:00 - 16:00 EEST"
 +++
 
 [The International RSE Day](http://researchsoftware.org/council/intl-rse-day.html) is to celebrate Research Software Engineers around the world and raise awareness for the increasingly relevant discipline of Research Software Engineering.
