@@ -45,6 +45,23 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+October: I/O profiling and optimization.
+- Speaker: Simo Tuomisto, [Aalto Scientific
+  Computing](https://scicomp.aalto.fi)
+- 2021-10-26 13:00-14:30 CEST [convert to your
+  timezone](https://arewemeetingyet.com/Stockholm/2021-10-26/13:00)
+- Abstract: In computing, I/O bandwidth is just as much of a
+  consumable resource as CPU and memory.  While on an individual scale
+  on one's own computer, this is often not the most pressing
+  consideration, on a cluster with shared storage (or very intensive
+  individual projects) it is actually very important to consider.
+  This talk will present lessons and tools that RSEs should have in
+  their toolbox, as we have learned at Aalto Scientific Computing over
+  the years.  Expected schedule: ~15 minute introductions, ~45 minutes
+  hands-on presentation, ~30 minutes discussion.
+
+  Connection details and further information: <https://hackmd.io/@nordic-rse/io-monitoring-optimization>
+
 ---
 
 ## Past seminars
