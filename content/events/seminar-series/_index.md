@@ -75,7 +75,7 @@ We will publish past seminar topics and their recordings here as soon as they ar
 - HackMD notes: <https://hackmd.io/@nordic-rse/rust-python>
 
 * Blogpost: coming soon
-* Recording: coming soon to [our YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ)
+* [Recording](https://youtu.be/UQF2Ez8GyL8)
 
 
 #### August 2021: Package development in Julia
