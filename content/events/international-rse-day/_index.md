@@ -25,7 +25,7 @@ The Nordic-RSE association is contributing to the International RSE day with an 
 
      Nordic-RSE staff will provide helpdesk in our [nordic-rse/international RSE day Oct 14 stream](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse/topic/international.20RSE.20day.20Oct.2014) so they can support you to prepare the video but of course, feel free to skip this session and send us directly the link to your 1 minute video!
      
-     If you want to an example of what you can have in your 1mn video, have a look [here](https://vimeo.com/629975390). Once your video is ready, share the link with us on our [nordic-rse/international RSE day Oct 14 stream](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse/topic/international.20RSE.20day.20Oct.2014).
+     If you want to see an example of what you can have in your 1mn video, have a look [here](https://vimeo.com/629975390). Once your video is ready, share the link with us on our [nordic-rse/international RSE day Oct 14 stream](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse/topic/international.20RSE.20day.20Oct.2014).
 
 - 11:00 Lunch break 
 - 13:00 TIL ('Today I Learned')  session
