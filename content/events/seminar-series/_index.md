@@ -90,7 +90,8 @@ improve upon it?
 
 If you would like to code along in a preprepared CSC environment during the
 talk, email username frrobert in the domain student.jyu.fi at least 24 hours
-before the talk with a CSC username or from an institutional email.
+before the talk with a CSC username if possible (e.g if you are at a Finnish
+university) or from an institutional (ideally university) email.
 
 ---
 
