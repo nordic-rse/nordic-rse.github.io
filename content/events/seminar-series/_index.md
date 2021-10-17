@@ -45,7 +45,22 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-October: TBA
+October: I/O profiling and optimization.
+- Speaker: Simo Tuomisto, [Aalto Scientific
+  Computing](https://scicomp.aalto.fi)
+- 2021-10-26 13:00-14:30 CEST [convert to your
+  timezone](https://arewemeetingyet.com/Stockholm/2021-10-26/13:00)
+- Abstract: In computing, I/O bandwidth is just as much of a
+  consumable resource as CPU and memory.  While on an individual scale
+  on one's own computer, this is often not the most pressing
+  consideration, on a cluster with shared storage (or very intensive
+  individual projects) it is actually very important to consider.
+  This talk will present lessons and tools that RSEs should have in
+  their toolbox, as we have learned at Aalto Scientific Computing over
+  the years.  Expected schedule: ~15 minute introductions, ~45 minutes
+  hands-on presentation, ~30 minutes discussion.
+
+  Connection details and further information: <https://hackmd.io/@nordic-rse/io-monitoring-optimization>
 
 November: Blurring the lines: Singularity containerisation of SLURM orchestrators
 - Speaker: Frankie Robertson, University of Jyväskylä
@@ -90,7 +105,7 @@ We will publish past seminar topics and their recordings here as soon as they ar
 - HackMD notes: <https://hackmd.io/@nordic-rse/rust-python>
 
 * Blogpost: coming soon
-* Recording: coming soon to [our YouTube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ)
+* [Recording](https://youtu.be/UQF2Ez8GyL8)
 
 
 #### August 2021: Package development in Julia
