@@ -52,6 +52,31 @@ November: Blurring the lines: Singularity containerisation of SLURM orchestrator
 - 2021-11-23, 13-15 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-11-23/13:00)
 - Connection details and further information: <https://hackmd.io/@nordic-rse/singularity_containerization>
 
+While [SLURM](https://slurm.schedmd.com) itself provides tools for job
+orchestration like job arrays, high level tools like
+[Snakemake](https://snakemake.github.io/) and [Ray](https://www.ray.io/) are
+cluster agnostic and can either make use of SLURM or run on a laptop. To make
+Snakemake and Ray to run within Singularity, I present
+[singreqrun](https://github.com/frankier/singreqrun), which works by requesting
+the host runs programs on behalf of the container.
+
+The talk doubles as an introduction to Snakemake and Ray. After some brief
+background on the main tools (Singularity, SLURM, Snakemake and Ray), we
+proceed to shell code-along to run the following examples:
+
+ * Snakemake for heterogeneous (mixture of CPU and GPU nodes) video corpus
+   processing + quick porting across HPC clusters
+ * Snakemake for text corpus processing including using extra Singularity
+   containers for utilities
+ * Ray for hyperparameter search
+
+I end the talk by opening for discussion. Is this a good approach? Can we
+improve upon it?
+
+If you would like to code along in a preprepared CSC environment during the
+talk, email username frrobert in the domain student.jyu.fi at least 24 hours
+before the talk with a CSC username or from an institutional email.
+
 ---
 
 ## Past seminars
