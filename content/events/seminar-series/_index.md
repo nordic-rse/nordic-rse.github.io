@@ -45,7 +45,7 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-October: I/O profiling and optimization.
+#### October: I/O profiling and optimization.
 - Speaker: Simo Tuomisto, [Aalto Scientific
   Computing](https://scicomp.aalto.fi)
 - 2021-10-26 13:00-14:30 CEST [convert to your
@@ -62,7 +62,7 @@ October: I/O profiling and optimization.
 
   Connection details and further information: <https://hackmd.io/@nordic-rse/io-monitoring-optimization>
 
-November: Blurring the lines: Singularity containerisation of SLURM orchestrators
+#### November: Blurring the lines: Singularity containerisation of SLURM orchestrators
 - Speaker: Frankie Robertson, University of Jyväskylä
 - 2021-11-23, 13-15 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-11-23/13:00)
 - Connection details and further information: <https://hackmd.io/@nordic-rse/singularity_containerization>
