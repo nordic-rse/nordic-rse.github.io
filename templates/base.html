@@ -16,7 +16,7 @@
       crossorigin="anonymous">
 
     <script src="https://kit.fontawesome.com/f030d443fe.js" crossorigin="anonymous"></script>
-    
+
     <!-- twitter card description -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if page.title %}{{page.title}} - {% elif section.title %}{{ section.title }} - {% endif %}{{ config.title }}">
@@ -105,7 +105,8 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/events/seminar-series">Seminar series</a>
               <!--  <a class="dropdown-item" href="https://researchsoftwarehour.github.io/">Research Software Hours</a>-->
-              <a class="dropdown-item" href="{{ config.base_url | safe }}/events/">Events</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/events/advent-of-code-2021">Advent of Code</a>
+                <a class="dropdown-item" href="{{ config.base_url | safe }}/events/">Events</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/events/meeting">Meeting</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/events/past ">Past events</a>
                 <a class="dropdown-item" href="{{ config.base_url | safe }}/events/conference">Conference</a>
