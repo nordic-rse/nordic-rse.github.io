@@ -47,7 +47,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 
 #### November: Blurring the lines: Singularity containerisation of SLURM orchestrators
 - Speaker: Frankie Robertson, University of Jyväskylä
-- 2021-11-23, 13-15 CEST [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-11-23/13:00)
+- 2021-11-23, 13-15 CET [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-11-23/13:00)
 - Connection details and further information: <https://hackmd.io/@nordic-rse/singularity_containerization>
 
 While [SLURM](https://slurm.schedmd.com) itself provides tools for job
