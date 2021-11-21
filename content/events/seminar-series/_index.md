@@ -94,8 +94,8 @@ We will publish past seminar topics and their recordings here as soon as they ar
   their toolbox, as we have learned at Aalto Scientific Computing over
   the years.
 - HackMD notes: <https://hackmd.io/@nordic-rse/io-monitoring-optimization>
-- 
-* Recording: coming soon
+
+* [Recording](https://youtu.be/mtKZbDtZ7PE)
 
 #### September 2021: Combining Rust and Python: Why and How?
 
