@@ -7,15 +7,11 @@
 
 - Full schedule [here](/events/seminar-series)
 
-## SeptembRSE
 
-Some of us will be representing Nordic-RSE at the fifth conference of Research Software Engineers in September 2021, which is held fully [online](https://septembrse.society-rse.org/). More information coming soon. 
+# Calendar
 
-## International RSE day October 14th
+<a href="https://calendar.google.com/calendar/ical/8li6hjcjm95g76pgte1p5pi05c%40group.calendar.google.com/public/basic.ics">Public
+iCal feed</a>.
 
-We are in the process of organizing a nordic event as part of the international RSE day to celebrate RSEs and RSE work. 
-
-- More information and full schedule [here](/events/international-rse-day).
-
-
+<iframe src="https://calendar.google.com/calendar/embed?src=8li6hjcjm95g76pgte1p5pi05c%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border: 0" width="730" height="600" frameborder="0" scrolling="no"></iframe>
 

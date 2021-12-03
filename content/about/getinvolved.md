@@ -13,7 +13,7 @@ We have multiple ways to become involved with Nordic-RSE:
 * Come say hi to our [weekly coffeebreak](/communities/coffeebreak/), where we chat and have fun
 
 ### Stay Tuned
-* Become a member [here](/join/) and follow our [calendar](/events/calendar/)
+* Become a member [here](/join/) and follow our [calendar](/events/#calendar)
 * Visit our community biweekly [meetings](/events/meeting/#community-discussions-biweekly), where we plan activities and stuff
 
 ### Share your skills
