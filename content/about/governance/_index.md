@@ -31,7 +31,7 @@ committee.
 The current board members are
  - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
  - Anne Fouilloux (University of Oslo), annefou@geo.uio.no
- - Luca Ferranti (University of Vaasa)
+ - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
  - Rohit Goswami (University of Iceland)
  - Samantha Wittke (Aalto University, CSC)
  - Radovan Bast (UiT The Arctic University of Norway)
