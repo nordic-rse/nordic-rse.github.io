@@ -76,13 +76,9 @@ warning the offender or expulsion from the workshop with no refund.
 ### Procedure for reporting harassment
 
 If you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact any member of the code of conduct committee:
+any other concerns, please contact any
+[member of the board](/about/governance/#board).
 
-<div class="alert alert-dismissible alert-warning">
-  <p>
-    Here we will list members of the code of conduct committee.
-  </p>
-</div>
 
 Events may have a separate code of conduct committee listed of the event page.
 It is always appropriate to contact any member of either code of conduct
