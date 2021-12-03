@@ -5,7 +5,7 @@ title = "Association"
 
 # The Association
 
-We are registered in Finland as the Nordic Research Software Engineers Ry.
+We are registered in Finland as the Nordic Research Software Engineers ry.
 Registering as an association comes with certain legal benefits, such as the ability to
 sign contracts and own assets.
 
