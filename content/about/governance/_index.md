@@ -36,7 +36,7 @@ The current board members are
  - Samantha Wittke (Aalto University, CSC)
  - Radovan Bast (UiT The Arctic University of Norway)
  - Thomas Arildsen (Aalborg University)
- - Patric Holmvall (Uppsala University)
+ - Patric Holmvall (Uppsala University), patric.holmvall@physics.uu.se
 
 
 # Statutes
