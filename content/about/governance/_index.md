@@ -55,7 +55,7 @@ as faithful as possible.
 
     To fulfill its purpose, the association
       - may organize courses, workshops and other similar events
-      - may organize confenrences, seminars and other similar events
+      - may organize conferences, seminars and other similar events
       - may maintain electronic communication channels
       - may publish bulletins and other communications through various communication channels
       - advises and guides its members
@@ -80,13 +80,13 @@ as faithful as possible.
 5. Board:
     The association's affairs are handled by the board, which has a chair and 3-7 other regular members, as well as 0-8 deputies, all of whom are appointed at the annual meeting. The term of office of the board is the time between the annual meetings.
 
-    The board chooses a vice their from amongst its members, and additionally a secretary, a treasurer and any additional necessary functionaries. Board meetings are convened by the chair, or the vice chair when the chair is unable, when they consider it necessary of at least half of the board members request it. The board has a quorum when at least half of its members, the chair and vice chair included, are present. Votes are resolved by strict majority. In the event of a tie, the chair has the casting vote, except in elections where ties are broken by lot.
+    The board chooses a vice chair from amongst its members, and additionally a secretary, a treasurer and any additional necessary functionaries. Board meetings are convened by the chair, or the vice chair when the chair is unable, when they consider it necessary or at least half of the board members request it. The board has a quorum when at least half of its members, the chair and vice chair included, are present. Votes are resolved by strict majority. In the event of a tie, the chair has the casting vote, except in elections where ties are broken by lot.
 
 6. Signing for the association:
     The name of the association is signed by the chair of the board, vice chair, secretary or treasurer, separately.
 
 7. Accounting period:
-    The association's accounting period is 1.6 - 31.5.
+    The associations accounting period is 1.6 - 31.5.
 
 8. Association meetings:
     Members may attend the association meeting remotely by mail, online, or using oher technical tools before and during the meeting. The association meeting determines its voting and election procedures.
