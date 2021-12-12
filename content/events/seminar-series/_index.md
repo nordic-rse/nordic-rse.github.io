@@ -45,10 +45,17 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+---
+
+## Past seminars
+
+We will publish past seminar topics and their recordings here as soon as they are available.
+
 #### November: Blurring the lines: Singularity containerisation of SLURM orchestrators
 - Speaker: Frankie Robertson, University of Jyväskylä
 - 2021-11-23, 13-15 CET [convert to your timezone](https://arewemeetingyet.com/Stockholm/2021-11-23/13:00)
-- Connection details and further information: <https://hackmd.io/@nordic-rse/singularity_containerization>
+- Hackmd notes: <https://hackmd.io/@nordic-rse/singularity_containerization>
+- [Recording](https://youtu.be/revklPtujtE)
 
 While [SLURM](https://slurm.schedmd.com) itself provides tools for job
 orchestration like job arrays, high level tools like
@@ -70,17 +77,6 @@ proceed to shell code-along to run the following examples:
 
 I end the talk by opening for discussion. Is this a good approach? Can we
 improve upon it?
-
-If you would like to code along in a preprepared CSC environment during the
-talk, email username frrobert in the domain student.jyu.fi at least 24 hours
-before the talk with a CSC username if possible (e.g if you are at a Finnish
-university) or from an institutional (ideally university) email.
-
----
-
-## Past seminars
-
-We will publish past seminar topics and their recordings here as soon as they are available.
 
 #### October 2021: I/O profiling and optimization.
 - Speaker: Simo Tuomisto, [Aalto Scientific
