@@ -48,7 +48,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 #### January 2022: Developing and distributing in-house R-packages
 - Speaker: [Athanasia Monika Mowinckel](https://drmowinckels.io/about/), University of Oslo
 - 2022-01-20, 13-14 CET [convert to your timezone](https://arewemeetingyet.com/Stockholm/2022-01-20/13:00)
-- hackmd (contains connection details): <https://hackmd.io/6XrmG5mTSpK5AXsLUa0kPg>
+- hackmd (contains connection details): <https://hackmd.io/@nordic-rse/R_packaging>
 
 R is mainly a statistical programming language than has been around for more than 20 years. In recent years, it has seen a large resurge in popularity, especially amongst researchers, for its powerful statistical backbone and open source practice. But R can be unfamiliar and intimidating for researchers used to a purely GUI based statistical tool. This talk will center around how I have developed in-house R tools to clean and handle in-house data, and how I have distributed these to work on multiple platforms.
 
