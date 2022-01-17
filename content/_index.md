@@ -3,7 +3,7 @@
 
 ### Who we are
 
-This is the website of the (unregistered) **Nordic Research Software
+This is the website of the **Nordic Research Software
 Engineers** association.  We do or want to do the following:
 
 * We currently informally meet, talk, and plan events.
