@@ -45,18 +45,26 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-#### January 2022: Developing and distributing in-house R-packages
-- Speaker: [Athanasia Monika Mowinckel](https://drmowinckels.io/about/), University of Oslo
-- 2022-01-20, 13-14 CET [convert to your timezone](https://arewemeetingyet.com/Stockholm/2022-01-20/13:00)
-- hackmd (contains connection details): <https://hackmd.io/@nordic-rse/R_packaging>
+#### February 2022: Title TBD
 
-R is mainly a statistical programming language than has been around for more than 20 years. In recent years, it has seen a large resurge in popularity, especially amongst researchers, for its powerful statistical backbone and open source practice. But R can be unfamiliar and intimidating for researchers used to a purely GUI based statistical tool. This talk will center around how I have developed in-house R tools to clean and handle in-house data, and how I have distributed these to work on multiple platforms.
-
+- Speaker: [Logan Kilpatrick](https://twitter.com/officiallogank), JuliaLang
+- 2022-02-16, 17-18 CET [convert to your time zone](https://arewemeetingyet.com/Stockholm/2022-02-16/17:00)
+- Hackmd (contains connection details): COMING SOON
+- Abstract: COMING SOON 
 ---
 
 ## Past seminars
 
 We will publish past seminar topics and their recordings here as soon as they are available.
+
+#### January 2022: Developing and distributing in-house R-packages
+- Speaker: [Athanasia Monika Mowinckel](https://drmowinckels.io/about/), University of Oslo
+- 2022-01-20, 13-14 CET [convert to your timezone](https://arewemeetingyet.com/Stockholm/2022-01-20/13:00)
+- Hackmd notes: <https://hackmd.io/@nordic-rse/R_packaging>
+- [slides](https://athanasiamo.github.io/talks/slides/2022.01.20-rse-pgk/#1)
+- [recording](https://youtu.be/i2fnLtED86E)
+
+R is mainly a statistical programming language than has been around for more than 20 years. In recent years, it has seen a large resurge in popularity, especially amongst researchers, for its powerful statistical backbone and open source practice. But R can be unfamiliar and intimidating for researchers used to a purely GUI based statistical tool. This talk will center around how I have developed in-house R tools to clean and handle in-house data, and how I have distributed these to work on multiple platforms.
 
 #### November: Blurring the lines: Singularity containerisation of SLURM orchestrators
 - Speaker: Frankie Robertson, University of Jyväskylä
