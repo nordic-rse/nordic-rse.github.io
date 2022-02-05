@@ -45,11 +45,11 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-#### February 2022: Title TBD
+#### February 2022: The importance and role of community in open source
 
 - Speaker: [Logan Kilpatrick](https://twitter.com/officiallogank), JuliaLang
 - 2022-02-16, 17-18 CET [convert to your time zone](https://arewemeetingyet.com/Stockholm/2022-02-16/17:00)
-- Hackmd (contains connection details): COMING SOON
+- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/community_oss>
 - Abstract: COMING SOON 
 ---
 
