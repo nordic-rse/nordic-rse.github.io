@@ -50,7 +50,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 - Speaker: [Logan Kilpatrick](https://twitter.com/officiallogank), JuliaLang
 - 2022-02-16, 17-18 CET [convert to your time zone](https://arewemeetingyet.com/Stockholm/2022-02-16/17:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/community_oss>
-- Abstract: COMING SOON 
+- Abstract:  Open Source is more than code. In order for an Open Source project to thrive, it must put in place mechanism to attract and reward non-code contributions. In this talk, we will go over how the Julia community attracts and rewards these contributions as well as how other projects can learn from our experience.
 ---
 
 ## Past seminars
