@@ -20,7 +20,7 @@
 
    In-person events may have a participation fee and members get discounts.
 
- - An association is owned by it's members. As a member you can participate in
+ - An association is owned by its members. As a member you can participate in
    the associations annual meeting and vote on the direction the association
    is evolving.
 
