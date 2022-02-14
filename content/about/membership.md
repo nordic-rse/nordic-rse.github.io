@@ -24,18 +24,19 @@
    the associations annual meeting and vote on the direction the association
    is evolving.
 
+
 ### How Do I Sign Up?
 
 To become a member you need to
- - register by filling out the membership form (address)
- - pay the membership fee. See instructions here: (address)
+ - register by filling out the membership form (address).
+ - pay the membership fee. See the [instructions](/about/membership-fee).
 
 
 ### Mailing List
 
 Would you rather just follow our activities?
  - Join the converstation on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
- - If you just want to hear about our upcoming events once or twice a year,
+ - If you just want to hear about our upcoming events a couple of times a year,
    sign up to our mailing list. (link)
 
 
