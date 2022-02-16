@@ -3,7 +3,7 @@ title = "Nordic-RSE online unconference 2022"
 description = "Nordic RSE – Research Software Engineers in the nordics – Unconference 16–17 August #NordiRSEunconf"
 template = "section-with-toc.html"
 [extra]
-subtitle = "August 16-18, half day exact time TBD (3 + 3 hours with optional social time)"
+subtitle = "August 16-17, half day exact time TBD (3 + 3 hours with optional social time)"
 +++
 
 <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank"
@@ -45,10 +45,12 @@ Please also have a look at our [time slot suggestions](https://github.com/nordic
 Here are some examples to spark ideas:
 - *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
 - *Demonstrations:* show us some tools or software that you like
-- *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (only 3 hours in a day)
+- *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
 - *Talks*: teach us something new
 - *On-going projects*: share with others something unfinished and almost working that you would like to get feedback on
 - *Something else*: is there something you would like to share with others that does not fit any of the previous points? We are looking forward to hearing about it!
+
+Another great way to get inspiration is to check what we have done last year during the first [Nordic-RSE Unconference](https://nordic-rse.org/events/2021-online-unconference/).
 
 Ready to submit your idea? - Please use the [unconference contribution issue template](https://github.com/nordic-rse/conference-contributions/issues/new?template=unconference-contribution.md&title=Unconference+event) to let us know. It does not have to be polished yet, but so that the community gets the idea. We can polish it together if you want to :)
 
