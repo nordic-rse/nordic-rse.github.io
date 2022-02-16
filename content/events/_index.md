@@ -7,6 +7,13 @@
 
 - Full schedule [here](/events/seminar-series)
 
+## Nordic-RSE Unconference 2022 
+
+**Save the dates**.
+
+The Nordic-RSE Unconference will be held online, August 16-17 2022.
+
+- More information [here](/events/2022-online-unconference)
 
 # Calendar
 
