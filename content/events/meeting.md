@@ -11,7 +11,7 @@ We meet virtually for the following occasions:
 
 ## Community discussions - biweekly 
 
-We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on Thursday at 14 CET (15 CET) on each even week.
+We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on Thursday at 14 CET/CEST (15 EET/EEST) on each even week.
 The agenda for the next meeting and the minutes of previous meetings are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
 
 See the [agenda](https://hackmd.io/@nordic-rse/biweekly) for connection details.
