@@ -45,17 +45,27 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+
+#### April 2022: Title TBD
+
+- Speaker: [Arfon Smith](https://www.arfon.org/)
+- 2022-04-27, 13 -- 14 CET [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
+- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
+- Abstract: TBD
+
+## Past seminars
+
+We will publish past seminar topics and their recordings here as soon as they are available.
+
 #### February 2022: The importance and role of community in open source
 
 - Speaker: [Logan Kilpatrick](https://twitter.com/officiallogank), JuliaLang
 - 2022-02-16, 17-18 CET [convert to your time zone](https://arewemeetingyet.com/Stockholm/2022-02-16/17:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/community_oss>
-- Abstract:  Open Source is more than code. In order for an Open Source project to thrive, it must put in place mechanism to attract and reward non-code contributions. In this talk, we will go over how the Julia community attracts and rewards these contributions as well as how other projects can learn from our experience.
+- [recording](https://youtu.be/R4-M1YGm6z8)
+
+Open Source is more than code. In order for an Open Source project to thrive, it must put in place mechanism to attract and reward non-code contributions. In this talk, we will go over how the Julia community attracts and rewards these contributions as well as how other projects can learn from our experience.
 ---
-
-## Past seminars
-
-We will publish past seminar topics and their recordings here as soon as they are available.
 
 #### January 2022: Developing and distributing in-house R-packages
 - Speaker: [Athanasia Monika Mowinckel](https://drmowinckels.io/about/), University of Oslo
