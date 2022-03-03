@@ -2,11 +2,6 @@
 title = "Association"
 +++
 
-> Note:
->
-> This page is a draft and is subject to change. The association is not yet registered
-> and we are still considering our options.
->
 
 # The Association
 
