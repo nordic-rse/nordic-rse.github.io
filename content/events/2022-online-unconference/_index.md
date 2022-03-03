@@ -6,8 +6,8 @@ template = "section-with-toc.html"
 subtitle = "August 16-17, half day exact time TBD (3 + 3 hours with optional social time)"
 +++
 
-<a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank"
->Registration is closed</a>
+<!-- <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank"
+>Registration is closed</a> -->
 
 **Save the dates!**.
 
@@ -100,7 +100,7 @@ for more details.
 
 Nordic-RSE invites everyone interested in such topics to join our online
 unconference (lightweight get-together) on August 16 and 17, where we let the
-participants shape the agenda ("birds of a feather"). 
+participants shape the agenda ("birds of a feather").
 
 Next, the floor is yours! Come sharing your work and/or listening what others
 have been doing. Submit proposals and find out more at:
