@@ -3,6 +3,7 @@
 
 # Past Events
 
+- [Advent of Code, December 2022](/events/advent-of-code-2021/)
 - [Nordic-RSE Unconference, June 29 - 30, 2021](/events/2021-online-unconference/)
 - [Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020](/events/2020-online-get-together/)
 - [2nd Intl. RSE Leaders Workshop 2020, Sep 15-16 and 30, 2020](https://researchsoftware.org/2020-workshop.html)
