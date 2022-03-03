@@ -53,6 +53,8 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
 - Abstract: TBD
 
+---
+
 ## Past seminars
 
 We will publish past seminar topics and their recordings here as soon as they are available.
@@ -65,7 +67,6 @@ We will publish past seminar topics and their recordings here as soon as they ar
 - [recording](https://youtu.be/R4-M1YGm6z8)
 
 Open Source is more than code. In order for an Open Source project to thrive, it must put in place mechanism to attract and reward non-code contributions. In this talk, we will go over how the Julia community attracts and rewards these contributions as well as how other projects can learn from our experience.
----
 
 #### January 2022: Developing and distributing in-house R-packages
 - Speaker: [Athanasia Monika Mowinckel](https://drmowinckels.io/about/), University of Oslo
