@@ -8,7 +8,8 @@ You can pay the fee in two ways:
     - Recommended for currencies other than EUR
   - By a SEPA transfer to "Nordic Research Software Engineers ry"
     - IBAN: BE42 9672 5549 7154
-    - In the message field, include your name and the words "membership fee".
+    - In the message field, include **your name** and the words
+      "membership fee".
 
 
 ### Using [wise.com](https://wise.com)
