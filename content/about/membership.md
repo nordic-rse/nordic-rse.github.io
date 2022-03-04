@@ -28,7 +28,7 @@
 ### How Do I Sign Up?
 
 To become a member you need to
- - register by filling out the membership form (https://forms.gle/FXdTv2mtBn53gHxx9).
+ - register by filling out the [membership form](https://forms.gle/FXdTv2mtBn53gHxx9).
  - pay the membership fee. See the [instructions](/about/membership-fee).
 
 The membership fee needs to be paid after each annual meeting. To be exact,
@@ -40,6 +40,6 @@ the membership fee expires at the end of October each year.
 Would you rather just follow our activities?
  - Join the converstation on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
  - If you just want to hear about our upcoming events a couple of times a year,
-   sign up to our mailing list. (https://forms.gle/DYzJn14jQCknYjez7)
+   sign up to our [mailing list](https://forms.gle/DYzJn14jQCknYjez7).
 
 
