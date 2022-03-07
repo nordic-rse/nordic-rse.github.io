@@ -45,6 +45,15 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+#### April 2022: Motivating specialist services in universities (or, "Starting a RSE group")
+
+- Speaker: Richard Darst, [Aalto Scientific Computing](https://scicomp.aalto.fi/)
+- 2022-04-06, 14 -- 15 CET [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-06/15:00)
+- Hackmd (contains connection details, coming later) <!--: <https://hackmd.io/@nordic-rse/joss-talk>-->
+- Summary: I've gotten several requests about "what is your advice for
+  starting a RSE service", and I will lead a discussion on this in the
+  seminar series.
+- Abstract: TBD
 
 #### April 2022: Title TBD
 
