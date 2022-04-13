@@ -58,7 +58,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 #### April 2022: Title TBD
 
 - Speaker: [Arfon Smith](https://www.arfon.org/)
-- 2022-04-27, 13 -- 14 CET [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
+- 2022-04-27, 13 -- 14 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
 - Abstract: TBD
 
