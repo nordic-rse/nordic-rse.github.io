@@ -45,28 +45,27 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-#### April 2022: Motivating specialist services in universities (or, "Starting a RSE group")
-
-- Speaker: Richard Darst, [Aalto Scientific Computing](https://scicomp.aalto.fi/)
-- 2022-04-06, 14 -- 15 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-06/15:00)
-- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/starting-rse-group>
-- Summary: I've gotten several requests about "what is your advice for
-  starting a RSE service", and I will lead a discussion on this in the
-  seminar series.
-- Abstract: TBD
-
-#### April 2022: Title TBD
+#### April 2022: Journal of Open Source Software – Developing a Software Review Community
 
 - Speaker: [Arfon Smith](https://www.arfon.org/)
 - 2022-04-27, 13 -- 14 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
-- Abstract: TBD
+- Abstract: In this presentation, I'll introduce the Journal of Open Source Software, a community-run diamond open access journal for publishing open source software packages. I'll share some of the motivations behind the journal, how it works, and how the journal has evolved over the last six years of operations.
 
 ---
 
 ## Past seminars
 
 We will publish past seminar topics and their recordings here as soon as they are available.
+
+#### April 2022: Motivating specialist services in universities (or, "Starting a RSE group")
+
+- Speaker: Richard Darst, [Aalto Scientific Computing](https://scicomp.aalto.fi/)
+- 2022-04-06, 14 -- 15 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-06/15:00)
+- Hackmd: <https://hackmd.io/@nordic-rse/starting-rse-group>
+- Summary: I've gotten several requests about "what is your advice for
+  starting a RSE service", and I will lead a discussion on this in the
+  seminar series.
 
 #### February 2022: The importance and role of community in open source
 
