@@ -55,12 +55,12 @@ You can see topics in planning and add your own suggestions on our [Issues page]
   seminar series.
 - Abstract: TBD
 
-#### April 2022: Title TBD
+#### April 2022: Journal of Open Source Software – Developing a Software Review Community
 
 - Speaker: [Arfon Smith](https://www.arfon.org/)
 - 2022-04-27, 13 -- 14 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
-- Abstract: TBD
+- Abstract: In this presentation, I'll introduce the Journal of Open Source Software, a community-run diamond open access journal for publishing open source software packages. I'll share some of the motivations behind the journal, how it works, and how the journal has evolved over the last six years of operations.
 
 ---
 
