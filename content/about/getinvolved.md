@@ -10,7 +10,7 @@ We have multiple ways to become involved with Nordic-RSE:
 ### Chat with us
 
 * Join the [CodeRefinery Zulip chat](https://coderefinery.zulipchat.com), there are a lot of very interesting discussions going on here! You can introduce yourself in the #new-members stream. Nordic-RSE related discussion can be followed in the #nordic-rse stream.
-* Come say hi to our [weekly coffeebreak](/communities/coffeebreak/), where we chat and have fun
+* Come say hi to our [weekly coffeebreak](/events/coffeebreak/), where we chat and have fun
 
 ### Stay Tuned
 * Become a member [here](/join/) and follow our [calendar](/events/#calendar)

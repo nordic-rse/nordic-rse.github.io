@@ -24,7 +24,7 @@ See the [agenda](https://hackmd.io/@nordic-rse/biweekly) for connection details.
 
 ## Virtual coffee break - weekly
 
-An free form [coffee break](/communities/coffeebreak/#weekly-virtual-coffee-break)
+An free form [coffee break](/events/coffeebreak/#weekly-virtual-coffee-break)
 open to everyone every Thursday at 9 CET/CEST (10 EET/EEST).
 
 # Calendar
