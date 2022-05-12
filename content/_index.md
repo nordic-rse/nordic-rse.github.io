@@ -12,9 +12,8 @@ Engineers** association.  We do or want to do the following:
 * Periodic community chats
 * Assistance in starting RSE groups
 
-Check out what we are currently planning on the [timeline page](/about/timeline).
 We are still just beginning - if you have ideas for activities we
-should organize, get in touch.
+should organize, [get in touch](about/membership).
 
 We are related to (but different from) the following other groups, and
 share a chat platform with them:
