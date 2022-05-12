@@ -22,7 +22,6 @@ If you are organized in such a group please contact us.
 * [Aalto Scientific Computing](https://scicomp.aalto.fi/rse/), Aalto University, Finland
 * [IEDL](https://iedl.no) - Industrial Ecology Digital Lab at NTNU Trondheim, Norway
 * [NTNU Trondheim RSE Community](http://rse.org.ntnu.no/), Norway
-* [RSE Finland](/events/coffeebreak/)
 
 
 ### Community map
