@@ -68,6 +68,38 @@ By submitting a contribution you agree that:
 
 Our agenda is based on your contributions! We will announce it when we get closer to the unconference.
 
+
+#### August 16
+
+(all times in CEST)
+
+- 13:00 : Welcome and introduction to the unconference format: HackMD, proposing sessions, scheduling
+- 13:15 : Invited talks (Chair: TBA) _Suggested topics, speakers TBA_
+  - 13:15 : Developer productivity on HPC
+  - 13:35 : How do skills learned during a PhD translate to industrial and professional work?
+  - 13:55 : Break
+  - 14:05 : Data stewards as technical support positions in academia
+  - 14:25 : Digital humanities as a technical career path
+- 14:45 : Introduction to Nordic-RSE
+- 15:00 : Break
+- 15:10 : Unconference session 1
+- 16:00 : Close
+- Zoom remains open for Social time until ~18:00
+
+
+#### August 17
+
+(all times in CEST)
+
+- 13:00 : Introduction to the day and unconference scheduling
+- 13:10 : Unconference session 2
+- 14:20 : Break
+- 14:40 : Unconference session 3
+- 15:50 : Conclusion and follow-up
+- 16:00 : Close
+- Zoom remains open for Social time until ~18:00
+
+
 ## Nordic-RSE provides
 
 - [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/)
