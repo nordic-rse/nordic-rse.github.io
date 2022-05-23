@@ -13,7 +13,7 @@ Engineers** association.  We do or want to do the following:
 * Assistance in starting RSE groups
 
 We are still just beginning - if you have ideas for activities we
-should organize, [get in touch](about/membership).
+should organize, [get in touch](about/getinvolved).
 
 We are related to (but different from) the following other groups, and
 share a chat platform with them:
