@@ -18,7 +18,7 @@ We have multiple ways to become involved with Nordic-RSE:
 
 ### Share your skills
 
-* Have you developed a tool you'd like to share? A skill you would like to teach others? Something you find useful and interesting? Then you may want to give a talk to our [semianr series](/events/seminar-series/). You can propose a talk [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?assignees=&labels=Seminar&template=seminar-series-event.md&title=Seminar+event+idea).
+* Have you developed a tool you'd like to share? A skill you would like to teach others? Something you find useful and interesting? Then you may want to give a talk to our [seminar series](/events/seminar-series/). You can propose a talk [here](https://github.com/nordic-rse/nordic-rse.github.io/issues/new?assignees=&labels=Seminar&template=seminar-series-event.md&title=Seminar+event+idea).
 
 ## As Company / Institute / University
 
