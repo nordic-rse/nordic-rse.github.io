@@ -25,14 +25,17 @@
    is evolving.
 
 
-### How Do I Sign Up?
+### How it works:
 
 To become a member you need to
  - register by filling out the [membership form](https://forms.gle/FXdTv2mtBn53gHxx9).
  - pay the membership fee. See the [instructions](/about/membership-fee).
 
-The membership fee needs to be paid after each annual meeting. To be exact,
-the membership fee expires at the end of October each year.
+**Duration**:
+ - Your membership expires after each annual meeting. To be exact,
+   the membership fee expires at the end of October each year.
+
+
 
 
 ### Mailing List
