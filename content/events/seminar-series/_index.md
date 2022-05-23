@@ -45,18 +45,20 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-#### April 2022: Journal of Open Source Software – Developing a Software Review Community
-
-- Speaker: [Arfon Smith](https://www.arfon.org/)
-- 2022-04-27, 13 -- 14 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
-- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
-- Abstract: In this presentation, I'll introduce the Journal of Open Source Software, a community-run diamond open access journal for publishing open source software packages. I'll share some of the motivations behind the journal, how it works, and how the journal has evolved over the last six years of operations.
-
+**Currently on Summer break** we will be back in Autumn 2022. Meanwhile, make sure to check the [seminar series playlist](https://www.youtube.com/playlist?list=PLftRaVXG5xM4zRcUKZUAPOiBqhSlZ91kl) with all the past talks.
 ---
 
 ## Past seminars
 
 We will publish past seminar topics and their recordings here as soon as they are available.
+
+#### April 2022: Journal of Open Source Software – Developing a Software Review Community
+
+- Speaker: [Arfon Smith](https://www.arfon.org/)
+- 2022-04-27, 13 -- 14 CEST [convert to your time zone](https://arewemeetingyet.com/Helsinki/2022-04-27/14:00)
+- [recording](https://youtu.be/Dvmi9tq550Q)
+- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/joss-talk>
+- Abstract: In this presentation, I'll introduce the Journal of Open Source Software, a community-run diamond open access journal for publishing open source software packages. I'll share some of the motivations behind the journal, how it works, and how the journal has evolved over the last six years of operations.
 
 #### April 2022: Motivating specialist services in universities (or, "Starting a RSE group")
 
