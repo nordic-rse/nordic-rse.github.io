@@ -5,7 +5,7 @@ template = "map.html"
 # The community of research software engineers in the Nordics
 
 There are several ways of being a member of the Nordic RSE community. None of
-these numbers count everyone, but here are some details
+these numbers count everyone, but here are some details (as of Spring 2022)
  - Our [Zulip stream](https://coderefinery.zulipchat.com) has about 250 members
  - Around 70 have signed up to our mailing list or become members
  - We are aware of [3 local RSE groups](local). See the
