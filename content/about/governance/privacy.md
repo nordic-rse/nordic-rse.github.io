@@ -46,7 +46,8 @@ Nordic RSE keeps a record of its members.
 
 ## Map
 
-* The [Nordic RSE map](https://nordic-rse.org/map/) is considered a
+* The map on our [community page](https://nordic-rse.org/communities/)
+  is considered a
   publication and all data is open, and thus not subject to privacy
   protection.  Information is voluntarily submitted by the person it
   describes.
