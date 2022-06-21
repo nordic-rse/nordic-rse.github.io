@@ -1,17 +1,19 @@
 +++
 title = "Nordic-RSE online unconference 2022"
-description = "Nordic RSE – Research Software Engineers in the nordics – Unconference 16–17 August #NordiRSEunconf"
+description = "Nordic RSE – Research Software Engineers in the nordics – Unconference in October #NordiRSEunconf"
 template = "section-with-toc.html"
 [extra]
-subtitle = "August 16-17, half day exact time TBD (3 + 3 hours with optional social time)"
+subtitle = "October 18-19, half day exact time TBD (3 + 3 hours with optional social time)"
 +++
 
 <!-- <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank"
 >Registration is closed</a> -->
 
+*This announcement was modified since it was first published!*
+
 **Save the dates!**.
 
-Our first Nordic-RSE online unconference was a success and we are pleased to announce that the Nordic-RSE unconference will be held online on August 16-17 2022.
+Our first Nordic-RSE online unconference was a success and we are pleased to announce that we are planning the next Nordic-RSE unconference which will be held online on October 18-19 2022 (dates will be confirmed soon).
 
 Nordic-RSE invites anyone who develop software or tools and are driven by research/engineering in either academia or industry.
 
@@ -56,7 +58,7 @@ Ready to submit your idea? - Please use the [unconference contribution issue tem
 
 You may also come and chat with us in the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/213720-nordic-rse), where we can figure out contributions together.
 
-If you want to be part of the published program, we kindly ask you to **submit your idea by August 12 2022** via any of the above mentioned channels.
+If you want to be part of the published program, we kindly ask you to **submit your idea by October 1st 2022** via any of the above mentioned channels.
 And remember, no stress, if you cannot submit anything before the event, you will still have the chance to add your contribution live during the event. But the earlier we know, the easier it is for us to schedule the contributions.
 
 By submitting a contribution you agree that:
@@ -66,10 +68,10 @@ By submitting a contribution you agree that:
 
 ## Schedule
 
-Our agenda is based on your contributions! We will announce it when we get closer to the unconference.
+Our agenda is based on your contributions! We will announce it when we get closer to the unconference. 
 
 
-#### August 16
+#### Tuesday, October 18
 
 (all times in CEST)
 
@@ -87,7 +89,7 @@ Our agenda is based on your contributions! We will announce it when we get close
 - Zoom remains open for Social time until ~18:00
 
 
-#### August 17
+#### Wednesday, October 19
 
 (all times in CEST)
 
@@ -119,7 +121,7 @@ texts that you can reuse, feel also free to modify them as you like.
 
 Nordic-RSE invites everyone interested in "Research Software Engineering"
 activities to join & shape the agenda of the Nordic-RSE unconference
-(lightweight get-together) on August 16-17. See
+(lightweight get-together) on October 18-19. See
 [https://nordic-rse.org/events/2022-online-unconference/](https://nordic-rse.org/events/2022-online-unconference/)
 for more details.
 
@@ -131,7 +133,7 @@ for more details.
 * Maybe you have heard of something called research software engineers and you would like to know more?
 
 Nordic-RSE invites everyone interested in such topics to join our online
-unconference (lightweight get-together) on August 16 and 17, where we let the
+unconference (lightweight get-together) on October 18 and 19, where we let the
 participants shape the agenda ("birds of a feather").
 
 Next, the floor is yours! Come sharing your work and/or listening what others
