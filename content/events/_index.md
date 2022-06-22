@@ -11,7 +11,7 @@
 
 **Save the dates**.
 
-The Nordic-RSE Unconference will be held online, August 16-17 2022.
+The Nordic-RSE Unconference will be held online, October 18-19 2022.
 
 - More information [here](/events/2022-online-unconference)
 
