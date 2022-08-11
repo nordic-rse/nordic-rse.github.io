@@ -60,7 +60,8 @@
           <ul class="navbar-nav">
             <li class="nav-item">
               <a class="navbar-brand" href="{{ config.base_url | safe }}/">
-                <img src="{{ resize_image(path="img/logo.png", width=32, op="fit_width") | safe }}" style="display: inline-block;">
+                {% set image = resize_image(path="img/logo.png", width=32, op="fit_width") %}
+                <img src="{{ image.url }}" style="display: inline-block;">
                 <span style="display: inline-block;">Nordic-RSE</span>
               </a>
             </li>

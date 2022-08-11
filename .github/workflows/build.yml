@@ -1,22 +1,23 @@
-# General zola build workflow.
-# prerequisites:
+# Zola build workflow.
+
+# Prerequisites:
 # - zola writes output to public/
 # - variables below set correctly
 #
-# Note: it is a general limitation of gh-actions can not make the very
-# first deploy to gh-pages.  It will seem to work, but not appear on
-# the CDN to be online.  You need to go to settings and set the
-# gh-pages branch, then future deploys will work.  See
-#  https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-first-deployment-with-github_token
+# Setting it up:
+#   It is a general limitation of gh-actions that they cannot make the very first
+#   deploy to gh-pages.  It will seem to work, but not appear on the CDN to be
+#   online.  You need to go to settings and set the gh-pages branch, then future
+#   deploys will work.  See
+#   https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-first-deployment-with-github_token
 
 name: Build/deploy website
 
 env:
-  ZOLA_VERSION: "0.13.0"
+  ZOLA_VERSION: "0.16.0"
   MAIN_BRANCH: "main"
   TARGET_BRANCH: "gh-pages"
-  #DEPLOY_ORGANIZATION: ""
-  #CNAME: xxx   # or make a CNAME in the root
+  CNAME: "nordic-rse.org"
 
 on:
   push:
@@ -38,19 +39,6 @@ jobs:
         wget -O - \
            "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
         | sudo tar xzf - -C /usr/local/bin
-    - name: debugging info
-      run: |
-        zola --version
-        echo github: ${{ github }}
-        echo github.actor: ${{ github.actor }}
-        echo github.event: ${{ github.event }}
-        echo github.event_name: ${{ github.event_name }}
-        echo github.ref: ${{ github.ref }}
-        echo github.base_ref: ${{ github.base_ref }}
-        echo github.head_ref: ${{ github.head_ref }}
-        echo github.repo_owner: ${{ github.repository_owner }}
-        echo github.repository: ${{ github.repository }}
-        echo MAIN_BRANCH: ${{ env.MAIN_BRANCH }}
     - name: Generate HTML
       run: zola build
     # Add CNAME, either (first one used)
@@ -68,24 +56,9 @@ jobs:
             echo "Used CNAME from the action workflow file"
         fi
     - name: Deploy to gh-pages
-      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) && ( env.DEPLOY_ORGANIZATION == '' || github.repository_owner == env.DEPLOY_ORGANIZATION ) }}
+      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         force_orphan: true
-    #- name: Commit and push to target branch
-    #  if: github.ref == 'refs/heads/{{ env.MAIN_BRANCH }}'
-    #  run: |-
-    #    git config --global user.email "workflow-bot@example.com"
-    #    git config --global user.name "workflow-bot"
-    #    git checkout --orphan $TARGET_BRANCH
-    #    git rm --cached -r .
-    #    test -f CNAME && mv CNAME public/
-    #    mv public ..
-    #    rm -rf *
-    #    mv ../public/* .
-    #    touch .nojekyll
-    #    git add .
-    #    git commit -m "generated using zola build"
-    #    git push --set-upstream origin $TARGET_BRANCH --force
