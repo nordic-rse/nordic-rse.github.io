@@ -5,4 +5,4 @@
 
 coming soon!
 
-While waiting, you can check out [Alto RSE group website](https://scicomp.aalto.fi/rse/)!
+While waiting, you can check out [Aalto RSE group website](https://scicomp.aalto.fi/rse/)!
