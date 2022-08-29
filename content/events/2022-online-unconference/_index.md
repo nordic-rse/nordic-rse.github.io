@@ -93,11 +93,12 @@ Our agenda is based on and will evolve with your contributions!
 
 - 13:00 : Welcome and introduction to the unconference format: HackMD, proposing sessions, scheduling
 - 13:15 : Invited talks (Chair: TBA) _Suggested topics, speakers TBA_
-  - 13:15 : Developer productivity on HPC
-  - 13:35 : How do skills learned during a PhD translate to industrial and professional work?
-  - 13:55 : Break
-  - 14:05 : Data stewards as technical support positions in academia
-  - 14:25 : Digital humanities as a technical career path
+  - **13:15 : TBA**
+  - **13:35 : How do skills learned during a PhD translate to industrial and professional work? (title TBA)**
+  - **13:55 : Break**
+  - **14:05 : RSE: policies, trends and tendencies (title TBA)**, [Sanna Isabel Ulfsparre](https://www.umu.se/en/staff/sanna-isabel-ulfsparre/)
+    - _As Europe transitions into open science and FAIR research data management, new platforms and possibilities for professional development emerge. Sanna Isabel Ulfsparre, librarian at Umeå university library, will talk about policy, trends and tendencies relevant to research software developers who want to further specialise in RSE._
+  - **14:25 : Digital humanities as a technical career path (title TBA)**
 - 14:45 : Introduction to Nordic-RSE
 - 15:00 : Break
 - 15:10 : Unconference session 1
