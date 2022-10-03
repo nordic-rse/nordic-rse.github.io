@@ -31,7 +31,7 @@ that you would like see happen or help to facilitate.
 
 ## Schedule
 
-Our agenda is based on and will evolve with your contributions!
+Our agenda is based on and will evolve with your contributions! More info on how to contribute [below](#contributing).
 
 
 #### Tuesday, October 18
