@@ -24,9 +24,45 @@ too much ahead! Stay tuned for updates!
 
 ## Registration
 
-Please register at <https://indico.neic.no/e/nordic-rse-2022>. At registration
+**PLEASE REGISTER** at <https://indico.neic.no/e/nordic-rse-2022>. At registration
 time we will also ask you whether there is any discussion or presentation topic
 that you would like see happen or help to facilitate.
+
+
+## Schedule
+
+Our agenda is based on and will evolve with your contributions! More info on how to contribute [below](#contributing).
+
+
+#### Tuesday, October 18
+
+(all times in CEST, schedule possibly subject to change)
+
+- 13:00 : Welcome and introduction to the unconference format: HackMD, proposing sessions, scheduling
+- 13:15 : Introduction to Nordic-RSE
+- 13:30 : Invited talks (Chair: Matteo Tomasini)
+  - **13:30 : How do skills learned during a PhD translate to industrial and professional work?**, (Speaker TBA)
+  - **13:50 : Break**
+  - **14:00 : Digital humanities as a technical career path**, [Hande Celikkanat](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
+  - **14:20 : RSE: policies, trends and tendencies (title TBA)**, [Sanna Isabel Ulfsparre](https://www.umu.se/en/staff/sanna-isabel-ulfsparre/)
+    - Short abstract: _As Europe transitions into open science and FAIR research data management, new platforms and possibilities for professional development emerge. Sanna Isabel Ulfsparre, librarian at Umeå university library, will talk about policy, trends and tendencies relevant to research software developers who want to further specialise in RSE._
+- 14:40 : Break
+- 14:50 : Unconference session 1
+- 16:00 : Close
+- Zoom remains open for Social time until ~18:00
+
+
+#### Wednesday, October 19
+
+(all times in CEST, schedule possibly subject to change)
+
+- 13:00 : Introduction to the day and unconference scheduling
+- 13:10 : Unconference session 2
+- 14:20 : Break
+- 14:40 : Unconference session 3
+- 15:50 : Conclusion and follow-up
+- 16:00 : Close
+- Zoom remains open for Social time until ~18:00
 
 
 ## Format and scope
@@ -80,43 +116,6 @@ where we can figure out contributions together.
 By submitting a contribution you agree that:
 - Your name and abstract of the contribution will be published in our program
 - Your contribution respects the [Code of Conduct](https://nordic-rse.org/about/code-of-conduct)
-
-
-## Schedule
-
-Our agenda is based on and will evolve with your contributions!
-
-
-#### Tuesday, October 18
-
-(all times in CEST)
-
-- 13:00 : Welcome and introduction to the unconference format: HackMD, proposing sessions, scheduling
-- 13:15 : Invited talks (Chair: TBA) _Suggested topics, speakers TBA_
-  - **13:15 : TBA**
-  - **13:35 : How do skills learned during a PhD translate to industrial and professional work? (title TBA)**
-  - **13:55 : Break**
-  - **14:05 : RSE: policies, trends and tendencies (title TBA)**, [Sanna Isabel Ulfsparre](https://www.umu.se/en/staff/sanna-isabel-ulfsparre/)
-    - _As Europe transitions into open science and FAIR research data management, new platforms and possibilities for professional development emerge. Sanna Isabel Ulfsparre, librarian at Umeå university library, will talk about policy, trends and tendencies relevant to research software developers who want to further specialise in RSE._
-  - **14:25 : Digital humanities as a technical career path (title TBA)**
-- 14:45 : Introduction to Nordic-RSE
-- 15:00 : Break
-- 15:10 : Unconference session 1
-- 16:00 : Close
-- Zoom remains open for Social time until ~18:00
-
-
-#### Wednesday, October 19
-
-(all times in CEST)
-
-- 13:00 : Introduction to the day and unconference scheduling
-- 13:10 : Unconference session 2
-- 14:20 : Break
-- 14:40 : Unconference session 3
-- 15:50 : Conclusion and follow-up
-- 16:00 : Close
-- Zoom remains open for Social time until ~18:00
 
 
 ## Share the event
