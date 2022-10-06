@@ -44,8 +44,8 @@ Our agenda is based on and will evolve with your contributions! More info on how
   - **13:30 : How do skills learned during a PhD translate to industrial and professional work?**, (Speaker TBA)
   - **13:50 : Break**
   - **14:00 : Digital humanities as a technical career path**, [Hande Celikkanat](https://researchportal.helsinki.fi/en/persons/hande-celikkanat)
-  - **14:20 : RSE: policies, trends and tendencies (title TBA)**, [Sanna Isabel Ulfsparre](https://www.umu.se/en/staff/sanna-isabel-ulfsparre/)
-    - Short abstract: _As Europe transitions into open science and FAIR research data management, new platforms and possibilities for professional development emerge. Sanna Isabel Ulfsparre, librarian at Umeå university library, will talk about policy, trends and tendencies relevant to research software developers who want to further specialise in RSE._
+  - **14:20 : Research software development in an open science landscape: on reform, co-creation and opportunities for professional establishment**, [Sanna Isabel Ulfsparre](https://www.umu.se/en/staff/sanna-isabel-ulfsparre/)
+    - Short abstract: _As Europe transitions into open science and FAIR research data management, new infrastructures and possibilities for professional development emerge. Sanna Isabel Ulfsparre, librarian at Umeå university library, will talk about policy, trends and tendencies relevant to research software developers who want to further specialise in RSE._
 - 14:40 : Break
 - 14:50 : Unconference session 1
 - 16:00 : Close
