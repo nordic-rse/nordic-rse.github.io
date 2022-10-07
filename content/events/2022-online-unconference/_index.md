@@ -3,7 +3,7 @@ title = "Nordic-RSE online unconference 2022"
 description = "Nordic RSE – Research Software Engineers in the nordics – Unconference in October #NordicRSEunconf"
 +++
 
-# Nordic-RSE online unconference 2022
+# Nordic-RSE online unconference 2022 <span style="color: gray;">#NordicRSEunconf</span>
 
 **October 18-19, 13:00 - 16:00 CEST** (with optional social time)
 
