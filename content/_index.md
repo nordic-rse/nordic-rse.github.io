@@ -26,6 +26,7 @@ share a chat platform with them:
   bring together people from computing facilities in the Nordics (not
   just HPC).  It is not very active now, and also a separate
   activity.
+
 ### Want to know more?
 
 - Follow us on [Twitter](https://twitter.com/nordic_rse).
@@ -33,3 +34,7 @@ share a chat platform with them:
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
 
+### News
+
+- **Unconference 2022**: The Nordic-RSE Unconference is an informal virtual meetup of people interested in Research Software Engineering. Join for talks, panel discussions and great networking on **October 18 -- 19 2022**. More info on the [unconference page](events/2022-online-unconference).
+- **Annual meeting**: The next Nordic-RSE annual meeting will be **October 20 2022 at 14:00 -- 15:30 CEST**. The annual meeting is to elect the board and make decisions such as membership fee. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2022>.

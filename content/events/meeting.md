@@ -32,3 +32,5 @@ Once every year all members of the Nordic RSE association are invited to the
 annual meeting. The annual meeting chooses the board and other officials, and
 decides the annual membership fee. The annual meeting may also decide other
 matters, but these will be introduced in the invitation.
+
+The next Nordic-RSE annual meeting will be October 20 2022 at 14:00 -- 15:30 CEST. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2022>.
