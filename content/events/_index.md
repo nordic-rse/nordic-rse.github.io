@@ -15,6 +15,10 @@ The Nordic-RSE Unconference will be held online, October 18-19 2022.
 
 - More information [here](/events/2022-online-unconference)
 
+## Annual meeting
+
+The next Nordic-RSE annual meeting will be October 20 2022 at 14:00 -- 15:30 CEST. The annual meeting is to elect the board and make decisions such as membership fee. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2022>.
+
 ## Biweekly Community Meetings
 
 We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on Thursday at 14 CET/CEST (15 EET/EEST) on each even week.
