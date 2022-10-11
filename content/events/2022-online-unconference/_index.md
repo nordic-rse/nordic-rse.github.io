@@ -1,6 +1,7 @@
 +++
 title = "Nordic-RSE online unconference 2022"
 description = "Nordic RSE – Research Software Engineers in the nordics – Unconference in October #NordicRSEunconf"
+template = "schedule_unconference_2022.html"
 +++
 
 # Nordic-RSE online unconference 2022 <span style="color: gray;">#NordicRSEunconf</span>
@@ -43,40 +44,3 @@ contributions.  And of course we will all follow a [Code of
 Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
 You can also help us by [sharing the announcement with others](/events/2022-online-unconference/share/). 
-
-
-### Tuesday, October 18
-
-All times in CEST (Europe/Stockholm).
-
-- 13:00 : Welcome and introduction to the unconference format: HackMD, proposing sessions, scheduling
-- 13:15 : Introduction to Nordic-RSE
-- 13:30 : Invited talks (Chair: Matteo Tomasini)
-  - 13:30 : How do skills learned during a PhD translate to industrial and professional work? (Speaker TBA)
-  - 13:50 : Break
-  - 14:00 : Digital humanities as a technical career path ([Hande Celikkanat](https://researchportal.helsinki.fi/en/persons/hande-celikkanat))
-  - 14:20 : Research software development in an open science landscape: on
-            reform, co-creation and opportunities for professional establishment ([Sanna Isabel Ulfsparre](https://www.umu.se/en/staff/sanna-isabel-ulfsparre/))
-    - Short abstract: _As Europe transitions into open science and FAIR
-      research data management, new infrastructures and possibilities for
-      professional development emerge. Sanna Isabel Ulfsparre, librarian at
-      Umeå university library, will talk about policy, trends and tendencies
-      relevant to research software developers who want to further specialise
-      in RSE._
-- 14:40 : Break
-- 14:50 : Unconference session 1
-- 16:00 : Close
-- Zoom remains open for social time until ~18:00
-
-
-### Wednesday, October 19
-
-All times in CEST (Europe/Stockholm).
-
-- 13:00 : Introduction to the day and unconference scheduling
-- 13:10 : Unconference session 2
-- 14:20 : Break
-- 14:40 : Unconference session 3
-- 15:50 : Conclusion and follow-up
-- 16:00 : Close
-- Zoom remains open for social time until ~18:00
