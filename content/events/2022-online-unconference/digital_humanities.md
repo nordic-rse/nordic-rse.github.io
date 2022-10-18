@@ -1,9 +1,9 @@
 +++
-title = "Digital humanities aas a technical career path"
+title = "Digital humanities as a technical career path"
 template = "session.html"
 [extra]
-authors = "Hande Celikkanat"
-session = "1.3"
+authors = "Everyone"
+session = "1.5"
 +++
 
-TBA
+What career paths can digital humanities offer to technical people? Let us discuss it together current status, challenges and perspectives.
