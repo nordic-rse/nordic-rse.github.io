@@ -2,7 +2,7 @@
 title = "Introduction"
 template = "session.html"
 [extra]
-authors = "TBA"
+authors = "Luca Ferranti"
 session = "1.1"
 +++
 

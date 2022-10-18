@@ -3,7 +3,7 @@ title = "Perspectives on working in industry with a PhD"
 template = "session.html"
 [extra]
 authors = "Sheema Kooshapur"
-session = "1.2"
+session = "1.x"
 +++
 
 What is it like moving from academic to industry if you are a

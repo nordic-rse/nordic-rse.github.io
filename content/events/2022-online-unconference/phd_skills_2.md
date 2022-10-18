@@ -3,7 +3,7 @@ title = "How do a PhD's skills translate to industry?"
 template = "session.html"
 [extra]
 authors = "Richard Darst"
-session = "1.5"
+session = "1.2"
 +++
 
 A long time ago (~2013-2015), I was at some nice talk that explained how skills learned during a doctorate degree could translate to industry skills. There wasn't anything fancy, basically pointing out things like "As a reseacher you need to figure out how solve unknown problems yourself. Guess what, companies too. You have to learn how to communicate by writing papers and giving presentations. Guess what, companies too". Then going deeper into details, how to develop these skills, how to advertise yourself, and so on.
