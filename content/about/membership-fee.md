@@ -3,6 +3,8 @@
 
 # Paying the Membership Fee
 
+**The membership fee for the 2022 -- 2023 year is 10 euros, this covers the membership until the end of October 2023.**.
+
 You can pay the fee in two ways:
   - Using [wise.com](https://wise.com)
     - Recommended for currencies other than EUR
@@ -15,11 +17,6 @@ You can pay the fee in two ways:
 ### Using [wise.com](https://wise.com)
 
   1. Go to [wise.com](https://wise.com) and write the sum to the "You send" field.
-     - Check what 20 euros is in you currency or use the sums below
-     - 148.78 DKK
-     - 213.62 SEK
-     - 202.33 NOK
-     - 2835.89 ISK
 
   <img src="/img/wise-1.png" style="width: 400px; margin: 50px" alt="A definition of computational science"/>
 
