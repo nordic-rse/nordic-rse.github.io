@@ -20,9 +20,7 @@
 
    In-person events may have a participation fee and members get discounts.
 
- - An association is owned by its members. As a member you can participate in
-   the associations annual meeting and vote on the direction the association
-   is evolving.
+ - An association is owned by its members. As a member, you can vote in the association annual meeting.
 
 
 ### How it works:
@@ -30,10 +28,11 @@
 To become a member you need to
  - register by filling out the [membership form](https://forms.gle/FXdTv2mtBn53gHxx9).
  - pay the membership fee. See the [instructions](/about/membership-fee).
+   - if you want to be a member but cannot afford the fee, send an email to WHERE?? to ask for a concessionary membership. Each request will be evaluated by the board individually.
 
 **Duration**:
  - Your membership expires after each annual meeting. To be exact,
-   the membership fee expires at the end of October each year.
+   the membership expires at the end of October each year.
 
 
 
