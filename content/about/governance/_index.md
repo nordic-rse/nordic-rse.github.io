@@ -91,7 +91,7 @@ as faithful as possible.
 8. Association meetings:
     Members may attend the association meeting remotely by mail, online, or using oher technical tools before and during the meeting. The association meeting determines its voting and election procedures.
 
-    The association's annual meeting is held annually in June-September.
+    The association's annual meeting is held annually in August-October.
 
     In association meetings each member has one vote. Unless otherwise determined in these statutes, the decisions of the association meeting are the proposals that receive more than half the vote.
 
