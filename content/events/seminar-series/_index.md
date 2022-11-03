@@ -41,9 +41,6 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-**Currently on Summer break** we will be back in Autumn 2022. Meanwhile, make sure to check the [seminar series playlist](https://www.youtube.com/playlist?list=PLftRaVXG5xM4zRcUKZUAPOiBqhSlZ91kl) with all the past talks.
----
-
 ### November 2022: Chapel: Making Parallel Programming Productive, from laptops to supercomputers
 
 - Speaker: [Brad Chamberlain](https://homes.cs.washington.edu/~bradc/), HPE
