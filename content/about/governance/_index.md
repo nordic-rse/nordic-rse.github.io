@@ -30,13 +30,13 @@ committee.
 
 The current board members are
  - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
- - Anne Fouilloux (University of Oslo), annefou@geo.uio.no
+ - Matteo Tomasini (University of Gothenburg)
  - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
  - Rohit Goswami (University of Iceland)
  - Samantha Wittke (Aalto University, CSC)
- - Radovan Bast (UiT The Arctic University of Norway)
- - Thomas Arildsen (Aalborg University)
- - Patric Holmvall (Uppsala University), patric.holmvall@physics.uu.se
+ - Johan Hellsvik (KTH Royal Institute of Technology)
+ - Maria G. Barrios Sazo (University of Oslo)
+ - Stephan Smuts (Aarhus University)
 
 
 # Statutes
