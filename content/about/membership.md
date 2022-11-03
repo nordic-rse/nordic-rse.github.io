@@ -28,7 +28,7 @@
 To become a member you need to
  - register by filling out the [membership form](https://forms.gle/FXdTv2mtBn53gHxx9).
  - pay the membership fee. See the [instructions](/about/membership-fee).
-   - if you want to be a member but cannot afford the fee, send an email to WHERE?? to ask for a concessionary membership. Each request will be evaluated by the board individually.
+   - if you want to be a member but cannot afford the fee, send an email to any [board member](/governance#Board) to ask for a concessionary membership. Each request will be evaluated by the board individually.
 
 **Duration**:
  - Your membership expires after each annual meeting. To be exact,

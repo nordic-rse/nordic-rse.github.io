@@ -30,13 +30,13 @@ committee.
 
 The current board members are
  - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
- - Anne Fouilloux (University of Oslo), annefou@geo.uio.no
+ - Matteo Tomasini (University of Gothenburg)
  - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
  - Rohit Goswami (University of Iceland)
  - Samantha Wittke (Aalto University, CSC)
- - Radovan Bast (UiT The Arctic University of Norway)
- - Thomas Arildsen (Aalborg University)
- - Patric Holmvall (Uppsala University), patric.holmvall@physics.uu.se
+ - Johan Hellsvik (KTH Royal Institute of Technology)
+ - Maria G. Barrios Sazo (University of Oslo)
+ - Stephan Smuts (Aarhus University)
 
 
 # Statutes
@@ -91,7 +91,7 @@ as faithful as possible.
 8. Association meetings:
     Members may attend the association meeting remotely by mail, online, or using oher technical tools before and during the meeting. The association meeting determines its voting and election procedures.
 
-    The association's annual meeting is held annually in June-September.
+    The association's annual meeting is held annually in August-October.
 
     In association meetings each member has one vote. Unless otherwise determined in these statutes, the decisions of the association meeting are the proposals that receive more than half the vote.
 
@@ -194,12 +194,32 @@ as faithful as possible.
 10. Vuosikokous
    Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
     1. kokouksen avaus
-    2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja
-       tarvittaessa kaksi ääntenlaskijaa
+    2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi
+       pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
     3. todetaan kokouksen laillisuus ja päätösvaltaisuus
     4. hyväksytään kokouksen työjärjestys
-    5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien/tilintarkastajien
-       lausunto
-    6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä
-       hallitukselle ja muille vastuuvelvollisille
+    5. esitetään tilinpäätös, vuosikertomus ja
+       toiminnantarkastajien/tilintarkastajien lausunto
+    6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden
+       myöntämisestä hallitukselle ja muille vastuuvelvollisille
+    7. vahvistetaan toimintasuunnitelma, tulo- ja menoarvio sekä
+       liittymis- ja jäsenmaksun suuruus
+    8. valitaan hallituksen puheenjohtaja ja muut jäsenet
+    9. valitaan yksi tai kaksi toiminnantarkastajaa ja
+       varatoiminnantarkastajaa taikka yksi tai kaksi tilintarkastajaa ja
+       varatilintarkastajaa
+    10. käsitellään muut kokouskutsussa mainitut asiat.
+        Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen
+        vuosikokouksen käsiteltäväksi, on hänen ilmoitettava siitä
+        kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan
+        sisällyttää kokouskutsuun.
 
+11. Sääntöjen muuttaminen ja yhdistyksen purkaminen:
+    Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on
+    tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4)
+    enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava
+    sääntöjen muuttamisesta tai yhdistyksen purkamisesta. Yhdistyksen
+    purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen
+    edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla.
+    Yhdistyksen tullessa lakkautetuksi käytetään varat samaan
+    tarkoitukseen.
