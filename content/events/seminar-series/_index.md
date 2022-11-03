@@ -14,13 +14,9 @@ invites everyone interested to participate in Research Software Seminar Series:
 
 ## Timing
 
-The series will start out as a **monthly event in August 2021**. The time for
-each seminar will be set by the speaker. We are inviting everyone to suggest
-topics and/or speakers for this series [here](https://github.com/nordic-rse/nordic-rse.github.io/issues).
-
-To kick off the event some of our members will introduce you to their work at
-Nordic universities.
-
+We aim at having a talk every month.
+The time for each seminar will be set by the speaker.
+We are inviting everyone to suggest topics and/or speakers for this series [here](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
 ## Format
 
@@ -47,6 +43,20 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 
 **Currently on Summer break** we will be back in Autumn 2022. Meanwhile, make sure to check the [seminar series playlist](https://www.youtube.com/playlist?list=PLftRaVXG5xM4zRcUKZUAPOiBqhSlZ91kl) with all the past talks.
 ---
+
+### November 2022: Chapel: Making Parallel Programming Productive, from laptops to supercomputers
+
+- Speaker: [Brad Chamberlain](https://homes.cs.washington.edu/~bradc/), HPE
+- 2022-11-30, 16:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2022-11-30/17:00)
+- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-november-2022>
+- Abstract:
+Over the past few decades, a gulf has existed between 'mainstream' programming languages—like Python, Java, C++, Rust, or Swift—and  technologies used in practice for programming supercomputers—like MPI, OpenSHMEM, OpenMP, CUDA, OpenCL, or OpenACC.
+This gulf results in making High Performance Computing something of a specialized skill that may not  be readily available to the general programmer or applied computational scientist.
+In some ways, the problem has even gotten worse over time, as the end of Moore's law has led to building supercomputers using manycore processors and computational accelerators like GPUs.
+
+In this talk, I will introduce [Chapel](https://chapel-lang.org/), an open-source language created to bridge this gulf.
+Chapel strives to support code that is similarly readable/writeable as Python, yet without sacrificing the portability and scalable performance required to utilize supercomputers effectively. 
+Specifically, I will provide motivation for Chapel, present some of its unique features and themes, introduce flagship applications of Chapel, and give a glimpse into our team's current priorities.
 
 ## Past seminars
 
