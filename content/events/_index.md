@@ -7,24 +7,16 @@
 
 - Full schedule [here](/events/seminar-series)
 
-## Nordic-RSE Unconference 2022
+## Advent of Code
 
-**Save the dates**.
+This year we will again work
+[advent of code](https://adventofcode.com/)
+challenges together. Join us on the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/305975-Advent-of.20Code).
 
-The Nordic-RSE Unconference will be held online, October 18-19 2022.
-
-- More information [here](/events/2022-online-unconference)
-
-## Annual meeting
-
-The next Nordic-RSE annual meeting will be October 20 2022 at 14:00 -- 15:30 CEST. The annual meeting is to elect the board and make decisions such as membership fee. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2022>.
-
-## Biweekly Community Meetings
-
-We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on Thursday at 14 CET/CEST (15 EET/EEST) on each even week.
-The agenda for the next meeting and the minutes of previous meetings are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
-
-See the [agenda](https://hackmd.io/@nordic-rse/biweekly) for connection details.
+The advent of code is a great way to learn a new programming language tohether
+or brush up your software development skills. Each day we will chat about our
+solutions, give some tips if you are stuck (provided at least one of us has
+solved the problem) and just chat and have some fun.
 
 ## Virtual coffee break - weekly
 
