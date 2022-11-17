@@ -41,5 +41,10 @@ which focuses on teaching RSE-like skills to researchers.
 
 ### News
 
-- **Unconference 2022**: The Nordic-RSE Unconference is an informal virtual meetup of people interested in Research Software Engineering. Join for talks, panel discussions and great networking on **October 18 -- 19 2022**. More info on the [unconference page](events/2022-online-unconference).
-- **Annual meeting**: The next Nordic-RSE annual meeting will be **October 20 2022 at 14:00 -- 15:30 CEST**. The annual meeting is to elect the board and make decisions such as membership fee. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2022>.
+- **Advent of code**: This year we will again work
+[advent of code](https://adventofcode.com/)
+challenges together. Join us on the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/305975-Advent-of.20Code). The advent of code is a great way to learn a new programming language tohether
+or brush up your software development skills.
+
+- **Seminar**: [Brad Chamberlain](https://homes.cs.washington.edu/~bradc/) will give a talk on 2022-11-30, 16:00 CET with the title "Chapel: Making Parallel Programming Productive, from laptops to supercomputers".
+
