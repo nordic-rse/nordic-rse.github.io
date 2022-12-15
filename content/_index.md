@@ -34,7 +34,7 @@ which focuses on teaching RSE-like skills to researchers.
 
 ### Want to know more?
 
-- Follow us on [Twitter](https://twitter.com/nordic_rse).
+- Follow us on [Mastodon](https://fosstodon.org/@nordic_rse) or [Twitter](https://twitter.com/nordic_rse).
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
