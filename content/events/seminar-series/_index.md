@@ -41,6 +41,16 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+- Speaker: Richard Darst, [Aalto Scicomp](https://scicomp.aalto.fi/)
+- 2023-03-15, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-03-15/14:00)
+- Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-march-2023>
+- Abstract:What does a Research Software Engineering (RSE) group at a Nordic university look like?  Aalto RSE supports the whole university, and Richard Darst and other Aalto RSE members will discuss the history behind their team, the way it works, future prospects, and lessons for others. This talk will focus on the administrative side of things, and discussion will focus on what one should know to reproduce this work at other universities.
+Aalto University is the leading technical university in Finland. Started in 2020, Aalto RSE now serves the entire university in computing, data, and software problems.  They work as part of Science-IT, which is effectively the local "HPC team".  They have good connections to the local IT Services, Data Agents, and other research services.
+
+## Past seminars
+
+We will publish past seminar topics and their recordings here as soon as they are available.
+
 ### November 2022: Chapel: Making Parallel Programming Productive, from laptops to supercomputers
 
 - Speaker: [Brad Chamberlain](https://homes.cs.washington.edu/~bradc/), HPE
@@ -55,9 +65,6 @@ In this talk, I will introduce [Chapel](https://chapel-lang.org/), an open-sourc
 Chapel strives to support code that is similarly readable/writeable as Python, yet without sacrificing the portability and scalable performance required to utilize supercomputers effectively. 
 Specifically, I will provide motivation for Chapel, present some of its unique features and themes, introduce flagship applications of Chapel, and give a glimpse into our team's current priorities.
 
-## Past seminars
-
-We will publish past seminar topics and their recordings here as soon as they are available.
 
 #### April 2022: Journal of Open Source Software – Developing a Software Review Community
 
