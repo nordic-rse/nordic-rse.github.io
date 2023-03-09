@@ -41,6 +41,8 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
+### March 2023: How an RSE Group Works
+
 - Speaker: Richard Darst, [Aalto Scicomp](https://scicomp.aalto.fi/)
 - 2023-03-15, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-03-15/14:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-march-2023>
