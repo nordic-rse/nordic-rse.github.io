@@ -44,7 +44,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 ### March 2023: What a Research Software Engineering group at a Nordic university look like
 
 - Speaker: Richard Darst, [Aalto Scicomp](https://scicomp.aalto.fi/)
-- 2023-03-15, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-03-15/14:00)
+- 2023-04-05, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-04-05/14:00)
 - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-march-2023>
 - Abstract: What does a Research Software Engineering (RSE) group at a Nordic university look like?  Aalto RSE supports the whole university, and Richard Darst and other Aalto RSE members will discuss the history behind their team, the way it works, future prospects, and lessons for others. This talk will focus on the administrative side of things, and discussion will focus on what one should know to reproduce this work at other universities.
 Aalto University is the leading technical university in Finland. Started in 2020, Aalto RSE now serves the entire university in computing, data, and software problems. They work as part of Science-IT, which is effectively the local "HPC team". They have good connections to the local IT Services, Data Agents, and other research services.
