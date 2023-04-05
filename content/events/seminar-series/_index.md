@@ -41,7 +41,7 @@ The Nordic-RSE team will provide support and infrastructure.
 We will publish upcoming seminar topics and abstracts here as soon as they are confirmed.
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
-### April 2023: What a Research Software Engineering group at a Nordic university look like
+### April 2023: What a Research Software Engineering group at a Nordic university looks like
 
 - Speaker: Richard Darst, [Aalto Scicomp](https://scicomp.aalto.fi/)
 - 2023-04-05, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-04-05/14:00)
