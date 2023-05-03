@@ -42,11 +42,15 @@ We will publish upcoming seminar topics and abstracts here as soon as they are c
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
 
-### Nordic RSE seminar on ethical and legal aspects of AI
- - Speaker: Beatrice Schutte
+### May 2023: AI Regulation in the EU – challenges and latest developments
+ - Speaker: Beatrice Schutte, [University of Helsinki](https://www.helsinki.fi/en) and [University of Lapland](https://www.ulapland.fi/en)
  - 2023-05-24, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-05-24/14:00)
  - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-may-2023>
- - Abstract: TBA
+ - Abstract: The EU institutions are currently preparing a regulation on Artificial Intelligence (AI). It is a complex process: The continuous and rapid technological development makes it difficult to stay on track – the law is always behind the technology.
+
+    This presentation will outline the latest developments on the path to regulating AI and point out critical aspects.
+
+    The event will include a 20-30 minute talk, followed by informal discussion
 
 ## Past seminars
 
