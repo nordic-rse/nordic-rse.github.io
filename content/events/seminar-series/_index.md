@@ -45,7 +45,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 ### May 2023: AI Regulation in the EU – challenges and latest developments
  - Speaker: Beatrice Schutte, [University of Helsinki](https://www.helsinki.fi/en) and [University of Lapland](https://www.ulapland.fi/en)
  - 2023-05-24, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-05-24/14:00)
- - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-may-2023>
+ - Hackmd (contains connection details): <https://hackmd.io/@nordic-rse/seminar-May-2023>
  - Abstract: The EU institutions are currently preparing a regulation on Artificial Intelligence (AI). It is a complex process: The continuous and rapid technological development makes it difficult to stay on track – the law is always behind the technology.
 
     This presentation will outline the latest developments on the path to regulating AI and point out critical aspects.
