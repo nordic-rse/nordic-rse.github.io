@@ -44,7 +44,7 @@ You can see topics in planning and add your own suggestions on our [Issues page]
 
 ### May 2023: AI Regulation in the EU – challenges and latest developments
  - Speaker: Béatrice Schütte ([Faculty of Law, University of Helsinki](https://researchportal.helsinki.fi/en/persons/b%C3%A9atrice-sch%C3%BCtte), University of Lapland, [Ethics board of the Finnish Center for Artificial Intelligence](https://fcai.fi/ethics-advisory-board))
- - 2023-05-24, 13:00 CET [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-05-24/14:00) [add to your calendar](https://link.webropolsurveys.com/EP/3757A49B24DBED6D)
+ - 2023-05-24, 13:00 CEST [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-05-24/14:00) | [add to your calendar](https://link.webropolsurveys.com/EP/3757A49B24DBED6D)
  - Collaborative document (contains zoom connection details): <https://hackmd.io/@nordic-rse/seminar-May-2023>
  - Abstract: The EU institutions are currently preparing a regulation on Artificial Intelligence (AI). It is a complex process: The continuous and rapid technological development makes it difficult to stay on track – the law is always behind the technology.
 
