@@ -48,3 +48,8 @@ or brush up your software development skills.
 
 - **Seminar**: [Brad Chamberlain](https://homes.cs.washington.edu/~bradc/) will give a talk on 2022-11-30, 16:00 CET with the title "Chapel: Making Parallel Programming Productive, from laptops to supercomputers".
 
+
+### Sponsors
+
+- Nordic RSE is supported by the [Industrial Ecology Digital Lab](https://iedl.no).
+
