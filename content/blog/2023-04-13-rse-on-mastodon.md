@@ -41,7 +41,7 @@ TODO (should we join some other list instead of make a new one here?)
 * **#OpenScience** can be found, in addition to **ResearchData** and
   **ResearchSoftware**.
 
-* We propose **#SciComp** for as a general "scientific computing" tag
+* We propose **#SciComp** as a general "scientific computing" tag
   which can partly overlap with the above, but is more general to
   people interested in the computing part of science.
 
