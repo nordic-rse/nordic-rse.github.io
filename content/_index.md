@@ -38,10 +38,8 @@ which focuses on teaching RSE-like skills to researchers.
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
-
 ### News
 
-**Advent of code**: Every year we have a small group of people joining in the
-[advent of code](https://adventofcode.com/) challenge taking place in December.
-Join us on the [CodeRefinery Zulip chat, #Advent of Code stream](https://coderefinery.zulipchat.com/#narrow/stream/305975-Advent-of.20Code).
-The advent of code is a great way to learn a new programming language together or brush up your software development skills.
+**Unconference 2023**: After the last successful [editions](/events/2022-online-unconference/), we are planning the [next Unconference](events/2023-online-unconference/), which will take place on October 25-26! Informations will follow soon.
+
+**Seminar series**: look at the [Seminars](/events/seminar-series/) page to stay up to date with our upcoming seminars!
