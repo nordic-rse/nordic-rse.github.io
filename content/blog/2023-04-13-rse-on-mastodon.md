@@ -60,7 +60,7 @@ community.  Perhaps the closest one is the HPC community
 ([ref](https://mast.hpc.social/@AlanSill/110147881007346377)).  Many
 of the repliers used <https://fosstodon.org>.
 
-One could ask if if's better to have a common server, or be more
+One could ask if it's better to have a common server, or be more
 distributed among the communities of other scientists to spread the
 word.  There is a [list of academic/science related servers at
 fedi-science](https://fediscience.org/server-list.html).
