@@ -41,10 +41,6 @@ which focuses on teaching RSE-like skills to researchers.
 
 ### News
 
-- **Advent of code**: This year we will again work
-[advent of code](https://adventofcode.com/)
-challenges together. Join us on the [CodeRefinery Zulip chat, #Advent of Code stream](https://coderefinery.zulipchat.com/#narrow/stream/305975-Advent-of.20Code). The advent of code is a great way to learn a new programming language together
-or brush up your software development skills.
+- **Unconference**: The next unconference will be announced soon. Stay tuned.
 
-- **Seminar**: [Brad Chamberlain](https://homes.cs.washington.edu/~bradc/) will give a talk on 2022-11-30, 16:00 CET with the title "Chapel: Making Parallel Programming Productive, from laptops to supercomputers".
 
