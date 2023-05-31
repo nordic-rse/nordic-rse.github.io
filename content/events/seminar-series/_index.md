@@ -42,6 +42,10 @@ We will publish upcoming seminar topics and abstracts here as soon as they are c
 You can see topics in planning and add your own suggestions on our [Issues page](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
 
+## Past seminars
+
+We will publish past seminar topics and their recordings here as soon as they are available.
+
 ### May 2023: AI Regulation in the EU – challenges and latest developments
  - Speaker: Béatrice Schütte ([Faculty of Law, University of Helsinki](https://researchportal.helsinki.fi/en/persons/b%C3%A9atrice-sch%C3%BCtte), University of Lapland, [Ethics board of the Finnish Center for Artificial Intelligence](https://fcai.fi/ethics-advisory-board))
  - 2023-05-24, 13:00 CEST [convert to your time zome](https://arewemeetingyet.com/Helsinki/2023-05-24/14:00) | [add to your calendar](https://link.webropolsurveys.com/EP/3757A49B24DBED6D)
@@ -51,10 +55,6 @@ You can see topics in planning and add your own suggestions on our [Issues page]
     This presentation will outline the latest developments on the path to regulating AI and point out critical aspects.
 
     The event will be online and include a 20-30 minute talk, followed by informal discussion.
-
-## Past seminars
-
-We will publish past seminar topics and their recordings here as soon as they are available.
 
 ### April 2023: What a Research Software Engineering group at a Nordic university looks like
 

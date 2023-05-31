@@ -7,6 +7,10 @@
 
 - Full schedule [here](/events/seminar-series)
 
+## Unconference
+
+The [Nordic-RSE Unconference](/events/2023-online-unconference/) will take place once again this year on October 25-26, 2023! Mark the dates in your calendars and stay tuned! 
+
 ## Advent of Code
 
 This year we will again work
