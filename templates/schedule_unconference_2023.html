@@ -1,0 +1,65 @@
+{% import "macros_2022.html" as macros %}
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<style>
+  input:checked + label + div { display: none; }
+  label {
+    border-radius: .75em;
+    display: inline-block;
+    float: none;
+    text-transform: lowercase;
+    color: #666;
+    margin: 0;
+    margin-right: 5px;
+    padding: 0;
+    border: 0;
+    background: #fff;
+    padding: .0em .5em;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+</style>
+  <div class="col-md-12">
+    {{ section.content | safe }}
+
+    <h2>Program (TBD)</h2>
+    <p>All times are in Central European Time</p>
+
+    <h3>Wednesday, October 25th</h3>
+    <table class="table">
+      <tbody>
+        {{ macros::row_freeform(time="13:00", title="Introduction and unconference scheduling", color="light") }}
+        {{ macros::row_freeform(time="13:20",
+                            title="Unconference session 1",
+                            color="info") }}
+        {{ macros::row_freeform(time="14:20", title="Break/ free-form conversation", color="light") }}
+        {{ macros::row_freeform(time="14:40",
+                            title="Unconference session 2",
+                            color="info") }}
+      </tbody>
+    </table>
+
+    <h3>Thursday, October 26th</h3>
+    <table class="table">
+      <tbody>
+        {{ macros::row_freeform(time="13:00", title="Introduction and unconference scheduling", color="light") }}
+        {{ macros::row_freeform(time="13:10",
+                            session="2.1",
+                            title="Unconference Session 3",
+                            color="info") }}
+        {{ macros::row_freeform(time="14:20", title="Break/ free-form conversation", color="light") }}
+        {{ macros::row_freeform(time="14:40",
+                            session="2.2",
+                            title="Unconference Session 4",
+                            color="info") }}
+        {{ macros::row_freeform(time="15:50",
+                                title="Concluding remarks",
+                                color="light") }}
+      </tbody>
+    </table>
+    
+  </div>
+{% endblock content %}
