@@ -43,3 +43,10 @@ which focuses on teaching RSE-like skills to researchers.
 **Unconference 2023**: After the last successful [editions](/events/2022-online-unconference/), we are planning the [next Unconference](events/2023-online-unconference/), which will take place on October 25-26! Informations will follow soon.
 
 **Seminar series**: look at the [Seminars](/events/seminar-series/) page to stay up to date with our upcoming seminars!
+
+
+### Sponsors
+
+- Nordic RSE is supported by the [Industrial Ecology Digital Lab](https://iedl.no).
+
+
