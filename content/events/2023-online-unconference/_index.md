@@ -1,7 +1,7 @@
 +++
 title = "Nordic-RSE online unconference 2023"
 description = "Nordic RSE – Research Software Engineers in the Nordics – Unconference in October #NordicRSEunconf"
-template = "schedule_unconference_2022.html"
+template = "schedule_unconference_2023.html"
 +++
 
 # Nordic-RSE online unconference 2023 <span style="color: gray;">#NordicRSEunconf</span>
