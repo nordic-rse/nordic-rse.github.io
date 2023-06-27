@@ -6,13 +6,13 @@ template = "schedule_unconference_2023.html"
 
 # Nordic-RSE online unconference 2023 <span style="color: gray;">#NordicRSEunconf</span>
 
-**October 25-26, 13:00 - 16:00 CEST** (with optional social time)
+**October 25-26, 13:00 - 16:00 CEST** (with optional social time after)
 
-<!---
-<a class="btn btn-primary btn-lg" href="https://indico.neic.no/e/nordic-rse-2022" target="_blank" rel="noreferrer noopener" role="button">Register</a>
--->
+<a class="btn btn-primary btn-lg" href="https://indico.neic.no/e/nordic-rse-unconference-2023" target="_blank" rel="noreferrer noopener" role="button">Register</a>
+
+<!--
 <a class="btn btn-primary btn-lg" href="https://github.com/nordic-rse/conference-contributions/issues" target="_blank" rel="noreferrer noopener" role="button">Submit idea</a>
-
+-->
 
 ### What is an unconference?
 
