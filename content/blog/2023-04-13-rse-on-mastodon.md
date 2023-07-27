@@ -1,5 +1,5 @@
 +++
-title = "State of Research software engineers on Mastodon"
+title = "State of Research Software Engineers on Mastodon"
 
 [extra]
 
@@ -19,9 +19,11 @@ evolves, please send pull requests.
 ## RSE organizations
 
 * US RSE: <https://fosstodon.org/@us_rse>
-* DE RSE: <https://fosstodon.org/@de_rse@mastodon.social>
+* DE RSE: <https://mastodon.social/@de_rse>
 * Nordic RSE: <https://fosstodon.org/@nordic_rse>
 * Society of RSE (UK/int): ??
+* Research Software Alliance: <https://fosstodon.org/@researchsoft>
+* Netherlands eScience Center: <https://akademienl.social/@eScienceCenter>
 * ... ?
 
 
@@ -32,7 +34,7 @@ TODO (should we join some other list instead of make a new one here?)
 
 ## Common hashtags
 
-* **#RSEng and #RSE** have been seen, but #RSEng is preferred
+* **#RSEng** and **#RSE** have been seen, but #RSEng is preferred
   ([ref](https://fosstodon.org/@HeathrTurnr/110147262319789502) (same
   as Twitter).  There doesn't seem to be much activity there.
 
