@@ -24,6 +24,7 @@ evolves, please send pull requests.
 * Society of RSE (UK/int): ??
 * Research Software Alliance: <https://fosstodon.org/@researchsoft>
 * Netherlands eScience Center: <https://akademienl.social/@eScienceCenter>
+* RSE Midlands <https://mastodon.social/@RSE_Midlands>
 * ... ?
 
 
