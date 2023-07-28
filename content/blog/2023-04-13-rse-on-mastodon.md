@@ -30,14 +30,16 @@ evolves, please send pull requests.
 
 ## Other accounts to follow to seed your community
 
-TODO (should we join some other list instead of make a new one here?)
+TODO: We should try to get a category in <https://fedi.directory/> rather than make our own list.
 
 
 ## Common hashtags
 
 * **#RSEng** and **#RSE** have been seen, but #RSEng is preferred
-  ([ref](https://fosstodon.org/@HeathrTurnr/110147262319789502) (same
-  as Twitter).  There doesn't seem to be much activity there.
+  ([ref](https://fosstodon.org/@HeathrTurnr/110147262319789502).
+  There doesn't seem to be much activity there.  #RSEng was
+  the primary tag from from Twitter.  Sometimes #RSE is the people and
+  #RSEng is the activity.
 
 * **#HPC** has a fair community.
 
@@ -60,18 +62,27 @@ TODO (should we join some other list instead of make a new one here?)
 There don't seem to be any servers specifically focused on the RSE
 community.  Perhaps the closest one is the HPC community
 <https://mast.hpc.social>, and we are invited to take part there
-([ref](https://mast.hpc.social/@AlanSill/110147881007346377)).  Many
+([ref](https://mast.hpc.social/@AlanSill/110147881007346377)).  There is overlap
+between the HPC and RSE communities, and the initial community survey (ref)
+for creation of the HPC.social Mastodon server showed a significant interest in
+exchanging information on software topics.
+
+Many
 of the repliers used <https://fosstodon.org>.
 
 One could ask if it's better to have a common server, or be more
 distributed among the communities of other scientists to spread the
 word.  There is a [list of academic/science related servers at
-fedi-science](https://fediscience.org/server-list.html).
+fedi-science](https://fediscience.org/server-list.html). The primary advantage
+of a topic-driven server is a better local timeline, which will be populated with
+the posts of everyone on that server.  While following hashtags/etc. is similar,
+the local server makes this more natural.
 
 There could be room for some RSE organization to set up a
 RSE-focused server. (editor note: I, rkdarst, would somewhat prefer a
 "scicomp"-focused mastodon server to bring together data, computing,
-software, etc. people.)
+software, etc. people.  Yet, this is also too broad and nebulous and without
+organizational backing so comments were negative on this idea.)
 
 
 ## Future
