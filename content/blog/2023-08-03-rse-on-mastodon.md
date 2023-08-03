@@ -3,12 +3,14 @@ title = "State of Research Software Engineers on Mastodon"
 
 [extra]
 
-author = "Richard Darst"
+author = "Richard Darst (ed)"
 +++
 
 Many domains have migrated to Mastodon as of 2023.  Have Research
 Software Engineers?  This post examines the situation, based on [this
-post by rkdarst](https://fosstodon.org/@rkdarst/110146601969193973)
+post by rkdarst](https://fosstodon.org/@rkdarst/110146601969193973).
+There are many contributors to this post as seen in [this
+issue](https://github.com/nordic-rse/nordic-rse.github.io/pull/412).
 
 Summary: not much yet
 
