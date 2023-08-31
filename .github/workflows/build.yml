@@ -14,7 +14,7 @@
 name: Build/deploy website
 
 env:
-  ZOLA_VERSION: "0.16.0"
+  ZOLA_VERSION: "0.17.2"
   MAIN_BRANCH: "main"
   TARGET_BRANCH: "gh-pages"
   CNAME: "nordic-rse.org"
@@ -31,8 +31,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out repo
+    - name: Checkout repository and submodules
       uses: actions/checkout@v2
+      with:
+        submodules: recursive
     - name: Install zola
       run: |
         set -x
