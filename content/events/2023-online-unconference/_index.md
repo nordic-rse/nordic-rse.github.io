@@ -1,7 +1,6 @@
 +++
 title = "Nordic-RSE online unconference 2023"
 description = "Nordic RSE – Research Software Engineers in the Nordics – Unconference in October #NordicRSEunconf"
-template = "schedule_unconference_2023.html"
 +++
 
 # Nordic-RSE online unconference 2023 <span style="color: gray;">#NordicRSEunconf</span>
@@ -10,11 +9,8 @@ template = "schedule_unconference_2023.html"
 
 <a class="btn btn-primary btn-lg" href="https://indico.neic.no/e/nordic-rse-unconference-2023" target="_blank" rel="noreferrer noopener" role="button">Register</a>
 
-<!--
-<a class="btn btn-primary btn-lg" href="https://github.com/nordic-rse/conference-contributions/issues" target="_blank" rel="noreferrer noopener" role="button">Submit idea</a>
--->
 
-### What is an unconference?
+## What is an unconference?
 
 An **unconference** is a conference in which the content is mainly provided
 by the people who join the unconference on a voluntary and often improvised base.
@@ -27,7 +23,8 @@ Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
 You can also help us by [sharing the announcement with others](/events/2023-online-unconference/share/). 
 
-### Scope
+
+## Scope
 
 This is our third Nordic-RSE unconference, held online **October 25-26,
 2023**, 13:00 - 16:00 CEST (with optional social time). We invite research
@@ -51,3 +48,43 @@ At an unconference, all formats of communication are welcome (or check what we h
 - *Something else*: is there something you would like to share with others that
   does not fit any of the previous points? We are looking forward to hearing
   about it!
+
+
+
+## Program
+
+### Day 1: 2023-10-25
+
+All times are CET ([convert to local time](https://arewemeetingyet.com/Zurich/2023-10-25/13:00))
+
+- 13:00 - 13:20 : Welcome and Intro to the unconference format (Matteo Tomasini)
+- 13:20 - 14:20 : Hidden gems presentations (5-15 min each; chair: Jarno Rantaharju)
+    - Examples: data tools, VS Code plugins, efficiency hacks, programming
+      tools, libraries, containerized Conda, other 'life hacks', calendar via
+      GitHub, whisper for subtitles
+    - Emphasis on accessibility to a wide audience
+- 14:20 - 14:40 : Break
+- 14:40 - 16:00 : Hidden gems discussions / workshops (breakout sessions; chair: TBA)
+    - Examples: more presentations, deeper dives from session 1 (planned or
+      spontaneous), tutorials, show each other our set-ups, information about Advent
+      of Code
+- 16:00 - 18:00 : Optional social time (Zoom)
+
+
+## Day 2: 2023-10-26
+
+All times are CET ([convert to local time](https://arewemeetingyet.com/Zurich/2023-10-26/13:00))
+
+- 13:00 - 13:10 : Introduction to the day and unconference scheduling
+- 13:10 - 14:20 : Paper cuts presentations (5-15 min each; chair: Richard Darst))
+    - Examples: usability problems in computing, difficulty in support or
+      teaching and what we can do about this, Problems you have have seen but
+      don't have a solution for, Tell us about your coolest programming idea
+      which did not work, security
+- 14:20 - 14:40 : Break
+- 14:40 - 16:00 : Paper cuts presentations discussions / workshops (breakout sessions; Matteo Tomasini)
+    - Examples: more presentations, deeper dives from session 3 (planned or
+      spontaneous), tutorials. re-visiting the code skeletons in my (GitHub)
+      closet, Halloween session (share data/software horror stories), tell us
+      about your Advent of Code shenanigans
+- 16:00 - 18:00 : Optional social time (Zoom)
