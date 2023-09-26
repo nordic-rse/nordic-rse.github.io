@@ -6,13 +6,13 @@
 **The membership fee for the 2022 -- 2023 year is 10 euros, this covers the membership until the end of October 2023.**.
 
 You can pay the fee in two ways:
+  - By a **SEPA transfer** to "Nordic Research Software Engineers ry"
+    - IBAN: BE42 9672 5549 7154
+    - Message: **your name** and the words
+      "membership fee".
+    - Address: Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
   - Using [wise.com](https://wise.com)
     - Recommended for currencies other than EUR
-  - By a SEPA transfer to "Nordic Research Software Engineers ry"
-    - IBAN: BE42 9672 5549 7154
-    - In the message field, include **your name** and the words
-      "membership fee".
-
 
 ### Using [wise.com](https://wise.com)
 
