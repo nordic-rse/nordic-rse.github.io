@@ -1,6 +1,12 @@
 +++
 +++
 
+### News
+
+- **Annual meeting**: The next Nordic-RSE annual meeting will be October 19 2023 at 14:00 -- 15:30 CEST. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2023>.
+
+- **Unconference 2023**: After the last successful [editions](/events/2022-online-unconference/), we are planning the [next Unconference](events/2023-online-unconference/), which will take place on October 25-26! Informations will follow soon.
+
 ### Who we are
 
 A **Research Software Engineer (RSE)** is someone in between research
@@ -37,13 +43,6 @@ which focuses on teaching RSE-like skills to researchers.
 - Follow us on [Mastodon](https://fosstodon.org/@nordic_rse) or [Twitter](https://twitter.com/nordic_rse).
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
 - Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
-
-### News
-
-**Unconference 2023**: After the last successful [editions](/events/2022-online-unconference/), we are planning the [next Unconference](events/2023-online-unconference/), which will take place on October 25-26! Informations will follow soon.
-
-**Seminar series**: look at the [Seminars](/events/seminar-series/) page to stay up to date with our upcoming seminars!
-
 
 ### Sponsors
 
