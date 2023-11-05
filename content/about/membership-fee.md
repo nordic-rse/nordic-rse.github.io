@@ -3,7 +3,9 @@
 
 # Paying the Membership Fee
 
-**The membership fee for the 2022 -- 2023 year is 10 euros, this covers the membership until the end of October 2023.**.
+Note: you also register as a member (once), this is done [in the form found here](@/join.md).
+
+**The membership fee for the 2023 -- 2024 year is 10 euros, this covers the membership until the end of October 2024.**.
 
 You can pay the fee in two ways:
   - By a **SEPA transfer** to "Nordic Research Software Engineers ry"

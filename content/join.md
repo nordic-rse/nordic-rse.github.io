@@ -17,5 +17,5 @@ We are modeled on similar international networks in the
 [Netherlands](https://nl-rse.org/), [United
 States](https://us-rse.org), and other countries.
 
-**To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6).**
+**To join us, fill in our [membership form](https://forms.gle/qCVVRGXPi3Hq7inW6)** and then [pay the membership fee](@/about/membership-fee.md).
 
