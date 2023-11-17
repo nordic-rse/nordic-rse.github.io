@@ -3,7 +3,8 @@
 
 # Past Events
 
-- [Nordic-RSE Unconference, October 18-19](/events/2022-online-unconference/)
+- [Nordic-RSE 2023 Unconference, October 25-26](/events/2023-online-unconference/)
+- [Nordic-RSE 2022 Unconference, October 18-19](/events/2022-online-unconference/)
 - [Advent of Code, December 2021](/events/advent-of-code-2021/)
 - [Nordic-RSE Unconference, June 29 - 30, 2021](/events/2021-online-unconference/)
 - [Nordic-RSE Get together online event, Nov 30 - Dec 2, 2020](/events/2020-online-get-together/)
