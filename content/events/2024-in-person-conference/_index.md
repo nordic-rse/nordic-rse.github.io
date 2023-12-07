@@ -7,7 +7,7 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 **May 30-31**
 
-Registration will open in January 2024
+Registration will open in January 2024 at Aalto University, Espoo, Finland.
 
 ## What is it?
 
