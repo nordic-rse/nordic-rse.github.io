@@ -3,9 +3,9 @@
 
 ### News
 
-- **Annual meeting**: The next Nordic-RSE annual meeting will be October 19 2023 at 14:00 -- 15:30 CEST. Agenda and connection details on hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2023>.
+- **Conference 2024**: An in person [Nordic RSE conference](/events/2024-in-person-conference/)
+  is coming up on May 30-31st 2024 at Aalto University in Espoo, Finland.
 
-- **Unconference 2023**: After the last successful [editions](/events/2022-online-unconference/), we are planning the [next Unconference](events/2023-online-unconference/), which will take place on October 25-26! Informations will follow soon.
 
 ### Who we are
 
