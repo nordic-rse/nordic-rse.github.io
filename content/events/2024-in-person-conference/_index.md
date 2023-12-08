@@ -40,7 +40,7 @@ The call for contributions is open at URL_HERE.
 
 We invite you to submit contributions on any topics related to research software. Whether you are using it or developing it yourself,
 we are interested in your experience and expertise. Topics are divided roughly into 3 sessions, "Best Practices", "Technical" and
-"Soft Skills". Don't let this limit you, any topics are welcome.
+"Soft Skills". But don't let this limit you, many topics are welcome. Just submit your idea and we can discuss and find a spot for it!
 
 All formats of communication are welcome (or check what we have done [in the unconference](/events/2023-online-unconference/)):
 - *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
