@@ -30,7 +30,8 @@ On the campus of Aalto University in Otaniemi, Espoo, Finland.
 ### How you can help
 
  - Submit a contribution! The conference will be more interesting with your contribution on the agenda.
- - [Share the announcement with others](/events/2023-online-unconference/share/). 
+ - Encourage your colleagues to submit a contribution. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
+ - [Share the announcement with others](/events/2024-in-person-conference/). 
 
 
 ## Call for Contributions
