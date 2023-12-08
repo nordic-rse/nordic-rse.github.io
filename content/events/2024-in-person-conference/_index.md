@@ -38,7 +38,7 @@ On the campus of Aalto University in Otaniemi, Espoo, Finland.
 
 The call for contributions is open at URL_HERE.
 
-We invite you to submit contributions on any topics related to software. Whether you are using it for research or developing it yourself,
+We invite you to submit contributions on any topics related to research software. Whether you are using it or developing it yourself,
 we are interested in your experience and expertice. Topics are divided roughly into 3 sessions, "Best Practices", "Techical" and
 "Soft Skills". Don't let this limit you, any topics are welcome.
 
