@@ -24,7 +24,7 @@ you use for your research and how you use it, the software you develop and how y
 
 ## Where
 
-At Aalto University, Espoo, Finland.
+On the campus of Aalto University in Otaniemi, Espoo, Finland.
 
 
 ### How you can help
