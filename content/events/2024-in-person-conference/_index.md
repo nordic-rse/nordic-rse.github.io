@@ -39,7 +39,7 @@ On the campus of Aalto University in Otaniemi, Espoo, Finland.
 The call for contributions is open at URL_HERE.
 
 We invite you to submit contributions on any topics related to research software. Whether you are using it or developing it yourself,
-we are interested in your experience and expertice. Topics are divided roughly into 3 sessions, "Best Practices", "Techical" and
+we are interested in your experience and expertise. Topics are divided roughly into 3 sessions, "Best Practices", "Technical" and
 "Soft Skills". Don't let this limit you, any topics are welcome.
 
 All formats of communication are welcome (or check what we have done [in the unconference](/events/2023-online-unconference/)):
