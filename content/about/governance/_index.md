@@ -34,10 +34,9 @@ The current board members are
  - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
  - Rohit Goswami (University of Iceland)
  - Samantha Wittke (Aalto University, CSC)
- - Johan Hellsvik (KTH Royal Institute of Technology)
- - Maria G. Barrios Sazo (University of Oslo)
  - Stephan Smuts (Aarhus University)
-
+ - Radovan Bast (UiT The Arctic University of Norway)
+ - Patric Holmvall (Uppsala University)
 
 # Statutes
 
