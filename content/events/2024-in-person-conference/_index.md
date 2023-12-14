@@ -18,13 +18,14 @@ that software. So this is not like most academic conferences in that the focus i
 on the tools that underlie those results.
 
 Most research is already built on a foundation of sofware tools and the quality and reliability of those tools is key to
-producing reliable results. And the importance of software keeps growing. In this conference we want to talk about what software
-you use for your research and how you use it, the software you develop and how you go about developing it.
+producing reliable results. And the importance of software keeps growing. In this conference we want to talk about what
+pipelines you develop and use for your research, and how you use it, the software you develop, and how you got about
+developing it
 
 
 ## Where
 
-On the campus of Aalto University in Otaniemi, Espoo, Finland.
+On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) in Otaniemi, Espoo, Finland.
 
 
 ### How you can help
@@ -60,9 +61,12 @@ And of course we will all follow a [Code of Conduct](https://nordic-rse.org/abou
 
 ### Price
 
-The participation fee will be around 50€ and will cover lunch and refreshements.
+Because this is the first in person Nordic RSE conference, the participation fee still needs to be estimated based on the interest that we see in the community. The fee will be around 50€ - with options for discounts for individual cases.
+
 
 ## Program
+
+The schedule subject to change untill the submitted contributions are reviewed.
 
 ### Day 1: 2024-5-30
 
