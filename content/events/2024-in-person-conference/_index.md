@@ -36,7 +36,9 @@ On the campus of Aalto University in Otaniemi, Espoo, Finland.
 
 ## Call for Contributions
 
-The call for contributions is open at URL_HERE.
+The call for contributions is open!
+
+<a class="btn btn-primary btn-lg" href="https://indico.neic.no/event/260/abstracts/" target="_blank" rel="noreferrer noopener" role="button">Submit a Contribution</a>
 
 We invite you to submit contributions on any topics related to research software. Whether you are using it or developing it yourself,
 we are interested in your experience and expertise. Topics are divided roughly into 3 sessions, "Best Practices", "Technical" and
