@@ -60,8 +60,7 @@ And of course we will all follow a [Code of Conduct](https://nordic-rse.org/abou
 
 ### Price
 
-The participation fee will be 50€-100€ and will cover a conference dinner on Thursday.
-
+The participation fee will be around 50€ and will cover lunch and refreshements.
 
 ## Program
 
