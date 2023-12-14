@@ -67,10 +67,11 @@ The participation fee will be 50€-100€ and will cover a conference dinner on
 
 All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
-- 9:00 - 11:00 : Best practices session
+- 9:00 - 11:00 : Informal get-together on campus.
 - 11:00 - 12:00 : Lunch
-- 12:00 - 13:00 : Best practices session continued
-- 13:00 - 16:00 : Soft skills session
+- 12:00 - 13:20 : Best practices session
+- 13:20 - 13:40 : Break
+- 13:40 - 16:00 : Soft skills session
 
 
 ## Day 2: 2024-5-31
