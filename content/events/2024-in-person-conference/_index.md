@@ -30,7 +30,7 @@ On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) i
 
 ### How you can help
 
- - Submit a contribution! The conference will be more interesting with your contribution on the agenda.
+ - [Submit a contribution!](http://127.0.0.1:1111/events/2024-in-person-conference#call-for-contributions) The conference will be more interesting with your contribution on the agenda.
  - Encourage your colleagues to submit a contribution. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
  - [Share the announcement with others](/events/2024-in-person-conference/). 
 
