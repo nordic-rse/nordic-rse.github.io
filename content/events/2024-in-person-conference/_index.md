@@ -43,12 +43,12 @@ we are interested in your experience and expertise. Topics are divided roughly i
 "Soft Skills". But don't let this limit you, many topics are welcome. Just submit your idea and we can discuss and find a spot for it!
 
 All formats of communication are welcome (or check what we have done [in the unconference](/events/2023-online-unconference/)):
-- *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
+- *Discussion topics*: is software, research software community or research software engineering something close to your heart? Come chat with other enthusiasts!
 - *Demonstrations:* show us some tools or software that you like
-- *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
+- *Workshops or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
 - *Talks*: teach us something new
-- *On-going projects*: share with others something unfinished and almost working that you would like to get feedback on
-- *Something else*: is there something you would like to share with others that
+- *On-going projects*: share something unfinished or almost working that you would like to get feedback on
+- *Something else*: is there something you would like to share that
   does not fit any of the previous points? We are looking forward to hearing
   about it!
 
