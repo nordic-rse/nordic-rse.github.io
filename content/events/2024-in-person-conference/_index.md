@@ -74,7 +74,7 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 13:40 - 16:00 : Soft skills session
 
 
-## Day 2: 2024-5-31
+### Day 2: 2024-5-31
 
 All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
