@@ -65,7 +65,7 @@ The participation fee will be 50€-100€ and will cover a conference dinner on
 
 ### Day 1: 2024-5-30
 
-All times are EET ([convert to local time](https://arewemeetingyet.com/Zurich/2024-5-30/9:00))
+All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
 - 9:00 - 11:00 : Best practices session
 - 11:00 - 12:00 : Lunch
@@ -75,7 +75,7 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Zurich/20
 
 ## Day 2: 2024-5-31
 
-All times are EET ([convert to local time](https://arewemeetingyet.com/Zurich/2024-5-31/9:00))
+All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
 - 9:00 - 11:00 : Technical session 
 - 11:00 - 12:00 : Lunch
