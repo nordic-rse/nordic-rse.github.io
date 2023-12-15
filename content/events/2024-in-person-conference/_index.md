@@ -66,7 +66,7 @@ Because this is the first in person Nordic RSE conference, the participation fee
 
 ## Program
 
-The schedule subject to change untill the submitted contributions are reviewed.
+The schedule is subject to change until the submitted contributions are reviewed.
 
 ### Day 1: 2024-5-30
 
