@@ -86,4 +86,5 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 9:00 - 11:00 : Technical session 
 - 11:00 - 12:00 : Lunch
 - 12:00 - 13:00 : Technical session continued
-- 13:00 - 16:00 : Open session
+- 13:00 - 13.20 : Break
+- 13.20 - 16:00 : Open session
