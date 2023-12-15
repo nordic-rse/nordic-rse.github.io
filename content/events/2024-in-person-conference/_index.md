@@ -55,7 +55,7 @@ All formats of communication are welcome (or check what we have done [in the unc
   does not fit any of the previous points? We are looking forward to hearing
   about it!
 
-The open session will include on day contributions, topics that arise during the conference.
+The open (or 'unconference') session will include on day contributions, topics that arise during the conference.
 
 And of course we will all follow a [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
