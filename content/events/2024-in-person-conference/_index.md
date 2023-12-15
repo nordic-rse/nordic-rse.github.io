@@ -5,50 +5,86 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 # Nordic-RSE in person conference 2024 <span style="color: gray;">#NordicRSEconf</span>
 
+
 **May 30-31**
 
 Registration will open in January 2024
 
 
+## What is it?
+
+This is the first Nordic RSE in person conference. We are an association of researchers who use software and people who write
+that software. So this is not like most academic conferences in that the focus is not on the results of research, but rather
+on the tools that underlie those results.
+
+Most research is already built on a foundation of sofware tools and the quality and reliability of those tools is key to
+producing reliable results. And the importance of software keeps growing. In this conference we want to talk about what
+pipelines you develop and use for your research, and how you use it, the software you develop, and how you got about
+developing it
+
+
+## Where
+
+On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) in Otaniemi, Espoo, Finland.
+
+
+### How you can help
+
+ - [Submit a contribution!](/events/2024-in-person-conference#call-for-contributions) The conference will be more interesting with your contribution on the agenda.
+ - Encourage your colleagues to submit a contribution. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
+ - [Share the announcement with others](/events/2024-in-person-conference/). 
+
+
 ## Call for Contributions
 
-We will soon open a call for contributions.
- 
+The call for contributions is open!
 
-You can also help us by [sharing the announcement with others](/events/2023-online-unconference/share/). 
+<a class="btn btn-primary btn-lg" href="https://indico.neic.no/event/260/abstracts/" target="_blank" rel="noreferrer noopener" role="button">Submit a Contribution</a>
 
-And of course we will all follow a [Code of
-Conduct](https://nordic-rse.org/about/code-of-conduct/).
+We invite you to submit contributions on any topics related to research software. Whether you are using it or developing it yourself,
+we are interested in your experience and expertise. Topics are divided roughly into 3 sessions, "Best Practices", "Technical" and
+"Soft Skills". But don't let this limit you, many topics are welcome. Just submit your idea and we can discuss and find a spot for it!
 
-All formats of communication are welcome (or check what we have done [last year](/events/2023-online-unconference/)):
-- *Discussion topics*: is software, research software community or research software engineer something close to your heart? Come chatting with other enthusiasts!
+All formats of communication are welcome (or check what we have done [in the unconference](/events/2023-online-unconference/)):
+- *Discussion topics*: is software, research software community or research software engineering something close to your heart? Come chat with other enthusiasts!
 - *Demonstrations:* show us some tools or software that you like
-- *Workshop or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
+- *Workshops or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
 - *Talks*: teach us something new
-- *On-going projects*: share with others something unfinished and almost working that you would like to get feedback on
-- *Something else*: is there something you would like to share with others that
+- *On-going projects*: share something unfinished or almost working that you would like to get feedback on
+- *Something else*: is there something you would like to share that
   does not fit any of the previous points? We are looking forward to hearing
   about it!
 
+The open (or 'unconference') session will include on day contributions, topics that arise during the conference.
+
+And of course we will all follow a [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
+
+### Price
+
+Because this is the first in person Nordic RSE conference, the participation fee still needs to be estimated based on the interest that we see in the community. The fee will be around 50€ - with options for discounts for individual cases.
 
 
 ## Program
 
+The schedule is subject to change until the submitted contributions are reviewed.
+
 ### Day 1: 2024-5-30
 
-All times are CET ([convert to local time](https://arewemeetingyet.com/Zurich/2024-5-30/9:00))
+All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
-- 9:00 - 11:00 : Best practices session
+- 9:00 - 11:00 : Informal get-together on campus.
 - 11:00 - 12:00 : Lunch
-- 12:00 - 13:00 : Best practices session
-- 13:00 - 16:00 : Open session
+- 12:00 - 13:20 : Best practices session
+- 13:20 - 13:40 : Break
+- 13:40 - 16:00 : Soft skills session
 
 
-## Day 2: 2024-5-31
+### Day 2: 2024-5-31
 
-All times are CET ([convert to local time](https://arewemeetingyet.com/Zurich/2024-5-31/9:00))
+All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
 - 9:00 - 11:00 : Technical session 
 - 11:00 - 12:00 : Lunch
-- 12:00 - 13:00 : Technical session 
-- 13:00 - 16:00 : Soft skills session
+- 12:00 - 13:00 : Technical session continued
+- 13:00 - 13.20 : Break
+- 13.20 - 16:00 : Open session
