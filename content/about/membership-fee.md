@@ -10,8 +10,9 @@ Note: you also register as a member (once), this is done [in the form found here
 You can pay the fee in two ways:
   - By a **SEPA transfer** to "Nordic Research Software Engineers ry"
     - IBAN: BE42 9672 5549 7154
-    - Message: **your name** and the words
-      "membership fee".
+    - Message: **your name**, the words
+      "membership fee" and the years the you are paying for.
+      For example "Anna Svenson, membership fee 2023-2024".
     - Address: Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
   - Using [wise.com](https://wise.com)
     - Recommended for currencies other than EUR
