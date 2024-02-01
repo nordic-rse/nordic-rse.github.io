@@ -29,14 +29,13 @@ the dull day-to-day affairs and, for now, function as the code of conduct
 committee.
 
 The current board members are
- - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
  - Matteo Tomasini (University of Gothenburg)
+ - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
+ - Samantha Wittke (Aalto University, CSC)
  - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
  - Rohit Goswami (University of Iceland)
- - Samantha Wittke (Aalto University, CSC)
- - Stephan Smuts (Aarhus University)
- - Radovan Bast (UiT The Arctic University of Norway)
  - Patric Holmvall (Uppsala University)
+ - Stephan Smuts (Aarhus University)
 
 # Statutes
 
