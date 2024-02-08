@@ -22,7 +22,7 @@ on the tools that underlie those results.
 Most research is already built on a foundation of sofware tools and the quality and reliability of those tools is key to
 producing reliable results. And the importance of software keeps growing. In this conference we want to talk about what
 pipelines you develop and use for your research, and how you use it, the software you develop, and how you got about
-developing it
+developing it.
 
 
 ## Where
