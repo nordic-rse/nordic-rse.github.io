@@ -62,10 +62,6 @@ The open (or 'unconference') session will include on day contributions, topics t
 
 And of course we will all follow a [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
-### Price
-
-Because this is the first in person Nordic RSE conference, the participation fee still needs to be estimated based on the interest that we see in the community. The fee is 50€.
-
 
 ## Program
 
