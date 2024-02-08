@@ -8,7 +8,9 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 **May 30-31**
 
-Registration will open in January 2024
+Registrations are now open!
+
+<a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a>
 
 
 ## What is it?
@@ -20,7 +22,7 @@ on the tools that underlie those results.
 Most research is already built on a foundation of sofware tools and the quality and reliability of those tools is key to
 producing reliable results. And the importance of software keeps growing. In this conference we want to talk about what
 pipelines you develop and use for your research, and how you use it, the software you develop, and how you got about
-developing it
+developing it.
 
 
 ## Where
@@ -33,6 +35,7 @@ On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) i
  - [Submit a contribution!](/events/2024-in-person-conference#call-for-contributions) The conference will be more interesting with your contribution on the agenda.
  - Encourage your colleagues to submit a contribution. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
  - [Share the announcement with others](/events/2024-in-person-conference/). 
+ - Do you want to volunteer and help us run our first in person conference? [Join us or get in touch with us](/about/governance/contact.md)!
 
 
 ## Call for Contributions
@@ -59,10 +62,6 @@ The open (or 'unconference') session will include on day contributions, topics t
 
 And of course we will all follow a [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
-### Price
-
-Because this is the first in person Nordic RSE conference, the participation fee still needs to be estimated based on the interest that we see in the community. The fee will be around 50€ - with options for discounts for individual cases.
-
 
 ## Program
 
@@ -77,6 +76,8 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 12:00 - 13:20 : Best practices session
 - 13:20 - 13:40 : Break
 - 13:40 - 16:00 : Soft skills session
+- 18:00 - 20:00 : Dinner
+- 20:00 - xx:xx : Sauna
 
 
 ### Day 2: 2024-5-31
