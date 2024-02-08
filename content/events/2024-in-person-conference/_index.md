@@ -35,6 +35,7 @@ On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) i
  - [Submit a contribution!](/events/2024-in-person-conference#call-for-contributions) The conference will be more interesting with your contribution on the agenda.
  - Encourage your colleagues to submit a contribution. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
  - [Share the announcement with others](/events/2024-in-person-conference/). 
+ - Do you want to volunteer and help us run our first in person conference? [Join us or get in touch with us](/about/governance/contact.md)!
 
 
 ## Call for Contributions
@@ -63,7 +64,7 @@ And of course we will all follow a [Code of Conduct](https://nordic-rse.org/abou
 
 ### Price
 
-Because this is the first in person Nordic RSE conference, the participation fee still needs to be estimated based on the interest that we see in the community. The fee will be around 50€ - with options for discounts for individual cases.
+Because this is the first in person Nordic RSE conference, the participation fee still needs to be estimated based on the interest that we see in the community. The fee is 50€.
 
 
 ## Program
