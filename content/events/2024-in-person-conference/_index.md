@@ -8,7 +8,9 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 **May 30-31**
 
-Registration will open in January 2024
+Registrations are now open!
+
+<a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a>
 
 
 ## What is it?
@@ -77,6 +79,8 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 12:00 - 13:20 : Best practices session
 - 13:20 - 13:40 : Break
 - 13:40 - 16:00 : Soft skills session
+- 18:00 - 20:00 : Dinner
+- 20:00 - xx:xx : Sauna
 
 
 ### Day 2: 2024-5-31
