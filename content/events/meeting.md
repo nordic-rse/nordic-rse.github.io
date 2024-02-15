@@ -16,7 +16,8 @@ no pre-decided topics, but never run out of things to say.
 
 ## Community discussions - biweekly
 
-On each even week, as needed, we have a community planning meeting during the coffee break time, **9:00 CET/CEST (10 EET/EEST) every Thursday**. The agenda for the next meeting and the minutes of previous meetings are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
+On every other week, or as needed, we have a community planning meeting during the coffee break time, **9:00 CET/CEST (10 EET/EEST) every Thursday**. The time
+for the next meeting is added to the agenda on [HackMD](https://hackmd.io/@nordic-rse/biweekly) when decided. You can also find minutes of previous meetings there.
 
 Zoom chat: <https://aalto.zoom.us/j/62426845282> (Zoom ID 624 2684 5282).
 
