@@ -7,14 +7,27 @@ We meet virtually for the following occasions:
 
 ## Virtual coffee break - weekly
 
+We have a weekly informal coffee break at **9:00 CET/CEST (10 EET/EEST) every Thursday**. [Convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w)
+The coffee break is an informal meeting, open for everyone to discuss with and listen to
+others interested in research software engineering.  We currently have
+no pre-decided topics, but never run out of things to say.
+
 [RSE Finland invites](/events/coffeebreak/#weekly-virtual-coffee-break)
 
 ## Community discussions - biweekly
 
-We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on Thursday at 14 CET/CEST (15 EET/EEST) on each even week.
+On every other week, or as needed, we have a community planning meeting during the coffee break time, **9:00 CET/CEST (10 EET/EEST) every Thursday**. The time
+for the next meeting is added to the agenda on [HackMD](https://hackmd.io/@nordic-rse/biweekly) when decided. You can also find minutes of previous meetings there.
+
+Zoom chat: <https://aalto.zoom.us/j/62426845282> (Zoom ID 624 2684 5282).
+
+<!---
+We meet every other week to discuss the development of Nordic RSE and plan upcoming events. The meeting is on Thursday at **14 CET/CEST (15 EET/EEST)** on each even week.
 The agenda for the next meeting and the minutes of previous meetings are kept on [HackMD](https://hackmd.io/@nordic-rse/biweekly).
 
+
 See the [agenda](https://hackmd.io/@nordic-rse/biweekly) for connection details.
+-->
 
 ## Taskforce meetings - randomly
 
