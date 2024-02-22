@@ -29,7 +29,7 @@ the dull day-to-day affairs and, for now, function as the code of conduct
 committee.
 
 The current board members are
- - Matteo Tomasini (University of Gothenburg)
+ - Matteo Tomasini (University of Gothenburg, matteo.tomasini@lir.gu.se)
  - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
  - Samantha Wittke (Aalto University, CSC)
  - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
