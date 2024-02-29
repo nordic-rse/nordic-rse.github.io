@@ -8,7 +8,9 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 **May 30-31, Aalto University, Espoo, Finland**
 
-Abstract call and registrations are now open!
+## Abstract call and registrations are now open!
+
+Submit your contribution by **March 22nd 2024**
 
 <a class="btn btn-primary btn-lg" href="https://indico.neic.no/event/260/abstracts/" target="_blank" rel="noreferrer noopener" role="button">Submit a contribution</a>
 <a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a>
@@ -39,7 +41,7 @@ On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) i
 
 ### How you can help
 
- - [Submit a contribution!](/events/2024-in-person-conference#call-for-contributions) In line with our previous online unconferences, our meetigns are driven by our participants! What do you want to talk about? 
+ - [Submit a contribution!](/events/2024-in-person-conference#call-for-contributions) In line with our previous online unconferences, our meetings are driven by our participants! What do you want to talk about? 
  - Encourage your colleagues to submit a contribution and/or join our association. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
  - [Share the announcement with others](/events/2024-in-person-conference/). 
  - Do you want to volunteer and help us run our first in person conference? [Join us or get in touch with us](/about/governance/contact.md)!
@@ -55,7 +57,7 @@ All formats of communication are welcome (or check what we have done [in the unc
 - *Discussion topics* (15-20 minutes): is software, research software community or research software engineering something close to your heart? Come chat with other enthusiasts!
 - *Demonstrations:* show us some tools or software that you like
 - *Workshops or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
-- *Talks*: teach us something new
+- *Talks* (20 minutes including 5 min questions): teach us something new
 - *On-going projects*: share something unfinished or almost working that you would like to get feedback on
 - *Something else*: is there something you would like to share that
   does not fit any of the previous points? We are looking forward to hearing
