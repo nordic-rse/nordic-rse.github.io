@@ -98,4 +98,99 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 
 
 ## Practical information
-(coming soon)
+
+You can see all locations [on this
+map](https://umap.openstreetmap.fr/en/map/nordic-rse-2024_1014563).
+
+### Venue
+
+Main venue: Aalto University, Konemihentie 1, Espoo, Finland (building
+called "Kide" but most people don't know that name).  All rooms are
+right in the lobby area.
+
+Thursday morning, before noon: "Top Lounge", Otakaari1, Espoo, Finland
+(building name: Undergraduate Center).  You need a keycard to enter
+this area, and access info will be updated closer to time.
+
+Lunches are in the campus area, a short walk to other buildings.
+
+All areas have step-free access.
+
+
+### Registration
+
+Registration includes both lunches, snacks, and coffee, and all
+activities.  It doesn't include dinner, which has to be self-paid.
+Depending on sponsorship, prices and/or included perks may be updated.
+
+There is an evening sauna, but places are limited to ~25 people. The
+first registrants get priority and spots will be allocated later.
+
+
+### Arrival time
+
+tldr: Arrive Wednesday evening, or very early Thursday for the
+informal session.  Otherwise arriving before noon works.
+
+If you arrive before or during Thursday morning, we have a informal
+session before noon, which may include demonstrations, social
+activities, hack time, getting to know each other, or more.  If you
+arrive before noon, you can join us for lunch.  Talks begin at 13:00.
+
+If you arrive Wednesday evening, some organizers will be around and
+we'll try to arrange some activity together.
+
+
+### Other activities
+
+Our plan includes lunches, conference dinner, sauna.
+
+[Wikivoyage Helsinki](https://en.wikivoyage.org/wiki/Helsinki) is
+usually pretty accurate and has information about the area and other
+sights to see.
+
+
+### Hotels
+
+There are various hotels within easy walking distance.  We don't have
+any particular discounts.  "Radison Blu Otaniemi" is the default
+location for university visitors.  Other hotels in Helsinki downtown
+are fine also, the metro trip is 11 minutes (and costs ~3 euros).
+
+
+### Transportation
+
+Aalto University is at the "Aalto University" metro stop.
+
+**Air:** Helsinki Airport is the default choice.  Between the airport
+and Aalto University, plan for max 1.5 hours (less than one hour is
+possible if you are efficient).  From the airport, follow signs to the
+train station.  Buy a ticket for zones ABC, this will get you all the
+way to the university (see public transport).  Take the first train
+that comes (either way gets to downtown in about the same time).  Walk
+a bit to the main station and down to the metro station.  Take a metro
+to the stop Aalto University (direction Tapiola or Kivenlahti), then
+continue in section "public transport"
+
+**Ferry:** From Tallinn or Stockholm, there are ferries. Expect well
+under an hour to get from the ferry harbors to Aalto University.
+(Some attendees are also attending the Nordic e-infrastructure
+Conference in Tallinn on 27-29 May, they will be taking ferries from
+Tallinn the evening of 29 May.  More info to be announced)
+
+**Bus, Train, etc. within Finland:** You probably know how to get to
+the center of Helsinki.  Follow public transit below.
+
+**Private vehicle:** There isn't free parking, but there are paid lots
+around.
+
+**Public transport:** The public transport system is good and easy to
+use.  The stop name is "Aalto University", and the A entrance may be
+slightly easier to use.  Tickets can be bought at ticket machines, or
+via the "HSL App".  Aalto University is in the zone B, downtown is in
+the zone A, tickets last a bit more than an hour and work on any
+public bus, train, metro, or tram (and as many transfers as you need).
+AB zone tickets cost 2.95€.
+
+If coming from airport: use single tickets, day tickets not worth it
+even with one extra trip to/from downtown.
