@@ -104,7 +104,7 @@ map](https://umap.openstreetmap.fr/en/map/nordic-rse-2024_1014563).
 
 ### Venue
 
-Main venue: Aalto University, Konemihentie 1, Espoo, Finland (building
+Main venue: Aalto University, Konemiehentie 1, Espoo, Finland (building
 called "Kide" but most people don't know that name).  All rooms are
 right in the lobby area.
 
