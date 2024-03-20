@@ -96,7 +96,7 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 13.20 - 16:00 : Open session
 
 
-## Sponsors
+## Funders
 
 We thank the Software Sustainability Institute for funding our conference.
 
