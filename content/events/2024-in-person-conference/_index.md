@@ -96,6 +96,12 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 13.20 - 16:00 : Open session
 
 
+## Funding
+
+We thank the [Software Sustainability Institute](https://www.software.ac.uk/) for funding our conference.
+
+![](https://raw.githubusercontent.com/softwaresaved/outreach-materials/master/logos/SSI-LOGOS/RED%20LOGOS/SSI_PRIMARY-LOGO.png)
+
 
 ## Practical information
 
