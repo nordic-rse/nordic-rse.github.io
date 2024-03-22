@@ -10,7 +10,7 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 ## Abstract call and registrations are now open!
 
-Submit your contribution by **March 22nd 2024**
+**(NEW DATE)** Submit your contribution by **April 5th 2024**
 
 <a class="btn btn-primary btn-lg" href="https://indico.neic.no/event/260/abstracts/" target="_blank" rel="noreferrer noopener" role="button">Submit a contribution</a>
 <a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a>
@@ -49,7 +49,7 @@ On the [campus of Aalto University](https://maps.app.goo.gl/3TGvPnBw254T5X817) i
 
 ## Call for Contributions
 
-We invite you to submit contributions **by March 22nd**, on any topics related to research software. Whether you are using it or developing it yourself,
+We invite you to submit contributions **by April 5th**, on any topics related to research software. Whether you are using it or developing it yourself,
 we are interested in your experience and expertise. Topics are divided roughly into 3 sessions, "Best Practices", "Technical" and
 "Soft Skills". But don't let this limit you, many topics are welcome. Just submit your idea and we can discuss and find a spot for it!
 
