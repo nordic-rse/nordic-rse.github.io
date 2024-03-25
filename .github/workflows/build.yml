@@ -47,6 +47,7 @@ jobs:
     # - file in the root
     # - the environment variable set above
     - name: add CNAME
+      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) }}
       run: |
         if [ -f CNAME ] ; then
             mv CNAME public/
