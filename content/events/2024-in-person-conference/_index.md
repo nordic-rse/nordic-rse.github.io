@@ -131,9 +131,19 @@ Depending on sponsorship, prices and/or included perks may be updated.
 There is an evening sauna, but places are limited to ~25 people. The
 first registrants get priority and spots will be allocated later.
 
-The registration fee is 50€. We are considering discounts for junior researchers (e.g. master or doctoral students).
+The registration fee is 50€.
 [You can register at this link.](https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927)
 
+### Financial support
+
+Nordic-RSE strives to be an inclusive and supportive community. If you would like to attend the event, but find yourself unable for economical reasons, contact us at <secretary@nordic-rse.org> to ask about financial support. While we cannot offer travel grants, we might be able to offer small financial aid, e.g. in the form of a ticket waiver.
+
+To apply for financial support, include in the email the following information:
+- why you would like to attend the event
+- how attending would benefit you and your career
+- what you would need to be able to attend
+
+Note that decisions will be made individually on a per-case basis.
 
 ### Arrival time
 
