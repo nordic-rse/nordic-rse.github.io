@@ -10,10 +10,9 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 ## Abstract call and registrations are now open!
 
-**(NEW DATE)** Submit your contribution by **April 5th 2024**
+Registrations are open! Please register **by May 5th** to ensure a place inclusive of lunches and extra-activities!
 
-<a class="btn btn-primary btn-lg" href="https://indico.neic.no/event/260/abstracts/" target="_blank" rel="noreferrer noopener" role="button">Submit a contribution</a>
-<a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a>
+<a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a> <a class="btn btn-primary btn-lg" href="/events/2024-in-person-conference/nordic-2024-book-of-abstracts.pdf" target=" blank" rel="nonreferrer noopener" role="button">See the accepted abstracts</a>
 
 
 ## What is it?
@@ -45,29 +44,18 @@ address.  See practical info).
 
 ### How you can help
 
- - [Submit a contribution!](/events/2024-in-person-conference#call-for-contributions) In line with our previous online unconferences, our meetings are driven by our participants! What do you want to talk about? 
  - Encourage your colleagues to submit a contribution and/or join our association. Since the term RSE is still fairly new, they might not know about it yet and be hesitant to submit something. 
  - [Share the announcement with others](/events/2024-in-person-conference/). 
  - Do you want to volunteer and help us run our first in person conference? [Join us or get in touch with us](/about/governance/contact.md)!
 
 
-## Call for Contributions
+## Contributions and themes
 
-We invite you to submit contributions **by April 5th**, on any topics related to research software. Whether you are using it or developing it yourself,
-we are interested in your experience and expertise. Topics are divided roughly into 3 sessions, "Best Practices", "Technical" and
-"Soft Skills". But don't let this limit you, many topics are welcome. Just submit your idea and we can discuss and find a spot for it!
+The call for contributions is now closed, and the program will be published soon, check this space! For now, you can take a look at the [book of accepted abstracts](./nordic-2024-book-of-abstracts.pdf).
 
-All formats of communication are welcome (or check what we have done [in the unconference](/events/2023-online-unconference/)):
-- *Discussion topics* (15-20 minutes): is software, research software community or research software engineering something close to your heart? Come chat with other enthusiasts!
-- *Demonstrations:* show us some tools or software that you like
-- *Workshops or [ReproHacks](https://reprohack.github.io/reprohack-hq/)* (max 3 hours in a day)
-- *Talks* (20 minutes including 5 min questions): teach us something new
-- *On-going projects*: share something unfinished or almost working that you would like to get feedback on
-- *Something else*: is there something you would like to share that
-  does not fit any of the previous points? We are looking forward to hearing
-  about it!
+We will have a plenary program including talks about some technical demonstrations of computational techologies, the future of research software engineers, breaking (programming) language barriers, and more! In particular, don't miss our invited speaker Martin O'Reilly, from the Software Sustainability Institute, who will talk about the growth of Research Software Engineering and its vital role in research! 
 
-The open (or 'unconference') session will include on day contributions, topics that arise during the conference.
+We will also make sure to get enough time to network and enjoy our time as a community: our social times will include coffee breaks, a dinner and a sauna on the evening of Day 1.
 
 And of course we will all follow a [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
 
@@ -80,9 +68,10 @@ The schedule is subject to change until the submitted contributions are reviewed
 
 All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
-- 9:00 - 13:00 : Informal get-together on campus, group activities.
+- 9:00 - 11:00 : Arrival of participants, registration, mingling
+- 11:00 - 13:00 : Informal get-together on campus, group activities
 - 13:00 - 14:00 : Lunch
-- 14:40 - 17:30 : Conference sessions
+- 14:15 - 17:35 : Opening and conference sessions
 - 19:00 - 20:30 : Dinner
 - 20:30 - xx:xx : Sauna
 
@@ -91,9 +80,11 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 
 All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
-- 9:00 - 11:00 : Conference sessions
+- 9:00 - 10:00 : Plenary talk and panel
+- 10:20 - 11.40 : Conference sessions
 - 12:00 - 13:00 : Lunch
-- 13.00 - 17:00 : Conference sessions
+- 13.15 - 16:30 : Conference sessions
+- 16:30 - 17:00 : Closing
 
 
 ## Funding
@@ -126,7 +117,7 @@ All areas have step-free access.
 ### Registration
 
 Registration includes both lunches, snacks, and coffee, and all
-activities.  It doesn't include dinner, which has to be self-paid.
+activities. It doesn't include dinner, which has to be self-paid.
 Depending on sponsorship, prices and/or included perks may be updated.
 
 There is an evening sauna, but space is limited to ~25 people. The
@@ -182,7 +173,7 @@ style="border: 1px solid black"></iframe><br/><small><a
 href="https://www.openstreetmap.org/?mlat=60.18697&amp;mlon=24.82895#map=17/60.18697/24.82895">Thursday
 morning: view Larger Map</a></small>
 
-Thursday afternoon/Friday: Konemiehentie 1, Espoo, Finland.  The building called "Kide" but most people
+Thursday afternoon/Friday: Konemiehentie 1, Espoo, Finland.  The building called "Kide" (but most people
 don't know that name).  All rooms are right in the lobby area.  (The
 building is new, if you enter "Konemiehentie 1" into Google Maps it
 will send you to a neighboring building).  [Google
