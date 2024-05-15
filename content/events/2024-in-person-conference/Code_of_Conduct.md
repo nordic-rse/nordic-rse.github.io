@@ -109,11 +109,16 @@ duration of the event. We value your attendance.
 
 ### Contact Information
 
+**In any urgent issue call 112**. This includes medical, police and rescue services.
+
 Organizers: secretary@nordic-rse.org
 Phone number for conference organizers: NNN NNN NNNN
-Phone number for venue security: NNN NNN NNNN
-Local law enforcement: NNN NNN NNNN
-Local sexual assault hot line: NNN NNN NNNN
-Emergy line (Medical, security or otherwise): 112
+Venue help line: 050 46 46 462
+
+Emergency (Medical, police or anything else urgent): 112
 Non-emergency medical care: 116117
+Local law enforcement (Non Urgent): 0295 438 031
+Crime victim support: 116 006
+Local sexual assault hot line: 0800 978 99, https://www.riku.fi/en/as-a-victim-of-crime/violence-against-women/
+
 Local taxi company: 0100 7300, 0100 0700, 0100 6060
