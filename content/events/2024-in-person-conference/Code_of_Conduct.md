@@ -110,7 +110,7 @@ duration of the event. We value your attendance.
 ### Contact Information
 
 Organizers: secretary@nordic-rse.org
-[Phone number for conference organizers:] NNN NNN NNNN
+Phone number for conference organizers: NNN NNN NNNN
 Phone number for venue security: NNN NNN NNNN
 Local law enforcement: NNN NNN NNNN
 Local sexual assault hot line: NNN NNN NNNN
