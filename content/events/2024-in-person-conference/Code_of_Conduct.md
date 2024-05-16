@@ -84,17 +84,22 @@ You can make a report either personally or anonymously.
 
 #### Anonymous Report
 
-You can make an anonymous report here: 
+You can make an anonymous report here: https://nordicrse.wufoo.com/forms/z5zh7d61domtah/
 
 We can't follow up an anonymous report with you directly, but we will fully investigate
 it and take whatever action is necessary to prevent a recurrence.
+
 
 #### Personal Report
 
 You can make a personal report by:
 
- * Contacting any member of the Code of Conduct committee [LINK TO LIST OF EMAILS]
+ * Contacting any member of the Code of Conduct committee
+    * Aurélie Vancraeyenest: aurelie.vancraeyenest@csc.fi
+    * Viitanen Essi: essi.viitanen@aalto.fi
+    * Krejci Ondrej: ondrej.krejci@aalto.fi
  * Contacting any conference organizer [HOW TO IDENTIFY IN EVENT?]
+ * Contacting any member of the [Nordic-RSE board](/about/governance/)
 
 When taking a personal report, organizers will ensure you are safe and cannot be
 overheard. They may involve other event staff to ensure your report is managed properly.
@@ -109,10 +114,9 @@ duration of the event. We value your attendance.
 
 ### Contact Information
 
-**In any urgent issue call 112**. This includes medical, police and rescue services.
+**In an emergency call 112**. This includes medical, police and rescue services.
 
 Organizers: secretary@nordic-rse.org
-Phone number for conference organizers: NNN NNN NNNN
 Venue help line: 050 46 46 462
 
 Emergency (Medical, police or anything else urgent): 112
