@@ -98,7 +98,7 @@ You can make a personal report by:
     * Aurélie Vancraeyenest: aurelie.vancraeyenest@csc.fi
     * Viitanen Essi: essi.viitanen@aalto.fi
     * Krejci Ondrej: ondrej.krejci@aalto.fi
- * Contacting any conference organizer [HOW TO IDENTIFY IN EVENT?]
+ * Contacting any conference organizer
  * Contacting any member of the [Nordic-RSE board](/about/governance/)
 
 When taking a personal report, organizers will ensure you are safe and cannot be
@@ -117,7 +117,7 @@ duration of the event. We value your attendance.
 **In an emergency call 112**. This includes medical, police and rescue services.
 
 Organizers: secretary@nordic-rse.org
-Venue help line: 050 46 46 462
+Venue help line: 050 4646 462
 
 Emergency (Medical, police or anything else urgent): 112
 Non-emergency medical care: 116117
