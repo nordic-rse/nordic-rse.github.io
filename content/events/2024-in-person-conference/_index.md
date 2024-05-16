@@ -57,7 +57,7 @@ We will have a plenary program including talks about some technical demonstratio
 
 We will also make sure to get enough time to network and enjoy our time as a community: our social times will include coffee breaks, a dinner and a sauna on the evening of Day 1.
 
-And of course we will all follow a [Code of Conduct](https://nordic-rse.org/about/code-of-conduct/).
+And of course we will all follow a [Code of Conduct](code-of-conduct/).
 
 
 ## Program
