@@ -19,7 +19,7 @@ enforce security and the code of coduct in a Nordic-RSE event.
 ### Warnings
 
 Any member of conference organizer or code of conduct committee member can issue
-a verbal warning to a participant that their behavior violates the conference's
+a verbal warning to a participant whose behavior violates the conference's
 anti-harassment policy.
 
 Warnings should be reported to secretary@nordic-rse.org as soon as practical.
