@@ -6,10 +6,10 @@ title = "Code of Conduct for In Person Conferences"
 # Code of conduct for In Person Conferences
 
 > This code of conduct is copied and adapted from the example policy at the
-> [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy),
+> [Geek Feminism wiki](https://geekfeminism.fandom.org/wiki/Conference_anti-harassment/Policy),
 > created by the Ada Initiative and other volunteers (CC-0 license).
-> The procedure for reporting harassment has been adopted from the Ada Initiative's guide titled
-> ["workshop anti-harassment/Responding to Reports"](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+> The procedure for reporting harassment has been adapted from the Ada Initiative's guide titled
+> ["workshop anti-harassment/Responding to Reports"](http://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Responding_to_reports).
 
 We value the participation of each stakeholder and want our members and
 participants to our events to have an enjoyable and fulfilling experience.
@@ -83,8 +83,7 @@ You can make a report either personally or anonymously.
 
 
 #### Anonymous Report
-
-You can make an anonymous report here: https://nordicrse.wufoo.com/forms/z5zh7d61domtah/
+You can make [this online form](https://nordicrse.wufoo.com/forms/z5zh7d61domtah/).
 
 We can't follow up an anonymous report with you directly, but we will fully investigate
 it and take whatever action is necessary to prevent a recurrence.
