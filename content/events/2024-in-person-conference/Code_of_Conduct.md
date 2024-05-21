@@ -6,7 +6,7 @@ title = "Code of Conduct for In Person Conferences"
 # Code of conduct for In Person Conferences
 
 > This code of conduct is copied and adapted from the example policy at the
-> [Geek Feminism wiki](https://geekfeminism.fandom.org/wiki/Conference_anti-harassment/Policy),
+> [Geek Feminism wiki](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy),
 > created by the Ada Initiative and other volunteers (CC-0 license).
 > The procedure for reporting harassment has been adapted from the Ada Initiative's guide titled
 > ["workshop anti-harassment/Responding to Reports"](http://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Responding_to_reports).
