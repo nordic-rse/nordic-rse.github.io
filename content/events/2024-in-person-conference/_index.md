@@ -143,16 +143,17 @@ Main venue: Aalto University, Konemiehentie 1, Espoo, Finland.
 Thursday morning, before noon: "Top Lounge", Otakaari 1, Espoo, Finland
 (building name: Undergraduate Center).
 
-Lunches are in the campus area, a short walk to other buildings.
+Lunches are in the campus area, a short walk to other buildings.  All areas have step-free access.
 
-All areas have step-free access.
+For details, see this map (and click on labels for details):
 
 <iframe width="520px" height="450px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.fr/en/map/nordic-rse-2024_1014563?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=8c66f524-5334-4945-ba10-2ba10b3b2eef%2C3dee9430-a454-459b-93c7-f579eafacdc6%2C7430a18e-daeb-4295-ae44-00abb6ec00c3&locateControl=true&starControl=false&editinosmControl=false&captionControl=false#15/60.1856/24.8248"></iframe><p><a href="https://umap.openstreetmap.fr/en/map/nordic-rse-2024_1014563?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&datalayers=8c66f524-5334-4945-ba10-2ba10b3b2eef%2C3dee9430-a454-459b-93c7-f579eafacdc6%2C7430a18e-daeb-4295-ae44-00abb6ec00c3&locateControl=true&starControl=false&editinosmControl=false&captionControl=false#15/60.1856/24.8248">See full screen</a></p>
 
 ### Finding our buildings/rooms
 
 Click on the respective marker on the map for arrival instructions/map
-app links.
+app links.  Check your email for a contact phone number if you need
+help.
 
 
 ### Other activities
