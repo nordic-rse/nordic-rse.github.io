@@ -93,6 +93,12 @@ We thank the [Software Sustainability Institute](https://www.software.ac.uk/) fo
 
 <img alt="Software Sustainability Institute logo" src="https://raw.githubusercontent.com/softwaresaved/outreach-materials/master/logos/SSI-LOGOS/RED%20LOGOS/SSI_PRIMARY-LOGO.png" style="max-width: 420px">
 
+
+We thank Aalto Scientific Computing for providing the venue and local support.
+
+<img alt="Aalto Scientific Computing logo" src="https://github.com/AaltoSciComp/scicomp-docs/blob/master/_static/asc-socialshare-02.png?raw=true" style="max-width: 320px">
+
+
 ## Practical information
 
 
@@ -102,7 +108,7 @@ Registration includes both lunches, snacks, and coffee, and all
 activities. It doesn't include dinner, which has to be self-paid.
 Depending on sponsorship, prices and/or included perks may be updated.
 
-There is an evening sauna, but space is limited to ~25 people. The
+There is an evening sauna, but space is limaited to ~25 people. The
 first registrants get priority and spots will be allocated later.
 
 The registration fee is 50€.
