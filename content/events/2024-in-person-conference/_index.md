@@ -98,7 +98,6 @@ We thank Aalto Scientific Computing for providing the venue and local support.
 
 <img alt="Aalto Scientific Computing logo" src="https://github.com/AaltoSciComp/scicomp-docs/blob/master/_static/asc-socialshare-02.png?raw=true" style="max-width: 420px">
 
-_static/asc-socialshare-02.png
 
 ## Practical information
 
