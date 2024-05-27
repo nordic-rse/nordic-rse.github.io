@@ -96,7 +96,9 @@ We thank the [Software Sustainability Institute](https://www.software.ac.uk/) fo
 
 We thank Aalto Scientific Computing for providing the venue and local support.
 
-<img alt="Aalto Scientific Computing logo" src="https://github.com/AaltoSciComp/scicomp-docs/blob/f0b67cb8f38a47f56dd6665b5efe0de5f33e91af/_static/asc-socialshare-02.png" style="max-width: 420px">
+<img alt="Aalto Scientific Computing logo" src="https://github.com/AaltoSciComp/scicomp-docs/blob/master/_static/asc-socialshare-02.png?raw=true" style="max-width: 420px">
+
+_static/asc-socialshare-02.png
 
 ## Practical information
 
