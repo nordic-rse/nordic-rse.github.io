@@ -68,8 +68,9 @@ The schedule is subject to change until the submitted contributions are reviewed
 
 All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
-- 9:00 - 11:00 : Arrival of participants, registration, mingling (Top Lounge)
-- 11:00 - 12:45 : Informal get-together on campus, group activities (Top Lounge)
+- 9:00 - 11:00 : Arrival of participants, registration, mingling
+  (**Update: U121a of first floor of the building**)
+- 11:00 - 12:45 : Informal get-together on campus, group activities (**Update: U121a of first floor of the building**)
 - 13:00 - 14:00 : Lunch (Arvo)
 - 14:15 - 17:35 : Opening and conference sessions  (Main rooms)
 - 19:00 - 20:30 : Dinner (Fat Lizard)
@@ -146,7 +147,7 @@ map](https://umap.openstreetmap.fr/en/map/nordic-rse-2024_1014563).
 
 Main venue: Aalto University, Konemiehentie 1, Espoo, Finland.
 
-Thursday morning, before noon: "Top Lounge", Otakaari 1, Espoo, Finland
+Thursday morning, before noon: **Update: room U121a on the first floor**, Otakaari 1, Espoo, Finland
 (building name: Undergraduate Center).
 
 Lunches are in the campus area, a short walk to other buildings.  All areas have step-free access.
