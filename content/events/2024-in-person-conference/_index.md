@@ -62,7 +62,7 @@ And of course we will all follow a [Code of Conduct](code-of-conduct/).
 
 ## Program
 
-The schedule is subject to change until the submitted contributions are reviewed.
+[See the schedule including talks](Nordic-RSE-schedule-2024.pdf).
 
 ### Day 1: 2024-5-30
 
