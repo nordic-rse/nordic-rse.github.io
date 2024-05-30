@@ -76,7 +76,7 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 - 14:15 - 17:35 : Opening and conference sessions (Main rooms)
   - 15:25 - 15:55 : Break (with coffee)
   - 16:15 - 17:00 : Break (no coffee)
-- (18:30/19:00) - 20:30 : Dinner (Fat Lizard) (Arrive when you want.)
+- 18:30 - 20:30 : Dinner (Fat Lizard) (40€/person paid by Nordic-RSE)
 - 20:30 - xx:xx : Sauna (Arrive whenever you want after dinner.  There
   is a lounge area + sauna.  You don't have to go to the sauna, there
   will be plenty more to do.  Limit 25 people.  See map for arrival
