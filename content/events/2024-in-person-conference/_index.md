@@ -72,8 +72,10 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
   (**Update: U121a of first floor of the building**)
 - 11:00 - 12:45 : Informal get-together on campus, group activities (**Update: U121a of first floor of the building**)
 - 13:00 - 14:00 : Lunch (Arvo)
-- 14:15 - 17:35 : Opening and conference sessions  (Main rooms)
-- 19:00 - 20:30 : Dinner (Fat Lizard)
+- 14:15 - 17:35 : Opening and conference sessions (Main rooms)
+  - 15:25 - 15:55 : Break (with coffee)
+  - 16:15 - 17:00 : Break (no coffee)
+- (18:30/19:00) - 20:30 : Dinner (Fat Lizard)
 - 20:30 - xx:xx : Sauna
 
 
@@ -81,10 +83,12 @@ All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/
 
 All times are EET ([convert to local time](https://arewemeetingyet.com/Helsinki/2024-5-30/9:00))
 
-- 9:00 - 10:00 : Plenary talk and panel
-- 10:20 - 11.40 : Conference sessions (Main rooms)
+- 9:00 - 11:40 :  Conference sessions (Main rooms)
+  - 10:15 - 10:40 : Break (with coffee)
 - 12:00 - 13:00 : Lunch (Mau-Kas)
 - 13.15 - 16:30 : Conference sessions (Main rooms)
+  - 14:15- 14:30 : Break (no coffee)
+  - 15:5 - 15:35 : Break (with coffee)
 - 16:30 - 17:00 : Closing
 
 
