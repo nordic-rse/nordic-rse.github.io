@@ -65,9 +65,9 @@ function coordinates_of_places(places) {
 }
 
 
-function add_marker(markers, places, person_or_group, color) {
-    var lat = (person_or_group.place != undefined) ? places[person_or_group.place][0] : person_or_group.lat;
-    var lon = (person_or_group.place != undefined) ? places[person_or_group.place][1] : person_or_group.lon;
+function add_marker(markers, places, person_or_group, place, color) {
+    var lat = (place != undefined) ? places[place][0] : person_or_group.lat;
+    var lon = (place != undefined) ? places[place][1] : person_or_group.lon;
 
     var marker = L.circleMarker([lat, lon], {
         radius: 10
@@ -77,6 +77,17 @@ function add_marker(markers, places, person_or_group, color) {
     marker.bindPopup(popup_text(person_or_group));
 
     markers.addLayer(marker);
+}
+
+function add_markers(markers, places, person_or_group, color) {
+    if(Array.isArray(person_or_group.place)) {
+        for (const place of person_or_group.place) {
+            add_marker(markers, places, person_or_group, place, color);
+        }
+    } else {
+        var place = person_or_group.place;
+        add_marker(markers, places, person_or_group, place, color);
+    }
 }
 
 
@@ -102,11 +113,11 @@ function load_map(args) {
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(leaflet_map);
 
             for (const person of persons) {
-                add_marker(markers, places, person, "#3383ff");
+                add_markers(markers, places, person, "#3383ff");
             }
 
             for (const group of groups) {
-                add_marker(markers, places, group, "#dc33ff");
+                add_markers(markers, places, group, "#dc33ff");
             }
 
             leaflet_map.addLayer(markers);
