@@ -3,8 +3,7 @@
 
 ### News
 
-- **Conference 2024**: An in person [Nordic RSE conference](/events/2024-in-person-conference/)
-  is coming up on May 30-31st 2024 at Aalto University in Espoo, Finland.
+- **Conference 2024**: In May we met at Aalto University in Espoo, Finland  [Nordic RSE conference](/events/2024-in-person-conference/) for our first in-person conference. We met with about 30 RSE and RSE interested people to learn, network and discuss. Blog post coming soon!
 
 
 ### Who we are
