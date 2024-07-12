@@ -5,17 +5,19 @@
 
 ## Research Software Seminar Series
 
-- Full schedule [here](/events/seminar-series)
+- Currently on break. Full schedule [here](/events/seminar-series)
 
 ## Conference
 
-The [Nordic-RSE in person conference](/events/2024-in-person-conference/) will take place once again this year on May 30-31, 2024! Mark the dates in your calendars and stay tuned! 
+The first [Nordic-RSE in person conference](/events/2024-in-person-conference/) happened May 30-31, 2024 in Espoo, Finland! 
+In 2025 we will most likely meet in Sweden. Stay tuned for more information!
+
 
 ## Advent of Code
 
-This year we will again work
+Every year we try to do the 
 [advent of code](https://adventofcode.com/)
-challenges together. Join us on the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/305975-Advent-of.20Code).
+challenges and discuss their implementation in different languages. Join us on the [Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/305975-Advent-of-Code).
 
 The advent of code is a great way to learn a new programming language tohether
 or brush up your software development skills. Each day we will chat about our
