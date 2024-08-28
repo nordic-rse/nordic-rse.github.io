@@ -4,8 +4,10 @@
 ### News
 
 - At the Nordic-RSE conference we discussed the question among participants "Why do you think it is so crucial for organisations to invest in RSE teams?". We collected a lot of good points and summarized them in a [blog post titled "Small steps towards sustainable and open research - or why you should care about Research Software Engineering"](https://nordic-rse.org/blog/why-rse/). Feel free to share this further or use it to convince your employer to start an RSE group :) 
-
-- **Conference 2024**: In May we met at Aalto University in Espoo, Finland  [Nordic RSE conference](/events/2024-in-person-conference/) for our first in-person conference. We met with about 30 RSE and RSE interested people to learn, network and discuss. Blog post about the conference coming soon! 
+- **Conference 2024**: In May we met at Aalto University in Espoo, Finland
+  [Nordic RSE conference](/events/2024-in-person-conference/) for our first
+  in-person conference. We met with about 30 RSE and RSE interested people to
+  learn, network and discuss. Blog post about the conference coming soon! 
 
 
 ### Who we are
