@@ -65,11 +65,14 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         force_orphan: true
+
+    - name: Build HTML with changed base_url
+      run: zola build --base-url "https://nordic-rse.org/previews/PR${{ github.event.number }}/" --output-dir public-previews
     - name: Deploy PR preview
       if: github.event_name == 'pull_request' && github.repository == github.event.pull_request.head.repo.full_name # if this build is a PR build and the PR is NOT from a fork
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@releases/v4
       with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: ./public
-          TARGET_FOLDER: "previews/PR${{ github.event.number }}" # The website preview is going to be stored in the previews subfolder
+          branch: gh-pages
+          folder: ./public-previews
+          target_folder: "previews/PR${{ github.event.number }}" # The website preview is going to be stored in the previews subfolder
