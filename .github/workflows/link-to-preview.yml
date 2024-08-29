@@ -3,7 +3,7 @@ on:
   pull_request:
     types: [opened, reopened]
 jobs:
-  pr_comment:
+  link-to-preview:
     runs-on: ubuntu-latest
     steps:
       - name: Create PR comment
