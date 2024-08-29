@@ -14,7 +14,7 @@
 name: Build/deploy website
 
 env:
-  ZOLA_VERSION: "0.17.2"
+  ZOLA_VERSION: "0.18.0"
   MAIN_BRANCH: "main"
   TARGET_BRANCH: "gh-pages"
   CNAME: "nordic-rse.org"
