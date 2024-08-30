@@ -13,7 +13,6 @@ name: Build and deploy website preview
 
 env:
   ZOLA_VERSION: "0.18.0"
-  TARGET_BRANCH: "gh-pages"
   CNAME: "nordic-rse.org"
 
 on:

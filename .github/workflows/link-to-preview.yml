@@ -1,7 +1,9 @@
 name: Link to preview in PR conversation
+
 on:
   pull_request:
     types: [opened, reopened]
+
 jobs:
   link-to-preview:
     runs-on: ubuntu-latest
