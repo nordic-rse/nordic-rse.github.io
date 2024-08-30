@@ -1,17 +1,15 @@
 # Zola build workflow.
 
-# Prerequisites:
-# - zola writes output to public/
-# - variables below set correctly
-#
 # Setting it up:
+#   Adjust the variables below, under env.
+#
 #   It is a general limitation of gh-actions that they cannot make the very first
 #   deploy to gh-pages.  It will seem to work, but not appear on the CDN to be
 #   online.  You need to go to settings and set the gh-pages branch, then future
 #   deploys will work.  See
 #   https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-first-deployment-with-github_token
 
-name: Build/deploy website
+name: Build and deploy website upon push or merge to main
 
 env:
   ZOLA_VERSION: "0.18.0"
@@ -30,11 +28,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # only run on push to main branch or merge to main branch (not on prs that are under review)
+    if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) }}
+
     steps:
     - name: Checkout repository and submodules
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         submodules: recursive
+
     - name: Install zola
       run: |
         set -x
@@ -42,18 +45,13 @@ jobs:
            "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
         | sudo tar xzf - -C /usr/local/bin
 
-    - name: Generate HTML when merged
-      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) }}
+    - name: Generate HTML
       run: zola build
-    - name: Generate HTML when building pull request
-      if: github.event_name == 'pull_request' && github.repository == github.event.pull_request.head.repo.full_name
-      run: zola build --base-url "https://nordic-rse.org/previews/PR${{ github.event.number }}"
 
     # Add CNAME, either (first one used)
     # - file in the root
     # - the environment variable set above
     - name: add CNAME
-      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) }}
       run: |
         if [ -f CNAME ] ; then
             mv CNAME public/
@@ -64,18 +62,10 @@ jobs:
             echo -n ${{ env.CNAME }} > public/CNAME
             echo "Used CNAME from the action workflow file"
         fi
-    - name: Deploy to gh-pages
-      if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) }}
+
+    - name: Deploy website
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         force_orphan: true
-    - name: Deploy PR preview
-      if: github.event_name == 'pull_request' && github.repository == github.event.pull_request.head.repo.full_name # if this build is a PR build and the PR is NOT from a fork
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: ./public
-          TARGET_FOLDER: "previews/PR${{ github.event.number }}" # The website preview is going to be stored in the previews subfolder
