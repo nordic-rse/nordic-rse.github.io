@@ -16,7 +16,11 @@ no pre-decided topics, but never run out of things to say.
 
 ## Community discussions - biweekly
 
-On every other week, or as needed, we have a community planning meeting during the coffee break time, **9:00 CET/CEST (10 EET/EEST) every Thursday**. The time
+During our biweekly community disucssions we meet and discuss what we, as Nordic-RSE can do to get RSE and RSE-minded people together to discuss the topics that interest us.
+RSE in the Nordics is not well known (yet), so a big part of discussions are also around how we can make it more known. There is no requirement to join the meetings, other than an interest in what we are doing. 
+Anyone is very welcome to provide some of their time to advance these goals, be it minutes or days. 
+
+Currently these discussions happen during the coffee break time, every other week **9:00 CET/CEST (10 EET/EEST) every Thursday**. The time
 for the next meeting is added to the agenda on [HackMD](https://hackmd.io/@nordic-rse/biweekly) when decided. You can also find minutes of previous meetings there.
 
 Zoom chat: <https://aalto.zoom.us/j/62426845282> (Zoom ID 624 2684 5282).
