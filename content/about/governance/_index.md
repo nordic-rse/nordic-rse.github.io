@@ -84,12 +84,12 @@ as faithful as possible.
     The name of the association is signed by the chair of the board, vice chair, secretary or treasurer, separately.
 
 7. Accounting period:
-    The associations accounting period is 1.6 - 31.5.
+    The associations accounting period is 1.1 - 31.12.
 
 8. Association meetings:
     Members may attend the association meeting remotely by mail, online, or using oher technical tools before and during the meeting. The association meeting determines its voting and election procedures.
 
-    The association's annual meeting is held annually in August-October.
+    The association's annual meeting is held annually in January-March.
 
     In association meetings each member has one vote. Unless otherwise determined in these statutes, the decisions of the association meeting are the proposals that receive more than half the vote.
 
@@ -169,15 +169,15 @@ as faithful as possible.
    rahastonhoitaja, kukin yksin.
 
 7. Tilikausi:
-   Yhdistyksen tilikausi on 1.6 - 31.5.
+   Yhdistyksen tilikausi on 1.1 - 31.12.
 
 8. Yhdistyksen kokoukset:
    Yhdistyksen kokoukseen voidaan osallistua myös postitse taikka tietoliikenneyhteyden
    tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta.
    Yhdistyksen kokous hyväksyy äänestys- ja vaalijärjestyksen.
 
-   Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä elo-
-   lokakuussa.
+   Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä tammi-
+   maaliskuussa.
 
    Yhdistyksen kokouksissa on jokaisella jäsenellä yksi ääni. Yhdistyksen kokouksen
    päätökseksi tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on kannattanut
