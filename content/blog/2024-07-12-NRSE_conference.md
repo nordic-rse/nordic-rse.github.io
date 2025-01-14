@@ -31,7 +31,8 @@ The submitted conference talks ranged from experience reports to tool presentati
 In the afternoon of Friday we dedicated time to workshops and discussions: the first discussion started with another introduction round, this time focusing on the relation to RSE and how supported everyone feels in their organization. After that we split into groups and discussed around the question "why should an organization have RSEs?". The results of these discussions were summarized in another [blogpost titled "Small steps towards sustainable and open research"](https://nordic-rse.org/blog/why-rse/). 
 In the last discussion of the conference we started collecting feedback and planning the next conference. 
 
-Nordic-RSE conference 2025 will be arranged in Gothenburg and you can be part of the planning team by joining the discussion in the [Nordic-RSE-2025 repository](https://github.com/nordic-rse/nordic-rse-2025). 
+Nordic-RSE conference 2025 will be arranged in Gothenburg and you can be part of the planning team by joining the discussion
+on the [Zulip chat](https://coderefinery.zulipchat.com) (channel #nordic-rse-2025).
 
 During the whole conference we had an open board to collect ideas for logos for Nordic-RSE. Currently the Nordic-RSE association uses the general RSE society logo with Nordic added before it. However, the community agrees that it would be nice to have something of our own.
 
