@@ -3,7 +3,7 @@
 
 ### News
 
-- **Conference 2025**: We are planning our second Nordic-RSE conference on May 20 + 21 2025 in Gothenburg, Sweden. Call for abstracts and registration opening soon.
+- **Conference 2025**: We are planning our second Nordic-RSE conference on May 20 + 21 2025 in Gothenburg, Sweden. Call for abstracts and registration opening soon on the [conference website](https://nordic-rse.org/nrse2025/).
 
 - At the Nordic-RSE conference we discussed the question among participants "Why do you think it is so crucial for organisations to invest in RSE teams?". We collected a lot of good points and summarized them in a [blog post titled "Small steps towards sustainable and open research - or why you should care about Research Software Engineering"](https://nordic-rse.org/blog/why-rse/). Feel free to share this further or use it to convince your employer to start an RSE group :) 
 
