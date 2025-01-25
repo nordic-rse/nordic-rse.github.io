@@ -9,9 +9,14 @@
 
 ## Conference
 
-The first [Nordic-RSE in person conference](/events/2024-in-person-conference/) happened May 30-31, 2024 in Espoo, Finland! 
-In 2025 we will most likely meet in Sweden. Stay tuned for more information!
+The second Nordic-RSE in-person conference will happen on M**ay 20 + 21 2025 in Gothenburg, Sweden**. 
+The call for abstracts is now open on the [conference website](https://nordic-rse.org/nrse2025/). 
+Registration will open soon and tickets will cost about 75 Euro.
 
+Past conferences: 
+
+The first [Nordic-RSE in person conference](/events/2024-in-person-conference/) happened May 30-31, 2024 in Espoo, Finland! 
+We summarized the event in a [conference blogpost](https://nordic-rse.org/blog/nrse-conference/).
 
 ## Advent of Code
 
