@@ -29,10 +29,11 @@ or brush up your software development skills. Each day we will chat about our
 solutions, give some tips if you are stuck (provided at least one of us has
 solved the problem) and just chat and have some fun.
 
+
 ## Virtual coffee break - weekly
 
-An free form [coffee break](/events/coffeebreak/#weekly-virtual-coffee-break)
-open to everyone every Thursday at 9 CET/CEST (10 EET/EEST).
+More information on our page [about meetings](@/events/meetings.md).
+
 
 # Calendar
 
