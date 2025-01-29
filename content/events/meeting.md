@@ -5,6 +5,7 @@
 
 We meet virtually for the following occasions:
 
+
 ## Virtual coffee break - weekly
 
 We have a weekly informal coffee break at **9:00 CET/CEST (10 EET/EEST) every Thursday**. [Convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w)
@@ -14,7 +15,8 @@ no pre-decided topics, but never run out of things to say.
 
 [RSE Finland invites](/events/coffeebreak/#weekly-virtual-coffee-break)
 
-## Community discussions - biweekly
+
+## Community discussions - every second week
 
 During our biweekly community meeting we discuss what we, as Nordic-RSE can do to get RSE and RSE-minded people together to discuss the topics that interest us.
 RSE in the Nordics is not well known (yet), so a big part of discussions are also around how we can make it more known. There is no requirement to join the meetings, other than an interest in what we are doing. 
@@ -33,15 +35,13 @@ The agenda for the next meeting and the minutes of previous meetings are kept on
 See the [agenda](https://hackmd.io/@nordic-rse/biweekly) for connection details.
 -->
 
-## Taskforce meetings - randomly
-
-Once in a while we have larger projects that would be too much to discuss in the community meetings. Then we form taskforces that meet separately. Lately we for example formed taskforces on the topics of website redesign and organization of the Research Software Seminar Series.
 
 ## Boardmeeting - when needed
 
 The board of the association meets when required. The board handles necessary
 official actions, paperwork and budgeting. The board also officially represents
 the association.
+
 
 ## Association meeting - yearly
 
