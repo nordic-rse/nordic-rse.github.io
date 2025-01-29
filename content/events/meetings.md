@@ -13,7 +13,7 @@
 The coffee break is an informal meeting, open for everyone to discuss with and listen to
 others interested in research software engineering.
 
-<img src="coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
+<img src="./coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
 
 
 ## Community discussions (every second week)
