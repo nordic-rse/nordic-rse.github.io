@@ -10,7 +10,7 @@ author = "Samantha Wittke"
 
 <img src="/blog/NRSE24_collage.jpeg" style="width: 400px;" alt="Image collage of impressions from the Nordic RSE conference 2024. Images show the group picture, a picture of thank you notes, presenters in front of their slides, a group discussing and a afternoon lake view"/>
 
-On May 30th and 31st of 202, the Nordic-RSE community met for the first time in person on the Otaniemi campus of Aalto university in Espoo, Finland. After we had originally planned to meet in Stockholm in 2020, we were happy to finally get together in the same space as a community. While Nordic-RSE has continued evolving in the last 4 years, this conference in many ways felt like an official kick-off for the association.
+On May 30th and 31st of 2024, the Nordic-RSE community met for the first time in person on the Otaniemi campus of Aalto university in Espoo, Finland. After we had originally planned to meet in Stockholm in 2020, we were happy to finally get together in the same space as a community. While Nordic-RSE has continued evolving in the last 4 years, this conference in many ways felt like an official kick-off for the association.
 
 The team behind the scenes consisted of Nordic-RSE members from Sweden, Finland, Norway and Denmark. Together, they have been planning and preparing the conference for about six months. We were incredibly lucky to receive sponsoring from the [Software Sustainability Institute](https://www.software.ac.uk/) and Aalto Universtiy. This event would not have taken place without their support, and we are forever grateful. Furthermore, discussions with organizers from other RSE conferences, such as RSECon and US-RSE, helped us a lot to prepare for this event. Thank you so much!
 
