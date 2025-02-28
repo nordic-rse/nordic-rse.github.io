@@ -1,8 +1,10 @@
-+++ title = "Join Us at Nordic-RSE conference 2025: A Home for Research Software Enthusiasts!"
++++
+title = "Join Us at Nordic-RSE conference 2025: A Home for Research Software Enthusiasts!"
 
 [extra]
 
-author = "Samantha Wittke" +++
+author = "Samantha Wittke" 
++++
 
 > Have you ever felt like the work you do in research software goes unnoticed? Like the infrastructure, tools, and coding behind scientific breakthroughs don’t always get the recognition they deserve? You’re not alone—and that’s exactly why this conference exists!
 
