@@ -3,7 +3,7 @@ title = "Join Us at Nordic-RSE conference 2025: A Home for Research Software Ent
 
 [extra]
 
-author = "Samantha Wittke" 
+author = "Samantha Wittke with support from ChatGPT" 
 +++
 
 
