@@ -67,9 +67,9 @@ Join us for the second ever in-person gathering of the Nordic Research Software 
 
 - Dates: **May 20-21 2025** (9-17 CET)
 - Location: **Gothenburg, Sweden**
-- Website: https://nordic-rse.org/nrse2025/
+- [Nordic-RSE conference website](https://nordic-rse.org/nrse2025/)
 - **Abstract submission open until March 16th** via the website.
-- Support for writing your abstract at the **"Night of unfinished abstracts" on March 12th** from 15 CET to 17 CET. Get a calendar invite by providing your e-mail address (https://link.webropolsurveys.com/EP/B2F9159F22A724E4) or find connection details in our collaborative notes: https://hackmd.io/@nordic-rse/NUA .
+- Support for writing your abstract at the **"Night of unfinished abstracts" on March 12th** from 15 CET to 17 CET. Get a calendar invite by providing your e-mail address in this [short survey](https://link.webropolsurveys.com/EP/B2F9159F22A724E4) or find connection details in our [collaborative notes for the event](https://hackmd.io/@nordic-rse/NUA) .
 - **Registration is currently open** via the website. 
 
 Sign up now and be part of a growing, passionate community that values the work behind the research. 
