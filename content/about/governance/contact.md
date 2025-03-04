@@ -10,4 +10,4 @@ see what we have been up to.
 
 To contact us via email, please use secretary@nordic-rse.org . 
 
-You can also join and talk to us at any of our [events](@/events/_index.md) or [meetings](@/events/meetings/meetings.md).
+You can also join and talk to us at any of our [events](/events/) or [meetings](/events/meetings.md).

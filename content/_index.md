@@ -4,7 +4,7 @@
 ### News
 
 - **Conference 2025**: Our second Nordic-RSE conference will happen on May 20 + 21 2025 in Gothenburg, Sweden. Call for abstracts and registration is now open on the [conference website](https://nordic-rse.org/nrse2025/).
-- Read our [latest blog post](@/blog/conf-info-event/) about who might want to join and what kind of submissions we are looking forward to at the Nordic-RSE conference. 
+- Read our [latest blog post](/blog/conf-info-event/) about who might want to join and what kind of submissions we are looking forward to at the Nordic-RSE conference. 
 
 
 ### Who we are
