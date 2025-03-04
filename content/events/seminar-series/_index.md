@@ -2,8 +2,7 @@
 title = "Research Software Seminar Series"
 description = "Nordic RSE – Research Software Engineers in the Nordics - Research Software Seminar Series"
 template = "seminar-series.html"
-[extra]
-subtitle = ""
+
 +++
 
 Are you developing software or tools that are driven by research/engineering in
@@ -14,9 +13,11 @@ invites everyone interested to participate in Research Software Seminar Series:
 
 ## Timing
 
+The seminar series is currently on break. 
+
 We aim at having a talk every month.
 The time for each seminar will be set by the speaker.
-We are inviting everyone to suggest topics and/or speakers for this series [here](https://github.com/nordic-rse/nordic-rse.github.io/issues).
+We are inviting everyone to suggest topics and/or speakers for this series [on our github page as issues](https://github.com/nordic-rse/nordic-rse.github.io/issues).
 
 ## Format
 
