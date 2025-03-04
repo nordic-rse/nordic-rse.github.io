@@ -12,7 +12,7 @@ sign contracts and own assets.
 The association is governed by an annual assembly of its members, which is held
 mainly online, and its day to day activities are taken care of by a board.
 
-# Membership
+## Membership
 
 While purpose of the association is to support research software engineering and
 scientific computing, anyone can join as a member. The only requirement is that you
@@ -22,7 +22,7 @@ We collect a membership fee to cover costs such as the
 domain name and bank account.
 The member's annual meeting decides the size of the membership fee.
 
-# Board
+## Board
 
 The association is governed by a board. In practice, the board will take care of
 the dull day-to-day affairs and, for now, function as the code of conduct
@@ -30,20 +30,20 @@ committee.
 
 The current board members are
  - Matteo Tomasini (University of Gothenburg, matteo.tomasini@lir.gu.se)
- - Jarno Rantaharju (Aalto University), jarno.rantaharju@aalto.fi
- - Samantha Wittke (Aalto University, CSC)
- - Luca Ferranti (University of Vaasa), luca.ferranti@uwasa.fi
- - Rohit Goswami (University of Iceland)
- - Patric Holmvall (Uppsala University)
- - Stephan Smuts (Aarhus University)
+ - Jarno Rantaharju (Aalto University, jarno.rantaharju@aalto.fi)
+ - Samantha Wittke (CSC- IT Center for Science)
+ - Luca Ferranti (University of Vaasa)
+ - Radovan Bast (The Arctic university of Norway, Tromsø)
+ - Rainer Bohm (Aalborg University)
+ - Ruslan Zhuravchak (Norwegian University of Science and Technology)
 
-# Statutes
+## Statutes
 
 The Finnish statutes below are actually official, but the English translation is
 as faithful as possible.
 
 
-## Statutes of the Association in English
+### Statutes of the Association in English
 
 1. Name and domicile of the association:
     The name of the association is the Nordic Research Software Engineers ry and it is domiciled in Helsinki, Finland
@@ -115,7 +115,7 @@ as faithful as possible.
     Decisions on amendments to the statutes of the association and on the dissolution of the association shall be made at the association's meeting with a three quarters (3/4) majority vote. The vote on amending the statutes or dissolving the association must be mentioned in the letter of invitation. If the association is dissolved, the association's assets are used to promote the association's purpose in a way determined by an association meeting.
 
 
-## Finnish translation (Official):
+### Finnish translation (Official):
 
 1. Yhdistyksen nimi ja toimipaikka:
     Yhdistyksen nimi on Nordic Research Software Engineers ry ja sen kotipaikka on

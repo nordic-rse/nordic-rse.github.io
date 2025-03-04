@@ -76,8 +76,7 @@ warning the offender or expulsion from the workshop with no refund.
 ### Procedure for reporting harassment
 
 If you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact any
-[member of the board](/about/governance/#board).
+any other concerns, please contact secretary@nordic-rse.org .
 
 
 Events may have a separate code of conduct committee listed of the event page.
