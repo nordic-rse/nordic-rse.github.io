@@ -8,7 +8,28 @@ There are several ways of being a member of the Nordic RSE community. None of
 these numbers count everyone, but here are some details (as of Winter 2025)
  - Our [Zulip stream](https://coderefinery.zulipchat.com) has about 450 members
  - Around 100 have signed up to our mailing list or become members
- - We are aware of [4 local RSE groups](local) and many individual RSEs (see map below)
+
+## RSE groups in Nordic countries
+
+Research software engineering groups provide a home for research programmers
+who collaborate with researchers on multiple research projects.
+Typically, a group of RSEs contract out their work to different people
+who need it, but we are also interested in groups with significant
+internal RSE work.
+
+To create a Nordic network of RSEs, we are
+interested in listing RSE groups, teams, and local communities.  They
+may be based in (for example) universities, national labs, research
+institutes, academic departments, or university IT organisations.
+
+If you are organized in such a group please contact us.
+We are aware of these Nordic RSE groups:
+
+- [Aalto Scientific Computing](https://scicomp.aalto.fi/rse/), Aalto University, Finland
+- [IEDL](https://iedl.no) - Industrial Ecology Digital Lab at NTNU Trondheim, Norway
+- [NTNU Trondheim RSE Community](http://rse.org.ntnu.no/), Norway
+- [UIT](https://research-software.uit.no/) - The Arctic University of Norway, Norway
+
 
 ### Community map of research software engineers in the Nordics
 
