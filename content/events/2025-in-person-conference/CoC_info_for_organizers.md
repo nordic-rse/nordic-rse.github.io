@@ -74,7 +74,7 @@ A participant may be expelled by the decision of the conference organizers or co
 committee member, for whatever reasons they deem sufficient. However, here are some general
 guidelines for when a participant should be expelled:
 
- * A [third] offense resulting in a warning from staff
+ * A third offense resulting in a warning from staff
  * Continuing to harass after any "No" or "Stop" instruction
  * A pattern of harassing behavior, with or without warnings
  * A single serious offense (e.g., punching or groping someone)
