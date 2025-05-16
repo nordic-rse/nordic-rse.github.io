@@ -18,7 +18,7 @@ enforce security and the code of coduct in a Nordic-RSE event.
 
 ### Warnings
 
-Any member of conference organizer or code of conduct committee member can issue
+Any conference organizer or code of conduct committee member can issue
 a verbal warning to a participant whose behavior violates the conference's
 anti-harassment policy.
 
@@ -83,7 +83,7 @@ guidelines for when a participant should be expelled:
 Venue security and local authorities should be contacted when appropriate.
 
 
-Phone number for Gothenburg University help line: XXX XXXX XXX
+Phone number for Gothenburg University help line: +463 17 861 755
 
 
 ### Public statements

@@ -79,28 +79,18 @@ as soon as possible. Harassment and other code of conduct violations reduce the
 value of our event for everyone. We want you to be happy at our event. People
 like you make our event a better place.
 
-You can make a report either personally or anonymously.
 
 
-#### Anonymous Report
-You can make [this online form](https://nordicrse.wufoo.com/forms/z5zh7d61domtah/).
-
-We can't follow up an anonymous report with you directly, but we will fully investigate
-it and take whatever action is necessary to prevent a recurrence.
-
-
-#### Personal Report
-
-You can make a personal report by:
+You can make a report by:
 
  * Contacting any member of the Code of Conduct committee
-    * NN (email)
+    * Heli Juottonen (heli.juottonen [at] csc.fi)
     * NN (email)
     * NN (email)
  * Contacting any conference organizer
  * Contacting any member of the [Nordic-RSE board](/about/governance/)
 
-When taking a personal report, organizers will ensure you are safe and cannot be
+When taking a report, organizers will ensure you are safe and cannot be
 overheard. They may involve other event staff to ensure your report is managed properly.
 Once safe, we'll ask you to tell us about what happened. This can be upsetting, but
 we'll handle it as respectfully as possible, and you can bring someone to support you.
@@ -113,15 +103,17 @@ duration of the event. We value your attendance.
 
 ### Contact Information
 
-**In an emergency call XXX**. This includes medical, police and rescue services.
+**In an emergency call 112**. This includes medical, police and rescue services.
 
 Organizers: secretary@nordic-rse.org
-Venue help line: XXX XXXX XXX
+Venue help line: +463 17 861 755
 
-Emergency (Medical, police or anything else urgent): XXX
-Non-emergency medical care: XXXXX
-Local law enforcement (Non Urgent): XXX XXXX XXX
-Crime victim support: XXX XXX
-Local sexual assault hot line: XXX XXXX XXX, website
+Emergency (Medical, police or anything else urgent): 112
+Non-emergency medical care: 1177
+Local law enforcement (Non Urgent): 114 14
 
-Local taxi company: XXXX XXXX XXXX
+
+Crime victim support: 116 006
+Local sexual assault hot line: 116 016
+
+Local taxi company: Taxi Göteborg: 031-650 000, Minitaxi: +46 3114 0140, Taxijakt: +46 771 90 0000
