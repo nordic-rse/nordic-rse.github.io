@@ -83,7 +83,7 @@ guidelines for when a participant should be expelled:
 Venue security and local authorities should be contacted when appropriate.
 
 
-Phone number for Aalto help line: 050 4646 462
+Phone number for Aalto help line: contact details removed
 
 
 ### Public statements

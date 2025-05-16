@@ -94,9 +94,9 @@ it and take whatever action is necessary to prevent a recurrence.
 You can make a personal report by:
 
  * Contacting any member of the Code of Conduct committee
-    * Aurélie Vancraeyenest: aurelie.vancraeyenest@csc.fi
-    * Viitanen Essi: essi.viitanen@aalto.fi
-    * Krejci Ondrej: ondrej.krejci@aalto.fi
+    * Aurélie Vancraeyenest: contact details removed
+    * Viitanen Essi: contact details removed
+    * Krejci Ondrej: contact details removed
  * Contacting any conference organizer
  * Contacting any member of the [Nordic-RSE board](/about/governance/)
 
@@ -116,7 +116,7 @@ duration of the event. We value your attendance.
 **In an emergency call 112**. This includes medical, police and rescue services.
 
 Organizers: secretary@nordic-rse.org
-Venue help line: 050 4646 462
+Venue help line: contact details removed
 
 Emergency (Medical, police or anything else urgent): 112
 Non-emergency medical care: 116117
