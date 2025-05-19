@@ -85,8 +85,7 @@ You can make a report by:
 
  * Contacting any member of the Code of Conduct committee
     * Heli Juottonen (heli.juottonen [at] csc.fi)
-    * NN (email)
-    * NN (email)
+    * Julia Beck (julia.beck [at] lir.gu.se)
  * Contacting any conference organizer
  * Contacting any member of the [Nordic-RSE board](/about/governance/)
 
