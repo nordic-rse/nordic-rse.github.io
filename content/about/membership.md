@@ -33,7 +33,7 @@ To become a member you need to
 
 **Duration**:
  - Your membership expires after each annual meeting. To be exact,
-   the membership expires at the end of each year.
+   the membership expires at the end of March.
 
 ## Mailing List
 

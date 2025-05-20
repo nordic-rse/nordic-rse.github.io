@@ -5,17 +5,16 @@
 
 Note: you also register as a member (once), this is done [in the form found here](@/join.md).
 
-**The membership fee for the 2023 -- 2024 year is 10 euros, this covers the membership until the end of October 2024.**.
+**The membership fee for the 2025 year is 10 euros, this covers the membership until the end of the year.**.
 
 You can pay the fee in two ways:
   - By a **SEPA transfer** to "Nordic Research Software Engineers ry"
     - IBAN: BE42 9672 5549 7154
     - Message: **your name**, the words
       "membership fee" and the years the you are paying for.
-      For example "Anna Svenson, membership fee 2023-2024".
+      For example "Anna Svenson, membership fee 2025".
     - Address: Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
   - Using [wise.com](https://wise.com)
-    - Recommended for currencies other than EUR
 
 ### Using [wise.com](https://wise.com)
 
