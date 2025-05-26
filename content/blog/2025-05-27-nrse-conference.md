@@ -6,7 +6,7 @@ title = "Nordic-RSE conference 2025: Thank you for a great time!"
 author = "Samantha Wittke" 
 +++
 
-<img src="/blog/NRSE25_group.jpeg" style="width: 400px;" alt="Group picture from the Nordic RSE conference 2025. "/>
+<img src="/blog/NRSE25_group.jpg" style="width: 400px;" alt="Group picture from the Nordic RSE conference 2025. "/>
 
 The Nordic-RSE conference is an event **designed for anyone passionate about research software engineering (RSE)**. 
 Whether you develop research tools, support scientific software, or are simply curious about RSE, this is the perfect space to learn, 
@@ -46,6 +46,8 @@ Thank you to the organizing team Matteo, Radovan, Luca, Richard, Jarno and Saman
 Thank you to our funders, the Software Sustainability Institute and GRIDH.
 
 And most of all… THANK YOU FOR PARTICIPATING!
+
+
 
 
 
