@@ -6,7 +6,7 @@ template = "map.html"
 
 There are several ways of being a member of the Nordic RSE community. None of
 these numbers count everyone, but here are some details (as of Winter 2025)
- - Our [Zulip stream](https://coderefinery.zulipchat.com) has about 450 members
+ - Our [Zulip stream](https://coderefinery.zulipchat.com) has about 530 members
  - Around 100 have signed up to our mailing list or become members
 
 ## RSE groups in Nordic countries
