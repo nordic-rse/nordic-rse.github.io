@@ -3,6 +3,7 @@
 
 ### News
 
+- **Nordic-RSE conference 2026** will happen in **Tromsø, Norway on June 9-10 2026**. More info coming soon!
 - **Conference 2025**: Our second Nordic-RSE conference happened on May 20 + 21 2025 in Gothenburg, Sweden.
   Blog posts coming soon! Thanks to everyone who participated!
 
