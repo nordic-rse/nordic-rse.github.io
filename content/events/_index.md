@@ -5,13 +5,16 @@
 
 ## Conference
 
-The second Nordic-RSE in-person conference happened on **May 20 + 21 2025 in Gothenburg, Sweden**. 
+The third Nordic-RSE in-person conference happened in **Tromsø, Norway on June 9-10 2026**. 
 Blog post coming soon! 
 
 Past conferences: 
 
-The first [Nordic-RSE in person conference 2024](/events/2024-in-person-conference/) happened May 30-31, 2024 in Espoo, Finland! 
-We summarized the event in a [conference blogpost](https://nordic-rse.org/blog/nrse-conference/).
+ - The [Nordic-RSE in person conference 2025](https://nordic-rse.org/nrse2025/) happened May 20 + 21 2025 in Gothenburg, Sweden! 
+   We summarized the event in a [conference blogpost](https://nordic-rse.org/blog/nrse-conference-report/).
+
+ - The first [Nordic-RSE in person conference 2024](/events/2024-in-person-conference/) happened May 30-31, 2024 in Espoo, Finland! 
+   We summarized the event in a [conference blogpost](https://nordic-rse.org/blog/nrse-conference/).
 
 
 ## Research Software Seminar Series
