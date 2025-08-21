@@ -3,10 +3,7 @@
 
 # Nordic-RSE meetings
 
-
 ## Virtual coffee break (weekly)
-
-**We are on summer vacation until August**
 
 - **9:00 Europe/Stockholm (10:00 Europe/Helsinki) every Thursday**
   ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w)).
@@ -20,9 +17,8 @@ others interested in research software engineering.
 
 ## Community discussions (every second week)
 
-**On summer break until the August**
 
-- **13:00 Europe/Stockholm (14:00 Europe/Helsinki) every second Thursday**
+- **13:00 Europe/Stockholm (14:00 Europe/Helsinki) every second Thursday (starting 2025-08-21)**
   ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/14:00/w)).
 - [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282).
 - [Notes](https://hackmd.io/@nordic-rse/biweekly)
