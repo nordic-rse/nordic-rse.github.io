@@ -43,7 +43,7 @@ which focuses on teaching RSE-like skills to researchers.
 
 - Follow us on [Mastodon](https://fosstodon.org/@nordic_rse), [LinkedIn](https://www.linkedin.com/company/nordic-rse/) or [BlueSky](https://bsky.app/profile/nordic-rse.bsky.social).
 - Discuss with other RSEs on the [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream).
-- Find great reading material at [UK RSE](https://rse.ac.uk) and [The Software Sustainability Institute](https://www.software.ac.uk)!
+- Find great reading material at the [Society of Research Software Engineering](https://society-rse.org/) and [The Software Sustainability Institute](https://www.software.ac.uk)!
 
 ### Sponsors
 
