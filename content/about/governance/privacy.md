@@ -106,7 +106,7 @@ Nordic RSE keeps a record of its members.
 
 ## Other information we are required to say
 
-* Controller: Nordic RSE, an unregistered association. Contact:
+* Controller: Nordic Research Software Engineers ry. Contact:
   [CodeRefinery chat](https://coderefinery.zulipchat.com) (#nordic-rse stream)
 * You have the right to lodge a complaint with a supervisory
   authority: https://tietosuoja.fi/en/
