@@ -6,7 +6,7 @@ title = "Nordic-RSE conference 2025: Thank you for a great time!"
 author = "Nordic-RSE 2025 organizing team" 
 +++
 
-<img src="/blog/NRSE25_group.jpg" style="width: 400px;" alt="Group picture from the Nordic RSE conference 2025. "/>
+<img src="/blog/NRSE25_group.jpg" style="width: 400px;" alt="Group picture from the Nordic-RSE conference 2025. "/>
 
 
 # Nordic-RSE 2025: That’s a Wrap!

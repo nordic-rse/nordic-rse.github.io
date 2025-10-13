@@ -6,7 +6,7 @@ authors = "Samantha Wittke"
 session = "1.4"
 +++
 
-- History of Nordic RSE
+- History of Nordic-RSE
 - Why it makes sense
 - Connect with Nordic-RSEs
 - Future of Nordic-RSE

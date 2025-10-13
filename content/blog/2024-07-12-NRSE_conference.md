@@ -8,7 +8,7 @@ author = "Samantha Wittke"
 
 # The first Nordic-RSE conference in May 2024
 
-<img src="/blog/NRSE24_collage.jpeg" style="width: 400px;" alt="Image collage of impressions from the Nordic RSE conference 2024. Images show the group picture, a picture of thank you notes, presenters in front of their slides, a group discussing and a afternoon lake view"/>
+<img src="/blog/NRSE24_collage.jpeg" style="width: 400px;" alt="Image collage of impressions from the Nordic-RSE conference 2024. Images show the group picture, a picture of thank you notes, presenters in front of their slides, a group discussing and a afternoon lake view"/>
 
 On May 30th and 31st of 2024, the Nordic-RSE community met for the first time in person on the Otaniemi campus of Aalto university in Espoo, Finland. After we had originally planned to meet in Stockholm in 2020, we were happy to finally get together in the same space as a community. While Nordic-RSE has continued evolving in the last 4 years, this conference in many ways felt like an official kick-off for the association.
 

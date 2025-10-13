@@ -5,7 +5,7 @@ title = "Privacy notice"
 # Privacy notice
 
 This contains privacy notices for various aspects of the (unregistered
-as of 2020) Nordic RSE association.
+as of 2020) Nordic-RSE association.
 
 
 ## Website
@@ -19,10 +19,10 @@ as of 2020) Nordic RSE association.
 
 ## Membership
 
-Nordic RSE keeps a record of its members.
+Nordic-RSE keeps a record of its members.
 
-* Membership data may be used for any Nordic RSE to member contact
-  purposes related to the Nordic RSE chartered purpose, but will not
+* Membership data may be used for any Nordic-RSE to member contact
+  purposes related to the Nordic-RSE chartered purpose, but will not
   be passed to others (besides other members, see below) without
   separate agreement.
 * The information processed is the information requested when
@@ -59,7 +59,7 @@ Nordic RSE keeps a record of its members.
 
 * Your registration information will be used to organize the event in
   which you have registered and provide you with information related
-  to the Nordic RSE chartered purpose, for the duration and shortly
+  to the Nordic-RSE chartered purpose, for the duration and shortly
   after the event.
 * The information processed is the information requested when
   registering, for example including name, job title, affiliation,
@@ -68,7 +68,7 @@ Nordic RSE keeps a record of its members.
 * Your information is stored for at most one year after the end of the
   event.
 * Registration information is not saved indefinitely and does not
-  imply membership in Nordic RSE.
+  imply membership in Nordic-RSE.
 * Demographic data may be saved and publicly reported in aggregate.
 * Registration data is not shared with other participants unless you
   specifically request, but note that online platforms may expose

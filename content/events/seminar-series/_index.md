@@ -1,6 +1,6 @@
 +++
 title = "Research Software Seminar Series"
-description = "Nordic RSE – Research Software Engineers in the Nordics - Research Software Seminar Series"
+description = "Nordic-RSE – Research Software Engineers in the Nordics - Research Software Seminar Series"
 template = "seminar-series.html"
 
 +++

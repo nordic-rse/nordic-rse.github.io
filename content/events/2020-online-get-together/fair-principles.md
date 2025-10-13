@@ -16,6 +16,6 @@ pain-points.
 
 Some work on surveying the field is being done in the Research Data
 Alliance (RDA), FORCE 11 and ReSA etc. but it would probably be an
-interesting discussion to have with a Nordic RSE perspective.
+interesting discussion to have with a Nordic-RSE perspective.
 
 A result of this discussion could be published as a blog post.

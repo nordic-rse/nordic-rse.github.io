@@ -1,6 +1,6 @@
 +++
 title = "Nordic-RSE in person conference 2024"
-description = "Nordic RSE – Research Software Engineers in the Nordics – Conference in May #NordicRSEunconf"
+description = "Nordic-RSE – Research Software Engineers in the Nordics – Conference in May #NordicRSEunconf"
 +++
 
 # Nordic-RSE in person conference 2024 <span style="color: gray;">#NordicRSEconf</span>
@@ -12,13 +12,13 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 
 Registrations are open! Please register **by May 5th** to ensure a place inclusive of lunches and extra-activities!
 
-<a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic RSE 2024 Conference</a> <a class="btn btn-primary btn-lg" href="/events/2024-in-person-conference/nordic-2024-book-of-abstracts.pdf" target=" blank" rel="nonreferrer noopener" role="button">See the accepted abstracts</a>
+<a class="btn btn-primary btn-lg" href="https://www.eventbrite.fi/e/nordic-rse-conference-2024-tickets-819731146927" target="_blank" rel="noreferrer noopener" role="button">Register to Nordic-RSE 2024 Conference</a> <a class="btn btn-primary btn-lg" href="/events/2024-in-person-conference/nordic-2024-book-of-abstracts.pdf" target=" blank" rel="nonreferrer noopener" role="button">See the accepted abstracts</a>
 
 
 ## What is it?
 
 Do you enjoy talking software? Learning tricks about your favorite programming languages? Solving interesting coding 
-problems? Sharing your experiences with other likeminded people? Welcome to the first ever Nordic RSE in person 
+problems? Sharing your experiences with other likeminded people? Welcome to the first ever Nordic-RSE in person 
 conference! We believe you might really like it here. 
 
 We are an association of professionals developing and using software for the needs of research. As such we aim to create 

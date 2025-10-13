@@ -1,6 +1,6 @@
 +++
 title = "Nordic-RSE online unconference 2023"
-description = "Nordic RSE – Research Software Engineers in the Nordics – Unconference in October #NordicRSEunconf"
+description = "Nordic-RSE – Research Software Engineers in the Nordics – Unconference in October #NordicRSEunconf"
 +++
 
 # Nordic-RSE online unconference 2023 <span style="color: gray;">#NordicRSEunconf</span>

@@ -22,7 +22,7 @@ evolves, please send pull requests.
 
 * US RSE: <https://fosstodon.org/@us_rse>
 * DE RSE: <https://mastodon.social/@de_rse>
-* Nordic RSE: <https://fosstodon.org/@nordic_rse>
+* Nordic-RSE: <https://fosstodon.org/@nordic_rse>
 * Society of RSE (UK/int): ??
 * Research Software Alliance: <https://fosstodon.org/@researchsoft>
 * Netherlands eScience Center: <https://akademienl.social/@eScienceCenter>

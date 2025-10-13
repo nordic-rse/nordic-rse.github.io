@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://nordic-rse.org"
 
-title = "Nordic RSE"
+title = "Nordic-RSE"
 
 description = '''
 We bring together the community of people writing and contributing to
