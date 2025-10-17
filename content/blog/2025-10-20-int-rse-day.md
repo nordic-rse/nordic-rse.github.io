@@ -34,4 +34,4 @@ Submissions and registration will open early 2026, and you can even join the org
 
 A huge thanks to the Software Sustainability Institute for sponsoring our lunch meetup and helping us celebrate the global RSE community!
 
-<img src="/blog/RSE-HEL.jpg" style="width: 400px;" alt="Group picture of the 15-1 (taking the picture) participants of the RSE-FI meetup at lunch. "/>
+<img src="/blog/RSE-HEL.jpg" style="width: 200px;" alt="Group picture of the 15-1 (taking the picture) participants of the RSE-FI meetup at lunch. "/>
