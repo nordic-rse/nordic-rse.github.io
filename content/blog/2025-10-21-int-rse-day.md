@@ -6,9 +6,9 @@ title = "RSE Meetup in the Helsinki Region – Celebrating International RSE Day
 author = "Samantha Wittke"
 +++
 
-<img src="{{ config.base_url | safe }}/blog/int_RSE_day25.png" style="height: 400px;" alt="Nordic-RSE logo (half a snowflake with Nordic-RSE written under it in purple surrounded by text saying happy international RSE day "/>
+<img src="/blog/int_RSE_day25.png" style="height: 400px;" alt="Nordic-RSE logo (half a snowflake with Nordic-RSE written under it in purple surrounded by text saying happy international RSE day "/>
 
-<img src="{{ config.base_url | safe }}/blog/RSE-HEL.jpg" style="height: 372px;" alt="Group picture of the 15-1 (taking the picture) participants of the RSE-FI meetup at lunch. "/>
+<img src="/blog/RSE-HEL.jpg" style="height: 372px;" alt="Group picture of the 15-1 (taking the picture) participants of the RSE-FI meetup at lunch. "/>
 
 
 On International RSE Day, October 9th 2025, a group of 15 research software engineers and enthusiasts met up for lunch in the Helsinki region.
