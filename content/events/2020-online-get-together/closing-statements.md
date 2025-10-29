@@ -22,7 +22,7 @@ duration = "15 min"
   - We will try to make all slides/contributions findable and accessible
       - authors: please send us the DOI or the pdf version
   - Interesting and inspiring panels session.
-  - What the Nordic RSE should do?
+  - What the Nordic-RSE should do?
      - Build an identity. Create a network with local hubs. 
          - About local hubs: multiple things need to happen on university level
      - Build a network, connect RSEs who are currently only connected to researchers in a field

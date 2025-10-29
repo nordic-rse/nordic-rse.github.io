@@ -1,5 +1,5 @@
 +++
-title = "ResearchSoftwareHour live from Nordic RSE: Rust for science"
+title = "ResearchSoftwareHour live from Nordic-RSE: Rust for science"
 template = "session.html"
 [extra]
 authors = "Richard Darst, Anne Fouilloux, and Radovan Bast"
@@ -12,7 +12,7 @@ provide the skills typically picked up via informal networks: each week, we do
 some combination of exploring new tools, analyzing and improving someone's
 research code, and discussion.
 
-In this show which we will stream during the Nordic RSE get-together, we will
+In this show which we will stream during the Nordic-RSE get-together, we will
 have a look at the [Rust programming language](https://www.rust-lang.org/).
 
 This can only be joined via Twitch, not breakout rooms.  Join at

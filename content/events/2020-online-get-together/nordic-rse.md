@@ -1,12 +1,12 @@
 +++
-title = "What do you expect from Nordic RSE?"
+title = "What do you expect from Nordic-RSE?"
 template = "session.html"
 [extra]
 authors = "Jarno Rantaharju"
 session = "2.3"
 +++
 
-The Nordic RSE group is new. This is a great time to take part in the
+The Nordic-RSE group is new. This is a great time to take part in the
 active development of the organization by making sure your voice is heard.
 We need your help in deciding what is important for the organization to do
 and what kind of an organization we should aim for.
@@ -20,7 +20,7 @@ For inspiration, you can check out the websites of other RSE associations:
  - USA: [us-rse.org](http://us-rse.org)
 
 The purpose of this discussion is to solicit input from prospective members
-of the Nordic RSE group.
+of the Nordic-RSE group.
 
  a) What kind of activities they think would be useful?
   - Advocating for X (value of good software, ...)
@@ -35,7 +35,7 @@ of the Nordic RSE group.
 
 Questions / discussion prods:
  - Do you consider yourself an RSE? Who is an RSE?
- - Would you join the Nordic RSE organization? Are you a member?
+ - Would you join the Nordic-RSE organization? Are you a member?
  - Why would you join as a member?
  - If you have joined other professional associations, what have they done for you?
 
@@ -72,14 +72,14 @@ ideas that came up during discussion:
 -> making it possible for people to label themselves as RSE
 * Sweden: Reasearch Engineer exists and gets confused with RSE
 * it should be pushed to make it possible to hire RSE
--> Nordic RSE should push to make it an official title
+-> Nordic-RSE should push to make it an official title
 * this has to happen also within universities
-* but RSE is not yet a field that professors could chose to hire and thats where Nordic RSE could start (big push from a lot of people)
+* but RSE is not yet a field that professors could chose to hire and thats where Nordic-RSE could start (big push from a lot of people)
 -> association with members could do that
 * if Nordic-RSE grows to registered 500 members in the Nordics that call themselves RSE there would be more weight behind what we do. One could write letters and influence
-* Nordic RSE as place for feedback (eg for Norwegian Reasearch Council)
+* Nordic-RSE as place for feedback (eg for Norwegian Reasearch Council)
 * building understanding (people should know the idea) and not fully focus on formal job title (since this may take long). Make groups and PIs aware that a person with a RSE role could solve many common problems faced in research
-* defining the RSE: how much research? how much software? how much engineer? ->check what UK has done, one definition on nordic RSE website https://nordic-rse.org/#what-is-a-research-software-engineer
+* defining the RSE: how much research? how much software? how much engineer? ->check what UK has done, one definition on Nordic-RSE website https://nordic-rse.org/#what-is-a-research-software-engineer
 * knowledge sharing in meetups etc
 * permanence: RSE often first position to get cut, importance of position has to be highlighted
 * service / research
@@ -87,7 +87,7 @@ ideas that came up during discussion:
 * acknowledgement for RSE work, writing documentation could be as important as writing a paper, attempts happening in international RSE
     * As a new RSE, I want to ask if acknowledgements is a metric that is typically tracked and used throughout an RSE career? How important is it (apart from being fair in acknowledging work done)?
 * Hackathon type of event to get advice on publishing code and related topics
-* joining forces to organize (online) workshops similar to coderefinery (so that community can link to it) -> setting up a list of these on nordic RSE website that we can recommend
+* joining forces to organize (online) workshops similar to coderefinery (so that community can link to it) -> setting up a list of these on Nordic-RSE website that we can recommend
 * use nordic-rse.org to build up list of recommended training material and resources.
 * networking: https://coderefinery.zulipchat.com/
 
@@ -107,7 +107,7 @@ How could NordicRSE association be useful for us:
 -> continue to teach how code can be made citable
 -> how else to help with this?
 -> public guidelines on how to cite research software -> community shows how the ideal should be
--> list journals which take software publications on Nordic RSE website (similar to UK RSE)
+-> list journals which take software publications on Nordic-RSE website (similar to UK RSE)
 * advocate for that software should be cited
 * create career-path or make more public that there is one; if there is no path, people are maybe not interested
 * adding open source research software as merits for universities (making it more likely they will spend money on hiring RSEs)

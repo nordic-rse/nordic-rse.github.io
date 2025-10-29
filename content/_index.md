@@ -47,6 +47,6 @@ which focuses on teaching RSE-like skills to researchers.
 
 ### Sponsors
 
-- Nordic RSE is supported by the [Industrial Ecology Digital Lab](https://iedl.no)
+- Nordic-RSE is supported by the [Industrial Ecology Digital Lab](https://iedl.no)
 
 

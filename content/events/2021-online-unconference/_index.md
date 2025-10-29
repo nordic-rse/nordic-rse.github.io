@@ -1,6 +1,6 @@
 +++
 title = "Nordic-RSE online unconference 2021"
-description = "Nordic RSE – Research Software Engineers in the nordics – Unconference 29–30.June #NordiRSEunconf"
+description = "Nordic-RSE – Research Software Engineers in the nordics – Unconference 29–30.June #NordiRSEunconf"
 template = "section-with-toc.html"
 [extra]
 subtitle = "June 29-30, 13-16 CET (3 + 3 hours with optional social time)"

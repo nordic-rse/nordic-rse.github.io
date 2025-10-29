@@ -1,6 +1,6 @@
 +++
 title = "International RSE day in the Nordics"
-description = "Nordic RSE – Research Software Engineers in the nordics – International RSE day #NordiRSEday"
+description = "Nordic-RSE – Research Software Engineers in the nordics – International RSE day #NordiRSEday"
 template = "section-with-toc.html"
 [extra]
 subtitle = "October 14, 9-15 CEST / 10:00 - 16:00 EEST"

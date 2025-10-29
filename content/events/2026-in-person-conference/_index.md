@@ -1,6 +1,6 @@
 +++
 title = "Nordic-RSE in person conference 2026"
-description = "Nordic RSE – Research Software Engineers in the Nordics – Conference in May #NordicRSEunconf"
+description = "Nordic-RSE – Research Software Engineers in the Nordics – Conference in May #NordicRSEunconf"
 +++
 
 # Nordic-RSE in person conference 2026 <span style="color: gray;">#NordicRSEconf</span>
@@ -13,7 +13,7 @@ description = "Nordic RSE – Research Software Engineers in the Nordics – Con
 See our [blog post](https://nordic-rse.org/blog/conf-info-event/).
 
 Do you enjoy talking software? Learning tricks about your favorite programming languages? Solving interesting coding 
-problems? Sharing your experiences with other likeminded people? Welcome to the first ever Nordic RSE in person 
+problems? Sharing your experiences with other likeminded people? Welcome to the first ever Nordic-RSE in person 
 conference! We believe you might really like it here. 
 
 We are an association of professionals developing and using software for the needs of research. As such we aim to create 
