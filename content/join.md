@@ -35,7 +35,7 @@ If you're new to Zulip, check out [our Zulip manual](https://coderefinery.github
 The Nordic-RSE association organizes events to bring the community together, share knowledge, and inspire collaboration.
 
 - **Conference**: Our main community gathering, featuring talks, discussions, and networking opportunities around research software engineering.
-- **Seminars**: Previously held regularly to highlight projects and ideas – currently on hold, and we’re looking for new organizers to help bring them back.
+- **Seminars**: Previously held regularly to highlight projects and ideas. It is currently on hold, and we’re looking for new organizers to help bring them back.
 
 Whether you're attending or helping to organize, our events are a great way to connect and contribute.
 
@@ -43,7 +43,7 @@ Whether you're attending or helping to organize, our events are a great way to c
 
 Our weekly virtual coffee break is an informal space to meet others interested in research software engineering.
 
-Everyone is welcome – no registration needed, just come and say hei/hej/moi/hæ/halló/tere/čau/labas/hi!
+Everyone is welcome, no registration needed, just come and say hei/hej/moi/hæ/halló/tere/čau/labas/hi!
 
 We chat about a mix of topics, mostly RSE-related, and it’s a great way to connect, share experiences, or simply listen in.
 
@@ -51,13 +51,13 @@ We chat about a mix of topics, mostly RSE-related, and it’s a great way to con
 ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w))
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282).
 
-<img src="./coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
+<img src="coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
 
 ### Support and shape the community
 
 If you like what we do and want to support the work in any capacity, consider the following options: 
 
-##### Become a member of Nordic-RSE association
+##### Support and Strengthen Nordic-RSE
 
 Joining the Nordic-RSE association is a way to support and strengthen the research software engineering community across the Nordic region.
 Your membership helps:
