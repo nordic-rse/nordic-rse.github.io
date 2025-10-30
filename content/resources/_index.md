@@ -24,7 +24,6 @@ You can find great reading material on RSE in general at the [Society of Researc
 - Research Software Engineer Stories: <http://us-rse.org/rse-stories/>
 - Code for Thought: <https://codeforthought.buzzsprout.com/>
 
-
 ## Youtube
 
 You can find recordings of the Nordic-RSE unconferences and our Research Software Seminar Series on our [Youtube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ).
