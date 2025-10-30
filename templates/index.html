@@ -3,49 +3,27 @@
 {% block content %}
 
 <div class="teaser-container">
-  <div class="teaser-title">
-      <h2>Nordic-RSE in a nutshell</h2>
-  </div>
-  <div class="teaser-child">
-    <a href=#who-we-are>
-    <h3><i class="fas fa-address-card"></i> Who we are</h3>
-    <p>Non-profit organisation to bring together everyone interested in Research Software Engineer activities</p>
-    </a>
-  </div>
   <div class="teaser-child">
     <a href="{{ config.base_url | safe }}/events/">
       <h3><i class="fa fa-calendar"></i> Events</h3>
-      <p>We have seminars and conferences for you to network and develop your software skills.</p>
-    </a>
-  </div>
-  <div class="teaser-child">
-    <a href="{{ config.base_url | safe }}/other/success/">
-      <h3><i class="fa fa-trophy" aria-hidden="true"></i> Success stories</h3>
-      <p>Learn how your organisation can benefit from an RSE group</p>
-    </a>
-  </div>
-  <div class="teaser-child">
-    <a href="{{ config.base_url | safe }}/about/getinvolved/">
-      <h3><i class="fas fa-hands-helping"></i>  Get involved</h3>
-      <p>Learn how to get in touch</p>
+      <p>Give a look to our seminars and conferences for you to network and develop your software skills.</p>
     </a>
   </div>
 
   <div class="teaser-child">
-    <a href="{{ config.base_url | safe }}/about/membership/">
-      <h3><i class="fa fa-users"></i> Become a member</h3>
-      <p>Join the association</p>
+    <a href="{{ config.base_url | safe }}/join/">
+      <h3><i class="fa fa-users"></i> Join our community </h3>
+      <p>Come and be part of Nordic-RSE! Your bring yourself, we provide the community. </p>
     </a>
   </div>
 
   <div class="teaser-child">
     <a href="{{ config.base_url | safe }}/blog/">
       <h3><i class="fa fa-book"></i> Blog</h3>
-      <p>Read what we have been up to</p>
+      <p>Here you can find more about our activities and read what we have been up to.</p>
     </a>
   </div>
 </div>
-
   <div class="col">
     {{ section.content | safe }}
   </div>
