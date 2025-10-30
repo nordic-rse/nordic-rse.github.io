@@ -57,7 +57,7 @@ We chat about a mix of topics, mostly RSE-related, and it’s a great way to con
 
 If you like what we do and want to support the work in any capacity, consider the following options: 
 
-##### Support and Strengthen Nordic-RSE
+##### Support and strengthen Nordic-RSE
 
 Joining the Nordic-RSE association is a way to support and strengthen the research software engineering community across the Nordic region.
 Your membership helps:
