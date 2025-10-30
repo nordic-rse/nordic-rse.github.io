@@ -40,4 +40,6 @@ which focuses on teaching RSE-like skills to researchers.
 
 Nordic-RSE is supported by the [Industrial Ecology Digital Lab](https://iedl.no) and the [Software Sustainability Institute](https://www.software.ac.uk).
 
+### Got questions?
 
+Contact us via e-mail at secretary@nordic-rse.org .
