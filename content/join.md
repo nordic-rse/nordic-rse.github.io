@@ -51,7 +51,7 @@ We chat about a mix of topics, mostly RSE-related, and it’s a great way to con
 ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w))
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282).
 
-<img src="coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
+<img src="/coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
 
 ### Support and shape the community
 
