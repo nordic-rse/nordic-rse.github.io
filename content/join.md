@@ -15,6 +15,7 @@ Nordic-RSE is community first. You do not need to contribute to support. We offe
 ##### Keep up with community news
 
 Sign up to our [mailing list](https://forms.gle/paPBnvsw5GAXUzBN6) to receive info on upcoming events and community matters.
+You may also follow us on [Mastodon](https://fosstodon.org/@nordic_rse), [LinkedIn](https://www.linkedin.com/company/nordic-rse/) or [BlueSky](https://bsky.app/profile/nordic-rse.bsky.social).
 
 ##### Connect to the community
 
