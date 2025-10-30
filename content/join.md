@@ -12,7 +12,7 @@ Sign up to our [mailing list](https://forms.gle/paPBnvsw5GAXUzBN6) to receive in
 
 ### Stay connected / join the conversation
 
-Our Zulip chat space, shared with our friends at[CodeRefinery](https://coderefinery.org/), is the heart of our community. It’s a low-barrier, welcoming place to connect, ask questions, and exchange ideas. By signing up (free and easy with a valid email address), you can:
+Our Zulip chat space, shared with our friends at [CodeRefinery](https://coderefinery.org/), is the heart of our community. It’s a low-barrier, welcoming place to connect, ask questions, and exchange ideas. By signing up (free and easy with a valid email address), you can:
 
 - **Follow** what’s happening in the Nordic RSE community
 - **Join event planning** and discussions
@@ -22,7 +22,7 @@ Our Zulip chat space, shared with our friends at[CodeRefinery](https://coderefin
 
 You’ll find us in the #nordic-rse channel on the https://coderefinery.org/chat/.
 
-If you're new to Zulip, check out https://coderefinery.github.io/manuals/chat/ to get started. 
+If you're new to Zulip, check out [our Zulip manual](https://coderefinery.github.io/manuals/chat/) to get started. 
 
 
 ### Discover our events
@@ -47,11 +47,19 @@ We chat about a mix of topics, mostly RSE-related, and it’s a great way to con
 ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w))
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282).
 
-% <img src="/events/coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
+<img src="/events/coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
 
 ## Support and shape the community
 
 ### Become a member of Nordic-RSE association
+
+Joining the Nordic-RSE association is a way to support and strengthen the research software engineering community across the Nordic region.
+Your membership helps:
+
+- Fund community activities and events through a modest annual fee
+- Increase our visibility and impact by growing our member base
+- Give you voting rights on important decisions
+- Invite you to participate in the general assembly
 
 % Give money -> What is purpose, used for
 % support by being an additional number
@@ -130,36 +138,27 @@ You can pay the fee in two ways:
 
 ### Biweekly community zoom / Collaborate and coordinate
 
-% Purpose
-% Involved in organization of events and stuff
-% Reports from events
+Every two weeks, Nordic-RSE members and contributors meet for a community Zoom call.
+These sessions are open to anyone interested in helping shape the community’s activities.
+Whether you can contribute a few minutes or a few days, your time and input are always welcome.
 
-## Community discussions (every second week)
+The purpose of the call is to:
+- **Coordinate** upcoming events and initiatives
+- **Share updates** and reports from past activities
+- **Discuss ideas** and opportunities for collaboration
 
-- **13:00 Europe/Stockholm (14:00 Europe/Helsinki) every second Thursday (starting 2025-08-21)**
-  ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/14:00/w)).
-- [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282).
-- [Notes](https://hackmd.io/@nordic-rse/biweekly)
+It’s a great way to stay involved and contribute to the direction of Nordic-RSE, whether you’re organizing, supporting, or just curious. 
 
-% During our biweekly community meeting we discuss what we, as Nordic-RSE can do
-to get RSE and RSE-minded people together to discuss the topics that interest
-us.  RSE in the Nordics is not well known (yet), so a big part of discussions
-are also around how we can make it more known. There is no requirement to join
-the meetings, other than an interest in what we are doing.  Anyone is very
-welcome to provide some of their time to advance these goals, be it minutes or
-days. 
+- **When**: every second Thursday (starting 2025-08-21) at 13:00 Europe/Stockholm (14:00 Europe/Helsinki) ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/14:00/w))
+- **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282)
+- **Agenda and notes**: [here](https://hackmd.io/@nordic-rse/biweekly)
 
-### Board / Help lead the community
+### Help lead the community
 
-The Nordic-RSE asssociation is represented through the board. The board handles necessary
-official actions, paperwork and budgeting. 
+The Nordic-RSE association is guided by a board — a small group of volunteers who help keep things running smoothly. They take care of the essentials like budgeting, paperwork, and making sure the association stays on track.
 
-The board of the association meets when required (roughly twice a year). 
+The board meets when needed, usually twice a year, and works to support the broader goals of the community.
 
-## Association meeting (yearly)
+Once a year, all members of Nordic-RSE are invited to the annual meeting. It’s a chance to reflect on the past year, look ahead, and make decisions together. During the meeting, the board and other officials are elected, and the membership fee is set. If other topics are on the agenda, they’ll be shared in the invitation.
 
-%Once every year all members of the Nordic-RSE association are invited to the
-annual meeting. The annual meeting chooses the board and other officials, and
-decides the annual membership fee. The annual meeting may also decide other
-matters, but these will be introduced in the invitation.
-
+If you're curious about how things work behind the scenes or want to help shape the future of Nordic-RSE, you're warmly welcome to get involved. Whether you can offer a few minutes or a longer commitment, every contribution counts.
