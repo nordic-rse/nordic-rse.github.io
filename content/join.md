@@ -18,7 +18,7 @@ Sign up to our [mailing list](https://forms.gle/paPBnvsw5GAXUzBN6) to receive in
 
 ##### Connect to the community
 
-Our Zulip chat space, shared with our friends at [CodeRefinery](https://coderefinery.org/), is the heart of our community. It’s a low-barrier, welcoming place to connect, ask questions, and exchange ideas. By signing up (free and easy with a valid email address), you can:
+Our [Zulip chat](https://coderefinery.zulipchat.com/), shared with our friends at [CodeRefinery](https://coderefinery.org/), is the heart of our community. It’s a low-barrier, welcoming place to connect, ask questions, and exchange ideas. By signing up (free and easy with a valid email address), you can:
 
 - **Follow** what’s happening in the Nordic RSE community
 - **Join event planning** and discussions
@@ -26,7 +26,7 @@ Our Zulip chat space, shared with our friends at [CodeRefinery](https://coderefi
 - Post or find **job opportunities**
 - Enjoy occasional fun and informal exchanges
 
-You’ll find us in the #nordic-rse channel on the https://coderefinery.org/chat/.
+You’ll find us in the #nordic-rse channel on <https://coderefinery.zulipchat.com/>.
 
 If you're new to Zulip, check out [our Zulip manual](https://coderefinery.github.io/manuals/chat/) to get started. 
 
