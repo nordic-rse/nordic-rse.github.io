@@ -26,13 +26,12 @@ such a group or would like to be added here, please contact us.
 
 <div id="mapid" style="width: 100%; height: 500px;"></div>
 
-### How to get added
+### Add yourself to the map
 
 You can add yourself or your group to this map by sending a pull request changing the
 [data file](https://github.com/nordic-rse/map/blob/main/data.yml).
 
-Who can be included?  We don't strictly define it right
-now, but welcome anyone who feels a connection to
+Who can be included?  We don't strictly define it, but welcome anyone who feels a connection to
 the research software engineering spirit.  You don't
 have to have an "RSE" job title, or even be recognized
 for your software expertise, but you should feel it
