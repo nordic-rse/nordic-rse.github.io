@@ -1,20 +1,22 @@
 +++
 +++
 
-# Get involved
+## Get involved
 
 Welcome to Nordic-RSE!
 
 Our community thrives through the people who take part in it - by learning, sharing, or helping it grow.
-Whether you’re here to explore or to contribute, for a few minutes or a longer commitment, your participation matters.
+Whether you’re here to explore or to contribute, for a few minutes or a longer commitment, **your participation matters**.
 
-## Enjoy and explore
+### Enjoy and explore
 
-### Stay informed about things ongoing / Keep up with community news
+Nordic-RSE is community first. You do not need to contribute to support. We offer multiple ways to enjoy and explore:
+
+##### Keep up with community news
 
 Sign up to our [mailing list](https://forms.gle/paPBnvsw5GAXUzBN6) to receive info on upcoming events and community matters.
 
-### Stay connected / join the conversation
+##### Connect to the community
 
 Our Zulip chat space, shared with our friends at [CodeRefinery](https://coderefinery.org/), is the heart of our community. It’s a low-barrier, welcoming place to connect, ask questions, and exchange ideas. By signing up (free and easy with a valid email address), you can:
 
@@ -28,7 +30,7 @@ You’ll find us in the #nordic-rse channel on the https://coderefinery.org/chat
 
 If you're new to Zulip, check out [our Zulip manual](https://coderefinery.github.io/manuals/chat/) to get started. 
 
-### Discover our events
+##### Discover our events
 
 The Nordic-RSE association organizes events to bring the community together, share knowledge, and inspire collaboration.
 
@@ -37,8 +39,7 @@ The Nordic-RSE association organizes events to bring the community together, sha
 
 Whether you're attending or helping to organize, our events are a great way to connect and contribute.
 
-
-### Drop by for a coffee chat
+##### Drop by for a coffee chat
 
 Our weekly virtual coffee break is an informal space to meet others interested in research software engineering.
 
@@ -50,11 +51,13 @@ We chat about a mix of topics, mostly RSE-related, and it’s a great way to con
 ([convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/10:00/w))
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282).
 
-<img src="/events/coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
+<img src="./coffeebreakpicture.jpg" style="width: 60%;" alt="coffee break picture"/>
 
-## Support and shape the community
+### Support and shape the community
 
-### Become a member of Nordic-RSE association
+If you like what we do and want to support the work in any capacity, consider the following options: 
+
+##### Become a member of Nordic-RSE association
 
 Joining the Nordic-RSE association is a way to support and strengthen the research software engineering community across the Nordic region.
 Your membership helps:
@@ -66,7 +69,7 @@ Your membership helps:
 
 Join the association by filling in the [membership form](https://forms.gle/bgvYgFHrVMFrccHt6) and [pay the membership fee](/about/membership-fee) to become member for one year.
 
-### Collaborate and coordinate
+##### Collaborate and coordinate
 
 Every two weeks, Nordic-RSE members and contributors meet for a community Zoom call.
 These sessions are open to anyone interested in helping shape the community’s activities.
@@ -84,7 +87,7 @@ It’s a great way to stay involved and contribute to the direction of Nordic-RS
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282)
 - [**Agenda and notes**](https://hackmd.io/@nordic-rse/biweekly)
 
-### Help lead the community
+##### Help lead the community
 
 The Nordic-RSE association is guided by a board — a small group of volunteers who take care of the essentials like budgeting, paperwork, and making sure the association stays on track.
 
