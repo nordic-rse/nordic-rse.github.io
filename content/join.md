@@ -136,7 +136,7 @@ You can pay the fee in two ways:
 
   7. You are now a full member of the Nordic Research Software Engineers ry!
 
-### Biweekly community zoom / Collaborate and coordinate
+### Collaborate and coordinate
 
 Every two weeks, Nordic-RSE members and contributors meet for a community Zoom call.
 These sessions are open to anyone interested in helping shape the community’s activities.
