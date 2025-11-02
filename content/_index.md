@@ -4,9 +4,9 @@
 ### News
 
 - One of our members [was at RSECon2025](/blog/rsecon-worldwide/) in UK and has brought back lots of motivation!
-- RSEs in Finlands capital region [met to celebrate International RSE Day](/blog/int-rse-day/) on October 9th!
+- RSEs in Finland's capital region [met to celebrate International RSE Day](/blog/int-rse-day/) on October 9th!
 - The **Nordic-RSE conference 2026** will happen in Tromsø, Norway on June 9-10 2026. More info coming soon!
-- Return to the **Conference 2025**: Our [second Nordic-RSE conference](/blog/nrse-conference-report/) happened on May 20 + 21 2025 in Gothenburg, Sweden. Thanks to everyone who participated!
+- Return of the **Conference 2025**: Our [second Nordic-RSE conference](/blog/nrse-conference-report/) happened on May 20 + 21 2025 in Gothenburg, Sweden. Thanks to everyone who participated!
 
 
 ### What is Nordic-RSE
