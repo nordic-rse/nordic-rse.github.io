@@ -39,4 +39,4 @@ You can pay the fee in two ways:
 
   6. Choose a payment method (online banking and debit card options are available) and complete the transaction.
 
-  7. You are now a full member of the Nordic Research Software Engineers ry!
+  7. You are now a full member of the Nordic Research Software Engineers!
