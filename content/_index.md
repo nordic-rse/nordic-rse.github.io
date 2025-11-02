@@ -25,7 +25,7 @@ As an association, Nordic-RSE works on promoting the careers of RSE by:
 * provide a community and professional development network for RSEs
   (**in particular supporting career development**),
 * organizing events to bring RSEs and related people together, and
-* support those who want to bring RSE services and skills to their
+* supporting those who want to bring RSE services and skills to their
   community (in other words, provide a RSE service).
 
 We are a young organization and there is plenty of room to get
