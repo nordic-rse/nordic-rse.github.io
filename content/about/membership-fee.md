@@ -10,7 +10,7 @@ You can pay the fee in two ways:
     - IBAN: BE42 9672 5549 7154
     - Message: **your name**, the words
       "membership fee" and the years the you are paying for.
-      For example "Jane Doe, membership fee 2025".
+      For example "Anna Svenson, membership fee 2025".
     - Address: Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
   - Using [wise.com](https://wise.com), adds a fee for currency conversion
 
