@@ -3,8 +3,6 @@
 
 # Paying the Membership Fee
 
-Note: you also register as a member (once), this is done [in the form found here](@/join.md).
-
 **The membership fee for the 2025 year is 10 euros, this covers the membership until the end of the year.**.
 
 You can pay the fee in two ways:
@@ -14,7 +12,7 @@ You can pay the fee in two ways:
       "membership fee" and the years the you are paying for.
       For example "Anna Svenson, membership fee 2025".
     - Address: Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
-  - Using [wise.com](https://wise.com)
+  - Using [wise.com](https://wise.com), adds a fee for currency conversion
 
 ### Using [wise.com](https://wise.com)
 
@@ -41,7 +39,4 @@ You can pay the fee in two ways:
 
   6. Choose a payment method (online banking and debit card options are available) and complete the transaction.
 
-  7. You are now a full member of the Nordic Research Software Engineers ry!
-
-
-
+  7. You are now a full member of the Nordic Research Software Engineers!

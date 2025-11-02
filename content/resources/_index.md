@@ -5,6 +5,8 @@
 
 For all categories, please send us resources you think should be added here. 
 
+You can find great reading material on RSE in general at the [Society of Research Software Engineering](https://society-rse.org/) and [The Software Sustainability Institute](https://www.software.ac.uk)!
+
 ## Articles about Nordic-RSE
 
 - <https://www.pdc.kth.se/about/pdc-news/the-nordic-research-software-engineer-initiative-1.823934>
