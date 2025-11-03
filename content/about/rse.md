@@ -39,4 +39,4 @@ questions, you are doing the work of a research software engineer:
   through software?
 
 Content of this page is derived from text originally provided courtesy of the
-[UK Research Software Engineer Association](https://rse.ac.uk).
+[Society Research Software Engineering in UK](https://society-rse.org/).

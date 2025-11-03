@@ -24,12 +24,11 @@ You can find great reading material on RSE in general at the [Society of Researc
 - Research Software Engineer Stories: <http://us-rse.org/rse-stories/>
 - Code for Thought: <https://codeforthought.buzzsprout.com/>
 
-
-## Streams
-
-- Research Software Hour: <https://researchsoftwarehour.github.io/>
-
-
 ## Youtube
 
 You can find recordings of the Nordic-RSE unconferences and our Research Software Seminar Series on our [Youtube channel](https://www.youtube.com/channel/UC8OyVrmJEuT2lrH7zXoBrhQ).
+
+
+## We are not alone!
+
+Interested in RSE, but not from the Nordics? Or want to connect to RSEs also outside of the Nordics. Check out the [list of national/multinational RSE associations](https://researchsoftware.org/assoc.html) on the webpage of the [international RSE community](https://researchsoftware.org/).
