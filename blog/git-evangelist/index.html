@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="We bring together the community of people writing and contributing to
+research software from Nordic universities, research institutes, companies and
+other organizations to share knowledge, to organize meetings, and raise
+awareness for the scientific recognition of research software.
+">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>How to be a &#x27;good&#x27; git evangelist? - Nordic-RSE</title>
+
+    <link rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+      integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+      crossorigin="anonymous">
+
+    <script src="https://kit.fontawesome.com/f030d443fe.js" crossorigin="anonymous"></script>
+
+    <!-- twitter card description -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="How to be a &#x27;good&#x27; git evangelist? - Nordic-RSE">
+    <meta name="twitter:description" content="We bring together the community of people writing and contributing to
+research software from Nordic universities, research institutes, companies and
+other organizations to share knowledge, to organize meetings, and raise
+awareness for the scientific recognition of research software.
+">
+    <meta name="twitter:site" content="@nordic_rse" />
+    <meta name="twitter:creator" content="@nordic_rse" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="How to be a &#x27;good&#x27; git evangelist? - Nordic-RSE" />
+    <meta property="og:description" content="We bring together the community of people writing and contributing to
+research software from Nordic universities, research institutes, companies and
+other organizations to share knowledge, to organize meetings, and raise
+awareness for the scientific recognition of research software.
+" />
+    <meta property="og:url" content="https://nordic-rse.org/" />
+    <meta property="og:site_name" content="Nordic-RSE" />
+
+    <!-- social media image -->
+    
+      <meta name="twitter:image" content="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NRSE_some.png">
+      <meta property="og:image" content="https://raw.githubusercontent.com/nordic-rse/nordic-rse-materials/main/graphics/www/NRSE_some.png" />
+      <meta property="og:image:width" content="876" />
+      <meta property="og:image:height" content="458" />
+    
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <link href="https://nordic-rse.org/css/style.css" rel="stylesheet">
+
+    
+    
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <!-- navigation -->
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="navbar-brand" href="https://nordic-rse.org/">
+                
+                <img src="https:&#x2F;&#x2F;nordic-rse.org&#x2F;processed_images&#x2F;NRSE_neighboring_oneline.5a84b6f72eafe84e.png" style="display: inline-block;">
+                <!-- <span style="display: inline-block;">Nordic-RSE</span> -->
+              </a>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+
+            <!-- about us-->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                About
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="https://nordic-rse.org/about/rse/">What is RSE?</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/about/governance/">Governance</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/about/code-of-conduct/">Code of Conduct</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/about/governance/contact/">Contact</a>
+              </div>
+            </li>
+
+
+            <!-- Events -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Events
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <!--  <a class="dropdown-item" href="https://researchsoftwarehour.github.io/">Research Software Hours</a>-->
+                <a class="dropdown-item" href="https://nordic-rse.org/events/">Events overview</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/events/seminar-series">Seminar series</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/events/2026-in-person-conference/">Conference</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/events/past ">Past events</a>
+                <a class="dropdown-item" href="https://nordic-rse.org/events/#calendar">Calendar</a>
+              </div>
+            </li>
+
+            <!-- Community -->
+            <li class="nav-item">
+              <a class="nav-link" href="https://nordic-rse.org/communities/">Community</a>
+            </li>
+            
+
+            <!-- Blog -->
+            <li class="nav-item">
+              <a class="nav-link" href="https://nordic-rse.org/blog/">Blog</a>
+            </li>
+
+            <!-- Resources -->
+            <li class="nav-item">
+              <a class="nav-link" href="https://nordic-rse.org/resources/">Resources</a>
+            </li>
+            
+
+            <!-- Get involved -->
+            <li class="nav-item">
+              <a class="nav-link" href="https://nordic-rse.org/join/">Get involved</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <!-- end navigation -->
+
+      <div class="row top-buffer">
+        
+  <div class="post">
+    <h1>How to be a &#x27;good&#x27; git evangelist?</h1>
+
+    Sunniva Indrehus
+    <br>
+    September 02, 2021
+
+    <div>
+      <p><strong>Text credit</strong></p>
+<p>This text is based on the notes from the community discussion <a href="https://hackmd.io/@nordic-rse/rJEwuct2O#Discussion-Git-evangelist">'How to be a
+'good' git
+evangelist?'</a>
+which took place during the online <em><a href="https://nordic-rse.org/events/2021-online-unconference/">Unconference
+event</a></em> of the Nordic
+RSE community on the 29th of June 2021.</p>
+<h2 id="the-modern-scientist-s-toolbox">The modern scientist's toolbox</h2>
+<p>Basic usage and skills of computational knowledge are becoming more and more
+important in academic fields. Both the biologist, physicist, psychologist, and
+the economist are expected, to some kind of extent, to know how to use and
+write small scripts to accompany their scientific arguments. To do this in a
+successful way 'good' scientific software is needed.</p>
+<img src="/blog/computational-science.png" style="width: 400px;" alt="A definition of computational science"/>
+<p><em>A definition of computational science. <a href="https://computingstudy.wordpress.com/scientific-computing">Figure credit</a></em>.</p>
+<p>'Good' scientific software does not have one clear definition. Dependent on the
+discipline and field you will get different answers. Some main points that most
+users/developers of scientific codes would agree upon are that 'good scientific
+software' is something that is:</p>
+<ul>
+<li>working</li>
+<li>standardized</li>
+<li>understandable</li>
+<li>reproducible</li>
+<li>maintainable</li>
+</ul>
+<img src="/blog/wtfs.png" style="width: 400px;" alt="One way to measure code quality"/>
+<p><em>One way to measure code quality.</em> <a href="https://commadot.com/wtf-per-minute/">Figure credit</a>.</p>
+<p>To help the user/developer accomplish 'good' scientific software there exist
+several modern tools. Some of these are:</p>
+<ul>
+<li>version control systems (VCS)s</li>
+<li>documentation (in code, <a href="https://readthedocs.org/">Read the Docs</a>, examples, etc.)</li>
+<li>modern editors</li>
+<li>proper debugging tools</li>
+<li>containers</li>
+</ul>
+<p>All of them are important in the modern scientist's toolkit but seen from the
+RSE perspective the deployment and usage of VCSs are often not taken advantage
+of in scientific domains where coding and software itself is not the
+deliverable.</p>
+<p>This text aims a giving you some techniques or arguments you could use to
+convince your team that it is time to invest in learning to use version
+control. We also explore some of the broad tasks that can be more easily
+accomplished with the usage of modern VCSs and make the daily life of the
+modern scientist easier.</p>
+<h3 id="how-can-scientists-be-motivated-to-learn-to-use-version-control">How can scientists be motivated to learn to use version control?</h3>
+<p>According to <a href="https://en.wikipedia.org/wiki/Version_control">Wikipedia</a>, the
+first deliberate revision control system was published in 1975. Modern version
+control is most popularly used for tracking changes in a codebase over time.
+For this reason, there is also reason to think that this is the only type of
+task which is relevant to use VCS for.</p>
+<p><em>How can scientists be motivated to learn to use version control?</em></p>
+<ul>
+<li>
+<p><em>Ability to use advanced regret button.</em> The first introduction to version
+control on a computer is done by pressing <em>ctrl+z</em> in a gmail or office
+document. When writing or collaborating on a longer text, <a href="https://www.youtube.com/watch?v=CvbLVVRzJF8">the nightmare
+before version control</a> or
+having folders with documents like
+<em>version_final_x_modified_PI_comments.docx</em>, x=[1, 2, ...] quickly becomes a
+mess.</p>
+</li>
+<li>
+<p><em>Automatic backups.</em> Remembering to take a backup of your work in progress
+and keep safe copies is an extremely good idea if your computer crashes,
+dies, or gets stolen. To complete a typical master thesis in a modern
+university will contain some kind of scripts used to construct a lot of
+figures and plots made by changing or commenting in and out some lines of
+code. If properly explained and introduced, VCSs can be used to track these
+changes so one <strong>never</strong> needs to wonder about which configuration that made
+that figure. You can keep track of changes in a document, for instance, TeX,
+logging your daily work, and collaborating with your colleagues.</p>
+</li>
+<li>
+<p><em>Better platform for collaboration.</em> The moment the coding work is shared
+with colleagues there is a need for a platform for sharing files and scripts.
+Sending zip-files over mail is not a modern or ideal way of sharing code.</p>
+</li>
+<li>
+<p><em>The experimental analog:</em> If you were doing a scientific experiment, would
+you ever trust your instruments if they were not calibrated? To have a
+successful experiment you will need the right tool for the right job. When
+touching something data scienceish on a computer, settings for versioning is
+essential for reproducibility.</p>
+</li>
+<li>
+<p><em>You will probably need it later to be taken seriously.</em> Most of the students
+taking a master or PhD today will not stay in Academia. If one decides to
+join the industry or another part of the <em>real world</em>, academic programmers
+are not known for good quality on their <a href="https://lemire.me/blog/2012/06/18/on-the-quality-of-academic-software/">academic
+software</a>
+or <a href="https://techblog.bozho.net/the-astonishingly-low-quality-of-scientific-code/">scientific
+code</a>.
+To be taken seriously as a software engineer or data scientist the use of VCS
+is a critical tool.</p>
+</li>
+<li>
+<p><em>A way to track unforeseen consequences.</em> If something is changed somewhere in
+a code base/script it can have unforeseen effects in other parts of a project.
+Without VCS it is difficult to know when we have introduced such problems or
+solutions. In research projects these changes are usually something we need
+to know since the changes affect our thinking and conclusions which again
+can/will affect other research projects. It's not good enough to say &quot;well it
+got fixed at some point. let's just be happy that it is correct now&quot;</p>
+</li>
+<li>
+<p><em>A way to track unforeseen consequences.</em> If something is changed somewhere
+in a codebase/script it can have unforeseen effects on other parts of a
+project. Without VCS it is difficult to know when we have introduced such
+problems or solutions. In research projects, these changes are usually
+something we need to know since the changes affect our thinking and
+conclusions which again can/will affect other research projects. It’s not
+good enough to say “well, it got fixed at some point. let’s just be happy
+that it is correct now”.</p>
+</li>
+</ul>
+<h3 id="how-can-we-be-good-git-ambassadors-in-our-communities">How can we be 'good' git ambassadors in our communities?</h3>
+<p>In the days before markdown and sleek web interfaces version control was a tool
+for the dedicated developer. Today, there exists a broad range of modern
+graphical user interfaces that simplify the mysteries of <em>branches</em> and
+<em>merge</em>. Convincing people that the time invested in learning to use these
+modern tools will pay off is a big part of the RSE job.</p>
+<p><em>How can we be 'good' git ambassadors in our communities?</em></p>
+<ul>
+<li>
+<p><em>Enforce the use of technical solutions.</em> If someone asks you for help you
+could provide the solution via GitHub/GitLab/Bitbucket/etc. Embracing one of
+the nice and modern web interfaces like Github can take away a lot of the
+complexity for beginners. Remember that you might need to provide some
+assistance with how to use the platform.</p>
+</li>
+<li>
+<p><em>Promote workshops.</em> Share workshops like
+<a href="https://coderefinery.org/workshops/upcoming/">Coderefinery</a> and <a href="https://software-carpentry.org/workshops/">Software
+Carpentry</a> with students and
+colleagues can lower the bar to get people to start using VCSs.</p>
+</li>
+<li>
+<p><em>Use (positive) social control.</em> Among same or similar level researchers and
+RSEs it is easier to make suggestions like starting to use git. Even in the
+fields where the researchers do not develop their own code, but only use
+software written by others, there is a potential to use VCSs to simplify
+their daily work. One could use VCS to track the different kinds of
+<em>experiments</em> conducted when they run code. Changing one parameter, changing
+to another parameter, etc.</p>
+</li>
+<li>
+<p><em>VCS helps the reproducibility of research.</em> There are starting to come
+requirements from journals and conferences on the
+<a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf">reproducibility</a>
+of code used in scientific settings. By enforcing good standards as early as
+possible one are sure to be good enough when this is actually needed.</p>
+</li>
+<li>
+<p><em>Convince the authorities.</em> As an individual alone, it can be very hard to
+convince colleagues to understand why they should invest in learning version
+control. With the authorities are <em>onboard</em> you can make your life easier.
+Younger individuals in academia (young post-docs, PhD and master students)
+are easier to convince than the older generation (permanent staff like
+researchers and professors).</p>
+</li>
+<li>
+<p><em>Make it a requirement in research grants.</em> In our modern scientific world, a
+common task differentiation is to give the programming job and the details to
+the youngsters let the older generation handle the overall picture and
+long-term planning. As a result, there is still quite common in academia that
+people working with code today do not use VCS because their supervisors did
+not use it in their work and they are not encouraged to invest their time to
+learn how to use this tool. If the principal investigators for research
+grants can be convinced to <em>require</em> researchers to work a particular way, it
+can be very effective to tip the standards in a good direction.</p>
+</li>
+<li>
+<p><em>Make it a required skill for individuals.</em> Include experience, or the
+willingness to learn, VCSs a requirement when hiring new people in the group.</p>
+</li>
+</ul>
+<h3 id="when-should-we-learn-to-use-vcs">When should we learn to use VCS?</h3>
+<p>From an RSEs perspective version control could easily be introduced right after
+the first code line successfully prints <code>hello world</code>, but it is not <em>useless</em>
+to learn at any other point.</p>
+<p><em>When should we learn to use VCS?</em></p>
+<ul>
+<li>
+<p><em>From the beginning.</em>  Most students will start their programming career by
+writing small scripts or completing examples. By introducing VCS at the same
+time the complexity of the usage can grow with the learner's needs.</p>
+</li>
+<li>
+<p><em>Wait until needed in daily work.</em> It is hard to imagine an effective and
+successful code collaboration between more than one person without having
+some rules for contributions etc. Waiting until one sees the need for the
+tool can also be a good strategy. Maybe not all projects need to use a VCS,
+but at the point where one starts to collaborate with other people, VCS is
+extremely useful.</p>
+</li>
+</ul>
+<h3 id="how-and-who-should-teach-vcs-best-practices">How and who should teach VCS best practices?</h3>
+<p>There are workflows that are considered as standards and certain <em>forbidden</em>  commands one should not use when working with VCSs.</p>
+<p><em>How and who should teach VCS best practices?</em></p>
+<img src="/blog/typical-git-usage.png" style="width: 300px;" alt="Typical git usage in a nutshell"/>
+<p><em>Typical git usage in a nutshell? <a href="https://xkcd.com/1597/">Figure credit</a></em>.</p>
+<ul>
+<li>
+<p><em>Include VCS in university courses</em> VSC or Git can quite easily be included
+as a smaller part of a Python course + Git as a part of a <em>scientific
+software development practice</em> course. Based on experience it is important to
+make the learners repeat what they have learned in other settings where they
+can continue to use the tool for their own needs. University courses that
+have coding exercises could choose to use a collaborative platform where the
+students can clone repositories and submit answers. The learners would then
+start to use version control in a setting where it can not be questioned. For
+students at the PhD-level, there are usually a certain amount of credits that
+must be taken. By integrating git in the curriculum all students will hear
+about git at one point.</p>
+</li>
+<li>
+<p><em>Volunteer learning initiatives.</em> Workshops and courses hosted by
+organizations like
+<a href="https://coderefinery.org/workshops/upcoming/">Coderefinery</a> and <a href="https://software-carpentry.org/workshops/">Software
+Carpentry</a> are great examples of
+settings where learners in communities without RSEs or technical competence
+in VCS could get hands-on experience and start working. If you have the
+capacity to give a hand, like being a
+<a href="https://coderefinery.org/get-involved/#become-a-workshop-helper">helper</a>,
+host or instructor, you can</p>
+</li>
+</ul>
+<h2 id="summary">Summary</h2>
+<p>If you are an RSE preaching git to colleagues you can try to use <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510"><em>'good
+enough' practices for scientific
+computing</em></a>.
+Remember that every scientist does not need to master all aspects of VCS to
+make use of it in their daily work.</p>
+<img src="/blog/preaching.jpg" style="width: 300px;" alt="Preaching scientific software"/>
+<p><em>In the RSE church, it is effective to preach 'good enough' scientific software.
+Figure credit: Michele Rosenthal</em>.</p>
+
+    </div>
+  </div>
+
+      </div>
+
+      <footer>
+        <div class="row top-buffer">
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-md-4">
+          </div>
+          <div class="col-md-4">
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+              <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" />
+            </a>
+            <br/>This work is licensed under a
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International License
+            </a>.
+	    <a href="/about/governance/privacy/">Privacy Policy
+	    </a>.
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    
+    
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+            integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js@4.2.2/anchor.min.js"
+            integrity="sha256-E4RlfxwyJVmkkk0szw7LYJxuPlp6evtPSBDlWHsYYL8="
+            crossorigin="anonymous"></script>
+
+    <script>
+      anchors.add();
+
+      // https://github.com/twbs/bootstrap/issues/1768#issuecomment-6531466
+      var shiftWindow = function() { scrollBy(0, -100) };
+      if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);
+    </script>
+
+  </body>
+</html>
