@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://nordic-rse.org/previews/PR507/sitemap.xml
