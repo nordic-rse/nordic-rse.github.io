@@ -41,7 +41,7 @@ and supporting DNA nanotechnology platforms. Others built practical automation�
 hyperparameter search routines, and plotting tools for complex statistical outputs. Some created large-scale research software, such as pharmacokinetic simulators, 
 protein-modelling toolkits, molecular-dynamics workflows, and systems for running PyTorch on supercomputers. A few mentioned niche or personal favourites, 
 from RPN calculators and regulatory-genesis analysis tools to code that plays YouTube channels or helps explore electrons and atoms — 
-all illustrating how “useful” can mean anything from powering major research to simplifying everyday tasks.
+all illustrating how *useful* can mean anything from powering major research to simplifying everyday tasks.
 
 ### RSE Olympics would be fun!
 
