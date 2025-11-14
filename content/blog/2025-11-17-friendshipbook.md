@@ -1,7 +1,7 @@
 +++
 title = "Nordic-RSE friendship book"
 [extra]
-author = "Samantha Wittke" 
+author = "Samantha Wittke"
 +++
 
 At the Nordic-RSE conference 2025 we asked participants to fill out a Nordic-RSE friendship book page. 
