@@ -1,8 +1,8 @@
-+++ title = "Nordic-RSE friendship book"
-
++++
+title = "Nordic-RSE friendship book"
 [extra]
-
-author = "Samantha Wittke" +++
+author = "Samantha Wittke" 
++++
 
 At the Nordic-RSE conference 2025 we asked participants to fill out a Nordic-RSE friendship book page. 
 About 20 people submitted their page to create this overview of the community, 
