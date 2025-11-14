@@ -20,7 +20,7 @@ including their wishes and greatest achievements. This is a summary of what they
 - XX Specialist / Expert.
 
 They often **like to code** in Python, but you may also find them using R, C, Julia, HTML/JavaScript, JS, Rust, STAN, Mojo, Bash, Groovy, Haskell,
-Fortran, C++, and Olaml or "whatever gets the job done". 
+Fortran, C++, and OCaml or "whatever gets the job done". 
 
 Here are some highlights of peoples **git commit message of their current career stage**: 
 
