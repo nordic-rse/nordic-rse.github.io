@@ -29,13 +29,14 @@ the dull day-to-day affairs and, for now, function as the code of conduct
 committee.
 
 The current board members are
- - Matteo Tomasini (University of Gothenburg, matteo.tomasini@lir.gu.se)
- - Jarno Rantaharju (Aalto University, jarno.rantaharju@aalto.fi)
- - Samantha Wittke (CSC- IT Center for Science)
- - Luca Ferranti (University of Vaasa)
+ - Samantha Wittke (Chair; CSC- IT Center for Science)
  - Radovan Bast (The Arctic university of Norway, Tromsø)
- - Rainer Bohm (Aalborg University)
- - Ruslan Zhuravchak (Norwegian University of Science and Technology)
+ - Gregor Decristoforo (The Arctic university in Norway, Tromsø)
+ - Luca Ferranti (Aalto University)
+ - Hemanadhan Myneni (University of Iceland)
+ - Jarno Rantaharju (Aalto University, jarno.rantaharju@aalto.fi)
+ - Matteo Tomasini (University of Gothenburg, matteo.tomasini@lir.gu.se) 
+
 
 ## Statutes
 
