@@ -3,6 +3,7 @@
 
 ### News
 
+- On March 12th 2026, during our annual meeting, we elected a new board! See our [Governance](/about/governance/) page for the new composition. Good luck to the new board for the new year! 
 - The [**Nordic-RSE conference 2026**](https://nordic-rse.org/nrse2026/) will happen in **Tromsø**, Norway on June 9-10 2026!
 - One of our members [was at RSECon2025](/blog/rsecon-worldwide/) in UK and has brought back lots of motivation!
 - RSEs in Finland's capital region [met to celebrate International RSE Day](/blog/int-rse-day/) on October 9th!
