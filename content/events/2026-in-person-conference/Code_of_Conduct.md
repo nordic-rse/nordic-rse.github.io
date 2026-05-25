@@ -112,7 +112,7 @@ duration of the event. We value your attendance.
 
 ### Contact Information
 
-**In an emergency:** Call **112** (Police) or **113** (Ambulance).
+**In an emergency:** Call **112** (Police), **113** (Ambulance) or **110** (Fire Department).
 
 Organizers: secretary@nordic-rse.org
 Venue help line: Binod Baniya (+47 46578763)
