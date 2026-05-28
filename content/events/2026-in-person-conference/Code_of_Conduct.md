@@ -96,6 +96,7 @@ You can make a personal report by:
  * Contacting any member of the Code of Conduct committee
     * Julia Mikhailova: julia.mikhailova@uit.no, +47 46433303
     * Binod Baniya: binod.baniya@uit.no, +47 46578763
+    * ‎Åshild Strømmesen: ashild.strommesen@uit.no, +47 77644601 (Independent external contact — not affiliated with the conference or NRSE, but located on-site in the venue building)
  * Contacting any conference organizer
  * Contacting any member of the [Nordic-RSE board](/about/governance/)
 
