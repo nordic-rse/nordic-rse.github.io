@@ -3,11 +3,9 @@
 
 ### News
 
+- Save the date: The next Nordic-RSE conference will happen June 15 + 16 2027 in Tartu, Estonia 
 - The [**Nordic-RSE conference 2026**](https://nordic-rse.org/nrse2026/) happened in **Tromsø**, Norway on June 9-10 2026!
 - On March 12th 2026, during our annual meeting, we elected a new board! See our [Governance](/about/governance/) page for the new composition. Good luck to the new board for the new year! 
-- One of our members [was at RSECon2025](/blog/rsecon-worldwide/) in UK and has brought back lots of motivation!
-- RSEs in Finland's capital region [met to celebrate International RSE Day](/blog/int-rse-day/) on October 9th!
-- Return of the **Conference 2025**: Our [second Nordic-RSE conference](/blog/nrse-conference-report/) happened on May 20 + 21 2025 in Gothenburg, Sweden. Thanks to everyone who participated!
 
 
 ### What is Nordic-RSE
