@@ -21,5 +21,5 @@ alert-secondary — gray, neutral note
 
 ---
 
-<img src="/blog/int_RSE_day25.png" style="width: 400px;" alt="Descriptive alt text of the image"/>
+<img src="/blog/img/int_RSE_day25.png" style="width: 400px;" alt="Descriptive alt text of the image"/>
 
