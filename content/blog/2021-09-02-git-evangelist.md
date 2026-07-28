@@ -24,7 +24,7 @@ the economist are expected, to some kind of extent, to know how to use and
 write small scripts to accompany their scientific arguments. To do this in a
 successful way 'good' scientific software is needed.
 
-<img src="/blog/computational-science.png" style="width: 400px;" alt="A definition of computational science"/>
+<img src="/blog/img/computational-science.png" style="width: 400px;" alt="A definition of computational science"/>
 
 *A definition of computational science. [Figure credit](https://computingstudy.wordpress.com/scientific-computing)*.
 
@@ -38,7 +38,7 @@ software' is something that is:
 * reproducible
 * maintainable
 
-<img src="/blog/wtfs.png" style="width: 400px;" alt="One way to measure code quality"/>
+<img src="/blog/img/wtfs.png" style="width: 400px;" alt="One way to measure code quality"/>
 
 *One way to measure code quality.* [Figure credit](https://commadot.com/wtf-per-minute/).
 
@@ -210,7 +210,7 @@ There are workflows that are considered as standards and certain *forbidden*  co
 
 *How and who should teach VCS best practices?*
 
-<img src="/blog/typical-git-usage.png" style="width: 300px;" alt="Typical git usage in a nutshell"/>
+<img src="/blog/img/typical-git-usage.png" style="width: 300px;" alt="Typical git usage in a nutshell"/>
 
 *Typical git usage in a nutshell? [Figure credit](https://xkcd.com/1597/)*.
 
@@ -245,7 +245,7 @@ computing*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pc
 Remember that every scientist does not need to master all aspects of VCS to
 make use of it in their daily work.
 
-<img src="/blog/preaching.jpg" style="width: 300px;" alt="Preaching scientific software"/>
+<img src="/blog/img/preaching.jpg" style="width: 300px;" alt="Preaching scientific software"/>
 
 *In the RSE church, it is effective to preach 'good enough' scientific software.
 Figure credit: Michele Rosenthal*.
