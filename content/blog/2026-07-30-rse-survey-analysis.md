@@ -7,19 +7,6 @@ title = "Nordic RSEs: satisfied, skilled and in demand but looking for clearer c
 author = "Florence Bockting, Samantha Wittke"
 +++
 
-<!--
-Alert template for later reuse:
-
-<div class="alert alert-info" role="alert">
-  Text here
-</div>
-
-Options:
-alert-warning — amber, for caveats/warnings
-alert-danger — red, for critical notes
-alert-success — green, for tips/highlights
-alert-secondary — gray, neutral note
--->
 
 ## Insights from the International RSE Survey 2026
 
@@ -240,9 +227,9 @@ Project resilience appears to be a concern. **58.9%** said their current project
   <p><strong>Key finding:</strong> Many projects depend on a small number of knowledgeable developers, and relatively few have succession or departure plans in place.</p>
 </div>
 
-## What respondents want from a Nordic-RSE institute
+## What respondents want from a potential future Nordic-RSE institute
 
-Respondents were also asked how Nordic-RSE could support community engagement and knowledge transfer. The most common answer was organising conferences, workshops, and similar events, selected by **86.7%**. 
+Respondents were also asked how a potential future Nordic-RSE institute could support community engagement and knowledge transfer. The most common answer was organising conferences, workshops, and similar events, selected by **86.7%**. 
 
 When asked what tasks a Nordic-RSE institute should take on, respondents most often selected advocacy for research software towards politicians and decision makers (**71.7%**), community engagement and training (**70.0%**), and promotion of RSE career paths (**70.0%**).
 
