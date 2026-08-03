@@ -1,7 +1,7 @@
 +++
 title = "Welcome to Nordic-RSE!"
 description = "Nordic-RSE – how you can join"
-template = "section-with-toc.html"
+template = "seminar-series.html"
 
 +++
 
