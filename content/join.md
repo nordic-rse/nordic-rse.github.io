@@ -1,9 +1,11 @@
 +++
+title = "Welcome to Nordic-RSE!"
+description = "Nordic-RSE – how you can join"
+template = "section-with-toc.html"
+
 +++
 
 ## Get involved
-
-Welcome to Nordic-RSE!
 
 Our community thrives through the people who take part in it - by learning, sharing, or helping it grow.
 Whether you’re here to explore or to contribute, for a few minutes or a longer commitment, **your participation matters**.
