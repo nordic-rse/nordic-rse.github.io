@@ -5,7 +5,7 @@
 
 ## Conference
 
-The fourth Nordic-RSE conference will take place in ** Tartu, Estonia on June 15-16 2027**.
+The fourth Nordic-RSE conference will take place in **Tartu, Estonia on June 15-16 2027**.
 
 
 Past conferences:
