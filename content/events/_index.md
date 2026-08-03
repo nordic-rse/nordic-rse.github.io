@@ -5,10 +5,11 @@
 
 ## Conference
 
-The [third Nordic-RSE in person conference](https://nordic-rse.org/nrse2026/) will take place in **Tromsø, Norway on June 9-10 2026**. 
-Blog post coming soon!
+The fourth Nordic-RSE conference will take place in ** Tartu, Estonia on June 15-16 2027**.
+
 
 Past conferences:
+ - The [third Nordic-RSE in person conference](https://nordic-rse.org/nrse2026/) took place in **Tromsø, Norway on June 9-10 2026**. 
 
  - The [Nordic-RSE in person conference 2025](https://nordic-rse.org/nrse2025/) happened May 20 + 21 2025 in Gothenburg, Sweden! 
    We summarized the event in a [conference blogpost](https://nordic-rse.org/blog/nrse-conference-report/).
