@@ -2,7 +2,7 @@
 +++
 
 ### News
-
+- It's International RSE Day! [Join in our celebrations](/blog/intl-rse-day))!
 - Results from the international RSE survey 2026 are in, read about the situation of RSE in the Nordics in our new [survey blogpost](/blog/rse-survey-analysis/)!
 - Save the date: The next Nordic-RSE conference will happen June 15 + 16 2027 in Tartu, Estonia 
 - The [**Nordic-RSE conference 2026**](https://nordic-rse.org/nrse2026/) happened in **Tromsø**, Norway on June 9-10 2026!

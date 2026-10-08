@@ -17,6 +17,9 @@ Past conferences:
  - The first [Nordic-RSE in person conference 2024](/events/2024-in-person-conference/) happened May 30-31, 2024 in Espoo, Finland! 
    We summarized the event in a [conference blogpost](https://nordic-rse.org/blog/nrse-conference/).
 
+## Coffee break
+
+Every Thursday at 09:00 CE(S)T / 10:00 CE(S)T we meet informally on Zoom for a cup of our favourite beverage. More details on how to join on the [calendar](https://nordic-rse.org/events/#calendar) or by joining Nordic-RSE [on Zulip](https://nordic-rse.org/join/).
 
 ## Research Software Seminar Series
 
