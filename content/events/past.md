@@ -3,8 +3,9 @@
 
 # Past Events
 
-- [Nordic-RSE 2025 Conference, May 20 + 21](/events/2025-in-person-conference/)
-- [Nordic-RSE 2024 Conference, May 30-31](/events/2024-in-person-conference/)
+- [Nordic-RSE 2026 Conference, 9–10 June 2026](https://nordic-rse.org/nrse2026/) — Tromsø, Norway.
+- [Nordic-RSE 2025 Conference, 20–21 May 2025](https://nordic-rse.org/nrse2025/) — Gothenburg, Sweden. [Conference report](/blog/nrse-conference-report/).
+- [Nordic-RSE 2024 Conference, 30–31 May 2024](/events/2024-in-person-conference/) — Espoo, Finland. [Conference report](/blog/nrse-conference/).
 - [Nordic-RSE 2023 Unconference, October 25-26](/events/2023-online-unconference/)
 - [Finnish RSE meetup May 30, 2023](/blog/2023-06-12-First_Finnish_RSE_meetup/)
 - [Nordic-RSE 2022 Unconference, October 18-19](/events/2022-online-unconference/)
