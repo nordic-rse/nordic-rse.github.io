@@ -13,8 +13,8 @@ author = "Samantha Wittke"
 
 On October 8th, we celebrated International Research Software Engineering (RSE) Day with around 
 30 RSE enthusiasts from across the Finnish capital region.
-While we were able to offer a free lunch only last year, this year we doubled the number of participants 
-and many attendees brought along colleagues and friends. 
+This year we had double the number of participants from last year, with many attendees bringing along colleagues and friends.
+Sadly, everybody had to pay for their own lunch this year, but that did seem to make it easier for people to join who do not regularly hanging out on the coderefinery zulip. 
 The gathering provided a valuable opportunity to connect with people in similar roles across universities, 
 research organizations, and research infrastructure providers. Some participants met again after previous events, 
 while others connected for the very first time.
