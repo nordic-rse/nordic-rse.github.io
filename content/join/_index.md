@@ -74,7 +74,7 @@ Join the association by filling in the [membership form](https://forms.gle/bgvYg
 
 ##### Collaborate and coordinate
 
-Every two weeks, Nordic-RSE members and contributors meet for a community Zoom call.
+Nordic-RSE members and contributors meet for a community Zoom call every first Thursday of the month.
 These sessions are open to anyone interested in helping shape the community’s activities.
 Whether you can contribute a few minutes or a few days, your time and input are always welcome.
 
@@ -88,7 +88,7 @@ It’s a great way to stay involved and contribute to the direction of Nordic-RS
 
 - **When**: every second Thursday (starting 2025-08-21) at 13:00 Europe/Stockholm (CE(S)T; [convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/14:00/w))
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282)
-- [**Agenda and notes**](https://hackmd.io/@nordic-rse/biweekly)
+- [**Agenda and notes**](https://hackmd.io/@nordic-rse/meetings)
 
 ##### Help lead the community
 
