@@ -86,7 +86,7 @@ The purpose of the call is to:
 
 It’s a great way to stay involved and contribute to the direction of Nordic-RSE, whether you’re organizing, supporting, or just curious. 
 
-- **When**: every second Thursday (starting 2025-08-21) at 13:00 Europe/Stockholm (CE(S)T; [convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/14:00/w))
+- **When**: First Thursday of each month at 13:00 Europe/Stockholm (CE(S)T; [convert to your time zone](https://arewemeetingyet.com/Helsinki/2021-09-02/14:00/w))
 - **Where**: [Zoom link](https://aalto.zoom.us/j/62426845282) (Zoom ID 624 2684 5282)
 - [**Agenda and notes**](https://hackmd.io/@nordic-rse/meetings)
 
