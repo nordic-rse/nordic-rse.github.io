@@ -3,7 +3,7 @@
 
 # Paying the Membership Fee
 
-**The membership fee for the 2025 year is 10 euros, this covers the membership until the end of the year.**.
+**The current membership fee is 10 euros, this covers the membership until the end of the current year.**.
 
 You can pay the fee in two ways:
   - By a **SEPA transfer** to "Nordic Research Software Engineers ry"
