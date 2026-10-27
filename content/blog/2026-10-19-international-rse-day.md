@@ -6,9 +6,7 @@ title = "Celebrating International RSE Day in Finland"
 author = "Samantha Wittke"
 +++
 
-```
 <img src="/blog/img/rse-fi-lunch.jpg" style="width: 400px;" alt="Picture of the RSE group at lunch."/>
-```
 
 
 On October 8th, we celebrated International Research Software Engineering (RSE) Day with around 
