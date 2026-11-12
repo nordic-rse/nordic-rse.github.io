@@ -23,6 +23,13 @@ Past conferences:
 
 Every Thursday at 09:00 CE(S)T / 10:00 CE(S)T we meet informally on Zoom for a cup of our favourite beverage. More details on how to join on the [calendar](https://nordic-rse.org/events/#calendar) or by joining Nordic-RSE [on Zulip](https://nordic-rse.org/join/).
 
+
+## Community Meetings
+
+Nordic-RSE members and contributors meet for a community Zoom call on the first Thursday of each month
+at 13:00 CE(S)T to shape the community's activities. See the our [join the community](https://nordic-rse.org/join/#collaborate-and-coordinate) page for more details.
+
+
 ## Research Software Seminar Series
 
 The seminar series is currently on break. find previous talks on our [seminar series page](/events/seminar-series).

@@ -247,6 +247,6 @@ We would love to hear what you think. Please take a moment and share your though
 
 ## What's next
 
-These findings will directly shape how we, together with you at Nordic-RSE develop our activities and priorities going forward. We'll follow up with a separate post on the concrete steps we're taking in response.  We will also link to resources on where to find training, networking and career that already exist for RSEs in the Nordics today. If you would like to get involved, come to one of our coffee breaks or biweekly meetings: <https://nordic-rse.org/join/>
+These findings will directly shape how we, together with you at Nordic-RSE develop our activities and priorities going forward. We'll follow up with a separate post on the concrete steps we're taking in response.  We will also link to resources on where to find training, networking and career that already exist for RSEs in the Nordics today. If you would like to get involved, come to one of our coffee breaks or community meetings: <https://nordic-rse.org/join/>
 
 
